@@ -4,11 +4,11 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
+ssh_user       = "bascht@bcom"
 ssh_port       = "22"
-document_root  = "~/website.com/"
-rsync_delete   = true
+document_root  = "~/bascht.com/"
 deploy_default = "rsync"
+rsync_delete   = true
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
