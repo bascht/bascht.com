@@ -10,6 +10,8 @@ document_root  = "/var/www/bascht.com/"
 rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
+rsync_delete   = true
+rsync_args     = ""  # Any extra arguments to pass to rsync
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
