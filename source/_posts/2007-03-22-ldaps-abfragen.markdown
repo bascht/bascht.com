@@ -5,6 +5,7 @@ layout: post
 slug: ldaps-abfragen
 status: publish
 title: LDAP's abfragen...
+comments: true
 wordpress_id: '63'
 ? ''
 : - C#

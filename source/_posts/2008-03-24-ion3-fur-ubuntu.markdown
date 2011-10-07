@@ -5,6 +5,7 @@ layout: post
 slug: ion3-fur-ubuntu
 status: publish
 title: Ion3 für Ubuntu
+comments: true
 wordpress_id: '336'
 ? ''
 : - computer

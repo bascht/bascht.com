@@ -5,6 +5,7 @@ layout: post
 slug: was-man-halt-so-macht
 status: publish
 title: Was man halt so macht...
+comments: true
 wordpress_id: '156'
 ? ''
 : - computer

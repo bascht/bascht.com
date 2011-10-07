@@ -5,6 +5,7 @@ layout: post
 slug: wenzel-himmelfahrt
 status: publish
 title: Wenzel - Himmelfahrt
+comments: true
 wordpress_id: '24'
 ? ''
 : - musik

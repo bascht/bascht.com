@@ -5,6 +5,7 @@ layout: post
 slug: back-from-stock
 status: publish
 title: Back from Stock
+comments: true
 wordpress_id: '214'
 ? ''
 : - freakstock

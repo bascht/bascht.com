@@ -5,6 +5,7 @@ layout: post
 slug: betriebssystemschizophrenie
 status: publish
 title: Betriebssystemschizophrenie
+comments: true
 wordpress_id: '447'
 ? ''
 : - betriebssysteme

@@ -5,6 +5,7 @@ layout: post
 slug: i-did-this-to-myself
 status: publish
 title: I did this to myself...
+comments: true
 wordpress_id: '259'
 ? ''
 : - hardcore

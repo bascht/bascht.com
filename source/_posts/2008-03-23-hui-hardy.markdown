@@ -5,6 +5,7 @@ layout: post
 slug: hui-hardy
 status: publish
 title: Hui, Hardy
+comments: true
 wordpress_id: '334'
 ? ''
 : - linux

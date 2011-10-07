@@ -5,6 +5,7 @@ layout: post
 slug: ol-ins-feuer
 status: publish
 title: Öl ins Feuer
+comments: true
 wordpress_id: '187'
 ? ''
 : - apple

@@ -5,6 +5,7 @@ layout: post
 slug: wochenende
 status: publish
 title: WochenENDE
+comments: true
 wordpress_id: '561'
 ? ''
 : - Uncategorized

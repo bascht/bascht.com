@@ -5,6 +5,7 @@ layout: post
 slug: mal-was-ohne-viele-worte
 status: publish
 title: Mal was ohne viele Worte
+comments: true
 wordpress_id: '222'
 ? ''
 : - andré

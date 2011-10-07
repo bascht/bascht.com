@@ -5,6 +5,7 @@ layout: post
 slug: bombe-toten-terrorismus
 status: publish
 title: Bombe, Töten, Terrorismus
+comments: true
 wordpress_id: '252'
 ? ''
 : - google

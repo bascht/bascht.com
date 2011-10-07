@@ -5,6 +5,7 @@ layout: post
 slug: overkill
 status: publish
 title: Overkill
+comments: true
 wordpress_id: '59'
 ? ''
 : - praktikum

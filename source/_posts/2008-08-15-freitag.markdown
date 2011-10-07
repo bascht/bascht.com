@@ -5,6 +5,7 @@ layout: post
 slug: freitag
 status: publish
 title: Freitag
+comments: true
 wordpress_id: '375'
 ? ''
 : - unsortiertes

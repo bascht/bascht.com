@@ -5,6 +5,7 @@ layout: post
 slug: ibm-linux-ad
 status: publish
 title: IBM Linux Ad
+comments: true
 wordpress_id: '355'
 ? ''
 : - fernsehen

@@ -5,6 +5,7 @@ layout: post
 slug: totgesagte
 status: publish
 title: Totgesagte...
+comments: true
 wordpress_id: '153'
 ? ''
 : - lustiges

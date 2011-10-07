@@ -5,6 +5,7 @@ layout: post
 slug: hardcore-vol-ii-3
 status: publish
 title: HARDCORE, Vol. II
+comments: true
 wordpress_id: '817'
 ? ''
 : - Uncategorized

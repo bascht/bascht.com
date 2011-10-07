@@ -5,6 +5,7 @@ layout: post
 slug: matias-tactile-pro-3
 status: publish
 title: Matias Tactile Pro 3
+comments: true
 wordpress_id: '558'
 ? ''
 : - Uncategorized

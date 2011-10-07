@@ -5,6 +5,7 @@ layout: post
 slug: tja-ohm
 status: publish
 title: Tja öhm.
+comments: true
 wordpress_id: '589'
 ? ''
 : - Uncategorized

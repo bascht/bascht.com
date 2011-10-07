@@ -5,6 +5,7 @@ layout: post
 slug: tcb-auf-rmw
 status: publish
 title: TCB auf RMW
+comments: true
 wordpress_id: '185'
 ? ''
 : - gerüchte

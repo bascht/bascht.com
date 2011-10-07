@@ -5,6 +5,7 @@ layout: post
 slug: adobe-air-mit-einem-64-bit-ubuntu
 status: publish
 title: Adobe AIR mit einem 64 bit Ubuntu
+comments: true
 wordpress_id: '391'
 ? ''
 : - adobe

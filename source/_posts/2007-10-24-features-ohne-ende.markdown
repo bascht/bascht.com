@@ -5,6 +5,7 @@ layout: post
 slug: features-ohne-ende
 status: publish
 title: Features ohne Ende
+comments: true
 wordpress_id: '269'
 ? ''
 : - computer

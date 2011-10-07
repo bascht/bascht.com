@@ -5,6 +5,7 @@ layout: post
 slug: kabeldeutschland
 status: publish
 title: '#kabeldeutschland'
+comments: true
 wordpress_id: '433'
 ? ''
 : - computer

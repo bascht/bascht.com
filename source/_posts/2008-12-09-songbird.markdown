@@ -5,6 +5,7 @@ layout: post
 slug: songbird
 status: publish
 title: Songbird
+comments: true
 wordpress_id: '443'
 ? ''
 : - neuigkeiten

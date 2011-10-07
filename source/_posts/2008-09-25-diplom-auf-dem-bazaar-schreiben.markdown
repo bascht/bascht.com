@@ -5,6 +5,7 @@ layout: post
 slug: diplom-auf-dem-bazaar-schreiben
 status: publish
 title: Diplom auf dem Bazaar schreiben
+comments: true
 wordpress_id: '385'
 ? ''
 : - bzr

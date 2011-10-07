@@ -5,6 +5,7 @@ layout: post
 slug: muslimafia
 status: publish
 title: Müslimafia!
+comments: true
 wordpress_id: '160'
 ? ''
 : - essen

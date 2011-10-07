@@ -5,6 +5,7 @@ layout: post
 slug: klein-neukolln-in-sachsen-anhalt-eroffnet
 status: publish
 title: Klein-Neukölln in Sachsen-Anhalt eröffnet
+comments: true
 wordpress_id: '220'
 ? ''
 : - gedanken

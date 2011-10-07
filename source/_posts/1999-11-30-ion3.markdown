@@ -5,6 +5,7 @@ layout: post
 slug: ion3
 status: publish
 title: Ion3
+comments: true
 wordpress_id: '886'
 ? ''
 : - Uncategorized

@@ -5,6 +5,7 @@ layout: post
 slug: dear-steve
 status: publish
 title: Dear Steve
+comments: true
 wordpress_id: '275'
 ? ''
 : - unsortiertes

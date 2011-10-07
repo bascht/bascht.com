@@ -5,6 +5,7 @@ layout: post
 slug: cod
 status: publish
 title: CoD
+comments: true
 wordpress_id: '659'
 ? ''
 : - Uncategorized

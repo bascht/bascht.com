@@ -5,6 +5,7 @@ layout: post
 slug: dienstag
 status: publish
 title: Dienstag
+comments: true
 wordpress_id: '588'
 ? ''
 : - Uncategorized

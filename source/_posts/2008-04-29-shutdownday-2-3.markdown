@@ -5,6 +5,7 @@ layout: post
 slug: shutdownday-2-3
 status: publish
 title: Shutdownday 2
+comments: true
 wordpress_id: '631'
 ? ''
 : - Uncategorized

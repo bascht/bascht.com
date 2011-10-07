@@ -5,6 +5,7 @@ layout: post
 slug: nullstelle-im-apache-log
 status: publish
 title: Nullstelle im Apache-Log
+comments: true
 wordpress_id: '362'
 ? ''
 : - apache

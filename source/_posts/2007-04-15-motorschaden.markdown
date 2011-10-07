@@ -5,6 +5,7 @@ layout: post
 slug: motorschaden
 status: publish
 title: Motorschaden
+comments: true
 wordpress_id: '94'
 ? ''
 : - hardcore

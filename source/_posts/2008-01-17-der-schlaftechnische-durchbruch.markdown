@@ -5,6 +5,7 @@ layout: post
 slug: der-schlaftechnische-durchbruch
 status: publish
 title: Der schlaftechnische Durchbruch
+comments: true
 wordpress_id: '316'
 ? ''
 : - unsortiertes

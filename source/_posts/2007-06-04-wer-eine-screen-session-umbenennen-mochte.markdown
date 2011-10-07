@@ -5,6 +5,7 @@ layout: post
 slug: wer-eine-screen-session-umbenennen-mochte
 status: publish
 title: Wer eine screen-Session umbenennen möchte
+comments: true
 wordpress_id: '167'
 ? ''
 : - erkenntnisse

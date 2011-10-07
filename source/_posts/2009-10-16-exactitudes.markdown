@@ -5,6 +5,7 @@ layout: post
 slug: exactitudes
 status: publish
 title: Exactitudes
+comments: true
 wordpress_id: '580'
 ? ''
 : - Uncategorized

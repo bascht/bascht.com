@@ -5,6 +5,7 @@ layout: post
 slug: mochten-sie-gmail-wirklich-entfernen
 status: publish
 title: 'Möchten sie GMail wirklich entfernen? '
+comments: true
 wordpress_id: '556'
 ? ''
 : - google

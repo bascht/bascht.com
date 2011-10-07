@@ -5,6 +5,7 @@ layout: post
 slug: orteabhaken
 status: publish
 title: Orteabhaken
+comments: true
 wordpress_id: '158'
 ? ''
 : - dresden

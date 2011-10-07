@@ -5,6 +5,7 @@ layout: post
 slug: breaking-bad
 status: publish
 title: Breaking Bad
+comments: true
 wordpress_id: '551'
 categories:
   - breakingbad

@@ -5,6 +5,7 @@ layout: post
 slug: ubuntu-releases-bei-google-trends
 status: publish
 title: Ubuntu Releases bei Google Trends
+comments: true
 wordpress_id: '387'
 ? ''
 : - google

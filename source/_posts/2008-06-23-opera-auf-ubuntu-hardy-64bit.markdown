@@ -5,6 +5,7 @@ layout: post
 slug: opera-auf-ubuntu-hardy-64bit
 status: publish
 title: Opera auf Ubuntu Hardy 64bit
+comments: true
 wordpress_id: '368'
 ? ''
 : - howto

@@ -5,6 +5,7 @@ layout: post
 slug: bald-wieder-da
 status: publish
 title: Bald wieder da.
+comments: true
 wordpress_id: '27'
 ? ''
 : - freunde

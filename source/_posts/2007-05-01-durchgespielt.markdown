@@ -5,6 +5,7 @@ layout: post
 slug: durchgespielt
 status: publish
 title: Durchgespielt
+comments: true
 wordpress_id: '116'
 ? ''
 : - computer

@@ -5,6 +5,7 @@ layout: post
 slug: apfelschifffahrt
 status: publish
 title: Apfelschifffahrt
+comments: true
 wordpress_id: '565'
 ? ''
 : - Uncategorized

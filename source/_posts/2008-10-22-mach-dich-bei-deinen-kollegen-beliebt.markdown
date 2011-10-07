@@ -5,6 +5,7 @@ layout: post
 slug: mach-dich-bei-deinen-kollegen-beliebt
 status: publish
 title: Mach dich bei deinen Kollegen beliebt!
+comments: true
 wordpress_id: '425'
 ? ''
 : - jobmixer

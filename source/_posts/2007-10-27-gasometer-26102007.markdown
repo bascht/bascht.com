@@ -5,6 +5,7 @@ layout: post
 slug: gasometer-26102007
 status: publish
 title: Gasometer | 26.10.2007
+comments: true
 wordpress_id: '271'
 ? ''
 : - cottonbomb

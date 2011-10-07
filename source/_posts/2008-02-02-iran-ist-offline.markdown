@@ -5,6 +5,7 @@ layout: post
 slug: iran-ist-offline
 status: publish
 title: Iran ist offline
+comments: true
 wordpress_id: '322'
 ? ''
 : - internet

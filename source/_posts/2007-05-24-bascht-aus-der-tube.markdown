@@ -5,6 +5,7 @@ layout: post
 slug: bascht-aus-der-tube
 status: publish
 title: Bascht aus der Tube
+comments: true
 wordpress_id: '157'
 ? ''
 : - boysetsfire

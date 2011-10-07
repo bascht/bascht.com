@@ -5,6 +5,7 @@ layout: post
 slug: today-forever-better-values
 status: publish
 title: Today Forever - Better Values
+comments: true
 wordpress_id: '230'
 ? ''
 : - hardcore

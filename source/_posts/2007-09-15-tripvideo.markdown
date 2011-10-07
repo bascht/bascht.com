@@ -5,6 +5,7 @@ layout: post
 slug: tripvideo
 status: publish
 title: Tripvideo
+comments: true
 wordpress_id: '249'
 ? ''
 : - kanada

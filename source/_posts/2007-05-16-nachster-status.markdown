@@ -5,6 +5,7 @@ layout: post
 slug: nachster-status
 status: publish
 title: Nächster Status
+comments: true
 wordpress_id: '139'
 ? ''
 : - braincup

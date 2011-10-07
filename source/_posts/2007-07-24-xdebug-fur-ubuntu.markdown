@@ -5,6 +5,7 @@ layout: post
 slug: xdebug-fur-ubuntu
 status: publish
 title: xdebug für Ubuntu
+comments: true
 wordpress_id: '209'
 ? ''
 : - howto

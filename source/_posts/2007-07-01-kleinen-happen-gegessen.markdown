@@ -5,6 +5,7 @@ layout: post
 slug: kleinen-happen-gegessen
 status: publish
 title: Kleinen Happen gegessen
+comments: true
 wordpress_id: '191'
 ? ''
 : - braincup

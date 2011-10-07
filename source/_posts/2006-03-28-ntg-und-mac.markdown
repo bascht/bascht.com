@@ -5,6 +5,7 @@ layout: post
 slug: ntg-und-mac
 status: publish
 title: NTG und MAC
+comments: true
 wordpress_id: '31'
 ? ''
 : - linux

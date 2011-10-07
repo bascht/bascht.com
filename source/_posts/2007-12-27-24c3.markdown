@@ -5,6 +5,7 @@ layout: post
 slug: 24c3
 status: publish
 title: 24C3
+comments: true
 wordpress_id: '303'
 ? ''
 : - berlin

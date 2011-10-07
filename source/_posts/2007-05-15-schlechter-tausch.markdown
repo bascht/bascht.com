@@ -5,6 +5,7 @@ layout: post
 slug: schlechter-tausch
 status: publish
 title: Schlechter Tausch
+comments: true
 wordpress_id: '136'
 ? ''
 : - auto

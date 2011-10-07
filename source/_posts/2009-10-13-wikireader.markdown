@@ -5,6 +5,7 @@ layout: post
 slug: wikireader
 status: publish
 title: WikiReader
+comments: true
 wordpress_id: '585'
 ? ''
 : - Uncategorized

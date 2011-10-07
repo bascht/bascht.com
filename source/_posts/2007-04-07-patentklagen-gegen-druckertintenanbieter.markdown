@@ -5,6 +5,7 @@ layout: post
 slug: patentklagen-gegen-druckertintenanbieter
 status: publish
 title: Patentklagen gegen Druckertintenanbieter
+comments: true
 wordpress_id: '83'
 ? ''
 : - computer

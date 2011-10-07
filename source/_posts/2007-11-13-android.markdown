@@ -5,6 +5,7 @@ layout: post
 slug: android
 status: publish
 title: Android
+comments: true
 wordpress_id: '286'
 ? ''
 : - google

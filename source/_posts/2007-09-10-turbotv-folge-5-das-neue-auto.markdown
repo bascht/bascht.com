@@ -5,6 +5,7 @@ layout: post
 slug: turbotv-folge-5-das-neue-auto
 status: publish
 title: TurboTV - Folge 6 - das neue Auto!
+comments: true
 wordpress_id: '243'
 ? ''
 : - auto

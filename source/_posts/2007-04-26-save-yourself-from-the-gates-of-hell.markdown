@@ -5,6 +5,7 @@ layout: post
 slug: save-yourself-from-the-gates-of-hell
 status: publish
 title: Save yourself from the Gates of Hell
+comments: true
 wordpress_id: '112'
 ? ''
 : - chemnitz

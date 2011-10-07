@@ -5,6 +5,7 @@ layout: post
 slug: und-da-wars-oktober
 status: publish
 title: Und da wars Oktober
+comments: true
 wordpress_id: '92'
 ? ''
 : - apple

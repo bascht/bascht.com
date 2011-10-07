@@ -5,6 +5,7 @@ layout: post
 slug: ismoothie-it-blends
 status: publish
 title: iSmoothie - It blends
+comments: true
 wordpress_id: '213'
 ? ''
 : - apple

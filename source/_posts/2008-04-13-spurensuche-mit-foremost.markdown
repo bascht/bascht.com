@@ -5,6 +5,7 @@ layout: post
 slug: spurensuche-mit-foremost
 status: publish
 title: Spurensuche mit Foremost
+comments: true
 wordpress_id: '348'
 ? ''
 : - computer

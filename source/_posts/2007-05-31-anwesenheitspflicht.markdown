@@ -5,6 +5,7 @@ layout: post
 slug: anwesenheitspflicht
 status: publish
 title: Anwesenheitspflicht
+comments: true
 wordpress_id: '161'
 ? ''
 : - computer

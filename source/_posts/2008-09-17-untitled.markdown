@@ -5,6 +5,7 @@ layout: post
 slug: untitled
 status: publish
 title: Untitled
+comments: true
 wordpress_id: '613'
 ? ''
 : - Uncategorized

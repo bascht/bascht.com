@@ -5,6 +5,7 @@ layout: post
 slug: kentucky
 status: publish
 title: Kentucky!!!!
+comments: true
 wordpress_id: '235'
 ? ''
 : - phil

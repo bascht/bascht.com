@@ -5,6 +5,7 @@ layout: post
 slug: beinahe-vergessen-24c3
 status: publish
 title: Beinahe Vergessen - 24C3
+comments: true
 wordpress_id: '310'
 ? ''
 : - berlin

@@ -5,6 +5,7 @@ layout: post
 slug: am-morgen-mal-schon-gelacht
 status: publish
 title: Am Morgen mal schön gelacht
+comments: true
 wordpress_id: '291'
 ? ''
 : - computer

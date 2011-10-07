@@ -5,6 +5,7 @@ layout: post
 slug: comeback-kid-auf-dvd
 status: publish
 title: Comeback Kid auf DVD
+comments: true
 wordpress_id: '384'
 ? ''
 : - dvd

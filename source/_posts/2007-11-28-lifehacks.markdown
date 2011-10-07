@@ -5,6 +5,7 @@ layout: post
 slug: lifehacks
 status: publish
 title: Lifehacks
+comments: true
 wordpress_id: '294'
 ? ''
 : - feierabend

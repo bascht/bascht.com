@@ -5,6 +5,7 @@ layout: post
 slug: probleme-mit-dem-wp-stats-plugin
 status: publish
 title: Probleme mit dem WP Stats Plugin
+comments: true
 wordpress_id: '344'
 ? ''
 : - howto

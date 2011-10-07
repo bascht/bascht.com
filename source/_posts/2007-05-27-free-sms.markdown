@@ -5,6 +5,7 @@ layout: post
 slug: free-sms
 status: publish
 title: Free SMS
+comments: true
 wordpress_id: '159'
 ? ''
 : - internet

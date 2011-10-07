@@ -5,6 +5,7 @@ layout: post
 slug: sonntagabendrezept
 status: publish
 title: Sonntagabendrezept
+comments: true
 wordpress_id: '253'
 ? ''
 : - feierabend

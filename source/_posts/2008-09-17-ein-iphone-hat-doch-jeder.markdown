@@ -5,6 +5,7 @@ layout: post
 slug: ein-iphone-hat-doch-jeder
 status: publish
 title: Ein iPhone hat doch jeder
+comments: true
 wordpress_id: '377'
 ? ''
 : - android

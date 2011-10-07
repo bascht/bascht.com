@@ -5,6 +5,7 @@ layout: post
 slug: symfony-base-camp
 status: publish
 title: Symfony (Base) Camp
+comments: true
 wordpress_id: '376'
 ? ''
 : - holland

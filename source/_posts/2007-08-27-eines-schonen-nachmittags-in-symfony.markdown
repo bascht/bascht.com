@@ -5,6 +5,7 @@ layout: post
 slug: eines-schonen-nachmittags-in-symfony
 status: publish
 title: 'Eines schönen Nachmittags in #symfony'
+comments: true
 wordpress_id: '228'
 ? ''
 : - internet

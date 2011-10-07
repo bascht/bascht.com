@@ -5,6 +5,7 @@ layout: post
 slug: 24-stunden-leipzig
 status: publish
 title: 24 Stunden Leipzig
+comments: true
 wordpress_id: '501'
 ? ''
 : - leipzig

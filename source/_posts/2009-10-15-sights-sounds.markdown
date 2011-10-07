@@ -5,6 +5,7 @@ layout: post
 slug: sights-sounds
 status: publish
 title: Sights & Sounds
+comments: true
 wordpress_id: '582'
 ? ''
 : - Uncategorized

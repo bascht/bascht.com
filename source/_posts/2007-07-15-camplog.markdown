@@ -5,6 +5,7 @@ layout: post
 slug: camplog
 status: publish
 title: Camplog!
+comments: true
 wordpress_id: '203'
 ? ''
 : - auto

@@ -5,6 +5,7 @@ layout: post
 slug: 2-merksatze
 status: publish
 title: 2 Merksätze
+comments: true
 wordpress_id: '288'
 ? ''
 : - frank

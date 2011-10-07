@@ -5,6 +5,7 @@ layout: post
 slug: katzenkaffee
 status: publish
 title: Katzenkaffee?
+comments: true
 wordpress_id: '568'
 ? ''
 : - catcontent

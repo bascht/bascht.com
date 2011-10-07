@@ -5,6 +5,7 @@ layout: post
 slug: jewonnen-20
 status: publish
 title: Jewonnen 2.0
+comments: true
 wordpress_id: '194'
 ? ''
 : - gedanken

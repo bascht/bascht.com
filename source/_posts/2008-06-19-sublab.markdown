@@ -5,6 +5,7 @@ layout: post
 slug: sublab
 status: publish
 title: Sublab
+comments: true
 wordpress_id: '622'
 ? ''
 : - Uncategorized

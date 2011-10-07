@@ -5,6 +5,7 @@ layout: post
 slug: hello-world
 status: publish
 title: Hello world!
+comments: true
 wordpress_id: '1'
 ? ''
 : - Uncategorized

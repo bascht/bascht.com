@@ -5,6 +5,7 @@ layout: post
 slug: amtliche-mitteilung-betr-urlaub
 status: publish
 title: Amtliche Mitteilung, Betr. Urlaub
+comments: true
 wordpress_id: '233'
 ? ''
 : - phil

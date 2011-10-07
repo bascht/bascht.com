@@ -5,6 +5,7 @@ layout: post
 slug: speed-bump
 status: publish
 title: Speed Bump
+comments: true
 wordpress_id: '257'
 ? ''
 : - comics

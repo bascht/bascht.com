@@ -5,6 +5,7 @@ layout: post
 slug: und-fuhre-mich-nicht-in-versuchung
 status: publish
 title: Und führe mich nicht in Versuchung...
+comments: true
 wordpress_id: '578'
 ? ''
 : - Uncategorized

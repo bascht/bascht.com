@@ -5,6 +5,7 @@ layout: post
 slug: kleines-datenhorrorhowto
 status: publish
 title: Kleines Datenhorrorhowto
+comments: true
 wordpress_id: '97'
 ? ''
 : - computer

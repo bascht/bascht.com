@@ -5,6 +5,7 @@ layout: post
 slug: sharing-is-fun
 status: publish
 title: Sharing is fun
+comments: true
 wordpress_id: '552'
 categories:
   - cc

@@ -5,6 +5,7 @@ layout: post
 slug: '186'
 status: publish
 title: None
+comments: true
 wordpress_id: '186'
 ? ''
 : - java

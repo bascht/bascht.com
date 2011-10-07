@@ -5,6 +5,7 @@ layout: post
 slug: baschtcom-25
 status: publish
 title: Bascht.com 2.5
+comments: true
 wordpress_id: '342'
 ? ''
 : - computer

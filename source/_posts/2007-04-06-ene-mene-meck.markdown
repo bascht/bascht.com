@@ -5,6 +5,7 @@ layout: post
 slug: ene-mene-meck
 status: publish
 title: Ene Mene Meck...
+comments: true
 wordpress_id: '81'
 ? ''
 : - computer

@@ -5,6 +5,7 @@ layout: post
 slug: international-obfuscated-c-code-contest
 status: publish
 title: International Obfuscated C Code Contest
+comments: true
 wordpress_id: '371'
 ? ''
 : - C#

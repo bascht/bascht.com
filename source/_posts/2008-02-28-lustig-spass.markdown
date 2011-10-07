@@ -5,6 +5,7 @@ layout: post
 slug: lustig-spass
 status: publish
 title: lustig spass
+comments: true
 wordpress_id: '326'
 ? ''
 : - internet

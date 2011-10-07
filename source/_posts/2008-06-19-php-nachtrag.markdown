@@ -5,6 +5,7 @@ layout: post
 slug: php-nachtrag
 status: publish
 title: PHP Nachtrag
+comments: true
 wordpress_id: '366'
 ? ''
 : - code

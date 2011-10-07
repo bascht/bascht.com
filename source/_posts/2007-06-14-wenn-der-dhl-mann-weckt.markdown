@@ -5,6 +5,7 @@ layout: post
 slug: wenn-der-dhl-mann-weckt
 status: publish
 title: Wenn der DHL Mann weckt
+comments: true
 wordpress_id: '177'
 ? ''
 : - gedanken

@@ -5,6 +5,7 @@ layout: post
 slug: eine-lustige-spiegelei
 status: publish
 title: Eine lustige Spiegelei
+comments: true
 wordpress_id: '73'
 ? ''
 : - essen

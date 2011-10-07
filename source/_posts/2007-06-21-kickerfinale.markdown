@@ -5,6 +5,7 @@ layout: post
 slug: kickerfinale
 status: publish
 title: Kickerfinale
+comments: true
 wordpress_id: '181'
 ? ''
 : - feierabend

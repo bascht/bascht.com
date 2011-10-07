@@ -5,6 +5,7 @@ layout: post
 slug: continuous-integration-mit-symfony
 status: publish
 title: Continuous Integration mit Symfony
+comments: true
 wordpress_id: '522'
 ? ''
 : - agile development

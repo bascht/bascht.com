@@ -5,6 +5,7 @@ layout: post
 slug: der-soundtrack-zum-wetter-da-drausen
 status: publish
 title: Der Soundtrack zum Wetter da draußen
+comments: true
 wordpress_id: '295'
 ? ''
 : - gedanken

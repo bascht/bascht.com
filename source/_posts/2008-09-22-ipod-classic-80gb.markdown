@@ -5,6 +5,7 @@ layout: post
 slug: ipod-classic-80gb
 status: publish
 title: ipod classic 80gb
+comments: true
 wordpress_id: '381'
 ? ''
 : - apple

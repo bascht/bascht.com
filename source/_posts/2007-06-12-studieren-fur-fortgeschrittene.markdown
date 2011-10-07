@@ -5,6 +5,7 @@ layout: post
 slug: studieren-fur-fortgeschrittene
 status: publish
 title: Studieren für Fortgeschrittene
+comments: true
 wordpress_id: '174'
 ? ''
 : - essen

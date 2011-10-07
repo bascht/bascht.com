@@ -5,6 +5,7 @@ layout: post
 slug: backfeife
 status: publish
 title: Backfeife
+comments: true
 wordpress_id: '18'
 ? ''
 : - freunde

@@ -5,6 +5,7 @@ layout: post
 slug: prufungsspam
 status: publish
 title: Prüfungsspam
+comments: true
 wordpress_id: '196'
 ? ''
 : - prüfungen

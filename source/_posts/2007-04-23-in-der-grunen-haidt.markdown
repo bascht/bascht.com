@@ -5,6 +5,7 @@ layout: post
 slug: in-der-grunen-haidt
 status: publish
 title: In der grünen Haidt...
+comments: true
 wordpress_id: '101'
 ? ''
 : - chemnitz

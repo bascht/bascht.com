@@ -5,6 +5,7 @@ layout: post
 slug: reboot-tut-gut
 status: publish
 title: Reboot tut gut
+comments: true
 wordpress_id: '555'
 ? ''
 : - Uncategorized

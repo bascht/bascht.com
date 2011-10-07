@@ -5,6 +5,7 @@ layout: post
 slug: nicht-gesunde-sachen
 status: publish
 title: 'Nicht gesunde Sachen:'
+comments: true
 wordpress_id: '180'
 ? ''
 : - gedanken

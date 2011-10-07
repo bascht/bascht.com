@@ -5,6 +5,7 @@ layout: post
 slug: volkerfreundschaft
 status: publish
 title: 'Völkerfreundschaft '
+comments: true
 wordpress_id: '554'
 ? ''
 : - agavi

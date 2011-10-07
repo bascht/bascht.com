@@ -5,6 +5,7 @@ layout: post
 slug: jana-geht-erdbeerenpflucken
 status: publish
 title: Jana geht Erdbeerenpflücken
+comments: true
 wordpress_id: '169'
 ? ''
 : - blog

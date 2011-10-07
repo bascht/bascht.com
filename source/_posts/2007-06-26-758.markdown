@@ -5,6 +5,7 @@ layout: post
 slug: '758'
 status: publish
 title: None
+comments: true
 wordpress_id: '758'
 ? ''
 : - Uncategorized

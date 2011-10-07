@@ -5,6 +5,7 @@ layout: post
 slug: schlimmer-als-area51
 status: publish
 title: Schlimmer als Area51
+comments: true
 wordpress_id: '77'
 ? ''
 : - gerüchte

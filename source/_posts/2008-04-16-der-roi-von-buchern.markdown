@@ -5,6 +5,7 @@ layout: post
 slug: der-roi-von-buchern
 status: publish
 title: Der ROI von Büchern.
+comments: true
 wordpress_id: '350'
 ? ''
 : - bücher

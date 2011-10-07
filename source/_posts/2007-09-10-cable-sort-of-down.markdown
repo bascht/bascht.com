@@ -5,6 +5,7 @@ layout: post
 slug: cable-sort-of-down
 status: publish
 title: Cable? Sort of down...
+comments: true
 wordpress_id: '241'
 ? ''
 : - Uncategorized

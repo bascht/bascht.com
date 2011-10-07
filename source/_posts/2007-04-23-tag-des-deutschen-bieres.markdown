@@ -5,6 +5,7 @@ layout: post
 slug: tag-des-deutschen-bieres
 status: publish
 title: Tag des deutschen Bieres
+comments: true
 wordpress_id: '103'
 ? ''
 : - bier

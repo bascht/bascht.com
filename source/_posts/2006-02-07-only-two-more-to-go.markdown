@@ -5,6 +5,7 @@ layout: post
 slug: only-two-more-to-go
 status: publish
 title: Only Two more to go
+comments: true
 wordpress_id: '30'
 ? ''
 : - mittweida

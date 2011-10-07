@@ -5,6 +5,7 @@ layout: post
 slug: netze-und-diverse-protokolle
 status: publish
 title: Netze und diverse Protokolle
+comments: true
 wordpress_id: '29'
 ? ''
 : - lustiges

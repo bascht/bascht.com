@@ -5,6 +5,7 @@ layout: post
 slug: symfony-11-und-10-gleichzeitig
 status: publish
 title: Symfony 1.1 und 1.0 gleichzeitig
+comments: true
 wordpress_id: '318'
 ? ''
 : - howto

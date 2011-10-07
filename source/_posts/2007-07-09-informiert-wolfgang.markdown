@@ -5,6 +5,7 @@ layout: post
 slug: informiert-wolfgang
 status: publish
 title: Informiert Wolfgang!
+comments: true
 wordpress_id: '198'
 ? ''
 : - datenschutz

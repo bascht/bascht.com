@@ -5,6 +5,7 @@ layout: post
 slug: zwischenbericht
 status: publish
 title: Zwischenbericht
+comments: true
 wordpress_id: '138'
 ? ''
 : - braincup

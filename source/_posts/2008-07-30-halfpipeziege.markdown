@@ -5,6 +5,7 @@ layout: post
 slug: halfpipeziege
 status: publish
 title: Halfpipeziege
+comments: true
 wordpress_id: '374'
 ? ''
 : - lustiges

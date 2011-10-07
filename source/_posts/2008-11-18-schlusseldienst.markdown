@@ -5,6 +5,7 @@ layout: post
 slug: schlusseldienst
 status: publish
 title: Schlüsseldienst
+comments: true
 wordpress_id: '436'
 ? ''
 : - aktuelles

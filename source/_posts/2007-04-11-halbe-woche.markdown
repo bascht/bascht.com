@@ -5,6 +5,7 @@ layout: post
 slug: halbe-woche
 status: publish
 title: Halbe Woche
+comments: true
 wordpress_id: '90'
 ? ''
 : - gedanken

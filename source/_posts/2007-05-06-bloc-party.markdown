@@ -5,6 +5,7 @@ layout: post
 slug: bloc-party
 status: publish
 title: BLOC PARTY
+comments: true
 wordpress_id: '127'
 ? ''
 : - dresden

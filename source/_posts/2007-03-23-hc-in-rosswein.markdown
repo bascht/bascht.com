@@ -5,6 +5,7 @@ layout: post
 slug: hc-in-rosswein
 status: publish
 title: HC in Rosswein
+comments: true
 wordpress_id: '66'
 ? ''
 : - hardcore

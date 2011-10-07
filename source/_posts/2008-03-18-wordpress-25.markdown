@@ -5,6 +5,7 @@ layout: post
 slug: wordpress-25
 status: publish
 title: Wordpress 2.5
+comments: true
 wordpress_id: '331'
 ? ''
 : - unsortiertes

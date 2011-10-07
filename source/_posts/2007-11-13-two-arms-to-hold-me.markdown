@@ -5,6 +5,7 @@ layout: post
 slug: two-arms-to-hold-me
 status: publish
 title: Two arms to hold me
+comments: true
 wordpress_id: '285'
 ? ''
 : - hardcore

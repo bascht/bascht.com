@@ -5,6 +5,7 @@ layout: post
 slug: google-uberall
 status: publish
 title: Google überall
+comments: true
 wordpress_id: '567'
 ? ''
 : - Uncategorized

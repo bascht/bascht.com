@@ -5,6 +5,7 @@ layout: post
 slug: bascht-in-erfurt
 status: publish
 title: Bascht in Erfurt
+comments: true
 wordpress_id: '14'
 ? ''
 : - musik

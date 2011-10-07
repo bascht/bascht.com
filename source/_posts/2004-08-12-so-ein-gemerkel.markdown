@@ -5,6 +5,7 @@ layout: post
 slug: so-ein-gemerkel
 status: publish
 title: So ein Gemerkel
+comments: true
 wordpress_id: '20'
 ? ''
 : - gedanken

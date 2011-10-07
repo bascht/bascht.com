@@ -5,6 +5,7 @@ layout: post
 slug: curlftpfs-fuse-mit-passworteingabe
 status: publish
 title: CURLFTPFS (FUSE) mit Passworteingabe
+comments: true
 wordpress_id: '224'
 ? ''
 : - ftp

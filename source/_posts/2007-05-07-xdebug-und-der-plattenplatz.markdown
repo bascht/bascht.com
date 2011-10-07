@@ -5,6 +5,7 @@ layout: post
 slug: xdebug-und-der-plattenplatz
 status: publish
 title: xdebug und der Plattenplatz
+comments: true
 wordpress_id: '129'
 ? ''
 : - computer

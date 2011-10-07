@@ -5,6 +5,7 @@ layout: post
 slug: der-witz-kurz-vor-drei
 status: publish
 title: Der Witz (kurz) vor drei
+comments: true
 wordpress_id: '96'
 ? ''
 : - lustiges

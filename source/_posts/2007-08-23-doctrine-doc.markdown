@@ -5,6 +5,7 @@ layout: post
 slug: doctrine-doc
 status: publish
 title: Doctrine Doc
+comments: true
 wordpress_id: '225'
 ? ''
 : - computer

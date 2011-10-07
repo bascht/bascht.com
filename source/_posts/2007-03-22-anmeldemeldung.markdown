@@ -5,6 +5,7 @@ layout: post
 slug: anmeldemeldung
 status: publish
 title: Anmeldemeldung
+comments: true
 wordpress_id: '65'
 ? ''
 : - computer

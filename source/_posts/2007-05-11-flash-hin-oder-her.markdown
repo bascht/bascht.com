@@ -5,6 +5,7 @@ layout: post
 slug: flash-hin-oder-her
 status: publish
 title: Flash hin oder her...
+comments: true
 wordpress_id: '134'
 ? ''
 : - flash

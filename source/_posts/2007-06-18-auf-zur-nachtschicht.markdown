@@ -5,6 +5,7 @@ layout: post
 slug: auf-zur-nachtschicht
 status: publish
 title: Auf zur Nachtschicht...
+comments: true
 wordpress_id: '179'
 ? ''
 : - andré

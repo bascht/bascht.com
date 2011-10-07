@@ -5,6 +5,7 @@ layout: post
 slug: mathe-ist-bestanden
 status: publish
 title: Mathe ist bestanden!
+comments: true
 wordpress_id: '22'
 ? ''
 : - prüfungen

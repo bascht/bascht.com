@@ -5,6 +5,7 @@ layout: post
 slug: meebot-mich
 status: publish
 title: Meebot mich!
+comments: true
 wordpress_id: '212'
 ? ''
 : - ajax

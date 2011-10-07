@@ -5,6 +5,7 @@ layout: post
 slug: falls-mich-jemand-sucht
 status: publish
 title: Falls mich jemand sucht...
+comments: true
 wordpress_id: '276'
 ? ''
 : - feierabend

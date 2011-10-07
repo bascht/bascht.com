@@ -5,6 +5,7 @@ layout: post
 slug: freies-fernsehen
 status: publish
 title: Freies Fernsehen
+comments: true
 wordpress_id: '274'
 ? ''
 : - fernsehen

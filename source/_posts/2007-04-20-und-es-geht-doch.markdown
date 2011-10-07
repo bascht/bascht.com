@@ -5,6 +5,7 @@ layout: post
 slug: und-es-geht-doch
 status: publish
 title: Und es geht doch
+comments: true
 wordpress_id: '99'
 ? ''
 : - computer

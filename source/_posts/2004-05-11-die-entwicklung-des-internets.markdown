@@ -5,6 +5,7 @@ layout: post
 slug: die-entwicklung-des-internets
 status: publish
 title: Die Entwicklung des Internets
+comments: true
 wordpress_id: '5'
 ? ''
 : - internet

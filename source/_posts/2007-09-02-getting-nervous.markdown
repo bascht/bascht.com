@@ -5,6 +5,7 @@ layout: post
 slug: getting-nervous
 status: publish
 title: Getting nervous...
+comments: true
 wordpress_id: '232'
 ? ''
 : - neuigkeiten

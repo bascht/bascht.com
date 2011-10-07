@@ -5,6 +5,7 @@ layout: post
 slug: schulbank-again
 status: publish
 title: Schulbank again
+comments: true
 wordpress_id: '574'
 ? ''
 : - berlin

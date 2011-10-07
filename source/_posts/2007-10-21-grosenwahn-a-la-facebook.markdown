@@ -5,6 +5,7 @@ layout: post
 slug: grosenwahn-a-la-facebook
 status: publish
 title: Größenwahn á la Facebook
+comments: true
 wordpress_id: '264'
 ? ''
 : - computer

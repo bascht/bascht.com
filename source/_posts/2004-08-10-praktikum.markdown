@@ -5,6 +5,7 @@ layout: post
 slug: praktikum
 status: publish
 title: Praktikum
+comments: true
 wordpress_id: '19'
 ? ''
 : - praktikum

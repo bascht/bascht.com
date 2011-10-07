@@ -5,6 +5,7 @@ layout: post
 slug: sfemailvalidator
 status: publish
 title: sfEmailValidator
+comments: true
 wordpress_id: '800'
 ? ''
 : - Uncategorized

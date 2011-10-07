@@ -5,6 +5,7 @@ layout: post
 slug: buntes-b
 status: publish
 title: Buntes B
+comments: true
 wordpress_id: '572'
 ? ''
 : - berlin

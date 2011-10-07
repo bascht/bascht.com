@@ -5,6 +5,7 @@ layout: post
 slug: netkas-netkas-netkas
 status: publish
 title: Netkas, Netkas, Netkas!
+comments: true
 wordpress_id: '292'
 ? ''
 : - apple

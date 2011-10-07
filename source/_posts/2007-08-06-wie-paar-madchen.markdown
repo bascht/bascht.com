@@ -5,6 +5,7 @@ layout: post
 slug: wie-paar-madchen
 status: publish
 title: Wie paar Mädchen
+comments: true
 wordpress_id: '218'
 ? ''
 : - feierabend

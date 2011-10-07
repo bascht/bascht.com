@@ -5,6 +5,7 @@ layout: post
 slug: nowplaying-screenlet-und-amarok
 status: publish
 title: NowPlaying Screenlet und Amarok
+comments: true
 wordpress_id: '226'
 ? ''
 : - compiz

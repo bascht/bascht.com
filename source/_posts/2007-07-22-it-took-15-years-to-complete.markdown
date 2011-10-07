@@ -5,6 +5,7 @@ layout: post
 slug: it-took-15-years-to-complete
 status: publish
 title: It took 15 Years to complete...
+comments: true
 wordpress_id: '206'
 ? ''
 : - kino

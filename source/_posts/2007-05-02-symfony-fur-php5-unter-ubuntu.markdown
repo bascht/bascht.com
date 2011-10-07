@@ -5,6 +5,7 @@ layout: post
 slug: symfony-fur-php5-unter-ubuntu
 status: publish
 title: Symfony für PHP5 unter Ubuntu
+comments: true
 wordpress_id: '120'
 ? ''
 : - linux

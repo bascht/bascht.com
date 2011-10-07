@@ -5,6 +5,7 @@ layout: post
 slug: open-letter-zum-webmontag-29-03-2010
 status: publish
 title: Open Letter zum Webmontag / 29.03.2010
+comments: true
 wordpress_id: '553'
 ? ''
 : - leipzig

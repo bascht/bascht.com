@@ -5,6 +5,7 @@ layout: post
 slug: wenn-man-das-vz-mal-braucht
 status: publish
 title: Wenn man das VZ mal braucht
+comments: true
 wordpress_id: '341'
 ? ''
 : - internet

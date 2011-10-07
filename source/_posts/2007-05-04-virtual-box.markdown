@@ -5,6 +5,7 @@ layout: post
 slug: virtual-box
 status: publish
 title: Virtual Box
+comments: true
 wordpress_id: '124'
 ? ''
 : - computer

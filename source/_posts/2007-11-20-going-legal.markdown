@@ -5,6 +5,7 @@ layout: post
 slug: going-legal
 status: publish
 title: Going legal
+comments: true
 wordpress_id: '290'
 ? ''
 : - gedanken

@@ -5,6 +5,7 @@ layout: post
 slug: radiomacher-meldet-euch
 status: publish
 title: Radiomacher, meldet euch!
+comments: true
 wordpress_id: '121'
 ? ''
 : - musik

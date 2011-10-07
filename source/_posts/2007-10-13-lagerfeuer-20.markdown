@@ -5,6 +5,7 @@ layout: post
 slug: lagerfeuer-20
 status: publish
 title: Lagerfeuer 2.0
+comments: true
 wordpress_id: '261'
 ? ''
 : - leipzig

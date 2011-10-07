@@ -5,6 +5,7 @@ layout: post
 slug: musikalische-gretchenfrage
 status: publish
 title: Musikalische Gretchenfrage
+comments: true
 wordpress_id: '560'
 ? ''
 : - music

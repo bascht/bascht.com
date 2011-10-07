@@ -5,6 +5,7 @@ layout: post
 slug: leben
 status: publish
 title: Leben
+comments: true
 wordpress_id: '563'
 ? ''
 : - Uncategorized

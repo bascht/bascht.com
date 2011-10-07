@@ -5,6 +5,7 @@ layout: post
 slug: boysetsfotos
 status: publish
 title: Boysetsfotos
+comments: true
 wordpress_id: '147'
 ? ''
 : - boysetsfire

@@ -5,6 +5,7 @@ layout: post
 slug: baustelle-am-28-mai
 status: publish
 title: Baustelle am 28. Mai.
+comments: true
 wordpress_id: '8'
 ? ''
 : - musik

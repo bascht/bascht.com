@@ -5,6 +5,7 @@ layout: post
 slug: alternativen
 status: publish
 title: Alternativen
+comments: true
 wordpress_id: '184'
 ? ''
 : - auto

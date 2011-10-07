@@ -6,6 +6,7 @@ slug: web-design-collections-categorized-collections-of-user-interfaces-for-insp
 status: publish
 title: 'Web Design Collections : Categorized Collections of User Interfaces for Inspiration
   and Ideas. '
+comments: true
 wordpress_id: '586'
 ? ''
 : - Uncategorized

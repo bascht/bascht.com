@@ -5,6 +5,7 @@ layout: post
 slug: vater-und-mutter-ehren
 status: publish
 title: Vater und Mutter ehren
+comments: true
 wordpress_id: '564'
 ? ''
 : - Uncategorized

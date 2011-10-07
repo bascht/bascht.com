@@ -5,6 +5,7 @@ layout: post
 slug: vernetzte-lebenswelten-das-finale
 status: publish
 title: 'Vernetzte Lebenswelten: Das Finale'
+comments: true
 wordpress_id: '6'
 ? ''
 : - studium

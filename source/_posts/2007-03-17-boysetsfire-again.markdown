@@ -5,6 +5,7 @@ layout: post
 slug: boysetsfire-again
 status: publish
 title: Boysetsfire again!
+comments: true
 wordpress_id: '57'
 ? ''
 : - hardcore

@@ -5,6 +5,7 @@ layout: post
 slug: feisty-ist-da
 status: publish
 title: Feisty ist da!!
+comments: true
 wordpress_id: '98'
 ? ''
 : - computer

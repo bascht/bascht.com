@@ -5,6 +5,7 @@ layout: post
 slug: prollen-mit-beryl-teil-ii
 status: publish
 title: Prollen mit Beryl, Teil II
+comments: true
 wordpress_id: '61'
 ? ''
 : - beryl

@@ -5,6 +5,7 @@ layout: post
 slug: erste-videos-von-gestern
 status: publish
 title: Erste Videos von gestern
+comments: true
 wordpress_id: '389'
 ? ''
 : - hardcore

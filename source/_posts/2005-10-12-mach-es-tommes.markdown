@@ -5,6 +5,7 @@ layout: post
 slug: mach-es-tommes
 status: publish
 title: Mach es, Tommes!
+comments: true
 wordpress_id: '28'
 ? ''
 : - lustiges

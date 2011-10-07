@@ -5,6 +5,7 @@ layout: post
 slug: heute-pirk
 status: publish
 title: Heute Pirk
+comments: true
 wordpress_id: '84'
 ? ''
 : - feier

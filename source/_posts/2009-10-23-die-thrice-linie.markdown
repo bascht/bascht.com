@@ -5,6 +5,7 @@ layout: post
 slug: die-thrice-linie
 status: publish
 title: Die Thrice-Linie
+comments: true
 wordpress_id: '575'
 ? ''
 : - music

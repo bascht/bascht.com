@@ -5,6 +5,7 @@ layout: post
 slug: rules-of-database-app-aging
 status: publish
 title: Rules of Database App Aging
+comments: true
 wordpress_id: '587'
 ? ''
 : - databases

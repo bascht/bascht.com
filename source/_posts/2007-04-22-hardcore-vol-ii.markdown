@@ -5,6 +5,7 @@ layout: post
 slug: hardcore-vol-ii
 status: publish
 title: HARDCORE, Vol. II
+comments: true
 wordpress_id: '100'
 ? ''
 : - bayern

@@ -5,6 +5,7 @@ layout: post
 slug: dsc00001
 status: publish
 title: DSC00001
+comments: true
 wordpress_id: '332'
 ? ''
 : - unsortiertes

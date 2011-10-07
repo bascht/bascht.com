@@ -5,6 +5,7 @@ layout: post
 slug: ein-pappbook
 status: publish
 title: Ein Pappbook!
+comments: true
 wordpress_id: '87'
 ? ''
 : - computer

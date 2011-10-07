@@ -5,6 +5,7 @@ layout: post
 slug: hdr-in-mw
 status: publish
 title: HDR in MW
+comments: true
 wordpress_id: '314'
 ? ''
 : - eclipse

@@ -5,6 +5,7 @@ layout: post
 slug: setting-fire-to-sleeping-giants
 status: publish
 title: Setting fire to sleeping giants
+comments: true
 wordpress_id: '311'
 ? ''
 : - hardcore

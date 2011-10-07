@@ -5,6 +5,7 @@ layout: post
 slug: astronomische-uhrzeiten
 status: publish
 title: Astronomische Uhrzeiten
+comments: true
 wordpress_id: '137'
 ? ''
 : - gedanken

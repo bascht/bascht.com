@@ -5,6 +5,7 @@ layout: post
 slug: lastgraph-funktioniert-wieder
 status: publish
 title: Lastgraph funktioniert wieder
+comments: true
 wordpress_id: '364'
 ? ''
 : - unsortiertes

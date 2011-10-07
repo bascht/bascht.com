@@ -5,6 +5,7 @@ layout: post
 slug: mehr-fernsehen-mehr-bilder
 status: publish
 title: Mehr Fernsehen, mehr Bilder!
+comments: true
 wordpress_id: '238'
 ? ''
 : - Uncategorized

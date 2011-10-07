@@ -5,6 +5,7 @@ layout: post
 slug: zu-viel-nachmittagsschlaf
 status: publish
 title: Zu viel Nachmittagsschlaf
+comments: true
 wordpress_id: '155'
 ? ''
 : - gedanken

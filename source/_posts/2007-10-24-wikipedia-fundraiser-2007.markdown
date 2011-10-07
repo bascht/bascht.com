@@ -5,6 +5,7 @@ layout: post
 slug: wikipedia-fundraiser-2007
 status: publish
 title: Wikipedia Fundraiser 2007
+comments: true
 wordpress_id: '270'
 ? ''
 : - freie kultur

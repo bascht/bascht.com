@@ -5,6 +5,7 @@ layout: post
 slug: gobby
 status: publish
 title: gobby
+comments: true
 wordpress_id: '170'
 ? ''
 : - computer

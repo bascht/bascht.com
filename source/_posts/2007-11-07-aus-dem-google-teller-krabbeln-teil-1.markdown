@@ -5,6 +5,7 @@ layout: post
 slug: aus-dem-google-teller-krabbeln-teil-1
 status: publish
 title: Aus dem Google-Teller Krabbeln - Teil 1
+comments: true
 wordpress_id: '279'
 ? ''
 : - überwachung

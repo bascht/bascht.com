@@ -5,6 +5,7 @@ layout: post
 slug: aol-sperrt-mal-wieder-pidgin-aus
 status: publish
 title: AOL sperrt mal wieder Pidgin aus
+comments: true
 wordpress_id: '545'
 ? ''
 : - aol

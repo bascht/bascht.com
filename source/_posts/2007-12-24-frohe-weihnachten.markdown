@@ -5,6 +5,7 @@ layout: post
 slug: frohe-weihnachten
 status: publish
 title: Frohe Weihnachten
+comments: true
 wordpress_id: '302'
 ? ''
 : - Uncategorized

@@ -5,6 +5,7 @@ layout: post
 slug: verteilt-die-mediensysteme
 status: publish
 title: Verteilt die Mediensysteme!
+comments: true
 wordpress_id: '323'
 ? ''
 : - lustiges

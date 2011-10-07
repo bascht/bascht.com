@@ -5,6 +5,7 @@ layout: post
 slug: flaboratorium-org-fluch-o-mat
 status: publish
 title: '[F]laboratorium.org - Fluch-O-Mat'
+comments: true
 wordpress_id: '557'
 ? ''
 : - Uncategorized

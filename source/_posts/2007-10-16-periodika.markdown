@@ -5,6 +5,7 @@ layout: post
 slug: periodika
 status: publish
 title: Periodika
+comments: true
 wordpress_id: '262'
 ? ''
 : - geburtstag

@@ -5,6 +5,7 @@ layout: post
 slug: praktinauten-de
 status: publish
 title: Praktinauten.de
+comments: true
 wordpress_id: '854'
 ? ''
 : - Uncategorized

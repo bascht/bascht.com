@@ -5,6 +5,7 @@ layout: post
 slug: nacht-in-leipzig
 status: publish
 title: Nacht in Leipzig
+comments: true
 wordpress_id: '205'
 ? ''
 : - feier

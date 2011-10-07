@@ -5,6 +5,7 @@ layout: post
 slug: der-witz-nach-drei
 status: publish
 title: Der Witz nach Drei
+comments: true
 wordpress_id: '95'
 ? ''
 : - lustiges

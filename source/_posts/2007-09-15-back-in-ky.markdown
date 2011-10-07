@@ -5,6 +5,7 @@ layout: post
 slug: back-in-ky
 status: publish
 title: Back in KY
+comments: true
 wordpress_id: '248'
 ? ''
 : - trip

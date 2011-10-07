@@ -5,6 +5,7 @@ layout: post
 slug: turbotv-folge-4
 status: publish
 title: TurboTV - Folge 4
+comments: true
 wordpress_id: '240'
 ? ''
 : - hardcore

@@ -5,6 +5,7 @@ layout: post
 slug: back-in-d
 status: publish
 title: Back in D
+comments: true
 wordpress_id: '250'
 ? ''
 : - gedanken

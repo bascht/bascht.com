@@ -5,6 +5,7 @@ layout: post
 slug: fruhschicht
 status: publish
 title: Frühschicht
+comments: true
 wordpress_id: '576'
 ? ''
 : - inbetween

@@ -5,6 +5,7 @@ layout: post
 slug: die-platte
 status: publish
 title: Die Platte
+comments: true
 wordpress_id: '215'
 ? ''
 : - freakstock

@@ -5,6 +5,7 @@ layout: post
 slug: 2008-roundup
 status: publish
 title: 2008 Roundup
+comments: true
 wordpress_id: '478'
 ? ''
 : - gedanken

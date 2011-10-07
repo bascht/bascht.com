@@ -5,6 +5,7 @@ layout: post
 slug: waaaaaaaaaaaarm
 status: publish
 title: Waaaaaaaaaaaarm...
+comments: true
 wordpress_id: '115'
 ? ''
 : - computer

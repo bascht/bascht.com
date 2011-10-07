@@ -5,6 +5,7 @@ layout: post
 slug: gesselschaft
 status: publish
 title: Gesselschaft
+comments: true
 wordpress_id: '118'
 ? ''
 : - lustiges

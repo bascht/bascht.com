@@ -5,6 +5,7 @@ layout: post
 slug: avahi
 status: publish
 title: Avahi!
+comments: true
 wordpress_id: '266'
 ? ''
 : - computer

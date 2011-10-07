@@ -5,6 +5,7 @@ layout: post
 slug: bsf-ssh-und-mehr
 status: publish
 title: bsf, ssh und mehr
+comments: true
 wordpress_id: '146'
 ? ''
 : - boysetsfire

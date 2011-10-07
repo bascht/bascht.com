@@ -5,6 +5,7 @@ layout: post
 slug: eine-referenzimplementierung
 status: publish
 title: Eine Referenzimplementierung
+comments: true
 wordpress_id: '280'
 ? ''
 : - howto

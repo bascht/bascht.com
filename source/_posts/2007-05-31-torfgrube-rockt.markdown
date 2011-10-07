@@ -5,6 +5,7 @@ layout: post
 slug: torfgrube-rockt
 status: publish
 title: Torfgrube rockt
+comments: true
 wordpress_id: '162'
 ? ''
 : - feierabend

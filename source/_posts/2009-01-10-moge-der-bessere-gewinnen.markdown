@@ -5,6 +5,7 @@ layout: post
 slug: moge-der-bessere-gewinnen
 status: publish
 title: Möge der Bessere gewinnen
+comments: true
 wordpress_id: '494'
 ? ''
 : - film

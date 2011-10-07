@@ -5,6 +5,7 @@ layout: post
 slug: 28-grad-celsius
 status: publish
 title: 28 Grad Celsius
+comments: true
 wordpress_id: '150'
 ? ''
 : - apple

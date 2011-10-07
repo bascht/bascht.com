@@ -5,6 +5,7 @@ layout: post
 slug: wenn-google-trotzt
 status: publish
 title: Wenn Google trotzt
+comments: true
 wordpress_id: '325'
 ? ''
 : - google

@@ -5,6 +5,7 @@ layout: post
 slug: today-forever-heute-im-gasometer
 status: publish
 title: Today Forever heute im Gasometer
+comments: true
 wordpress_id: '93'
 ? ''
 : - hardcore

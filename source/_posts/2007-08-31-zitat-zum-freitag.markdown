@@ -5,6 +5,7 @@ layout: post
 slug: zitat-zum-freitag
 status: publish
 title: Zitat zum Freitag
+comments: true
 wordpress_id: '229'
 ? ''
 : - blogs

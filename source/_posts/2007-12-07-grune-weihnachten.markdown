@@ -5,6 +5,7 @@ layout: post
 slug: grune-weihnachten
 status: publish
 title: Grüne Weihnachten
+comments: true
 wordpress_id: '296'
 ? ''
 : - gedanken

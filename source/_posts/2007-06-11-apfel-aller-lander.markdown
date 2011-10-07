@@ -5,6 +5,7 @@ layout: post
 slug: apfel-aller-lander
 status: publish
 title: Äpfel aller Länder
+comments: true
 wordpress_id: '173'
 ? ''
 : - apple

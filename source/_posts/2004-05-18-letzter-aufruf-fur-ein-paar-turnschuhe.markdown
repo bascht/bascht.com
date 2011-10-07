@@ -5,6 +5,7 @@ layout: post
 slug: letzter-aufruf-fur-ein-paar-turnschuhe
 status: publish
 title: Letzter Aufruf für ein Paar Turnschuhe
+comments: true
 wordpress_id: '7'
 ? ''
 : - internet

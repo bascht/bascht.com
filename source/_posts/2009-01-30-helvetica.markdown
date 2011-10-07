@@ -5,6 +5,7 @@ layout: post
 slug: helvetica
 status: publish
 title: Helvetica
+comments: true
 wordpress_id: '515'
 ? ''
 : - design

@@ -5,6 +5,7 @@ layout: post
 slug: ubuntu-dust-theme-schon-jetzt
 status: publish
 title: Ubuntu Dust Theme schon jetzt
+comments: true
 wordpress_id: '397'
 ? ''
 : - gnome

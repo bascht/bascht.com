@@ -5,6 +5,7 @@ layout: post
 slug: baschtcom-als-graph
 status: publish
 title: Bascht.com als Graph
+comments: true
 wordpress_id: '223'
 ? ''
 : - flickr

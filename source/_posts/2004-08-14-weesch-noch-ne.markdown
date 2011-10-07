@@ -5,6 +5,7 @@ layout: post
 slug: weesch-noch-ne
 status: publish
 title: Weesch noch ne.
+comments: true
 wordpress_id: '25'
 ? ''
 : - dresden

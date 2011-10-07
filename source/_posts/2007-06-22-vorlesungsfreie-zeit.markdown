@@ -5,6 +5,7 @@ layout: post
 slug: vorlesungsfreie-zeit
 status: publish
 title: Vorlesungsfreie Zeit
+comments: true
 wordpress_id: '182'
 ? ''
 : - feierabend

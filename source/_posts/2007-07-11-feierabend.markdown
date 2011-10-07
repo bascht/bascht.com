@@ -5,6 +5,7 @@ layout: post
 slug: feierabend
 status: publish
 title: Feierabend
+comments: true
 wordpress_id: '200'
 ? ''
 : - feierabend

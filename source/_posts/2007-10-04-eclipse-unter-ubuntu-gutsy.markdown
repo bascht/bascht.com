@@ -5,6 +5,7 @@ layout: post
 slug: eclipse-unter-ubuntu-gutsy
 status: publish
 title: Eclipse unter Ubuntu Gutsy
+comments: true
 wordpress_id: '255'
 ? ''
 : - eclipse

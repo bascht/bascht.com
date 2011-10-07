@@ -5,6 +5,7 @@ layout: post
 slug: mucky-fingers
 status: publish
 title: mucky fingers
+comments: true
 wordpress_id: '329'
 ? ''
 : - computer

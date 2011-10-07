@@ -5,6 +5,7 @@ layout: post
 slug: messengerjam
 status: publish
 title: Messengerjam
+comments: true
 wordpress_id: '72'
 ? ''
 : - computer

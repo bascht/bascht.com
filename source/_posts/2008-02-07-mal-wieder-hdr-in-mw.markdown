@@ -5,6 +5,7 @@ layout: post
 slug: mal-wieder-hdr-in-mw
 status: publish
 title: Mal wieder HDR in MW
+comments: true
 wordpress_id: '324'
 ? ''
 : - fotos

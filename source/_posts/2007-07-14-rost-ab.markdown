@@ -5,6 +5,7 @@ layout: post
 slug: rost-ab
 status: publish
 title: Rost ab!
+comments: true
 wordpress_id: '201'
 ? ''
 : - auto

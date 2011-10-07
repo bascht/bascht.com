@@ -5,6 +5,7 @@ layout: post
 slug: do-do-do-do-dot-dot-dot-dot-lets-go
 status: publish
 title: dö dö dö dö döt döt döt döt, LET'S GO!
+comments: true
 wordpress_id: '570'
 ? ''
 : - Uncategorized

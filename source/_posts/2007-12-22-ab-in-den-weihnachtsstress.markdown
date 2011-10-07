@@ -5,6 +5,7 @@ layout: post
 slug: ab-in-den-weihnachtsstress
 status: publish
 title: Ab in den Weihnachtsstress
+comments: true
 wordpress_id: '301'
 ? ''
 : - gedanken

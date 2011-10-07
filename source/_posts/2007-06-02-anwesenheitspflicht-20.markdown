@@ -5,6 +5,7 @@ layout: post
 slug: anwesenheitspflicht-20
 status: publish
 title: Anwesenheitspflicht 2.0
+comments: true
 wordpress_id: '165'
 ? ''
 : - hardcore

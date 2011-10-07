@@ -5,6 +5,7 @@ layout: post
 slug: wochenende-in-bayern
 status: publish
 title: Wochenende in Bayern
+comments: true
 wordpress_id: '13'
 ? ''
 : - Uncategorized

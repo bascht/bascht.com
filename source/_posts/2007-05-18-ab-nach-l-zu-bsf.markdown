@@ -5,6 +5,7 @@ layout: post
 slug: ab-nach-l-zu-bsf
 status: publish
 title: Ab nach L zu BSF
+comments: true
 wordpress_id: '145'
 ? ''
 : - boysetsfire

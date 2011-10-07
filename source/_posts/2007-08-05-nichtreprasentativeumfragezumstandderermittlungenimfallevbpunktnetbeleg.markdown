@@ -5,6 +5,7 @@ layout: post
 slug: nichtreprasentativeumfragezumstandderermittlungenimfallevbpunktnetbeleg
 status: publish
 title: nichtrepräsentativeumfragezumstandderermittlungenimfallevbpunktnetbeleg
+comments: true
 wordpress_id: '217'
 ? ''
 : - programmieren

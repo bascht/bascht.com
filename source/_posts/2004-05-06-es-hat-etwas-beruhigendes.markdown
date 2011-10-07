@@ -5,6 +5,7 @@ layout: post
 slug: es-hat-etwas-beruhigendes
 status: publish
 title: Es hat etwas beruhigendes
+comments: true
 wordpress_id: '3'
 ? ''
 : - bascht.com

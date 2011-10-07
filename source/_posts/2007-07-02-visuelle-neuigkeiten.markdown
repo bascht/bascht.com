@@ -5,6 +5,7 @@ layout: post
 slug: visuelle-neuigkeiten
 status: publish
 title: Visuelle Neuigkeiten
+comments: true
 wordpress_id: '192'
 ? ''
 : - essen

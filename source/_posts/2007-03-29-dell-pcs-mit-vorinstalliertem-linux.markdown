@@ -5,6 +5,7 @@ layout: post
 slug: dell-pcs-mit-vorinstalliertem-linux
 status: publish
 title: DELL PCs mit vorinstalliertem Linux
+comments: true
 wordpress_id: '75'
 ? ''
 : - computer

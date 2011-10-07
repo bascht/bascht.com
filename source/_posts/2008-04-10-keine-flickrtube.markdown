@@ -5,6 +5,7 @@ layout: post
 slug: keine-flickrtube
 status: publish
 title: Keine FlickrTube
+comments: true
 wordpress_id: '346'
 ? ''
 : - flickr

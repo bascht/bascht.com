@@ -5,6 +5,7 @@ layout: post
 slug: kleines-diy-projekt
 status: publish
 title: Kleines DIY-Projekt
+comments: true
 wordpress_id: '231'
 ? ''
 : - basteln

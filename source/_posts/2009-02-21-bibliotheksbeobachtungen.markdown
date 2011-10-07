@@ -5,6 +5,7 @@ layout: post
 slug: bibliotheksbeobachtungen
 status: publish
 title: Bibliotheksbeobachtungen
+comments: true
 wordpress_id: '541'
 ? ''
 : - bibliothek

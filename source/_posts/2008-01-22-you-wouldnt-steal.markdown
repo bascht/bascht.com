@@ -5,6 +5,7 @@ layout: post
 slug: you-wouldnt-steal
 status: publish
 title: You wouldn't steal?
+comments: true
 wordpress_id: '319'
 ? ''
 : - computer

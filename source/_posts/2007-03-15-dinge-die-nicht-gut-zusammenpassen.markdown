@@ -5,6 +5,7 @@ layout: post
 slug: dinge-die-nicht-gut-zusammenpassen
 status: publish
 title: Dinge, die nicht gut zusammenpassen
+comments: true
 wordpress_id: '54'
 ? ''
 : - gedanken

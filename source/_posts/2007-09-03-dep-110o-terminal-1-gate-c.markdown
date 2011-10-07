@@ -5,6 +5,7 @@ layout: post
 slug: dep-110o-terminal-1-gate-c
 status: publish
 title: dep. 11:0O Terminal 1, Gate C
+comments: true
 wordpress_id: '234'
 ? ''
 : - phil

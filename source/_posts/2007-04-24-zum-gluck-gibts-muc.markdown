@@ -5,6 +5,7 @@ layout: post
 slug: zum-gluck-gibts-muc
 status: publish
 title: Zum Glück gibts MUC
+comments: true
 wordpress_id: '105'
 ? ''
 : - andré

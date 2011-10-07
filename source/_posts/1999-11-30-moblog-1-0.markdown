@@ -5,6 +5,7 @@ layout: post
 slug: moblog-1-0
 status: publish
 title: Moblog 1.0
+comments: true
 wordpress_id: '884'
 ? ''
 : - Uncategorized

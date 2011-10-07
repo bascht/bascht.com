@@ -5,6 +5,7 @@ layout: post
 slug: ein-tag-ohne-x
 status: publish
 title: Ein Tag ohne X?
+comments: true
 wordpress_id: '154'
 ? ''
 : - howto

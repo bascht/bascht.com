@@ -5,6 +5,7 @@ layout: post
 slug: software-development-cycle
 status: publish
 title: Software Development Cycle
+comments: true
 wordpress_id: '258'
 ? ''
 : - computer

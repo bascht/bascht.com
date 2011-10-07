@@ -5,6 +5,7 @@ layout: post
 slug: konnt-ein-morgen-denn-besser-losgehn
 status: publish
 title: Könnt' ein Morgen denn besser losgehn...
+comments: true
 wordpress_id: '132'
 ? ''
 : - gedanken

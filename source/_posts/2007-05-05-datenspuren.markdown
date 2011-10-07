@@ -5,6 +5,7 @@ layout: post
 slug: datenspuren
 status: publish
 title: Datenspuren
+comments: true
 wordpress_id: '125'
 ? ''
 : - ccc

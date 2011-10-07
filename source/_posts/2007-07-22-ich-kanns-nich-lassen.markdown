@@ -5,6 +5,7 @@ layout: post
 slug: ich-kanns-nich-lassen
 status: publish
 title: Ich kanns nich lassen
+comments: true
 wordpress_id: '207'
 ? ''
 : - beryl

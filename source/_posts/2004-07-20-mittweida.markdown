@@ -5,6 +5,7 @@ layout: post
 slug: mittweida
 status: publish
 title: Mittweida
+comments: true
 wordpress_id: '15'
 ? ''
 : - mittweida

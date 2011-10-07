@@ -5,6 +5,7 @@ layout: post
 slug: symfony-in-24-tagen
 status: publish
 title: Symfony in 24 Tagen
+comments: true
 wordpress_id: '440'
 ? ''
 : - entwicklung

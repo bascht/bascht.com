@@ -5,6 +5,7 @@ layout: post
 slug: php-pdo-unter-leopard
 status: publish
 title: PHP + PDO unter Leopard
+comments: true
 wordpress_id: '299'
 ? ''
 : - computer

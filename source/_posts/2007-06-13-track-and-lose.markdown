@@ -5,6 +5,7 @@ layout: post
 slug: track-and-lose
 status: publish
 title: Track and Lose
+comments: true
 wordpress_id: '176'
 ? ''
 : - fehler

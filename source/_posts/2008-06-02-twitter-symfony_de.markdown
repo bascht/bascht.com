@@ -5,6 +5,7 @@ layout: post
 slug: twitter-symfony_de
 status: publish
 title: Twitter Symfony_DE
+comments: true
 wordpress_id: '360'
 ? ''
 : - blog

@@ -5,6 +5,7 @@ layout: post
 slug: sights-sounds-men-eater
 status: publish
 title: SIGHTS & SOUNDS + MEN EATER
+comments: true
 wordpress_id: '584'
 ? ''
 : - Uncategorized

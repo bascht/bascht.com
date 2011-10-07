@@ -5,6 +5,7 @@ layout: post
 slug: hacken-bei-der-airforce
 status: publish
 title: Hacken bei der AirForce
+comments: true
 wordpress_id: '349'
 ? ''
 : - lustiges

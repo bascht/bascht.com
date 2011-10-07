@@ -5,6 +5,7 @@ layout: post
 slug: wieder-mw
 status: publish
 title: Wieder MW
+comments: true
 wordpress_id: '308'
 ? ''
 : - computer

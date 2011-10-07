@@ -5,6 +5,7 @@ layout: post
 slug: mittweida-4
 status: publish
 title: Mittweida
+comments: true
 wordpress_id: '873'
 ? ''
 : - Uncategorized

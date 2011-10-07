@@ -5,6 +5,7 @@ layout: post
 slug: garantiebeschiss-und-opposition-of-one
 status: publish
 title: Garantiebeschiss und Opposition of One
+comments: true
 wordpress_id: '168'
 ? ''
 : - hardcore

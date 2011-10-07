@@ -5,6 +5,7 @@ layout: post
 slug: vimperator-und-rememberthemilk
 status: publish
 title: Vimperator und Rememberthemilk
+comments: true
 wordpress_id: '489'
 ? ''
 : - firefox

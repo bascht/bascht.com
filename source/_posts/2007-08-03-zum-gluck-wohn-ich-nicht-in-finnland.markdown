@@ -5,6 +5,7 @@ layout: post
 slug: zum-gluck-wohn-ich-nicht-in-finnland
 status: publish
 title: Zum Glück wohn ich nicht in Finnland
+comments: true
 wordpress_id: '216'
 ? ''
 : - finnland

@@ -5,6 +5,7 @@ layout: post
 slug: schmu-mit-spaniern
 status: publish
 title: Schmu mit Spaniern
+comments: true
 wordpress_id: '58'
 ? ''
 : - frank

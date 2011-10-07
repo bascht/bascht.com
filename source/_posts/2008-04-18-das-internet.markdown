@@ -5,6 +5,7 @@ layout: post
 slug: das-internet
 status: publish
 title: Das Internet
+comments: true
 wordpress_id: '353'
 ? ''
 : - comics

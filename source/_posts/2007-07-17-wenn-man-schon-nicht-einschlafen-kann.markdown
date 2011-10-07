@@ -5,6 +5,7 @@ layout: post
 slug: wenn-man-schon-nicht-einschlafen-kann
 status: publish
 title: Wenn man schon nicht einschlafen kann...
+comments: true
 wordpress_id: '204'
 ? ''
 : - bascht.com

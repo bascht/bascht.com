@@ -5,6 +5,7 @@ layout: post
 slug: freundearbeitblog
 status: publish
 title: Freundearbeitblog!
+comments: true
 wordpress_id: '239'
 ? ''
 : - blog

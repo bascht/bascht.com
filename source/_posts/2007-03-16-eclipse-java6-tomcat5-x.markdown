@@ -5,6 +5,7 @@ layout: post
 slug: eclipse-java6-tomcat5-x
 status: publish
 title: Eclipse + Java6 + Tomcat5 + X
+comments: true
 wordpress_id: '56'
 ? ''
 : - computer

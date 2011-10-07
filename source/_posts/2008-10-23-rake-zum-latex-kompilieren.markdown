@@ -5,6 +5,7 @@ layout: post
 slug: rake-zum-latex-kompilieren
 status: publish
 title: Rake zum LaTeX kompilieren
+comments: true
 wordpress_id: '427'
 ? ''
 : - diplom

@@ -5,6 +5,7 @@ layout: post
 slug: praktinautende
 status: publish
 title: Praktinauten.de
+comments: true
 wordpress_id: '32'
 ? ''
 : - internet

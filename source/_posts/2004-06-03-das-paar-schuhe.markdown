@@ -5,6 +5,7 @@ layout: post
 slug: das-paar-schuhe
 status: publish
 title: Das Paar Schuhe...
+comments: true
 wordpress_id: '9'
 ? ''
 : - internet

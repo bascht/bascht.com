@@ -5,6 +5,7 @@ layout: post
 slug: were-leaving
 status: publish
 title: We're leaving
+comments: true
 wordpress_id: '247'
 ? ''
 : - canada

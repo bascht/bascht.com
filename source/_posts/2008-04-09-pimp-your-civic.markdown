@@ -5,6 +5,7 @@ layout: post
 slug: pimp-your-civic
 status: publish
 title: Pimp your Civic
+comments: true
 wordpress_id: '345'
 ? ''
 : - unsortiertes

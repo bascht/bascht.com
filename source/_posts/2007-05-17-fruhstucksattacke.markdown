@@ -5,6 +5,7 @@ layout: post
 slug: fruhstucksattacke
 status: publish
 title: Frühstücksattacke
+comments: true
 wordpress_id: '144'
 ? ''
 : - braincup

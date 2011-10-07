@@ -5,6 +5,7 @@ layout: post
 slug: update-your-aggregators
 status: publish
 title: Update your Aggregators
+comments: true
 wordpress_id: '354'
 ? ''
 : - bascht.com

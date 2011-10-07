@@ -5,6 +5,7 @@ layout: post
 slug: opensocial
 status: publish
 title: opensocial.*
+comments: true
 wordpress_id: '277'
 ? ''
 : - computer

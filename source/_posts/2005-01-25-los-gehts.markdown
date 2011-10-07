@@ -5,6 +5,7 @@ layout: post
 slug: los-gehts
 status: publish
 title: Los gehts
+comments: true
 wordpress_id: '23'
 ? ''
 : - prüfungen

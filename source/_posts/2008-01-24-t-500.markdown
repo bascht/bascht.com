@@ -5,6 +5,7 @@ layout: post
 slug: t-500
 status: publish
 title: T-500
+comments: true
 wordpress_id: '321'
 ? ''
 : - computer

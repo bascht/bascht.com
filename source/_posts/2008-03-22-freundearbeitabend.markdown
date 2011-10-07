@@ -5,6 +5,7 @@ layout: post
 slug: freundearbeitabend
 status: publish
 title: Freundearbeitabend
+comments: true
 wordpress_id: '333'
 ? ''
 : - unsortiertes

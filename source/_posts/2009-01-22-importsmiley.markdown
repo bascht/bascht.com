@@ -5,6 +5,7 @@ layout: post
 slug: importsmiley
 status: publish
 title: Importsmiley
+comments: true
 wordpress_id: '508'
 ? ''
 : - lustiges

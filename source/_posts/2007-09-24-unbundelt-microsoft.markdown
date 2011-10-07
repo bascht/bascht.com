@@ -5,6 +5,7 @@ layout: post
 slug: unbundelt-microsoft
 status: publish
 title: Unbundelt Microsoft!
+comments: true
 wordpress_id: '251'
 ? ''
 : - microsoft

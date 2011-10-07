@@ -5,6 +5,7 @@ layout: post
 slug: fli4l
 status: publish
 title: Fli4l
+comments: true
 wordpress_id: '21'
 ? ''
 : - linux

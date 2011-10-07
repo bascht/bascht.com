@@ -5,6 +5,7 @@ layout: post
 slug: nachholen
 status: publish
 title: Nachholen
+comments: true
 wordpress_id: '562'
 ? ''
 : - Uncategorized

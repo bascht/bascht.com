@@ -5,6 +5,7 @@ layout: post
 slug: casino-brawl-die-zweite
 status: publish
 title: Casino Brawl, die Zweite
+comments: true
 wordpress_id: '111'
 ? ''
 : - chemnitz

@@ -5,6 +5,7 @@ layout: post
 slug: mac-user-und-die-realitat
 status: publish
 title: Mac User und die Realität
+comments: true
 wordpress_id: '119'
 ? ''
 : - andré

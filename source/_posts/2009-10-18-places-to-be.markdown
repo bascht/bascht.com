@@ -5,6 +5,7 @@ layout: post
 slug: places-to-be
 status: publish
 title: Places to be.
+comments: true
 wordpress_id: '579'
 ? ''
 : - Uncategorized

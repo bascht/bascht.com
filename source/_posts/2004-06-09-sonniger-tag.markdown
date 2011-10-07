@@ -5,6 +5,7 @@ layout: post
 slug: sonniger-tag
 status: publish
 title: Sonniger Tag
+comments: true
 wordpress_id: '11'
 ? ''
 : - freunde

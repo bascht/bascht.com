@@ -5,6 +5,7 @@ layout: post
 slug: leipzig-89-blinkenlights-lookalike
 status: publish
 title: Leipzig '89 Blinkenlights lookalike
+comments: true
 wordpress_id: '583'
 ? ''
 : - Uncategorized

@@ -5,6 +5,7 @@ layout: post
 slug: spaziergang-im-mediamarkt
 status: publish
 title: Spaziergang im Mediamarkt
+comments: true
 wordpress_id: '26'
 ? ''
 : - lustiges

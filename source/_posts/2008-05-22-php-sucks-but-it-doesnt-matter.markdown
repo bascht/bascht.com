@@ -5,6 +5,7 @@ layout: post
 slug: php-sucks-but-it-doesnt-matter
 status: publish
 title: PHP sucks, but it doesn't matter
+comments: true
 wordpress_id: '359'
 ? ''
 : - blogs

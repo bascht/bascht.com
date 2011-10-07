@@ -5,6 +5,7 @@ layout: post
 slug: schlafstorungen
 status: publish
 title: Schlafstörungen?
+comments: true
 wordpress_id: '12'
 ? ''
 : - freunde

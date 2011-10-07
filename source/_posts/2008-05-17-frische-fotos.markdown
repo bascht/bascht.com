@@ -5,6 +5,7 @@ layout: post
 slug: frische-fotos
 status: publish
 title: Frische Fotos
+comments: true
 wordpress_id: '357'
 ? ''
 : - flickr

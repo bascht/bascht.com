@@ -5,6 +5,7 @@ layout: post
 slug: 0-euro-vista
 status: publish
 title: 0 Euro Vista
+comments: true
 wordpress_id: '113'
 ? ''
 : - computer

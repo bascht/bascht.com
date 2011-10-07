@@ -5,6 +5,7 @@ layout: post
 slug: people-what
 status: publish
 title: People what?
+comments: true
 wordpress_id: '188'
 ? ''
 : - blog

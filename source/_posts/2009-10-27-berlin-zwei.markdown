@@ -5,6 +5,7 @@ layout: post
 slug: berlin-zwei
 status: publish
 title: berlin. zwei.
+comments: true
 wordpress_id: '573'
 ? ''
 : - berlin

@@ -5,6 +5,7 @@ layout: post
 slug: jetzt-ist-er-weg
 status: publish
 title: Jetzt ist er weg...
+comments: true
 wordpress_id: '10'
 ? ''
 : - freunde

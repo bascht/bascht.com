@@ -5,6 +5,7 @@ layout: post
 slug: auf-zum-altstadtfest
 status: publish
 title: Auf zum Altstadtfest
+comments: true
 wordpress_id: '221'
 ? ''
 : - mittweida

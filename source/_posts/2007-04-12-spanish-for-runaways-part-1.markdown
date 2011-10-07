@@ -5,6 +5,7 @@ layout: post
 slug: spanish-for-runaways-part-1
 status: publish
 title: Spanish for Runaways - Part (1)
+comments: true
 wordpress_id: '91'
 ? ''
 : - bier

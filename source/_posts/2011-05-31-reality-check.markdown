@@ -5,6 +5,7 @@ layout: post
 slug: reality-check
 status: publish
 title: Reality Check
+comments: true
 wordpress_id: '1216'
 excerpt: I've taken the plunge to a static-HTML blog with Jekyll. I'm impressed so far. I love having the whole she-bang in git, but then again the whole idea of a "datastore in git":/2008/04/13/git-as-a-data-store.html has fascinated me from the start.
 categories:

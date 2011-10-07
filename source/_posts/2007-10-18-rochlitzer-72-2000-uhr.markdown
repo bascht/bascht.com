@@ -5,6 +5,7 @@ layout: post
 slug: rochlitzer-72-2000-uhr
 status: publish
 title: Rochlitzer 72 - 20:00 Uhr
+comments: true
 wordpress_id: '263'
 ? ''
 : - feierabend

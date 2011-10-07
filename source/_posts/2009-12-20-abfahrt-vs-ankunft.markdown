@@ -5,6 +5,7 @@ layout: post
 slug: abfahrt-vs-ankunft
 status: publish
 title: Abfahrt vs. Ankunft
+comments: true
 wordpress_id: '559'
 ? ''
 : - Uncategorized

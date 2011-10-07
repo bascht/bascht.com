@@ -5,6 +5,7 @@ layout: post
 slug: walk-astray
 status: publish
 title: Walk Astray
+comments: true
 wordpress_id: '80'
 ? ''
 : - gedanken

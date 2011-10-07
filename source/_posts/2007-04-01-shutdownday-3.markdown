@@ -5,6 +5,7 @@ layout: post
 slug: shutdownday-3
 status: publish
 title: Shutdownday!!
+comments: true
 wordpress_id: '836'
 ? ''
 : - Uncategorized

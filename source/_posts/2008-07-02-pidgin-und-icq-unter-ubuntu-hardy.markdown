@@ -5,6 +5,7 @@ layout: post
 slug: pidgin-und-icq-unter-ubuntu-hardy
 status: publish
 title: Pidgin und ICQ unter Ubuntu Hardy
+comments: true
 wordpress_id: '370'
 ? ''
 : - chat

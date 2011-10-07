@@ -5,6 +5,7 @@ layout: post
 slug: montag-abgehakt
 status: publish
 title: Montag abgehakt
+comments: true
 wordpress_id: '577'
 ? ''
 : - inbetween

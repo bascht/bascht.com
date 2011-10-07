@@ -5,6 +5,7 @@ layout: post
 slug: buntes-land-oelsnitz
 status: publish
 title: Buntes Land Oelsnitz
+comments: true
 wordpress_id: '166'
 ? ''
 : - feier

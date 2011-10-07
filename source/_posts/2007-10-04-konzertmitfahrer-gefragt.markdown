@@ -5,6 +5,7 @@ layout: post
 slug: konzertmitfahrer-gefragt
 status: publish
 title: Konzertmitfahrer gefragt!
+comments: true
 wordpress_id: '256'
 ? ''
 : - chemnitz

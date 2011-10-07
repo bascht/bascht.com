@@ -5,6 +5,7 @@ layout: post
 slug: storm-the-gates-of-hell
 status: publish
 title: Storm the Gates of Hell
+comments: true
 wordpress_id: '272'
 ? ''
 : - gedanken

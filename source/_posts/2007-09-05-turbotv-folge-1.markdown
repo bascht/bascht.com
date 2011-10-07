@@ -5,6 +5,7 @@ layout: post
 slug: turbotv-folge-1
 status: publish
 title: TurboTV - Folge 1
+comments: true
 wordpress_id: '236'
 ? ''
 : - bascht

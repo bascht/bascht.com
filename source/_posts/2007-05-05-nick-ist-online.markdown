@@ -5,6 +5,7 @@ layout: post
 slug: nick-ist-online
 status: publish
 title: Nick ist Online
+comments: true
 wordpress_id: '126'
 ? ''
 : - blog

@@ -5,6 +5,7 @@ layout: post
 slug: partners-in-crime
 status: publish
 title: Partners in Crime
+comments: true
 wordpress_id: '183'
 ? ''
 : - gedanken

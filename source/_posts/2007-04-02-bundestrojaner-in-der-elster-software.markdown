@@ -5,6 +5,7 @@ layout: post
 slug: bundestrojaner-in-der-elster-software
 status: publish
 title: Bundestrojaner in der ELSTER-Software
+comments: true
 wordpress_id: '79'
 ? ''
 : - bundestrojaner

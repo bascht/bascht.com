@@ -5,6 +5,7 @@ layout: post
 slug: matheabi
 status: publish
 title: Matheabi
+comments: true
 wordpress_id: '135'
 ? ''
 : - abi

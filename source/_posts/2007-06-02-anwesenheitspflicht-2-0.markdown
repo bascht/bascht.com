@@ -5,6 +5,7 @@ layout: post
 slug: anwesenheitspflicht-2-0
 status: publish
 title: Anwesenheitspflicht 2.0
+comments: true
 wordpress_id: '776'
 ? ''
 : - Uncategorized

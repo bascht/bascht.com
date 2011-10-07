@@ -5,6 +5,7 @@ layout: post
 slug: x11-leopard-focus
 status: publish
 title: X11 Leopard Focus
+comments: true
 wordpress_id: '297'
 ? ''
 : - computer

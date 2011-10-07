@@ -5,6 +5,7 @@ layout: post
 slug: prufungszeitabschlussveranstaltung
 status: publish
 title: Prüfungszeitabschlussveranstaltung
+comments: true
 wordpress_id: '197'
 ? ''
 : - gedanken

@@ -5,6 +5,7 @@ layout: post
 slug: nachts-um-zwei-in-typo3
 status: publish
 title: 'Nachts um Zwei in #typo3'
+comments: true
 wordpress_id: '74'
 ? ''
 : - chat

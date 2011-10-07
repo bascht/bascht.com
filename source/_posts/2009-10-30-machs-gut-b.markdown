@@ -5,6 +5,7 @@ layout: post
 slug: machs-gut-b
 status: publish
 title: Machs gut, B.
+comments: true
 wordpress_id: '571'
 ? ''
 : - Uncategorized

@@ -5,6 +5,7 @@ layout: post
 slug: shutdownday
 status: publish
 title: Shutdownday!?
+comments: true
 wordpress_id: '67'
 ? ''
 : - computer

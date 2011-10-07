@@ -5,6 +5,7 @@ layout: post
 slug: icq-ist-aol
 status: publish
 title: ICQ ist AOL
+comments: true
 wordpress_id: '369'
 ? ''
 : - chat

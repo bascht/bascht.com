@@ -5,6 +5,7 @@ layout: post
 slug: das-ramratespiel
 status: publish
 title: Das RamRateSpiel
+comments: true
 wordpress_id: '69'
 ? ''
 : - computer

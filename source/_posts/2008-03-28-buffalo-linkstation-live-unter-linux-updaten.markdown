@@ -5,6 +5,7 @@ layout: post
 slug: buffalo-linkstation-live-unter-linux-updaten
 status: publish
 title: Buffalo Linkstation Live unter Linux updaten
+comments: true
 wordpress_id: '339'
 ? ''
 : - unsortiertes

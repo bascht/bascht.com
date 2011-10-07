@@ -5,6 +5,7 @@ layout: post
 slug: overheadoverhead
 status: publish
 title: Overheadoverhead
+comments: true
 wordpress_id: '133'
 ? ''
 : - java
