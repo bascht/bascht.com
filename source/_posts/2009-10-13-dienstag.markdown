@@ -1,0 +1,15 @@
+---
+author: bascht
+date: '2009-10-13 07:25:40'
+layout: post
+slug: dienstag
+status: publish
+title: Dienstag
+wordpress_id: '588'
+? ''
+: - Uncategorized
+---
+
+[![image](http://bascht.files.wordpress.com/2009/10/photo_on_2009-10-13_at_09-19.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/photo_on_2009-10-13_at_09-19.jpg)
+
+

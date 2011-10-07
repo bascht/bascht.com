@@ -1,0 +1,40 @@
+---
+author: bascht
+date: '2007-12-28 12:41:08'
+layout: post
+slug: 24c3-saal-1
+status: publish
+title: 24C3 - Saal 1
+wordpress_id: '305'
+? ''
+: - berlin
+  - berlin
+  - ccc
+  - ccc
+  - computer
+  - computer
+  - Uncategorized
+  - unterwegs
+  - unterwegs
+  - wlan
+  - wlan
+---
+
+Gut angekommen. Grad in "Elektronische Dokumente und die Zukunft
+des Lesens - Warum es so ewig gedauert hat, bis Bücher auf
+geeigneten Geräten lesbar wurden, und was uns noch erwartet". Nur
+mal zur Info, was hier 'verstrahlt' bedeutet:
+![24C3 WLAN](http://www.bascht.com/uploads/2007/12/24c3wlan.png)
+
+ 
+
+ 
+
+
+
+Viele Grüße aus Berlin,
+
+bascht
+
+
+

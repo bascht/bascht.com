@@ -1,0 +1,29 @@
+---
+author: bascht
+date: '2007-06-22 16:49:41'
+layout: post
+slug: vorlesungsfreie-zeit
+status: publish
+title: Vorlesungsfreie Zeit
+wordpress_id: '182'
+? ''
+: - feierabend
+  - feierabend
+  - gedanken
+  - gedanken
+  - lernen
+  - lernen
+  - prüfungen
+  - prüfungen
+  - studium
+  - studium
+  - wochenende
+  - wochenende
+---
+
+Eigentlich ein zynischer Begriff! Aber trotzdem, irgendwie müssen
+wir durch. Also: Alles gute für die Prüfungszeit! Und ein schönes
+Wochenende. Und, Arlett - nicht so viel
+[ärgern](http://zitrus.myblog.de/zitrus/art/175277816/).Â :)
+
+

@@ -1,0 +1,23 @@
+---
+author: bascht
+date: '2007-03-22 20:52:46'
+layout: post
+slug: anmeldemeldung
+status: publish
+title: Anmeldemeldung
+wordpress_id: '65'
+? ''
+: - computer
+  - computer
+  - lustiges
+  - lustiges
+  - Uncategorized
+  - windows
+  - windows
+---
+
+Wieder ein Vorschlag für das Wort des Jahres 2007:
+"Anmeldemeldung".
+[![Anmeldemeldung](http://www.bascht.com/uploads/2007/03/anmeldemeldung.jpg)](http://www.bascht.com/uploads/2007/03/anmeldemeldung.jpg "Anmeldemeldung")
+
+

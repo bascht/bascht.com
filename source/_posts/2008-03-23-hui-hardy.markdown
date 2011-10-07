@@ -1,0 +1,28 @@
+---
+author: bascht
+date: '2008-03-23 17:17:38'
+layout: post
+slug: hui-hardy
+status: publish
+title: Hui, Hardy
+wordpress_id: '334'
+? ''
+: - linux
+  - linux
+  - neuigkeiten
+  - neuigkeiten
+  - ubuntu
+  - ubuntu
+---
+
+Die Liste der Neuerungen im neuen Ubuntu ist wirklich
+beeindruckend. Bin mir nur nicht sicher, ob ich Zeit finde, noch
+eine Beta zu testen - oder bis zum Release im April durchhalte...
+:)
+[http://www.ubuntu.com/testing/hardy/beta](http://www.ubuntu.com/testing/hardy/beta)
+Für Support, wendet euch an
+[Arlett](http://schnatterinchen.wordpress.com/2008/03/14/ubuntu/).
+\*hehe\*
+
+
+
