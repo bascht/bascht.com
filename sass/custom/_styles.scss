@@ -3,9 +3,14 @@
 
 @import "compass/css3";
 
+.heading  { font-family: Courier, Arial, sans-serif; }
+.sans  { font-family: Courier, Arial, sans-serif; }
+.serif { font-family: Courier, Georgia, Times, "Times New Roman", serif; }
+.mono  { font-family: $mono; }
+
 html {
     background-color: #000000;
-    background-image: url("http://bascht.com/images/main_background.png");
+    background-image: url("images/main_background.png");
     background-repeat: repeat-x;
 }
 
@@ -16,12 +21,12 @@ body > header {
 }
 
 body > header h1 a {
-    font-family: Georgia;
+    font-weight: bold;
 }
 
-div#content {
-    @include box-shadow(inset #b0b0b0 4px 4px 5px);
-}
+// div#content {
+//     @include box-shadow(inset #b0b0b0 4px 4px 5px);
+// }
 
 img.borderless {
     border: none;
