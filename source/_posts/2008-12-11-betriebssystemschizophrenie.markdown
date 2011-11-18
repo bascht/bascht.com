@@ -31,7 +31,9 @@ geworden und es fühlt sich extrem gut an.
 neuen Begriff ins Internet importieren:
 Betriebssystemschizophrenie
 Warum?
-[![Betriebssystemschizophrenie](http://www.bascht.com/uploads/2008/12/schizophrenie-300x242.png "Betriebssystemschizophrenie")](http://www.bascht.com/uploads/2008/12/schizophrenie.png)
+
+[{% img center /a/2008-12-11-betriebssystemschizophrenie/schizophrenie.png 500 %}](/a/2008-12-11-betriebssystemschizophrenie/schizophrenie.png)
+
 Ich sitze grade am Thinkpad (**Ubuntu 8.10**), bin per RDP an einem
 **Windows Server 2003 R2** eingeloggt und hab vor dort in einer
 Virtuellen Maschine ein 32bit **Ubuntu 8.04 LTS** zu installieren.
