@@ -63,6 +63,7 @@ github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
+<<<<<<< HEAD
 # # Twitter
 # twitter_user: bascht
 # twitter_tweet_count: 4
@@ -70,6 +71,15 @@ github_skip_forks: true
 # twitter_follow_button: false
 # twitter_show_follower_count: false
 # twitter_tweet_button: false
+=======
+# Twitter
+twitter_user: bascht
+twitter_tweet_count: 4
+twitter_show_replies: false
+twitter_follow_button: true
+twitter_show_follower_count: false
+twitter_tweet_button: false
+>>>>>>>  - rakefile + main background
 
 # Google +1
 google_plus_one: false
