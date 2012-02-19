@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /blog/feed/
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -69,7 +69,7 @@ twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -92,8 +92,8 @@ delicious_count: 3
 flattr_user:
 
 # Disqus Comments
-disqus_short_name: bascht
-disqus_show_comment_count: false
+disqus_short_name: "bascht"
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
