@@ -19,7 +19,7 @@ und der [PHPUGL](http://www.phpugl.de).
 Musikalisch fühle ich mich irgendwo zwischen Hardcore und Jazz zu Hause, spiele Gitarre und ein 
 KORG nanoKEY (letzteres noch mehr schlecht als recht). Falls ihr mir nicht im echten Leben begegnen möchtet, gibt es hier eine
 breite Auswahl sozialer Netzwerke, in denen ihr mich stalken könnt. Sonst freue ich mich natürlich immer
-über Kommentare in meinem <a href="http://blog.bascht.com" title="Mein Blog bei Posterous">Blog</a>.<br/>
+über Kommentare in meinem <a href="http://bascht.com/blog" title="Mein Blog">Blog</a>.<br/>
 
 Viel Spaß dabei.
 
