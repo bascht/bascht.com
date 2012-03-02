@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Flattr
-flattr_user:
+flattr_user: bascht
 
 # Disqus Comments
 disqus_short_name: "bascht"
