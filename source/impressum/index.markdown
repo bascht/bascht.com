@@ -22,10 +22,10 @@ sharing: false
 ### PGP Key
 
 Verschlüsselte Post gern via [PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7406AC3EBC21CEC5). 
+Meinen Schlüssel gibt es unter [bascht.com/key.asc](https://bascht.com/key.asc) oder plain:
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: GnuPG/MacGPG2 v2.0.18 (Darwin)
-    Comment: GPGTools - http://gpgtools.org
+    Version: GnuPG v1.4.12 (GNU/Linux)
 
     mQMuBE6TSJMRCACrJ8R4L0jQ9qYfZpznwnOzCoFHOp4VGvjClxjzaQtVAWLIOjkr
     pgFXHtK0FHmW959QDDqg2Jo0ZRnw86y9/X5T20uTlA7I+5WEh1f2CDqSFXojw4WC
@@ -45,10 +45,10 @@ Verschlüsselte Post gern via [PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&s
     vTl3ybEEkzSXT4QbZbBtVAQLfRWVSFoJlV0HORveTYwFpKuhN/0z2f35YblBsQPr
     OT+wlsUY2fv86zPa/1Cx1zr9gG7Rkx2ALSxxVRomVDcaofvSKxBjfXEk+jhkcLzR
     RbRPU2ViYXN0aWFuIFNjaHVsemUgKEJhc2NodHMgS2V5IGFiIDIwMTEgaHR0cDov
-    L3d3dy5iYXNjaHQuY29tKSA8bWFpbEBiYXNjaHQuY29tPoiABBMRCAAoBQJOk0iT
-    AhsDBQkB4TOABgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRB0Bqw+vCHOxYVa
-    AP4ktsyT32AV20FfFMVi+LXpqvj3WpkGcvs3nede3s4pegD7BF3jgPD+5fNGLpOi
-    0qgXfA+nwe4isEDQ04BglopCvK65Ag0ETpNIkxAIAKk5b59MORm+C0V94Qf+xfCj
+    L3d3dy5iYXNjaHQuY29tKSA8bWFpbEBiYXNjaHQuY29tPoiABBMRCAAoAhsDBgsJ
+    CAcDAgYVCAIJCgsEFgIDAQIeAQIXgAUCUHSKXgUJA8PGywAKCRB0Bqw+vCHOxQVC
+    AP4hoL4ctwkk7n0+sbDHCHykC7yocSNOfMoS2JGYo9WuiwEAr+SkfYXWrfxdsR99
+    vQWjD/poQ7DMszX+9eML5PO5oZm5Ag0ETpNIkxAIAKk5b59MORm+C0V94Qf+xfCj
     M4Bj2U9O1+9kz8IaoS8MfHYNDURHWxqpy1QuSRbmbuiej3AtI8S714jz/EfeWZds
     FkdNRvpfCkzYJfpF7fy9O0/G/lz7O/xQ44yxumi/WBNcq5JUwA2CNBaCzvDhcMRp
     4F4OkSlV9hcdGu/kpNSDP5vTuhrw276zZY1bTfJkc5C1jzdtQVmbV//YdyeRfsSf
@@ -60,8 +60,21 @@ Verschlüsselte Post gern via [PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&s
     9KLJVpPo2OsHuY79ZEEUqTSO9xp9qBrchKZEy7nPrelnwC+F6ma6gielr7t3Cn9t
     UXDAbB+0nwnw9hntR7XtfnoLTcT5UF66MA7yIHR1wzCrmTS7UBNR9P4lAshSlHNa
     q+72tTMu6ma6Jt/IX02t7uN2deaIZwQYEQgADwUCTpNIkwIbDAUJAeEzgAAKCRB0
-    Bqw+vCHOxYW7AP9c3dnDirpWywENgByB+ZvYZt15P+j1qHHm+w8beo3eUgD/UMU4
-    a7I5Tl7Pbe+b/HhbIiZgBrwHDFtrMuhDdp1S2rQ=
-    =DAx2
+    Bqw+vCHOxYW7AP9wdrwDsVYBSz3yVJ2loEpyhlUGjbjtWa3K13Cy0ju4hAEAo8jo
+    88P1v2AMqDVa6eeyBsytfjbqKVv0QFB3Oq2lF8y5Ag0EUHSKzgEQAMoBx2oA/GIn
+    BlS8TdofrGVU+loaKTrSVyrjGsIJf6JFkTyDXtqMfvG272A/2BxziI2sjD3FoISe
+    qRxi96NSIg8FelAxpHm3kMo3AgSkMatevIJnZrBHQIjuuA18j+uH+7YXmJl5ovhU
+    E69Voi+azU3vxHqG8IXbhhKivmoPKQWixcFnOJ+jJhJFMzrjxeDTAGncs+dAUulM
+    RwPfxSPb21vSNI2Z7i6mYoJOMBfcJSNICUAcv/2FqIeClLJDEw5iG2N31jFTWEbF
+    Zmj9FoQrDHxDSTy6O9/bOyix5/4Xs0M9d/g64s+IoZpahjdGsKEtSHQUqoFKQEd4
+    PWIltQFfaRL3xlRM4IjIgJ0vEBIbD3o3KZkN5c+8U5Z5R3+rjejBxq4kaXQh3tF0
+    sgaVljMaXH5Fs6e2Jev6zg42Ezql9Wp1hl1UTkABN0au/yLMQt1/Lb/EwICNn9GN
+    m2c/Xn4JvOIRpIJJhDPAY+wF0nxWh08PGjerXOUaj3Iju8HjzIhiSVEI07mJHFGK
+    JbG+B2NU1updvs9U+MLwbFoPXew3ZSDEt9YTigJuIZCERNWiScTXZUt2MhNmlIuF
+    oV++mAaituzTH98gwX+gwqA2CGoWvQJC22Pn3AULBuC+r7b8jEcki1ybNj9da3uo
+    swHhgCuAgYvUYVxfQllHO6+1yAcFkDvdABEBAAGIZwQYEQgADwUCUHSKzgIbDAUJ
+    AeEzgAAKCRB0Bqw+vCHOxaYoAP9chmYTVuo8ELWOZFbByy0H+/jfpRsUFGkZ55y3
+    GGV6PwD+LDv9X72DsBO2WAIZWTZQqp3eyhFvK9DN5gc6kM3euz0=
+    =p3ER
     -----END PGP PUBLIC KEY BLOCK-----
 
