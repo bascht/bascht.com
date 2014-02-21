@@ -6,14 +6,15 @@ status: publish
 title: Google überall
 comments: true
 wordpress_id: '567'
-? ''
-: - Uncategorized
+autoframe: true
+tags: google, gefunden
 ---
 
-[](http://www.filippominelli.com/google.html)[![image](http://bascht.files.wordpress.com/2009/11/media_httpwwwfilippominellicomfotogoogle16jpg_bsccafxfijqbdkc-scaled500.jpg?w=300)](http://posterous.com/getfile/files.posterous.com/bascht/FqBaiaCJksrJxyisovpCkmhkAAGDssJAulcfyDjEJBGmhpeyulBGoaApGjAk/media_httpwwwfilippominellicomfotogoogle16jpg_bsCcAFxfIJqBDkc.jpg.scaled1000.jpg)
-via [filippominelli.com](http://www.filippominelli.com/google.html)
-Google überall. Diesmal nicht nur im Internet.   
-(gefunden bei @saschaaleks01)
+Via [filippominelli.com](http://www.filippominelli.com/google.html)
 
+Google überall. Diesmal nicht nur im Internet.   
+(gefunden bei [@saschaaleks01](https://twitter.com/saschaaleks01))
+
+![Google Wall](/blog/2009-11-12-google-uberall/media_httpwwwfilippominellicomfotogoogle16jpg_bsccafxfijqbdkc-scaled500.jpg)
 
 

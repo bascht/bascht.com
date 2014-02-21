@@ -6,25 +6,8 @@ status: publish
 title: Adobe AIR mit einem 64 bit Ubuntu
 comments: true
 wordpress_id: '391'
-? ''
-: - adobe
-  - adobe
-  - air
-  - air
-  - howto
-  - howto
-  - linux
-  - linux
-  - software
-  - software
-  - tweetdeck
-  - tweetdeck
-  - twitter
-  - twitter
-  - ubuntu
-  - ubuntu
-  - unsortiertes
-  - unsortiertes
+autoframe: true
+tags: adobe, air, howto, linux, software, tweetdeck, twitter, ubuntu
 ---
 
 Adobe AIR machte auf meinem 64bit Ubuntu irgendwie keine richtigen
@@ -39,7 +22,9 @@ eine AIR App herunter und entpackt sie (das sind einfache
 ZIP-Files) gleich mit in das AIR Verzeichnis. Ich hab ein
 Unterverzeichnis 'apps' erstellt. Ich nehm als Beispiel mal
 TweetDeck: /home/bascht/bin/air/apps/TweetDeck
-[![image](http://www.bascht.com/uploads/2008/10/air_app1.jpg "air_app1")](http://www.bascht.com/uploads/2008/10/air_app1.jpg)
+
+![Tweetdeck](/blog/2008-10-08-adobe-air-mit-einem-64-bit-ubuntu/air_app.jpg)
+
 Jetzt legt euch einfach einen Starter ins Panel, der die AIR
 Applikation direkt startet: /home/bascht/bin/air/bin/adl -nodebug
 /home/bascht/bin/air/apps/TweetDeck/META-INF/AIR/application.xml

@@ -6,14 +6,11 @@ status: publish
 title: Places to be.
 comments: true
 wordpress_id: '579'
-? ''
-: - Uncategorized
+tags: proberaum, musik, arbeit, hardcore
 ---
-
-[![image](http://bascht.files.wordpress.com/2009/10/2009-10-18_15-09-40-scaled-1000.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/2009-10-18_15-09-40-scaled-1000.jpg)
-
 
 Proberaum, Arbeitsplatz
 
+![Proberaum](/blog/2009-10-18-places-to-be/2009-10-18_15-09-40-scaled-1000.jpg)
 
 

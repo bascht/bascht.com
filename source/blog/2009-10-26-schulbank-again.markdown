@@ -6,17 +6,9 @@ status: publish
 title: Schulbank again
 comments: true
 wordpress_id: '574'
-? ''
-: - berlin
-  - berlin
-  - linux
-  - linux
-  - lpic
-  - lpic
-  - Uncategorized
+autoframe: true
+tags: schulbank, schule, berlin, linux, lpic, unterwegs
 ---
-
-[![image](http://bascht.files.wordpress.com/2009/10/2009-10-26_16-14-53-scaled-1000.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/2009-10-26_16-14-53-scaled-1000.jpg)
 
 
 Nun nochmal amtlich, weil bisher recht wenig Zeit zum
@@ -28,4 +20,4 @@ Niederländer als Dozent. Was will man mehr?
 Also, falls du auch grad in Berlin herumschlurfst: Drop me a line!
 
 
-
+![Schulbank](/blog/2009-10-26-schulbank-again/2009-10-26_16-14-53-scaled-1000.jpg)

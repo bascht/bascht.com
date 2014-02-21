@@ -1,4 +1,5 @@
 @import "foundation/components/buttons";
+@import "foundation/components/thumbs";
 
 @font-face {
     font-family: 'inconsolatamedium';
@@ -73,6 +74,12 @@ body {
   color: #CACACA;
   text-align: right;
   font-size: small;
+}
+
+article.autoframe img {
+ @include thumb;
+ margin: 0.5em;
+ text-align: center;
 }
 
 p img.right { 

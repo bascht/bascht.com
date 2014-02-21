@@ -6,16 +6,9 @@ status: publish
 title: Montag abgehakt
 comments: true
 wordpress_id: '577'
-? ''
-: - inbetween
-  - inbetween
-  - monday
-  - monday
-  - Uncategorized
+autoframe: true
+tags: inbetween, inbetween, monday, monday
 ---
-
-[![image](http://bascht.files.wordpress.com/2009/10/2009-10-19_23-06-30-scaled-1000.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/2009-10-19_23-06-30-scaled-1000.jpg)
-
 
 Tag mit Buch und Stille beenden. Vorher das (dann doch bei iTunes
 gekaufte) Gwen Stacy Album durchknüppeln lassen. Katze schläft im
@@ -24,3 +17,4 @@ Decided to call it a day.
 
 
 
+![Montag](/blog/2009-10-19-montag-abgehakt/2009-10-19_23-06-30-scaled-1000.jpg)

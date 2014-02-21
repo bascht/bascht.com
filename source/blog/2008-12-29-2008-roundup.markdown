@@ -6,13 +6,7 @@ status: publish
 title: 2008 Roundup
 comments: true
 wordpress_id: '478'
-? ''
-: - gedanken
-  - gedanken
-  - jahresrückblick
-  - jahresrückblick
-  - unsortiertes
-  - unsortiertes
+tags: gedanken, jahresrückblick
 ---
 
 Sodala. Das war doch schon fast wieder ein Jahr. Morgen ist der
@@ -25,19 +19,19 @@ für euch noch 2008 zu erledigenden Aufgaben als
 [Trackback](http://www.bascht.com/2008/12/29/2008-roundup/trackback)
 zurück! Für mich gibts noch dringend zu tun:
 
--   Rechnungen schreiben
--   Quittungen einkleben, sortieren
--   Bibo-Bücher bis 2009 verlängern (haben mich schonmal 7€
-    gekostet...)
--   Post der Weihnachtswoche filtern, gewichten, abheften
--   Das Geld von meinem Kühlschrank-Handel weiterleiten
--   Taz Abo für 3 Monate bezahlen
--   Dem bascht.com-mysqld Problem auf den Grund gehen **\***
+- Rechnungen schreiben
+- Quittungen einkleben, sortieren
+- Bibo-Bücher bis 2009 verlängern (haben mich schonmal 7€
+  gekostet...)
+- Post der Weihnachtswoche filtern, gewichten, abheften
+- Das Geld von meinem Kühlschrank-Handel weiterleiten
+- Taz Abo für 3 Monate bezahlen
+- Dem bascht.com-mysqld Problem auf den Grund gehen⃰
 
 Dann mach ich mich mal an die Arbeit...
-**\*** irgendwie wird mein MySQL ständig vom Kernel mit einer "out
-of memory, killing..." Meldung weggeschossen. Anregungen gerne an
-mich.
+
+ (⃰) irgendwie wird mein MySQL ständig vom Kernel mit einer "out of memory, killing..." 
+Meldung weggeschossen. Anregungen gerne an mich.
 
 
 

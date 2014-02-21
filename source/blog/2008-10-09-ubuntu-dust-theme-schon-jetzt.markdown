@@ -9,7 +9,6 @@ wordpress_id: '397'
 tags: gnome, grafik, howto, linux, software, ubuntu, unsortiertes
 ---
 
-![Dust Theme](/blog/2008-10-09-ubuntu-dust-theme-schon-jetzt/dusttheme-300x207.jpg)
 Wer nicht bis zum Ibex-Release warten möchte, kann schon jetzt
 seinem Ubuntu ein eleganteres Aussehen verleihen: Unter
 [https://wiki.ubuntu.com/Artwork/Incoming/DustTheme](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme)
@@ -25,4 +24,4 @@ Ihr braucht folgendes:
     [Ubuntu Wiki: Firefox Dust Theme](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme#Firefox%20theme)
 
 
-
+![Dust Theme](/blog/2008-10-09-ubuntu-dust-theme-schon-jetzt/dusttheme-300x207.jpg)

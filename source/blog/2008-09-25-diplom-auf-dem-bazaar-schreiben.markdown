@@ -5,6 +5,7 @@ slug: diplom-auf-dem-bazaar-schreiben
 status: publish
 title: Diplom auf dem Bazaar schreiben
 comments: true
+autoframe: true
 wordpress_id: '385'
 ? ''
 : - bzr
@@ -34,7 +35,8 @@ ohne VCS. Bazaar löst das traumhaft und mittlerweile mache ich fast
 schon lieber merges, als commits (was mir mit SVN niemals in den
 Sinn gekommen wäre...). So sieht das ganze mit Olive aus (Meine
 Dipl-Arbeit auf 3 Rechnern):
-[![image](http://www.bascht.com/uploads/2008/09/bzr-diploma-300x295.png "bzr-diploma")](http://www.bascht.com/uploads/2008/09/bzr-diploma.png)
+
+![Bazaar](/blog/2008-09-25-diplom-auf-dem-bazaar-schreiben/bzr-diploma.png)
 
 
 

@@ -6,13 +6,7 @@ status: publish
 title: Sharing is fun
 comments: true
 wordpress_id: '552'
-tags:
-  - cc
-  - creativecommons
-  - flickr
-  - hackintosh
-  - osx86
-  - sharing
+tags: cc, creativecommons, flickr, hackintosh, osx86, sharing
 ---
 
 Gerade beim stöbern einen Blogpost zum Hackintosh-Bau entdeckt.

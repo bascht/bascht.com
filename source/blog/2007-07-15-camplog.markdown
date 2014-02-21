@@ -16,8 +16,12 @@ wordpress_id: '203'
   - unterwegs
 ---
 
-![Camping](http://www.bascht.com/uploads/2007/07/campingk.jpg)
-Grüße vom Zeltplatz Weissenstädter See! :Ham uns irgendwo im
-Fichtelgebirge niedergelassen...
 
+Grüße vom Zeltplatz Weissenstädter See! Ham uns irgendwo im Fichtelgebirge niedergelassen...
+
+Ich meinte: Verfahren.
+
+Trotzdem: Schön hier.
+
+![Camping](/blog/2007-07-15-camplog/campingk.jpg)
 

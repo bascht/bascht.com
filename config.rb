@@ -88,6 +88,9 @@ helpers do
   def nav_active(page)
     (current_page.url.start_with?(page)) ? ' active' : ''
   end
+  def blog_image(img)
+    [current_page.url, img].join 'index/'
+  end
 end
 
 # set :css_dir, 'css'

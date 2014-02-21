@@ -5,13 +5,9 @@ slug: musikalische-gretchenfrage
 status: publish
 title: Musikalische Gretchenfrage
 comments: true
+autoframe: true
 wordpress_id: '560'
-? ''
-: - music
-  - music
-  - thoughts
-  - thoughts
-  - Uncategorized
+tags: musik, gedanken, itunes
 ---
 
 Obacht. No offense.
@@ -26,7 +22,8 @@ wahrzunehmen.
 Nachdem ich mit [Phil](http://twitter.com/philonfire) lange über
 seine Entscheidung diskutiert habe, war es dann gestern soweit:   
 Ich habe mein iTunes geschröpft.  
-[![image](http://bascht.files.wordpress.com/2009/12/shot1-scaled-500.jpg?w=300)](http://posterous.com/getfile/files.posterous.com/bascht/Rvz0f8qnQfDaJYw241dFmWZyKBXVYpxim7oxurycB26eiYC9kqCiPdDOyraR/shot1.jpg)
+
+![iTunes](/blog/2009-12-16-musikalische-gretchenfrage/shot1-scaled-500.jpg)
 
 Ich besitze jetzt nur noch Alben, die ich gekauft habe, die es
 legal zum Download gab, oder die ich über das Homesharing

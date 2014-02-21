@@ -5,20 +5,10 @@ slug: volkerfreundschaft
 status: publish
 title: 'Völkerfreundschaft '
 comments: true
+autoframe: true
 wordpress_id: '554'
-? ''
-: - agavi
-  - agavi
-  - frameworks
-  - frameworks
-  - php
-  - php
-  - symfony
-  - symfony
-  - Uncategorized
+tags: agavi, frameworks, php, symfony
 ---
-
-[![image](http://bascht.files.wordpress.com/2010/03/bascht.jpg?w=300)](http://bascht.files.wordpress.com/2010/03/bascht.jpg)
 
 Hab' gestern ein kleines, aber feines Paket aus der Post gefischt.
   
@@ -27,6 +17,8 @@ Liebevoll und Handsigniert von
 @[fnordfish](http://twitter.com/fnordfish).
 
 Der Inhalt: **Ein Agavi-Shirt**!
+
+![Bascht mit Agavi-Shirt](/blog/2010-03-21-volkerfreundschaft/bascht.jpg)
 
 Nein, ich wurde nicht bestochen. Und nein, mein E-Mail Account
 wurde   

@@ -6,11 +6,8 @@ status: publish
 title: Leipzig '89 Blinkenlights lookalike
 comments: true
 wordpress_id: '583'
-? ''
-: - Uncategorized
+tags: leipzig, blinkenlights, daheim
 ---
 
-[![image](http://bascht.files.wordpress.com/2009/10/2009-10-09_18-56-00-scaled-1000.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/2009-10-09_18-56-00-scaled-1000.jpg)
 
-
-
+![Leipzig 89](/blog/2009-10-14-leipzig-89-blinkenlights-lookalike/2009-10-09_18-56-00-scaled-1000.jpg)

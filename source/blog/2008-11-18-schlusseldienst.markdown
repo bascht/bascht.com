@@ -6,17 +6,7 @@ status: publish
 title: Schlüsseldienst
 comments: true
 wordpress_id: '436'
-? ''
-: - aktuelles
-  - aktuelles
-  - pgp
-  - pgp
-  - sicherheit
-  - sicherheit
-  - unsortiertes
-  - unsortiertes
-  - verschlüsselung
-  - verschlüsselung
+tags: aktuelles, pgp, sicherheit, verschlüsselung
 ---
 
 Hallo zusammen. Gerade gemerkt das ich meinen privaten Schlüssel
@@ -24,6 +14,7 @@ versaubeutelt hab. Ab sofort sind meine PGP Schlüssel von 2005
 41385A71 und 341C2500 nicht mehr gültig. Hab einen aktualisierten
 Schlüssel schon hochgeladen, den jetzt mal auf 1 Jahr begrenzt. :)
 Schlüssel ID: 6A3BB6E1
+
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1.4.9 (GNU/Linux)
     

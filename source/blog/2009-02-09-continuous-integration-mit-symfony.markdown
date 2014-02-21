@@ -5,22 +5,9 @@ slug: continuous-integration-mit-symfony
 status: publish
 title: Continuous Integration mit Symfony
 comments: true
+autoframe: true
 wordpress_id: '522'
-? ''
-: - agile development
-  - agile development
-  - ci
-  - ci
-  - lernen
-  - lernen
-  - php
-  - php
-  - programming
-  - programming
-  - symfony
-  - symfony
-  - unsortiertes
-  - unsortiertes
+tags: agile development, ci, lernen, php, programming, symfony
 ---
 
 Auf Wunsch eines einzelnen
@@ -38,19 +25,25 @@ liegt im Repo. Also, frisch ans Werk - Plugin eingebunden - Task
 probiert - **Fehler**. Hab mich mit Skoop kurzgeschlossen, das
 Plugin ist derzeit nur Symfony 1.2 erprobt. Bei Versionen < 1.2
 scheint das Autoloading fehlzuschlagen. Einfach per Hand nachrüsten
-und los gehts: [sourcecode language="php"]
-include\_once(sfConfig::get('sf\_plugins\_dir') .
-'/symfonyUnderControlPlugin/lib/SymfonyUnderControlOutput.class.php');
-include\_once(sfConfig::get('sf\_plugins\_dir') .
-'/symfonyUnderControlPlugin/lib/SymfonyUnderControlTest.class.php');
-[/sourcecode] Wer zu Faul zum tippen ist, nimmt meinen Patch:
+und los gehts: 
+
+```php
+include_once(sfConfig::get('sf_plugins_dir') .  \
+  '/symfonyUnderControlPlugin/lib/SymfonyUnderControlOutput.class.php');
+include_once(sfConfig::get('sf_plugins_dir') .  \
+  '/symfonyUnderControlPlugin/lib/SymfonyUnderControlTest.class.php');
+```
+
+Wer zu Faul zum tippen ist, nimmt meinen Patch:
 [phpuc.p0](http://www.bascht.com/uploads/2009/02/phpuc.p0). Jetzt
 das Build-File für ant noch erstellen, dabei einfach der Anleitung
 auf der Pluginwebseite folgen. Ich hab lediglich noch einen Task
 zur Modelerstellung unter Doctrine hinzugefügt. `` Das wars - jetzt
 den Java-Buildserver von CruiseControl starten und warten bis die
 ersten Builds durchrollen.
-[![symfonyundercontrol](http://www.bascht.com/uploads/2009/02/symfonyundercontrol.png "symfonyundercontrol")](http://www.bascht.com/uploads/2009/02/symfonyundercontrol.png)
+
+![Symfony under control](/blog/2009-02-09-continuous-integration-mit-symfony/symfonyundercontrol.png)
+
 Happy Coding! Bei Fragen, einfach
 irc://irc.freenode.net:6667/\#symfony und dort skoop. :-)
 

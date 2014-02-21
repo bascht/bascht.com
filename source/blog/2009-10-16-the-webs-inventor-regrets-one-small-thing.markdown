@@ -1,7 +1,6 @@
 ---
 author: bascht
 date: '2009-10-16 07:35:53'
-slug: the-web%e2%80%99s-inventor-regrets-one-small-thing
 status: publish
 title: The Web’s Inventor Regrets One Small Thing
 comments: true

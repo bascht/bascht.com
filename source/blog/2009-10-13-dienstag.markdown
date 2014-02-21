@@ -6,10 +6,10 @@ status: publish
 title: Dienstag
 comments: true
 wordpress_id: '588'
-? ''
-: - Uncategorized
+autoframe: true
+tags: dienstag, gedanken
 ---
 
-[![image](http://bascht.files.wordpress.com/2009/10/photo_on_2009-10-13_at_09-19.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/photo_on_2009-10-13_at_09-19.jpg)
+Dienstag halt.
 
-
+![Dienstag](/blog/2009-10-13-dienstag/photo_on_2009-10-13_at_09-19.jpg)

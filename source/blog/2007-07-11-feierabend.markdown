@@ -14,8 +14,8 @@ wordpress_id: '200'
   - Uncategorized
 ---
 
-...muss auch mal sein. Und wenns dann noch gemütlich und mit WLAN
-verstrahlt ist - was will man mehr? :)
-![Marcos Sofa](http://www.bascht.com/uploads/2007/07/sofaresized.jpg)
+...muss auch mal sein. Und wenns dann noch gemütlich und mit WLAN verstrahlt ist - was will man mehr? :)
+
+![Marcos Sofa](/blog/2007-07-11-feierabend/sofaresized.jpg)
 
 

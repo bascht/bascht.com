@@ -5,20 +5,9 @@ slug: betriebssystemschizophrenie
 status: publish
 title: Betriebssystemschizophrenie
 comments: true
+autoframe: true
 wordpress_id: '447'
-? ''
-: - betriebssysteme
-  - betriebssysteme
-  - lustiges
-  - lustiges
-  - seo
-  - seo
-  - ubuntu
-  - ubuntu
-  - unsortiertes
-  - unsortiertes
-  - windows
-  - windows
+tags: betriebssysteme, lustiges, seo, ubuntu, windows
 ---
 
 Heute wird [bascht.com](http://www.bascht.com) mal wieder
@@ -31,7 +20,7 @@ neuen Begriff ins Internet importieren:
 Betriebssystemschizophrenie
 Warum?
 
-[{% img center /a/2008-12-11-betriebssystemschizophrenie/schizophrenie.png 500 %}](/a/2008-12-11-betriebssystemschizophrenie/schizophrenie.png)
+![Betriebssystemschizophrenie](/blog/2008-12-11-betriebssystemschizophrenie/schizophrenie.png)
 
 Ich sitze grade am Thinkpad (**Ubuntu 8.10**), bin per RDP an einem
 **Windows Server 2003 R2** eingeloggt und hab vor dort in einer

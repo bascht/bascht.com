@@ -24,6 +24,12 @@ per_page: 12
       <p><%= link_to 'Next page', next_page %></p>
     <% end %>
   <% end %>
+
+  <h3>Andere Tags</h3>
+  <% blog(:bascht).tags.sort.each do |tag| %>
+      <%= link_to tag[0], tag_path(tag[0], :bascht) %>
+  <% end %>
+</ul>
 </div>
 <div class="large-2 columns">
   <%= partial "blog-calendar" %>

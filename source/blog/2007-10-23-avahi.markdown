@@ -6,27 +6,14 @@ status: publish
 title: Avahi!
 comments: true
 wordpress_id: '266'
-? ''
-: - computer
-  - computer
-  - linux
-  - linux
-  - lustiges
-  - lustiges
-  - mac
-  - mac
-  - Uncategorized
-  - vorlesung
-  - vorlesung
-  - windows
-  - windows
+tags: computer,linux,lustiges,mac,vorlesung,windows
 ---
 
-[![Avahi](http://www.bascht.com/uploads/2007/10/avahi.thumbnail.png)](http://www.bascht.com/uploads/2007/10/avahi.png "Avahi")Obacht,
-ihr Macs. ich seh euch! NurÂ ihrÂ seht michÂ (mal abgesehenÂ vonÂ
-iStumbleAndré) nich.
+![Avahi](/blog/2007-10-23-avahi/avahi.png)
 
-Hach,Â wasnÂ Spaß. WennÂ dieÂ WindowserÂ nurÂ wüsstenÂ wasÂ sieÂ
+Hallo ihr Macs. ich seh euch! Nur ihr seht mich (mal abgesehen von iStumbleAndré) nich.
+
+Hach, wasn Spaß. Wenn die Windowser nur wüssten was sie
 mit modernen Betriebssystemen alles machten könnten. :)
 
 

@@ -6,19 +6,7 @@ status: publish
 title: 24 Stunden Leipzig
 comments: true
 wordpress_id: '501'
-? ''
-: - leipzig
-  - leipzig
-  - linux
-  - linux
-  - ubuntu
-  - ubuntu
-  - unsortiertes
-  - unsortiertes
-  - video
-  - video
-  - youtube
-  - youtube
+tags: leipzig, linux, ubuntu, video, youtube
 ---
 
 Da man ja (besonders in der Diplomzeit) immer Zeit für Sachen
@@ -26,7 +14,13 @@ findet, die einen etwas ablenken, hab ich heute mal die Webcam
 angelassen und drüben auf die Kreuzung am Adler gerichtet. motion
 (sudo apt-get install motion) erledigte das Knipsen der Bilder und
 mencoder fügt mit Hilfe von
-`mencoder "mf://*.jpg" -mf fps=16 -o /tmp/test.avi -ovc lavc -lavcopts vcodec=msmpeg4v2:vbitrate=800`
+
+```bash
+mencoder "mf://*.jpg" -mf fps=16 -o /tmp/test.avi -ovc lavc -lavcopts vcodec=msmpeg4v2:vbitrate=800
+```
+
 das ganze zu einem Video zusammen. Fertig. Genießt es einfach. :-)
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/uTDK0wfmwaE?list=UUrla4yBG2pr9gWG9z7Kp43Q" frameborder="0" allowfullscreen></iframe>
 
 

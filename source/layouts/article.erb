@@ -1,8 +1,8 @@
 <% wrap_layout :layout do %>
 <div class="row">
   <div class="large-9 columns" role="content">
-  <article>
-    <h3><a href="#"><%= data.page.title %></a></h3>
+  <article class="<%= data.page.autoframe ? 'autoframe' : '' %>">
+    <h3><a href="<%= current_page.url %>"><%= data.page.title %></a></h3>
     <%= yield %>
   </article>
   <hr />

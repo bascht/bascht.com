@@ -30,7 +30,7 @@ title: Baschts Blog
           <% if current %>
             <%= article.summary(380, '…') %>
           <% else %>
-            <%= article.data.teaser || article.summary(120, '…') %>
+            <%= article.data.teaser || Nokogiri::HTML(article.summary(220, '…')).text %>
           <% end %>
           <a href="<%= article.url %>">[weiterlesen]</a>
         </article>

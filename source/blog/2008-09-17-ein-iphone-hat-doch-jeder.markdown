@@ -5,20 +5,9 @@ slug: ein-iphone-hat-doch-jeder
 status: publish
 title: Ein iPhone hat doch jeder
 comments: true
+autoframe: true
 wordpress_id: '377'
-? ''
-: - android
-  - android
-  - apple
-  - apple
-  - htc
-  - htc
-  - iphone
-  - iphone
-  - touch
-  - touch
-  - unsortiertes
-  - unsortiertes
+tags: android, apple, htc, iphone, touch
 ---
 
 Nachdem ich nun langsam auch aufs Vertragsende zuschlittere, kommt
@@ -27,7 +16,9 @@ kommt und eine solide Plattform für Android darstellen sollte...
 Vermutlich auch zu besseren Konditionen als ein iPhone, das mich \>
 450 EUR und eine Fahrt nach Italien kosten würde. Ich hab das
 jedenfalls schonmal getestet...
-[![image](http://www.bascht.com/uploads/2008/09/android-300x251.png "android")](http://www.bascht.com/uploads/2008/09/android.png)
+
+![Android](/blog/2008-09-17-ein-iphone-hat-doch-jeder/android.png)
+
 ...schauen wir mal. :)
 
 

@@ -9,7 +9,7 @@ Die kleinen Dinge des Alltags beachtet man üblicherweise viel zu wenig. Zu den 
 Dingen im Alltag eines DevOp und Entwicklers gehört ohne Zweifel sein Editor. Für mich 
 ist das seit nun schon fast 5 Jahren der *Vi IMproved Editor* **VIM**.
 
-{% img borderless /a/2012/02/vim.png [VIM] %}
+![VIM](/blog/2012-02-19-vim/vim.png)
 
 ## VIM ist für mich 
 

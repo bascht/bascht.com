@@ -6,24 +6,12 @@ status: publish
 title: Die Thrice-Linie
 comments: true
 wordpress_id: '575'
-? ''
-: - music
-  - music
-  - social networks
-  - social networks
-  - thrice
-  - thrice
-  - tools
-  - tools
-  - Uncategorized
-  - web
-  - web
+tags: music, social networks, thrice, tools, web
 ---
 
-[![image](http://bascht.files.wordpress.com/2009/10/graph_109227-scaled-1000.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/graph_109227-scaled-1000.jpg)
 
-Nachdem @keeev mich mal wieder auf meinen
-[alten Lastgraph Blogeintrag](http://blog.bascht.com/lastgraph-funktioniert-wieder)
+Nachdem [@keeev](https://twitter.com/keeev) mich mal wieder auf meinen
+[alten Lastgraph Blogeintrag](/blog/2008/06/09/lastgraph-funktioniert-wieder/)
 aufmerksam gemacht hat,
 
 hab ich nach über einem Jahr Abstinenz mal neue Graphen für mein
@@ -38,4 +26,7 @@ dicke Linie durch das ganze Profil: Thrice.
 Und zeigt mal eure Graphen, gern als Trackback - oder als
 Kommentar!
 
+<ul class="clearing-thumbs" data-clearing>
+  <li><a href="/blog/2009/10/23/die-thrice-linie/index/graph_109227-scaled-1000.jpg"><img data-catption="Thrice-Linie" src="/blog/2009/10/23/die-thrice-linie/index/graph_109227-scaled-1000.jpg"></a></li>
+</ul>
 
