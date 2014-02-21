@@ -83,6 +83,13 @@ end
 #   end
 # end
 
+helpers do
+  # WORKSFORMESOSHUTUP!
+  def nav_active(page)
+    (current_page.url.start_with?(page)) ? ' active' : ''
+  end
+end
+
 # set :css_dir, 'css'
 # 
 # set :js_dir, 'js'
