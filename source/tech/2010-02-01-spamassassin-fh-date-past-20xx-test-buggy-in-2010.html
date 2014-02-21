@@ -1,0 +1,10 @@
+---
+title: Spamassassin FH_DATE_PAST_20XX test buggy in 2010
+---
+<div class="posterous_bookmarklet_entry">
+      <blockquote class="posterous_long_quote">It seems there is an issue with the <a href="http://spamassassin.apache.org/">Spamassassin</a> <strong>FH_DATE_PAST_20XX</strong> test. This test checks whether the email has a date in the future and, if this is the case, raises the message’s score. Apparently, this test is falsely triggered by all emails that have been sent in 2010, producing several <em>false positives</em>.</blockquote>
+
+<div class="posterous_quote_citation">via <a href="http://www.g-loaded.eu/2010/01/02/spamassassin-fh_date_past_20xx-test-buggy-in-2010/">g-loaded.eu</a>
+</div>
+    <p>Due to a bug in the Spamassassin ruleset a lot of messages fail the FH_DATE_PAST_20XX check 'cause they are sent in 2010(!). <br>The resolution is quite handy: just run sa-update.</p>
+</div>

@@ -1,0 +1,15 @@
+---
+title: "Tech-Blog"
+date: 2013-07-17 10:45
+comments: true
+tags:  tech blog bascht.com meta
+---
+
+Was macht man, wenn man ein paar Stunden Leerlauf hat? _Richtig._ Man belebt seinen alten Tech-Blog wieder.
+Ich hatte mir (meine Güte ist das lang her) für kleine Code-Schnipsel und Konfigurations-Fetzen irgendwann einen Posterous
+Blog zusammengeklickt. Da mir dieser Hahn aber [abgedreht wurde](http://www.theverge.com/2013/2/15/3993770/blogging-platform-posterous-to-shut-down-on-april-30th), 
+hab' ich mich auf die Suche nach einer Alternative gemacht. Da Octopress für diesen Zweck zu mächtig war, ist es ein [Jekyll](http://jekyllrb.com/) geworden.
+
+[{% img center /a/2013/07/jekyll-logo.png %}](http://jekyllrb.com/)
+
+Den Rest der Geschichte gibt es dann [hier zu lesen](http://bascht.com/tech/2013/06/04/importing-posterous-into-jekyll/).

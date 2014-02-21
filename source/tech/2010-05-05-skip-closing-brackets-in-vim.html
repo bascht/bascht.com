@@ -1,0 +1,12 @@
+---
+title: Skip closing Brackets in VIM
+---
+<p>I love VIM and I recently stumbled upon a feature that you probably know <br>from TextMate: Skip the Closing bracket when typing. </p>
+<p></p> Sure. VIM can do that. <p></p> 
+<div class="CodeRay">
+  <div class="code"><pre>inoremap ( () inoremap  ) strpart(getline('.'), col('.')-1, 1) == ")" ? "\" : ")"</pre></div>
+</div>
+
+<p><br>This just skips the closing bracket and you can go on typing without <br>having to leave insert mode or do some awkward Emacs movements. </p>
+<p></p> Found at <a href="http://vim.wikia.com/wiki/Automatically_append_closing_characters">http://vim.wikia.com/wiki/Automatically_append_closing_characters</a>
+<p> </p>

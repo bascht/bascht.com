@@ -1,0 +1,26 @@
+---
+title: "Froscon 2013"
+date: 2013-09-18 12:55
+comments: true
+tags: froscon oss opensource bonn konferenz deployment
+---
+Ich habe auf der [RedFrog Conf 2013](http://ruby.froscon.de) einen kleinen Talk rund um das große Thema »Deployment« gehalten.
+Mitschnitt gibt es hier:
+
+<video width="640" height="360" poster="http://static.media.ccc.de/media/conferences/froscon/2013/hs6_-_2013-08-24_15_15_-_deployment_ohne_ziepen_-_sebastian_schulze_-_1266_preview.jpg" controls="controls" class="video">
+ <source src="http://cdn.media.ccc.de/events/froscon/2013/webm/hs6_-_2013-08-24_15_15_-_deployment_ohne_ziepen_-_sebastian_schulze_-_1266.webm" type="video/webm">
+ <source src="http://cdn.media.ccc.de/events/froscon/2013/mp4/hs6_-_2013-08-24_15_15_-_deployment_ohne_ziepen_-_sebastian_schulze_-_1266.mp4" type="video/mp4">
+</video>
+
+Und hier die Slides zum mitklicken:
+
+<script async class="speakerdeck-embed" data-id="1163a260028d0131bd093626fb0150fd" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script>
+
+Über Feedback (zum Beispiel bei [Lanyrd.com](http://lanyrd.com/2013/redfrogconf/scqbxg/)) freue ich mich natürlich sehr. Wenn ihr den Talk bewerten möchtet, 
+klickt einfach hier: [lanyrd.com/scqbxg](https://lanyrd.com/scqbxg).
+
+<hr/>
+
+* Das Video auf [media.ccc.de](http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-24_15:15_-_deployment_ohne_ziepen_-_sebastian_schulze_-_1266.html#).
+* Die Slides bei [speakerdeck.com](https://speakerdeck.com/bascht/deployment-ohne-ziepen).
+

@@ -1,0 +1,23 @@
+---
+author: bascht
+date: '2009-10-30 06:37:54'
+slug: buntes-b
+status: publish
+title: Buntes B
+comments: true
+wordpress_id: '572'
+? ''
+: - berlin
+  - berlin
+  - lpic
+  - lpic
+  - mornings
+  - mornings
+  - traveling
+  - traveling
+  - Uncategorized
+---
+
+[![image](http://bascht.files.wordpress.com/2009/10/2009-10-30_07-33-19-scaled-1000.jpg?w=300)](http://bascht.files.wordpress.com/2009/10/2009-10-30_07-33-19-scaled-1000.jpg)
+
+

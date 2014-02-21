@@ -1,0 +1,68 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= ("bascht.com » #{data.page.title}" if data.page.title) || "bascht.com" %></title>
+    
+    <%= stylesheet_link_tag "app", "syntax" %>
+    <%= javascript_include_tag "modernizr" %>
+    <link href="http://feeds.feedburner.com/baschtcom" rel="alternate" title="bascht.com" type="application/atom+xml">
+  </head>
+  
+  <body class="<%= page_classes %>">
+  <!-- Nav Bar -->
+ 
+  <div class="row header">
+    <div class="large-12 columns">
+      <div class="nav-bar right">
+       <ul class="button-group">
+        <li><%= link_to 'Blog', '/blog.html', :class => 'nav-button' %></li>
+        <li><%= link_to 'Tech', '/tech.html' , :class => 'nav-button'%></li>
+        <li><%= link_to 'Impressum', '/impressum.html', :class => 'nav-button' %></li>
+        </ul>
+      </div>
+      <h1 class="logo"><%= link_to 'bascht.com', '/' %></h1>
+      <small class="claim">Infrastruktur-Entwicklung &middot; Telefonseelsorge &middot; Open-Source.</small>
+      <hr />
+    </div>
+  </div>
+ 
+  <!-- End Nav -->
+ 
+ 
+  <!-- Main Page Content and Sidebar -->
+ 
+  <div class="row">
+    <div class="large-12 columns">
+      <%= yield %>
+    </div>
+  </div>
+ 
+  <!-- End Main Content and Sidebar -->
+ 
+ 
+  <!-- Footer -->
+ 
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr />
+      <div class="row">
+        <div class="large-6 columns">
+          <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_GB"><%= image_tag 'cc.png', :alt => 'Creative Commons License' %></a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_GB">CC BY-SA</a> license.</p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="inline-list right">
+            <li><a href="https://twitter.com/bascht">Twitter</a></li>
+            <li><a href="https://github.com/bascht">Github</a></li>
+            <li><a href="https://www.xing.com/profile/Sebastian_Schulze10/N52.057a44">Xing</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <%= javascript_include_tag  "all" %>
+  </body>
+</html>

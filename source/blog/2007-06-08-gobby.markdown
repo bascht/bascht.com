@@ -1,0 +1,33 @@
+---
+author: bascht
+date: '2007-06-08 03:15:22'
+slug: gobby
+status: publish
+title: gobby
+comments: true
+wordpress_id: '170'
+? ''
+: - computer
+  - computer
+  - linux
+  - linux
+  - mac
+  - mac
+  - programmieren
+  - programmieren
+  - studium
+  - studium
+---
+
+04:09am Kaffee, Kuchen, Bash Soweit zum Status hier. :-) Frank,
+André und ich üben grad noch bisschen für Betriebssysteme. Dafür
+wird wohl die morgige 09:45-Veranstaltung ausfallen. Aber so lernt
+man eh mehr. Vor allem, wenn man **gobby** hat!
+[![Gobby Sitzung](http://www.bascht.com/uploads/2007/06/gobby.jpg)](http://www.bascht.com/2007/06/08/gobby/gobby-sitzung/ "Gobby Sitzung")
+Gobby ist ein Gemeinschaftseditor, wer SubEthaEdit von MacOS kennt,
+wird sich gleich zurechtfinden. Alles funktioniert mit MacMagic
+über Avahi, kaum Konfiguration nötig. So kann man wirklich schnell
+eine kleine Editorsession öffnen und alle können mitbasteln. Toll.
+\*gähn\* bascht
+
+

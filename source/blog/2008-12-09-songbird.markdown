@@ -1,0 +1,33 @@
+---
+author: bascht
+date: '2008-12-09 02:14:59'
+slug: songbird
+status: publish
+title: Songbird
+comments: true
+wordpress_id: '443'
+? ''
+: - neuigkeiten
+  - neuigkeiten
+  - software
+  - software
+  - songbird
+  - songbird
+  - ubuntu
+  - ubuntu
+  - unsortiertes
+  - unsortiertes
+---
+
+Dank dem **Gnubuntux** Blog musste ich noch nichtmal Pakete bauen,
+um einen Blick auf den aktuellen Songbird zu werfen. Ich muss
+sagen, er wird von mal zu mal benutzbarer. Wenn jetzt noch
+richtiger Podcast-Support dazukommt und die GUI nicht bei
+grafiklastigen Sachen unter Compiz einfriert, könnte man damit
+Amarok ersetzen. Jaja, könnte... :) Noch bringt mich nix von Amarok
+weg. Aber schaut mal:
+[![image](http://www.bascht.com/uploads/2008/12/songbird-300x197.jpg "Songbird in Action")](http://www.bascht.com/uploads/2008/12/songbird.jpg)
+Pakete gibts hier:
+[http://gnubuntux.wordpress.com/2008/12/08/paket-fur-songbird/](http://gnubuntux.wordpress.com/2008/12/08/paket-fur-songbird/)
+
+
