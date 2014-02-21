@@ -56,6 +56,13 @@ body {
  font-family: inherit;
 }
 
+.nav-button.active {
+ opacity: 1.0;
+ background-color: #e5938a;
+ color: #fff;
+ font-family: inherit;
+}
+
 .nav-button:hover {
  background-color: #A71000;
  color: #fff;

@@ -13,14 +13,13 @@
   
   <body class="<%= page_classes %>">
   <!-- Nav Bar -->
- 
   <div class="row header">
     <div class="large-12 columns">
       <div class="nav-bar right">
        <ul class="button-group">
-        <li><%= link_to 'Blog', '/blog.html', :class => 'nav-button' %></li>
-        <li><%= link_to 'Tech', '/tech.html' , :class => 'nav-button'%></li>
-        <li><%= link_to 'Impressum', '/impressum.html', :class => 'nav-button' %></li>
+        <li><%= link_to 'Blog', '/blog.html', :class => "nav-button#{nav_active('/blog')}" %></li>
+        <li><%= link_to 'Tech', '/tech.html' , :class => "nav-button#{nav_active('/tech')}" %></li>
+        <li><%= link_to 'Impressum', '/impressum.html', :class => "nav-button#{nav_active('/impressum')}" %></li>
         </ul>
       </div>
       <h1 class="logo"><%= link_to 'bascht.com', '/' %></h1>
