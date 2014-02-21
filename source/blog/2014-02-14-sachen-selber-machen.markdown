@@ -15,8 +15,8 @@ dass es nur noch zwei Möglichkeiten des digitalen (Über-) Lebens gibt:
 1. man lebt unter Aufsicht bei Google, Facebook, Apple & co.
 2. man organisiert sich selbst einen Unterschlupf.
 
-Nachdem ich ja schon seit geraumer Zeit über [meinen Weggang von Google Mail](http://bascht.com/blog/2010/01/23/mochten-sie-gmail-wirklich-entfernen/),
-verbloggt habe, dachte ich mir es wäre vielleicht interessant einen kleinen Überblick zu geben,
+Ich habe ja schon seit geraumer Zeit über [meinen Weggang von Google Mail](http://bascht.com/blog/2010/01/23/mochten-sie-gmail-wirklich-entfernen/)
+verbloggt. Nun will ich einen kleinen Überblick zu geben,
 welche Dienste ich mittlerweile selbst betreibe. Und das nicht nur nur, weil es geht - sondern
 weil es weniger Aufwand ist, als ich am Anfang befürchtete.
 
@@ -153,7 +153,7 @@ SUBSONIC_USER=subsonic
 ```
 
 Unter Linux integriert sich Subsonic wunderbar mit dem Amarok-Abkömmling [Clementine](http://www.clementine-player.org/).
-Für OSX würde ich euch [Submariner](https://itunes.apple.com/us/app/submariner/id463444563?ls=1&mt=12) empfehlen.
+Für OSX würde ich euch [Submariner](http://www.read-write.fr/subapp/) empfehlen.
 
 Für unterwegs leistet mir die offizielle [Subsonic App](https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp) 
 gute Dienste.
@@ -224,4 +224,6 @@ Ordner hochzuladen – komfortabel ist das allerdings nicht.
 
 Wenn ihr Fragen oder Anregungen habt: Ich freue mich auf euer Feedback auf Twitter oder per Mail.
 
-Quelle Mac Mini Bild: [Wiki637 Commons](https://commons.wikimedia.org/wiki/File:Mac_mini.png)
+
+<small>Vielen Dank an [Flo](https://twitter.com/argorak) fürs Gegenlesen.</small>
+<small>Quelle Mac Mini Bild: [Wiki637 Commons](https://commons.wikimedia.org/wiki/File:Mac_mini.png)</small>
