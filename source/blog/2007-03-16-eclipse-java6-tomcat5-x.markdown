@@ -22,6 +22,5 @@ wordpress_id: '56'
 
 Irgendwas ist ja immer. Diesmal war es ein fehlender
 Classpath-Eintrag. Wer das Problem mit Ubuntu 6.10 auch hatte:
-![Java Logging mit Tomcat + Eclipse](http://www.bascht.com/uploads/2007/03/commonsloggingjpg.png)
-
+![Java Logging mit Tomcat + Eclipse](/blog/2007-03-16-eclipse-java6-tomcat5-x/commonsloggingjpg.png)
 
