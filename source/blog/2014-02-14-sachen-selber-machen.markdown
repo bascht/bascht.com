@@ -3,8 +3,9 @@ title: "Sachen selber machen"
 date: 2014-02-14 17:07
 comments: true
 teaser: |
-  Ein kleines Manifest für alle, die schon länger darüber nachdenken, 
-  ihre Infrastruktur selbst in die Hand zu nehmen. 
+  Ein kleines Manifest für alle, die schon länger darüber nachdenken,
+  ihre Infrastruktur selbst in die Hand zu nehmen.
+autoframe: true
 tags: dyi, hacking, oss, floss, google
 ---
 
@@ -25,9 +26,9 @@ Die Dienste, die ich selbst betreiben wollte, sind:
 * **Synchronsisation von Kalendern und Addressbüchern**
   * über mehrere (iOS und Android) Geräte hinweg
   * Möglichst so unkompliziert wie in Google Apps
-* **Task-Synchronisation** 
+* **Task-Synchronisation**
   * ebenso über mehrere Geräte
-  * Mit Kontexten und Tags, a lá RememberTheMilk 
+  * Mit Kontexten und Tags, a lá RememberTheMilk
 * **Eine Dropbox**
   * Der Name sagt es schon. Mehrere Computer synchron.
   * Ohne Nachdenken.
@@ -42,7 +43,7 @@ Die Dienste, die ich selbst betreiben wollte, sind:
   * Muss meine OPML importieren können
   * Mit anständigen Apps für Android & iOS
 
-Klingt auf den ersten Blick nicht nach einer Sache die man an einem Wochenende erledigt hat. 
+Klingt auf den ersten Blick nicht nach einer Sache die man an einem Wochenende erledigt hat.
 Aber: Weit gefehlt - ein ausgieber Nachmittag Basteln & ihr habt euren eigenen digitalen Unterschlupf zusammen.
 Viel Hardware brauchte es dafür auch nicht. Alles was ich hier beschreibe, läuft auf kleinen virtuellen
 Maschinen auf meinen Mac Mini zu Hause. SSL Proxy + DynDNS wird von einem Raspberry PI erledigt. Es ist
@@ -52,10 +53,10 @@ also keine Raketentechnik.
 
 ### Bevor es losgeht
 
-Die Dienste, die ich hier vorstelle, betreibe ich alle hinter einem Raspberry PI, der gleichzeitig SSL Gateway 
+Die Dienste, die ich hier vorstelle, betreibe ich alle hinter einem Raspberry PI, der gleichzeitig SSL Gateway
 ist. Das gibt mir die Sicherheit dass ich »nur« Einbrecher über das Netz zu befürchten habe - die Daten selbst
-liegen hier auf verschlüsselten Festplatten. Achtet also darauf dass ihr die Kommunikationsstrecken selbst 
-entsprechend absichert. 
+liegen hier auf verschlüsselten Festplatten. Achtet also darauf dass ihr die Kommunikationsstrecken selbst
+entsprechend absichert.
 
 ## ownCloud
 
@@ -68,14 +69,14 @@ und installiert das *owncloud* Paket. Fertig.
 Naja, fast.
 
 Owncloud selbst läuft als PHP Webapp - ich betreibe es hinter dem Standard Ubuntu Apachen, damit läuft
-es völlig schmerzfrei und ich habe ohnehin keine Hochlast-Szenarien zu befürchten. 
+es völlig schmerzfrei und ich habe ohnehin keine Hochlast-Szenarien zu befürchten.
 
 **Mein Tip:** Installiert ownCloud direkt mit einer PostgreSQL oder MySQL Datenbank zusammen. Der Installer
 schlägt euch zwar die SQLite Datenbank vor - aber die Migration von sqlite weg ist nicht schmerzfrei möglich.
 
-Zur Synchronisation mit iOS Geräten und eurem Desktop kopiert ihr einfach direkt den Pfad aus der App in 
-euer mobiles Gerät. Die Synchronisation mit Android wird etwas dadurch erschwert, dass Google wohl seine 
-eigenen Kalender- und Kontakte Apps präferiert. 
+Zur Synchronisation mit iOS Geräten und eurem Desktop kopiert ihr einfach direkt den Pfad aus der App in
+euer mobiles Gerät. Die Synchronisation mit Android wird etwas dadurch erschwert, dass Google wohl seine
+eigenen Kalender- und Kontakte Apps präferiert.
 
 Abhilfe verschaffen die beiden Apps von Marten Gajda:
 
@@ -95,7 +96,7 @@ Kurzer Zwischenstand:
 
 Die [ownCloud Client App](https://owncloud.org/install/) gibt es für Windows, OSX und Linux - und sie funktioniert
 genau wie beworben: Installieren, Pfad zur ownCloud Instanz angeben, einloggen, fertig. Da ich die Instanz nur
-zur Synchronisation meiner eigenen Rechner (und meines Telefons) benutze, habe ich auch hier keine größeren 
+zur Synchronisation meiner eigenen Rechner (und meines Telefons) benutze, habe ich auch hier keine größeren
 Lastspitzen zu befürchten. Die Synchronisation läuft flott und fehlerfrei (achtet darauf, eurem Server NTP beizubringen).
 
 Als Bonus der mobilen App gibt es noch einen automatischen Bilder-Upload. Die App hookt sich direkt in den Kamera-Workflow
@@ -117,7 +118,7 @@ aber die ist dennoch einen Blick wert. Die beiden Dateien `todo.txt` und `archiv
 Für das wöchentliche GTD-Planning öffene ich die Datei einfach in VIM mit dem entsprechenden [Addon](https://github.com/freitass/todo.txt-vim).
 Nerd-Level up.
 
-Da die offizielle todo.txt App leider nur Dropbox unterstützt, verwende ich [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask), 
+Da die offizielle todo.txt App leider nur Dropbox unterstützt, verwende ich [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask),
 und synchronisiere die Dateien via [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full)und synchronisiere die Dateien via [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full)..
 
 
@@ -155,7 +156,7 @@ SUBSONIC_USER=subsonic
 Unter Linux integriert sich Subsonic wunderbar mit dem Amarok-Abkömmling [Clementine](http://www.clementine-player.org/).
 Für OSX würde ich euch [Submariner](http://www.read-write.fr/subapp/) empfehlen.
 
-Für unterwegs leistet mir die offizielle [Subsonic App](https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp) 
+Für unterwegs leistet mir die offizielle [Subsonic App](https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp)
 gute Dienste.
 
 
@@ -184,7 +185,7 @@ um immer mal bei Radio Markshark reinzuklicken:
 ## tiny tiny RSS
 
 Nachdem Google seinen Reader [versenkt](https://de.wikipedia.org/wiki/Google_Reader) hat, war ich ohnehin auf der Suche nach
-einem neuen Feedreader - einen kurzen Zwischenstop habe ich bei [Newsblur](https://www.newsblur.com/) gemacht - aber dessen 
+einem neuen Feedreader - einen kurzen Zwischenstop habe ich bei [Newsblur](https://www.newsblur.com/) gemacht - aber dessen
 allein das Interface war zum davonlaufen (ich sage nur *Training*).
 
 Zum Glück hat mich [Lucas](https://twitter.com/moonbeamlabs) wenig später auf [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
@@ -212,13 +213,13 @@ Endstand somit:
 
 # Fazit
 
-Okay - ich gebe zu: Das ist natürlich alles nicht so leicht wie eine Registrierung bei Google. Ihr braucht ein 
+Okay - ich gebe zu: Das ist natürlich alles nicht so leicht wie eine Registrierung bei Google. Ihr braucht ein
 wenig Unix- / Linux-Wissen oder jemanden der euch dabei über die Tastatur schauen kann. Aber - mal ehrlich: Wenn
-ihr in eurem Freundeskreis schon »die Technikerin / der Techniker« seid - warum setzt ihr nicht ein paar Services 
+ihr in eurem Freundeskreis schon »die Technikerin / der Techniker« seid - warum setzt ihr nicht ein paar Services
 für alle anderen?
 
 Ein weiteres Problem ist natürlich die Interoperabilität. Wenn ihr an mit euch geteilten Google-Kalendern teilnehmen
-wollt, hilft es natürlich nicht, die Arme zu verschränken. Das gleiche gilt für Dropbox. Ich habe den Client schon vor 
+wollt, hilft es natürlich nicht, die Arme zu verschränken. Das gleiche gilt für Dropbox. Ich habe den Client schon vor
 einer Weile vom Rechner geworfen - im Moment reicht mir noch das Webinterface um Dateien in geteilte
 Ordner hochzuladen – komfortabel ist das allerdings nicht.
 
