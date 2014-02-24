@@ -6,21 +6,7 @@ status: publish
 title: Probleme mit dem WP Stats Plugin
 comments: true
 wordpress_id: '344'
-? ''
-: - howto
-  - howto
-  - lernen
-  - lernen
-  - neuigkeiten
-  - neuigkeiten
-  - studium
-  - studium
-  - unsortiertes
-  - unsortiertes
-  - unsortiertes
-  - unsortiertes
-  - wordpress
-  - wordpress
+tags: howto, lernen, neuigkeiten, studium, wordpress, php
 ---
 
 Die Screenshots sahen natürlich super aus und auch im neuen 2.5er
@@ -29,9 +15,10 @@ worauf ich bisher aber vergeblich warten musste, sind die
 **Statistiken**... Ein kleiner Blick in die FAQ macht schlauer: Wer
 ein anderes Thema als das WP Standard Theme verwendet, sollte
 natürlich auch den Aufruf von
-> `<?php wp_footer(); ?>`
 
-kurz vor </body\> nicht vergessen. Jetzt sammelts fleißig. Ich werd
-berichten und mich erstmal wieder CoD zuwenden...
+```php
+<?php wp_footer(); ?>
+```
 
-
+kurz vor dem `</body>` nicht vergessen. Jetzt sammelts fleißig.
+Ich werd berichten und mich erstmal wieder CoD zuwenden...

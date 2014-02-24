@@ -2,7 +2,7 @@
 <div class="row">
   <div class="large-9 columns" role="content">
   <article class="<%= data.page.autoframe ? 'autoframe' : '' %>">
-    <h3><a href="<%= current_page.url %>"><%= data.page.title %></a></h3>
+    <h2><a href="<%= current_page.url %>"><%= data.page.title %></a></h2>
     <%= yield %>
   </article>
   <hr />
@@ -20,7 +20,7 @@
       <% end %>
     </div>
   </div>
-   
+
 
   <!-- Sidebar -->
 
@@ -38,7 +38,7 @@
     <% end %>
     </p>
 
-    <!-- FFU 
+    <!-- FFU
     <div class="panel">
       <h5>Featured</h5>
       <p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow.</p>
@@ -51,4 +51,3 @@
   </aside>
 </div>
 <% end %>
-

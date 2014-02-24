@@ -6,11 +6,8 @@ status: publish
 title: Buffalo Linkstation Live unter Linux updaten
 comments: true
 wordpress_id: '339'
-? ''
-: - unsortiertes
-  - unsortiertes
-  - unsortiertes
-  - unsortiertes
+tags: firmware, buffallo, linux
+autoframe: true
 ---
 
 Für alle die ihre Linkstation Live Firmware unter Linux upgraden
@@ -19,6 +16,5 @@ Keine Angst. Es läuft mit Wine! Hab das ganze mal pioniermäßig
 getestet, nach anfänglichen Hängern (Die Platte darf natürlich
 nirgendwo mehr eingebunden sein...) läuft der Firmware Updater
 super mit Wine.
-[![Firmware Flashen mit Wine](http://www.bascht.com/uploads/2008/03/nas_flash.png)](http://www.bascht.com/uploads/2008/03/nas_flash.png "Firmware Flashen mit Wine")
 
-
+![Firmware Flashen mit Wine](/blog/2008-03-28-buffalo-linkstation-live-unter-linux-updaten/nas_flash.png)

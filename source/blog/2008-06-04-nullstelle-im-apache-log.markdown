@@ -20,6 +20,7 @@ wordpress_id: '362'
 Gestern auf Live-Server ein dist-upgrade gefahren - und siehe an:
 Weitgehend ohne Verletzte. Hab mich dann heute morgen nur über die
 Nullstelle im Log gewundert...
-[![image](http://www.bascht.com/uploads/2008/06/localhostlocaldomain-apache_accesses-day.png "localhostlocaldomain-apache_accesses-day")](http://www.bascht.com/uploads/2008/06/localhostlocaldomain-apache_accesses-day.png)
+
+![Nullstelle](/blog/2008-06-04-nullstelle-im-apache-log/localhostlocaldomain-apache_accesses-day.png)
 
 

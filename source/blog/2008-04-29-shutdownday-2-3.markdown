@@ -11,10 +11,9 @@ wordpress_id: '631'
 ---
 
 Mensch,
-[schonwieder ein Jahr vergangen](http://www.bascht.com/2007/03/23/shutdownday/).
+[schonwieder ein Jahr vergangen](/blog/2007/03/23/shutdownday/).
 Der nächste Shutdownday rückt näher... Am 3. Mai ists wieder
 soweit: *24h ohne Computer* !
-[![image](http://www.shutdownday.org/_images/supporterkit/banner100x100.gif)](http://www.shutdownday.org/)
 
 Dummerweise muss ich grad feststellen das der Termin auf das
 Barcamp Leipzig fällt. Ärgerlich.

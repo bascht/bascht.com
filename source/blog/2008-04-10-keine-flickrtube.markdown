@@ -6,13 +6,8 @@ status: publish
 title: Keine FlickrTube
 comments: true
 wordpress_id: '346'
-? ''
-: - flickr
-  - flickr
-  - neuigkeiten
-  - neuigkeiten
-  - youtube
-  - youtube
+autoframe: true
+tags: flickr, neuigkeiten, youtube
 ---
 
 Bei Flickr formiert sich zur Zeit regelrechter Protest gegen die
@@ -21,7 +16,4 @@ halten was man will, aber im
 [Pool](http://flickr.com/groups/no_video_on_flickr/pool/) gibts
 einige lustiges Protestbildchen anzugucken.
 
-[![image](http://www.bascht.com/uploads/2008/04/notoflickrtube-300x287.jpg "Keine Flickertube")](http://www.bascht.com/uploads/2008/04/notoflickrtube.jpg)
-
-
-
+![No Flickrtube](/blog/2008-04-10-keine-flickrtube/notoflickrtube.jpg)

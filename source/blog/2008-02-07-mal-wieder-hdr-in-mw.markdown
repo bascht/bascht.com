@@ -6,22 +6,14 @@ status: publish
 title: Mal wieder HDR in MW
 comments: true
 wordpress_id: '324'
-? ''
-: - fotos
-  - fotos
-  - hdr
-  - hdr
-  - mittweida
-  - mittweida
-  - Uncategorized
-  - unterwegs
-  - unterwegs
+tags: fotos, hdr, mittweida, unterwegs
 ---
 
 Hab mich heute mal nicht durch die Kälte verscheuchen lassen und
 bin mit der Kamera durch Mittweida geschlichen und paar Fotos
 gemacht. Anschließend natürlich wieder schön ge-hdr-t mit qtpfsgui.
 :)
+
 Wintergarten
 
 [![wintergarten](http://farm3.static.flickr.com/2307/2248282721_2435bba1d8.jpg)](http://www.bascht.com/fotos/photo/2248282721/wintergarten.html)
@@ -41,8 +33,3 @@ Kreuzung Technikumplatz
 Mein Golf
 
 [![golf](http://farm3.static.flickr.com/2052/2248277565_209b736fab.jpg)](http://www.bascht.com/fotos/photo/2248277565/golf.html)
-
- 
-
-
-

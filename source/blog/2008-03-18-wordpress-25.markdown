@@ -6,19 +6,17 @@ status: publish
 title: Wordpress 2.5
 comments: true
 wordpress_id: '331'
-? ''
-: - unsortiertes
-  - unsortiertes
-  - unsortiertes
-  - unsortiertes
+tags: wordpress, gedanken, nick, mk
+autoframe: true
 ---
 
 Blog-Gemeinde, sieht spannend aus, was Wordpress 2.5 alles auf
-Lager hat! Sneak Preview gibts bei:Â
+Lager hat! Sneak Preview gibts bei:
+
 [http://wordpress.org/development/2008/03/25-sneak-peek/](http://wordpress.org/development/2008/03/25-sneak-peek/trackback/)
+
 Übrigens, Nick hat ne neue Kamera! Und ich weiß noch von nix...
+
 Schlimm.
-![Nick mit Cam](http://www.bascht.com/uploads/2008/03/nickcam.jpg)
 
-
-
+![Nick mit Cam](/blog/2008-03-18-wordpress-25/nickcam.jpg)

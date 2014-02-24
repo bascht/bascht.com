@@ -6,26 +6,11 @@ status: publish
 title: T-500
 comments: true
 wordpress_id: '321'
-? ''
-: - computer
-  - computer
-  - fehler
-  - fehler
-  - internet
-  - internet
-  - java
-  - java
-  - lustiges
-  - lustiges
-  - Telekom
-  - Telekom
-  - Uncategorized
+tags: computer, fehler, internet, java, lustiges, telekom
+autoframe: true
 ---
 
 Nicht das das J2EE-Projekt gereicht hätte, jetzt weiß ich auch
 warum Java-Entwickler in der Branche Mangelware sind:
 
-[![T-500](http://www.bascht.com/uploads/2008/01/t-500.png)](http://www.bascht.com/uploads/2008/01/t-500.png "T-500")
-
-
-
+![T-500](/blog/2008-01-24-t-500/t-500.png)

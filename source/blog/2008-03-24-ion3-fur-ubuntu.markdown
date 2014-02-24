@@ -6,13 +6,8 @@ status: publish
 title: Ion3 für Ubuntu
 comments: true
 wordpress_id: '336'
-? ''
-: - computer
-  - computer
-  - neuigkeiten
-  - neuigkeiten
-  - ubuntu
-  - ubuntu
+tags: computer, neuigkeiten, ubuntu
+autoframe: true
 ---
 
 Hallo Nerds. Bascht ist mal wieder auf Exkursionskurs durch die
@@ -37,4 +32,4 @@ und im UU Wiki:
 [http://wiki.ubuntuusers.de/Ion3](http://wiki.ubuntuusers.de/Ion3)
 
 
-[![Ion3 Snapshot](http://www.bascht.com/uploads/2008/03/2008-03-24-214550_1440x900_scrot.thumbnail.png)](http://www.bascht.com/2008/03/24/ion3-fur-ubuntu/ion3-snapshot/ "Ion3 Snapshot")
+![Ion3 Snapshot](/blog/2008-03-24-ion3-fur-ubuntu/2008-03-24-214550_1440x900_scrot.png)

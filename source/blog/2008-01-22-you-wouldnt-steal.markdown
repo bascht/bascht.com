@@ -23,15 +23,11 @@ wordpress_id: '319'
 Selbe Sache, unterschiedliche Parteien. Vielleicht kennt ihr den
 ersten Spot schon aus dem Kino. Ich finds jedenfalls sehr lustig
 wie das ganze parodiert wird.
-Contra
 
+Contra
+<iframe width="853" height="480" src="//www.youtube.com/embed/HmZm8vNHBSU" frameborder="0" allowfullscreen></iframe>
 
 
 Pro
-
-
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/ALZZx1xmAzg" frameborder="0" allowfullscreen></iframe>
 \*hehe\*
-
-
-
