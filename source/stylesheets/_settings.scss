@@ -53,7 +53,7 @@ $body-font-family: "inconsolatamedium", "Courier", mono;
 // We use these as default colors throughout
 $primary-color: #882211;
 // $secondary-color: #e7e7e7;
-// $alert-color: #f04124;
+$alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
 // $info-color: #a0d3e8;
@@ -153,7 +153,7 @@ $paragraph-font-family: $body-font-family;
 // $paragraph-text-rendering: optimizeLegibility;
 
 // We use these to style <code> tags
-// $code-color: scale-color($alert-color, $lightness: -27%);
+$code-color: scale-color($alert-color, $lightness: -87%);
 // $code-font-family: Consolas, 'Liberation Mono', Courier, monospace;
 // $code-font-weight: bold;
 
