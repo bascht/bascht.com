@@ -1,6 +1,6 @@
 ---
 title: "Einstieg in Mutt, Notmuch & Offlineimap"
-date: 2014-05-28 19:40
+date: 2014-05-28 19:30
 comments: true
 teaser: |
   Der zweite Teil unserer Serie: »Bascht vs. Email«
@@ -169,7 +169,7 @@ Die Aufmerksamen Leser werden bemerkt haben: Zur Zeit können wir nur E-Mails
 abholen und durchsuchen. Aber verschicken? Nun. Da gibt es wieder einen ganzen
 Strauß voller Möglichkeiten. 
 
-Ich selbst habe mich für `msmtp` eingesetzt. Ein kleines Werkzeug, was sich 
+Ich selbst habe mich für `msmtp` entschieden. Ein kleines Werkzeug, was sich 
 von außen wie `sendmail` verhält und es mir ermöglicht, Mails über meinen 
 regulären SMTP Server zu versenden. Die Konfiguration ist selbsterklärend:
 
@@ -236,9 +236,9 @@ Liste ein.
 # Maildir
 set mbox_type        = Maildir
 set folder           = "/home/bascht/Documents/Mail/"
-set spoolfile        = "+bascht.com/INBOX"
-set record           = "+bascht.com/Sent"
-set postponed        = "+bascht.com/Drafts"
+set spoolfile        = "+privat/INBOX"
+set record           = "+privat/Sent"
+set postponed        = "+privat/Drafts"
 set header_cache     = ~/.mutt/cache/headers
 set message_cachedir = ~/.mutt/cache/bodies
 
@@ -350,7 +350,7 @@ unterwegs bin.
 ```config
 folder-hook +privat/INBOX   'source ~/.mutt/privat'
 folder-hook +privat/Lists   'source ~/.mutt/mailingsm'
-folder-hook +arbeit/INBOX    'source ~/.mutt/arbeit'
+folder-hook +arbeit/INBOX   'source ~/.mutt/arbeit'
 ```
 
 In so einer individuellen Konfigurationsdatei reagiere ich dann zum Beispiel
