@@ -2,7 +2,14 @@
 # Compass
 ###
 set :markdown_engine, :redcarpet
-set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true, gh_blockcode: true
+set :markdown, 
+  fenced_code_blocks: true, 
+  smartypants: true, 
+  autolink: true, 
+  gh_blockcode: true, 
+  footnotes: true, 
+  gibtsnich: "klar",
+  underline: true
 
 Time.zone = "Berlin"
 
@@ -74,7 +81,7 @@ end
 
 
 # Reload the browser automatically whenever files change
-# activate :livereload
+activate :livereload
 
 # Methods defined in the helpers block are available in templates
 # helpers do
