@@ -76,7 +76,7 @@ body {
   font-size: small;
 }
 
-article.autoframe img {
+article.autoframe img, article.autoframe video {
  @include thumb;
  margin: 0.5em;
  text-align: center;
