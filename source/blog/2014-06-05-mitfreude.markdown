@@ -73,9 +73,9 @@ Talk von der RedFrogCon 2013](http://www.slideshare.net/bitboxer/weck-den-geek-i
 ans Herz gelegt:
 
 <center>
-  <video width="640" height="360" poster="http://static.media.ccc.de/media/conferences/froscon/2013/hs6_-_2013-08-24_10_30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261_preview.jpg" controls="controls" class="video">
-   <source src="http://media.ccc.de/ftp/events/froscon/2013/webm/hs6_-_2013-08-24_10_30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261.webm" type="video/webm">
-   <source src="http://media.ccc.de/ftp/events/froscon/2013/mp4/hs6_-_2013-08-24_10_30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261.mp4" type="video/mp4">
+  <video width="640" height="360" poster="//static.media.ccc.de/media/conferences/froscon/2013/hs6_-_2013-08-24_10_30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261_preview.jpg" controls="controls" class="video">
+   <source src="//media.ccc.de/ftp/events/froscon/2013/webm/hs6_-_2013-08-24_10_30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261.webm" type="video/webm">
+   <source src="//media.ccc.de/ftp/events/froscon/2013/mp4/hs6_-_2013-08-24_10_30_-_weck_den_geek_in_dir_-_bodo_tasche_-_1261.mp4" type="video/mp4">
   </video>
 </center>
 
