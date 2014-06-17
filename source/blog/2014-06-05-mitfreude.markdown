@@ -34,7 +34,7 @@ Egal ob ich es leise oder laut denke – der innere Freud hat bereits die Antwor
 
 > **AAALTER, der Swift-Playground? Wie awesome ist das denn?** <br/> "Direkt mal eine Stinkbombe in ihren goldenen Käfig werfen!". 
 
-> **Die Terminplaung für Juli wird schwierig, da ist World Cup!** <br/> "Gleich mal den ganzen ungebildeten Prolls einen Spruch aufdrücken."
+> **Die Terminplanung für Juli wird schwierig, da ist World Cup!** <br/> "Gleich mal den ganzen ungebildeten Prolls einen Spruch aufdrücken."
 
 Und das obwohl ich noch nicht einmal den Unterschied zwischen einem Pokal- und einem
 Championsleague-Spiel erklären könnte. In einer Weise sind Fußballfans dann wohl auch 
