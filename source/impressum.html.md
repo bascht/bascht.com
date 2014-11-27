@@ -24,4 +24,4 @@ Snail-Mail, Abmahnungen & Papierpost an:
 
 Verschlüsselte Post gern via PGP. Meinen Schlüssel gibt es unter
 [bascht.com/key.asc](/key.asc) oder
-[hier](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x7406AC3EBC21CEC5).
+[hier](http://pgp.mit.edu/pks/lookup?search=0x7406AC3EBC21CEC5).
