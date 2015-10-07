@@ -10,8 +10,8 @@ Snail-Mail, Abmahnungen & Papierpost an:
 <blockquote>
   Sebastian Schulze<br/>
 
-  Oelsnitzer Straße 9<br/>
-  08606 Planschwitz
+  Schnorr-von-Carolsfeld Str. 13<br/>
+  81927 München
 </blockquote>
 
 ## Kontakt
