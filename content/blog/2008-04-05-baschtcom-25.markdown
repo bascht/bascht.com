@@ -1,0 +1,24 @@
+---
+author: bascht
+date: 2008-04-05
+slug: baschtcom-25
+status: publish
+title: Bascht.com 2.5
+comments: true
+wordpress_id: '342'
+tags: wordpress, computer, erkenntnisse, internet
+autoframe: true
+---
+
+Nach
+einigen Bedenken hab ich (dank Zeit während der Präsentation) es
+endlich mal geschafft bascht.com auf Wordpress 2.5 zu updaten. Muss
+sagen: **Ich bin angenehm überrascht.** Das Update ging recht
+schmerzlos, lediglich ein paar Plugins musste man per Hand zum
+Laufen überreden. Rock'n Roll ist das Dashboard mit dem Wordpress
+Stats Plugin. Ebenso der überarbeitete Editor. Also selbst updaten!
+Sonst habt ihr ja nix davon. Im Frontend sieht man nämlich fast
+nix. :)
+
+
+![Das neue Backend](/blog/2008-04-05-baschtcom-25/wp_25_backend.jpg)

@@ -1,0 +1,13 @@
+---
+author: bascht
+date: 1999-11-30
+type: post
+title: Ion3
+tags:
+  - linux
+  - windowmanager
+---
+
+Hallo Nerds. Bascht ist mal wieder auf Exkursionskurs durch die
+Wunderbare Welt der Linux-Windowmanager. Nachdem ich meine Letzte
+Safari ins Emacs-Land leider wegen

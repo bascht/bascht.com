@@ -1,0 +1,28 @@
+---
+author: bascht
+date: 2005-02-17
+slug: fli4l
+status: publish
+title: Fli4l
+comments: true
+wordpress_id: '21'
+? ''
+: - linux
+  - linux
+  - technik
+  - technik
+  - Uncategorized
+---
+
+Hallo Welt. Ich kann mich jetzt auch zu den Auserwählten zählen,
+die das kleine 2.2er Linux auf Diskette gezähmt haben. Gestern hab
+ich mir mal wieder Zeit genommen, zu basteln. Da ich noch zwei alte
+Rechner von Matzes Paps bekommen hab, war noch genug Rohmaterial
+da. :-) Und da ist er nun, mein Bolide: 100MHz Pentium I 32MB RAM
+(teilweise kaputt) 2 klitzekleine Lüfter 1 Diskettenlaufwerk Nun
+herrscht in meiner Schublade zwar akute Brandgefahr, aber dank dem
+zweiten Lüfter hält sich die Temperatur bei ungefähr 35Â°C. Das ist
+eigentlich noch erträglich. Ich kann es jedenfalls jedem empfehlen:
+fli4l.de
+
+

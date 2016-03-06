@@ -1,0 +1,27 @@
+---
+author: bascht
+date: 2007-07-15
+slug: camplog
+status: publish
+title: Camplog!
+comments: true
+wordpress_id: '203'
+? ''
+: - auto
+  - auto
+  - freunde
+  - freunde
+  - Uncategorized
+  - unterwegs
+  - unterwegs
+---
+
+
+Grüße vom Zeltplatz Weissenstädter See! Ham uns irgendwo im Fichtelgebirge niedergelassen...
+
+Ich meinte: Verfahren.
+
+Trotzdem: Schön hier.
+
+![Camping](/blog/2007-07-15-camplog/campingk.jpg)
+

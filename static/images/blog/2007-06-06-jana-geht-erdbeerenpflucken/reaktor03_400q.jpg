@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta name="Language" content="de" />
+<meta name="Keywords" content="WDR.de, wdrde, defaultError, fehlerseite, 404, kopie, NRW"/>
+<meta name="Description" content="xxx"/>
+<meta name="Author" content="WDR 2"/>
+<meta name="DC.Rights" content="Nur WDR"/>
+<meta name="Publisher" content="Westdeutscher Rundfunk" />
+<meta http-equiv="expires" content="900" />
+<meta name="DC.Date" content="2011-01-04T12:58+01:00" />
+<meta name="robots" content="index,follow,noarchive" />
+<link rel="start" href="http://www.wdr.de/themen/homepages/homepage.jhtml" title="Startseite WDR.de" />
+<link rel="bookmark" href="http://www.wdr.de/tv/" title="WDR Fernsehen" />
+<link rel="bookmark" href="http://www.wdr.de/radio/" title="WDR Radioprogramme" />
+<link rel="bookmark" href="http://www.wdr.de/themen/homepages/epg.jhtml" title="WDR Programmvorschau" />
+<link rel="bookmark" href="http://www.wdr.de/unternehmen/" title="Informationen über das Unternehmen WDR" />
+<link rel="bookmark" href="#wrapper" title="Zum Seitenanfang" />
+<link rel="bookmark" href="#content" title="Zum Seiteninhalt" />
+<link rel="contents" href="http://www.wdr.de/themen/global/inhalt/" title="Inhaltsverzeichnis" />
+<link rel="bookmark" href="http://www.wdr.de/themen/global/impressum/" title="Impressum" />
+<link rel="search" href="http://www.wdr.de/themen/global/suchen/gs_index.jhtml" title="Suche im WDR Online Angebot" />
+<link rel="help" href="http://www.wdr.de/themen/homepages/hilfe.jhtml" title="Hilfe zur Bedienung und Orientierung" />
+<link rel="copyright" href="http://www.wdr.de/themen/global/urheber/" title="Copyright" />
+<link rel="icon" href="/themen/resources/img/logos/favicon.ico" type="image/ico" />
+<link rel="shortcut icon" href="/themen/resources/img/logos/favicon.ico" type="image/ico" />
+<link rel="stylesheet" href="/themen/resources/css/basic.min.css" type="text/css" />
+<!--[if gt IE 6 & lt IE 9]>
+<link rel="stylesheet" href="/themen/resources/css/global.min.css" type="text/css" />
+<link rel="stylesheet" href="/themen/resources/css/ie.min.css" type="text/css" />
+<![endif]-->
+<!--[if gte IE 9]>
+<link rel="stylesheet" href="/themen/resources/css/global.min.css" type="text/css" />
+<![endif]-->
+<!--[if !IE]> <-->
+<link rel="stylesheet" media="all" href="/themen/resources/css/global.min.css" type="text/css" id="cssGlobal" />
+<!--> <![endif]-->
+<script type="text/javascript">
+<!-- <![CDATA[
+var galleryObjArr = [];
+document.writeln('<style type="text/css">@import "/themen/resources/css/js.min.css";<\/style>');
+// ]]> -->
+</script>
+<title>Fehler HTTP 404 - Global - WDR.de</title>
+</head>
+<body>
+<!--googleoff: index-->
+<div id="wrapper">
+<div id="bgImageCont">
+<ul id="skipLinks">
+<li><a href="#content">zum Inhalt</a></li>
+<li><a href="#navigation">zur Navigation</a></li>
+<li><a href="#search">zur Suche</a></li>
+</ul>
+<!--[if lt IE 7]>
+<p id="ieAlert">
+Lieber Nutzer,<br />
+leider nutzen Sie eine veraltete Version Ihres Browsers. Deshalb können die an dieser Stelle vorgesehenen Inhalte nicht korrekt dargestellt werden. Bitte aktualisieren Sie auf eine aktuelle Version.
+Unter <a href="http://www.browserchoice.eu/">http://www.browserchoice.eu/</a> stehen alternative Browser zur Verfügung.
+Für eine Installation benötigen Sie gegebenenfalls Administrator-Rechte.</p>
+</p>
+<![endif]-->   <hr />
+<div id="banner">
+<img src="/themen/resources/img/logos/wdr.gif" alt="WDR.de" title="" id="wdrdeLogo" />
+</div>
+<div class="printLocation" title="URL: http://www1.wdr.de/themen/global/fehler/defaultError102.html">&nbsp;</div>
+<hr/>
+<p class="invisible">Sie befinden sich hier:</p>
+<ul id="breadCrumb" class="noBanner">
+<li><a href="/themen/index.html">WDR.de</a></li>
+<li>Fehler</li>
+</ul>
+<!--googleon: index-->
+<div id='content'>
+<!-- WDR.de -->
+<hr/>
+<div id="contentRow">
+<div id="mainColumn">
+<h1>
+<span>
+Fehler HTTP 404<span class="hidden">:</span>
+</span>
+Seite nicht gefunden
+</h1>
+<div class="pageContainer" id="page1">
+<p><strong>Liebe Nutzer, </strong></p>
+<p><strong>leider ist die von Ihnen gewünschte Seite nicht verfügbar. Dies kann mehrere Ursachen haben. </strong></p>
+<p><strong>WDR.de erscheint seit dem 10.08.2011 in einem neuen Layout. Viele alte Seiten sind deshalb über ihre bisherige </strong><abbr title="Uniform Resource Locator"><strong>URL</strong></abbr><strong> nicht erreichbar. Bitte nutzen Sie die Suche oder die Navigation, um den von Ihnen gesuchten Inhalt zu finden. Vielen Dank für Ihr Verständnis.</strong></p>
+<div class="stripTeaserThree" id="teaserThree1">
+<ul class="teaserContOuter">
+<li class="teaserCont firstImgTeaser">
+<img src="/themen/relaunch108_v-TeaserKlein.jpg"    title="Bildrechte: WDR/bhm" alt="Screenshots der neuen WDRde Seiten Startseite" height="82" width='146' />
+<a href="/themen/digital/relaunch100.html" class="textPageLink">
+Neue WDR Homepage online
+</a>
+</li>
+<li class="teaserCont ">
+<img src="/themen/medienseite/rundfunkstaatsvertrag174_v-TeaserKlein.jpg"    title="Bildrechte: WDR/Imago" alt="Lupe mit Internet" height="82" width='146' />
+<a href="/themen/suche/suche100.html" class="textPageLink">
+Suche WDR.de
+</a>
+</li>
+<li class="teaserCont last">
+<img src="/themen/global/inhaltsverzeichnis/inhaltsverzeichnis102_v-TeaserKlein.jpg"    title="Bildrechte: Mauritius" alt="Hängeregister" height="82" width='146' />
+<a href="/themen/global/inhaltsverzeichnis/inhaltsverzeichnis100.html" class="textPageLink">
+Inhaltsverzeichnis
+</a>
+</li>
+</ul>
+</div>
+<br/><p>Es könnte auch sein, dass wir den von Ihnen gesuchten Inhalt inzwischen aus dem Netz genommen haben. Dafür kann es verschiedene Gründe geben, zum Beispiel, dass ein Inhalt nicht mehr zutreffend ist oder dass bestimmte Rechte und Lizenzen am Inhalt abgelaufen sind. </p>
+<p>Ein großer Teil an gelöschten Seiten ist auf die Bestimmungen des 12. Rundfunkänderungsstaatsvertrags zurückzuführen. Dieses Gesetz, das seit dem 1.6.2009 in Kraft ist, schreibt uns unter anderem vor, unsere Inhalte nur noch zeitlich begrenzt anzubieten und sie danach ganz aus dem Netz zu nehmen. In diesen Fällen erhalten Sie also eine Fehlerseite.</p>
+<p>Wenn Sie genauer wissen wollen, warum Sie diese Fehlerseite statt des gewünschten Inhalts sehen, dann schreiben Sie uns bitte eine Mail an warumweg@wdr.de mit einer möglichst konkreten Information darüber, welche Seite oder welchen Inhalt Sie gesucht haben.</p>
+<p>Wir bedauern, Ihnen die gewünschten Inhalte nicht mehr zur Verfügung stellen zu können. Für Ihr Interesse an unserem Internet-Angebot bedanken wir uns herzlich und hoffen, dass Sie uns trotzdem als Nutzer weiterhin treu bleiben.</p>
+</div>
+<hr/>
+<p id="stand">Stand: 04.01.2011, 12.58 Uhr</p>
+<hr/>
+
+<div class="moreInfo">
+<h2>Mehr zum Thema:</h2>
+<ul class="linkList">
+<li class="neutral">
+<a href="/themen/medienseite/rundfunkstaatsvertrag100.html" >
+12. Rundfunkänderungsstaatsvertrag: Das große Löschen
+(20.05.2010)
+</a>
+</li>
+<li class="neutral">
+<a href="/themen/medienseite/rundfunkstaatsvertrag116.html" >
+Auswirkungen des Rundfunkänderungsstaatsvertrags: Aufs Wesentliche konzentrieren
+(22.05.2009)
+</a>
+</li>
+<li class="neutral">
+<a href="/themen/suche/suche100.html" >
+Suchfunktion: Suchen im gesamten Internetangebot des WDR
+</a>
+</li>
+<li class="neutral">
+<a href="/themen/homepage100.html" >
+WDR.de: Die Startseite des WDR
+</a>
+</li>
+<li class="wdr">
+<a href="http://www.wdr.de/tv/home/" >
+WDR Fernsehen: Informationen zu den WDR Fernsehsendungen
+</a>
+</li>
+<li class="wdr">
+<a href="http://www.wdr.de/radio/home/index.phtml" >
+WDR Radio: Informationen zu den WDR Radioprogrammen
+</a>
+</li>
+<li class="wdr">
+<a href="http://www.wdr.de/programmvorschau/index.jsp" >
+Programmvorschau: Das Radio- und Fernsehprogramm im Überblick
+</a>
+</li>
+<li class="mediathek">
+<a href="http://www.wdr.de/mediathek/html/regional/index.xml" >
+WDR Mediathek: Videos und Audios, Podcasts und Livestreams
+</a>
+</li>
+<li class="wdr">
+<a href="http://www.wdr.de/studio/index.html" >
+WDR Regionalstudios: Die Studios in NRW
+</a>
+</li>
+<li class="neutral">
+<a href="/themen/global/abisz/abisz100.html" >
+Der WDR von A-Z: Sendungen, Projekte, Serviceangebote
+</a>
+</li>
+<li class="neutral">
+<a href="/themen/global/mailadressen/kontakt122.html" >
+Mailadressen von A-Z: Ihr direkter Kontakt zum WDR
+</a>
+</li>
+</ul>
+</div>
+<div id="socialBookmarks">
+<!--googleoff: index-->
+<h2>Seite empfehlen</h2>
+<ul>
+<li>
+<a href="http://del.icio.us/post?url=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;title=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/delicious.gif" width="18" height="18" alt="" />
+<span>Delicious</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://de.facebook.com/sharer.php?u=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;t=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/facebook.gif" width="18" height="18" alt="" />
+<span>Facebook</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://linkarena.com/bookmarks/addlink/?url=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;title=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/linkarena.gif" width="18" height="18" alt="" />
+<span>Linkarena</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://www.mister-wong.de/addurl/?bm_url=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;bm_description=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/mr_wong.gif" width="18" height="18" alt="" />
+<span>Mister Wong</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;t=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/myspace.gif" width="18" height="18" alt="" />
+<span>Myspace</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://www.schuelervz.net/Link/ExternLink/Url/?u=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;desc=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/schueler_vz.gif" width="18" height="18" alt="" />
+<span>Sch&uuml;ler VZ</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://www.studivz.net/Suggest/Selection/?u=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;desc=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/studi_vz.gif" width="18" height="18" alt="" />
+<span>Studi VZ</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://twitter.com/home?status=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/twitter.gif" width="18" height="18" alt="" />
+<span>Twitter</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://www.webnews.de/einstellen?url=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;title=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/webnews.gif" width="18" height="18" alt="" />
+<span>Webnews</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+<li>
+<a href="http://www.yigg.de/neu?exturl=http%3A%2F%2Fwww1.wdr.de%2Fthemen%2Fglobal%2Ffehler%2FdefaultError102.html&amp;exttitle=Fehler+HTTP+404%3A+Seite+nicht+gefunden" target="_blank" lang="en">
+<img src="/themen/resources/img/networks/yigg.gif" width="18" height="18" alt="" />
+<span>Yigg</span>
+<span class="hidden"> [Link &ouml;ffnet in neuem Fenster]</span>
+</a>
+</li>
+</ul>
+<p id="socialBookmarksHelp">
+<a href="http://www.wdr.de/themen/global/bookmarks/hilfe.jhtml">
+&Uuml;ber <span lang="en">Social Bookmarks</span>
+</a>
+</p>
+<!--googleon: index-->
+</div>
+<hr/>
+</div>
+<!--googleoff: index-->
+<div id="rightColumn">
+<ul class="bannerTeaserList">
+<li>
+<img src="/themen/regeln102_v-WDRBannerteaser.jpg"    title="Bildrechte: dpa/WDR[m]" alt="Eine Frau schreibt auf der Tastatur eines Computers, @ Symbole" height="100" width='310' />
+<a href="/themen/hilfe/hilfe100.html" >
+<strong>Hilfe<span class="hidden">:</span></strong>
+Die Hilfethemen in der Übersicht
+<span>[mehr]</span>
+</a>
+</li>
+<li>
+<img src="/themen/global/inhaltsverzeichnis/inhaltsverzeichnis102_v-WDRBannerteaser.jpg"    title="Bildrechte: Mauritius" alt="Hängeregister" height="100" width='310' />
+<a href="/themen/global/inhaltsverzeichnis/inhaltsverzeichnis100.html" >
+<strong>Inhaltsverzeichnis<span class="hidden">:</span></strong>
+Der WDR im Internet
+<span>[mehr]</span>
+</a>
+</li>
+<li>
+<img src="/themen/webangebote102_v-WDRBannerteaser.jpg"    title="Bildrechte: Ypps/mauritius images" alt="Laptop mit Kopfhörer" height="100" width='310' />
+<a href="http://www.wdr.de/radio/home/podcasts/podcast_uebersicht_neu.phtml" >
+<strong>Die WDR-Radiopodcasts im Überblick<span class="hidden">:</span></strong>
+Radio zum Mitnehmen
+<span>[mehr]</span>
+</a>
+</li>
+<li>
+<img src="/themen/hilfe/podcast238_v-WDRBannerteaser.jpg"    title="Bildrechte: dpa/WDR[M]" alt="Frauenhände am Laptop " height="100" width='310' />
+<a href="http://www.wdr.de/tv/home/videopodcast/vodcast.jsp" >
+<strong>Fernsehen im Netz und für unterwegs<span class="hidden">:</span></strong>
+Die WDR Videopodcasts
+<span>[mehr]</span>
+</a>
+</li>
+<li>
+<img src="/themen/panorama/fotoalbum100_v-WDRBannerteaser.jpg"    title="Bildrechte: dpa/WDR[m]um" alt="Fotoalbum, rechte Spalte" height="100" width='310' />
+<a href="http://fotoalbum.wdr.de/search.php?search_new_images=1" >
+<strong>Fotoalbum<span class="hidden">:</span></strong>
+Ihr Bild auf WDR.de
+<span>[mehr]</span>
+</a>
+</li>
+</ul>
+</div>
+<!--googleon: index-->
+<hr/>
+</div>
+</div>
+<h2 class="hidden">Seitenfunktionen</h2>
+<div id="pageFunctions" class="isSmall">
+<ul>
+<li>
+<a href="#wrapper">Seitenanfang</a>
+</li>
+</ul>
+</div>
+<hr/>
+<!--googleoff: index-->
+<h2 class="hidden">Weitere Internetangebote des WDR</h2>
+<ul id="promotionList"><li class="first">
+<a href="/themen/medienseite/medien_100.html" >
+Medienseite
+</a>
+<img src="/themen/promotionsleiste212_v-original.jpg"    title="Bildrechte: WDR/dpa [M], ak" alt="Zeitung, Laptop und Mikrofon"   />
+</li>
+<li class="second">
+<a href="/themen/kinder/kinder114.html" >
+Kinder
+</a>
+<img src="/themen/promotionsleiste102_v-original.jpg"    title="Bildrechte: WDR/dpa[M]bhm" alt="Maus mit Telefonhörer"   />
+</li>
+<li class="third">
+<a href="/themen/archiv/archiv_uebersicht100.html" >
+Zeitgeschichtliches Archiv
+</a>
+<img src="/themen/promotionsleiste108_v-original.jpg"    title="Bildrechte: WDR" alt="Brille auf altem Buch"   />
+</li>
+<li class="fourth">
+<a href="/themen/wissen/quizundspiele/quizundspiele_100.html" >
+Quiz und Spiele
+</a>
+<img src="/themen/promotionsleiste206_v-original.jpg"    title="Bildrechte: WDR/bhm" alt="Illustration Mensch läuft in einem Labyrinth"   />
+</li>
+<li class="last">
+<a href="http://www.wdr-mediathek.de/" >
+Mediathek
+</a>
+<img src="/themen/promotionsleiste104_v-original.jpg"    title="Bildrechte: WDR/Müller" alt="Logo WDR Mediathek"   />
+</li></ul>
+<div id="footer">
+<h2 class="hidden">Service-Navigation</h2>
+<ul>
+<li id="newsletter">
+<a href="/themen/hilfe/newsletter100.html" >Newsletter + RSS</a>
+</li>
+<li id="impressum">
+<a href="/themen/global/impressum/impressum116.html" >Impressum</a>
+</li>
+<li id="copyright">
+<a href="/themen/hilfe/urheberrecht102.html" >&copy; WDR 2011</a>
+</li>
+</ul>
+</div>
+<!-- footer -->
+<hr />
+<form method="post"
+action="/themen/suche/suche100.jsp"
+id="search" accept-charset="UTF-8">
+<h2 class="hidden">Suche</h2>
+<fieldset>
+<legend class="hidden">Suche im gesamten Angebot des WDR</legend>
+<label for="words" class="hidden">Suchbegriff:</label>
+<input name="Q" value="" type="text" id="words" />
+<input type="submit" value="suchen" />
+</fieldset>
+</form>
+<hr/>
+<div id="navigation">
+<h2 class="invisible">Navigation</h2>
+<h3 class="invisible">WDR.de Navigation</h3>
+<ul id="wdrdeSubNavi">
+<li >
+<a href="/themen/politik/index.html">Politik</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Politik in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/politik/hartaberfair100_v-PulldownIcon.jpg"    title="Bildrechte: ARD/WDR" alt="Sendungslogo hart aber fair" height="36" width='64' />
+<a href="http://www.wdr.de/tv/hartaberfair/" >hart aber fair</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/wirtschaft/xy_monitor/monitor106_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Monitor" height="36" width='64' />
+<a href="http://www.wdr.de/tv/monitor/" >Monitor</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/politik/moma102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Moderatoren des ARD Morgenmagazins" height="36" width='64' />
+<a href="http://www.daserste.de/moma/" >Morgenmagazin</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/politik/xy_aks/aks102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Aktuelle Stunde" height="36" width='64' />
+<a href="http://www.wdr.de/tv/aks/" >Aktuelle Stunde</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/politik/xy_westpol/westpol_logo100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo von Westpol" height="36" width='64' />
+<a href="http://www.wdr.de/tv/westpol/" >Westpol</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/arena122_v-PulldownIcon.jpg"    title="Bildrechte: WDR[M]bhm" alt="Logografik WDR 2 Arena" height="36" width='64' />
+<a href="http://www.wdr2.de/politik/index.html" >WDR 2 Politik</a>
+WDR 2
+</li>
+<li >
+<img src="/themen/politik/morgenecho102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Morgenecho" height="36" width='64' />
+<a href="http://www.wdr5.de/sendungen/morgenecho.html" >Morgenecho</a>
+WDR 5
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/wirtschaft/index.html">Wirtschaft</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Wirtschaft in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/wirtschaft/xy_markt/markt102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Markt" height="36" width='64' />
+<a href="http://www.wdr.de/tv/markt/" >markt</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/wirtschaft/xy_monitor/monitor106_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Monitor" height="36" width='64' />
+<a href="http://www.wdr.de/tv/monitor/" >Monitor</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/politik/xy_aks/aks102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Aktuelle Stunde" height="36" width='64' />
+<a href="http://www.wdr.de/tv/aks/" >Aktuelle Stunde</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/wirtschaft/wirtschaft122_v-PulldownIcon.jpg"    title="Bildrechte: WDR/dpa [M], ak" alt="Börsenkurve" height="36" width='64' />
+<a href="http://www.wdr2.de/wirtschaft/index.html" >WDR 2 Wirtschaft</a>
+WDR 2
+</li>
+<li >
+<img src="/themen/wirtschaft/profit100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="WDR5 Profit" height="36" width='64' />
+<a href="http://www.wdr5.de/sendungen/profit.html" >Profit</a>
+WDR 5
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/kultur/index.html">Kultur</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Kultur in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/kultur/xy_westart/westart102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung west.art" height="36" width='64' />
+<a href="http://www.wdr.de/tv/westart/index.jsp" >west.art</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/kultur/xy_doku/doku102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Doku am Freitag" height="36" width='64' />
+<a href="http://www.wdr.de/tv/wdrdok_af/" >Doku am Freitag</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/kultur/xy_rockpalast/rockpalast106_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Rockpalast" height="36" width='64' />
+<a href="http://www.wdr.de/tv/rockpalast/" >Rockpalast</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="http://www.wdr2.de/kultur/buecher104_v-PulldownIcon.jpg"    title="Bildrechte: WDR/dpa[M]um" alt="Buchrücken" height="36" width='64' />
+<a href="http://www.wdr2.de/kultur/index.html" >WDR 2 Kultur</a>
+WDR 2
+</li>
+<li >
+<img src="/themen/kultur/wdrdrei100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="WDR3" height="36" width='64' />
+<a href="http://www.wdr3.de/" >WDR 3. Aus Lust am Hören</a>
+WDR 3
+</li>
+<li >
+<img src="/themen/kultur/scala100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="WDR5 Scala" height="36" width='64' />
+<a href="http://www.wdr5.de/sendungen/scala.html" >Scala</a>
+WDR 5
+</li>
+<li >
+<img src="/themen/funkhaus_europa102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo Funkhaus Europa" height="36" width='64' />
+<a href="http://www.funkhauseuropa.de/serien/index.phtml" >Comedys, Geschichten, Soaps</a>
+Funkhaus Europa
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/wissen/index.html">Wissen</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Wissen in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/wissen/xy_quarks/quarksundco106_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Quarks &amp; Co" height="36" width='64' />
+<a href="http://www.wdr.de/tv/quarks/" >Quarks &amp; Co</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/wissen/xy_planetwissen/planetwissen102_v-PulldownIcon.jpg"    title="Bildrechte: SWR" alt="Logo der Sendung Planet Wissen" height="36" width='64' />
+<a href="http://www.planet-wissen.de/" >Planet Wissen</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/wissen/planetschule100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Planet Schule" height="36" width='64' />
+<a href="http://www.planet-schule.de/" >Planet Schule</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/wissen/wissen110_v-PulldownIcon.jpg"    title="Bildrechte: ARD" alt="Logo der Sendung W wie Wissen" height="36" width='64' />
+<a href="http://www.daserste.de/wwiewissen/" >W wie Wissen</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/wissen/kopfball100_v-PulldownIcon.jpg"    title="Bildrechte: ARD" alt="Logo der Sendung Kopfball" height="36" width='64' />
+<a href="http://www.wdr.de/tv/kopfball/" >Kopfball</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/wissen/leonardo100_v-PulldownIcon.jpg"    title="Bildrechte: Mauritius" alt="Zeichnung von Leonardo da Vinci" height="36" width='64' />
+<a href="http://www.wdr5.de/sendungen/leonardo.html" >Leonardo</a>
+WDR 5
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/digital/index.html">Digital</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<ul>
+<li >
+<img src="/themen/medienseite/medien106_v-PulldownIcon.jpg"    title="Bildrechte: WDR/dpa [M], ak" alt="Zeitung, Laptop und Mikrofon" height="36" width='64' />
+<a href="/themen/medienseite/medien_100.html" >Medienseite</a>
+Informationen aus der Medienlandschaft
+</li>
+</ul>
+<h4>Medienthemen  in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/medienseite/medien104_v-PulldownIcon.jpg"    title="Bildrechte: WDR/Holzhauser" alt="Buchstaben fliegen aus einem Laptop" height="36" width='64' />
+<a href="http://www.wdr5.de/sendungen/toene-texte-bilder.html" >Töne, Texte, Bilder</a>
+WDR 5
+</li>
+<li >
+<img src="/themen/medienseite/funkhaus_wallrafplatz100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Funkhaus Wallrafplatz in Köln" height="36" width='64' />
+<a href="http://www.wdr5.de/sendungen/funkhaus-wallrafplatz.html" >Funkhaus Wallrafplatz</a>
+WDR 5
+</li>
+<li >
+<img src="/themen/digital/computerthemen100_v-PulldownIcon.jpg"    title="Bildrechte: dpa" alt="Computertastatur" height="36" width='64' />
+<a href="http://www.wdr.de/mediathek/html/regional/ergebnisse/schlagwort.xml?rankingvalue=Angeklickt" >Angeklickt</a>
+Mediathek
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/sport/index.html">Sport</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Sport in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/sport/xy_sportschau/sportschau112_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sportschau" height="36" width='64' />
+<a href="http://www.sportschau.de/sp/" >Sportschau</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/sport/fussball_im_westen100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Fußball im Westen" height="36" width='64' />
+<a href="http://www.wdr.de/tv/fussballimwesten/index.jsp" >Fußball im Westen</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/sport/sportlich_unterwegs100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Sportlich unterwegs" height="36" width='64' />
+<a href="http://www.wdr.de/tv/sportlichunterwegs/index.jsp" >sportlich unterwegs</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/sport/xy_sportinside/sportinside102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Sport inside" height="36" width='64' />
+<a href="http://www.wdr.de/tv/sport_inside/" >Sport inside</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="http://www.wdr2.de/sport/ligalive/bundesliga_berichterstattung100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="WDR 2 berichtet von der Bundesliga" height="36" width='64' />
+<a href="http://www.wdr2.de/sport/ligalive/ligalive102.html" >WDR 2 Liga live/ Sportzeit</a>
+WDR 2
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/ratgeber/index.html">Ratgeber</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Service in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/ratgeber/xy_ardratgeber/ratgeber114_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung ARD Ratgeber" height="36" width='64' />
+<a href="http://www.daserste.de/ratgeber/" >ARD-Ratgeber</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/ratgeber/xy_servicezeit/servicezeit112_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Servicezeit" height="36" width='64' />
+<a href="http://www.wdr.de/tv/servicezeit/?tab=vorschau" >Servicezeit</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/ratgeber/xy_kriminalreport/kriminalreport102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Moderatorin Andrea Grießmann vor Sendungslogo" height="36" width='64' />
+<a href="http://www.wdr.de/tv/kriminalreport/" >Kriminalreport</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="http://www.wdr2.de/service/quintessenz/quintessenz104_v-PulldownIcon.jpg"    title="Bildrechte: WDR/imago[M]bhm" alt="Ein Geldbündel" height="36" width='64' />
+<a href="http://www.wdr2.de/service/index.html" >WDR 2 Service</a>
+WDR 2
+</li>
+<li >
+<img src="/themen/inunseremalter100_v-PulldownIcon.jpg"    title="Bildrechte: WDR[M]um" alt="Paar vor Horizont Logobild WDR 4 Service in unserem Alter" height="36" width='64' />
+<a href="http://www.wdr.de/radio/wdr4/ratgeber/in_unserem_alter/index.html" >In unserem Alter</a>
+WDR 4
+</li>
+<li >
+<img src="/themen/wdrfuenfservice100_v-PulldownIcon.jpg"    title="Bildrechte: WDR 5 [M]um" alt="WDR 5 Logografik Servicesendungen" height="36" width='64' />
+<a href="http://www.wdr5.de/service.html" >Praktische Tipps für den Alltag</a>
+Die Servicesendungen bei <abbr title="Westdeutscher Rundfunk">WDR</abbr> 5
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/panorama/index.html">Panorama</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<ul>
+<li >
+<img src="/themen/panorama/xy_frautv/frautv102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Frau TV" height="36" width='64' />
+<a href="http://www.wdr.de/tv/frautv/" >frauTV</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/panorama/xy_hautnah/hautnah102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Menschen hautnah" height="36" width='64' />
+<a href="http://www.wdr.de/tv/menschenhautnah/" >Menschen hautnah</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/panorama/xy_wunderschoen/wunderschoen104_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Tamina Kallert, Logo der Sendung Wunderschön" height="36" width='64' />
+<a href="http://www.wdr.de/tv/wunderschoen/index.jsp" >Wunderschön!</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/panorama/xy_koelnertreff/koelnertreff104_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Kölner Treff" height="36" width='64' />
+<a href="http://www.wdr.de/tv/koelner_treff/" >Kölner Treff</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/panorama/xy_story/diestory100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Die Story" height="36" width='64' />
+<a href="http://www.wdr.de/tv/diestory/" >die story</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="http://www.wdr2.de/sendungen/wdr2montalk/montalk104_v-PulldownIcon.jpg"    title="Bildrechte: WDR/bösel[M]bhm" alt="Ein Gast im WDR 2 Montalk-Studio" height="36" width='64' />
+<a href="http://www.wdr2.de/sendungen/wdr2montalk/montalk102.html" >WDR 2 MonTalk</a>
+WDR 2
+</li>
+<li >
+<img src="/themen/wdrvierpanorama100_v-PulldownIcon.jpg"    title="Bildrechte: WDR/dpa[M]um" alt="Grafik Radio, Schriftzug Radio für ein gutes Gefühl, Frauenkopf" height="36" width='64' />
+<a href="http://www.wdr.de/radio/wdr4/panorama/index.html" >WDR 4 Panorama</a>
+WDR 4
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/unterhaltung/index.html">Unterhaltung</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Unterhaltung in Radio und Fernsehen</h4>
+<ul>
+<li >
+<img src="/themen/unterhaltung/xy_lindenstrasse/lindenstrasse110_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Lindenstraße" height="36" width='64' />
+<a href="http://www.lindenstrasse.de/" >Lindenstraße</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/unterhaltung/xy_zimmerfrei/zimmerfrei102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Zimmer frei" height="36" width='64' />
+<a href="http://www.wdr.de/tv/zimmerfrei/" >Zimmer Frei!</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/unterhaltung/xy_nrwduell/nrwduell102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Das NRW Duell" height="36" width='64' />
+<a href="http://www.wdr.de/tv/nrwduell/" >NRW Duell</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/unterhaltung/xy_tatort/tatort116_v-PulldownIcon.jpg"    title="Bildrechte: ARD/WDR" alt="Logo der Sendung Tatort" height="36" width='64' />
+<a href="http://www.wdr.de/tv/tatort/" >Tatort</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/einslivecomedy100_v-PulldownIcon.jpg"    title="Bildrechte: WDR[M]um" alt="Logografik 1LIVE Comedy" height="36" width='64' />
+<a href="http://www.einslive.de/comedy/" >1LIVE Comedy</a>
+1LIVE
+</li>
+<li >
+<img src="/themen/unterhaltung/kabarett118_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Fritz Eckenga" height="36" width='64' />
+<a href="http://www.wdr2.de/unterhaltung/kabarett/index.html" >WDR 2 Kabarett</a>
+WDR 2
+</li>
+<li >
+<img src="/themen/funkhaus_europa102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo Funkhaus Europa" height="36" width='64' />
+<a href="http://www.funkhauseuropa.de/serien/index.phtml" >Comedys, Geschichten, Soaps</a>
+Funkhaus Europa
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/kinder/index.html">Kinder</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<h4>Radio und Fernsehen für Kinder</h4>
+<ul>
+<li >
+<img src="/themen/kinder/xy_maus/maus116_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Der Elefant, die Maus und die Ente" height="36" width='64' />
+<a href="http://www.wdrmaus.de/" >Die Sendung mit der Maus</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/kinder/xy_neuneinhalb/neuneinhalb104_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Neuneinhalb" height="36" width='64' />
+<a href="http://www.wdr.de/tv/neuneinhalb/" >neuneinhalb</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/kinder/xy_elefant/elefant102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Der Elefant" height="36" width='64' />
+<a href="http://www.wdrmaus.de/elefantenseite/index.php5" >Die Sendung mit dem Elefanten</a>
+WDR Fernsehen
+</li>
+<li >
+<img src="/themen/wissen/xy_wissenmachtah/wissenmachtah102_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Logo der Sendung Wissen macht Ah!" height="36" width='64' />
+<a href="http://www.wdr.de/tv/wissenmachtah/index.php5" >Wissen macht Ah!</a>
+Das Erste
+</li>
+<li >
+<img src="/themen/lilipuz106_v-PulldownIcon.jpg"    title="Bildrechte: WDR[M]um" alt="Logografik WDR 5 Lilipuz" height="36" width='64' />
+<a href="http://www.lilipuz.de" >LILIPUZ</a>
+WDR 5
+</li>
+<li >
+<img src="/themen/baerenbude100_v-PulldownIcon.jpg"    title="Bildrechte: WDR/[M]um" alt="Logografik WDR 5 Bärenbude" height="36" width='64' />
+<a href="http://www.baerenbude.de" >Bärenbude</a>
+WDR 5
+</li>
+<li >
+<img src="/themen/kinder/kiraka100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Kiraka, der Kinderradiokanal" height="36" width='64' />
+<a href="http://www.lilipuz.de/kiraka/" >KiRaKa</a>
+Der Kinderradiokanal
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li >
+<a href="/themen/studios/index.html">WDR in NRW</a>
+</li>
+<li >
+<a href="/themen/dossiers/index.html">Dossiers</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<ul>
+<li >
+<img src="/themen/wissen/mauerbau120_v-PulldownIcon.jpg"    title="Bildrechte: dpa" alt="Berliner Mauer" height="36" width='64' />
+<a href="http://www.wdr.de/wissen/wdr_wissen/programmtipps/schwerpunkte/mauerbau/index.php5" >50 Jahre Mauerbau</a>
+</li>
+<li >
+<img src="/themen/dossiers/weltreligionen112_v-PulldownIcon.jpg"    title="Bildrechte: dpa" alt="An Mann steht am Ganges und betet" height="36" width='64' />
+<a href="http://www.wdr.de/themen/kultur/religion/weltreligionen/?rubrikenstyle=kultur" >Die Weltreligionen</a>
+</li>
+<li >
+<img src="/themen/wissen/klima_eisbaeren100_v-PulldownIcon.jpg"    title="Bildrechte: dpa, Bäsemann" alt=" Eine Eisbärenmutter marschiert mit ihren beiden Jungen auf einer Eisscholle" height="36" width='64' />
+<a href="http://www.wdr.de/wissen/wdr_wissen/themen/natur_umwelt/dossier_klimawandel/aktuelles/index.php5" >Der Klimawandel</a>
+</li>
+<li >
+<img src="/themen/dossiers/integration100_v-PulldownIcon.jpg"    title="Bildrechte: dpa" alt="Schriftzug &#034;Integration&#034; zwischen Scrabble-Buchstaben " height="36" width='64' />
+<a href="/themen/archiv/sp_integration/uebersicht_integration100.html" >Vielfalt und Integration</a>
+</li>
+<li >
+<img src="/themen/archiv/sp_kulturhauptstadt/zeche-zollverein100_v-PulldownIcon.jpg"    title="Bildrechte: dpa/Julian Stratenschulte" alt="Die Silhouette vom Malakowturm in Bottrop bei Sonnenuntergang" height="36" width='64' />
+<a href="/themen/archiv/sp_kulturhauptstadt/kulturhauptstadt100.html" >Kulturhauptstadt 2010</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="last">
+<a href="/themen/infokompakt/index.html">Info kompakt</a>
+<span>&nbsp;</span><div class="hoverCont">
+<div class="shadowBox">
+<ul>
+<li >
+<img src="/themen/nrw_kompakt104_v-PulldownIcon.jpg"    title="Bildrechte: dpa/WDR[m]um" alt="Pulldown Info kompakt" height="36" width='64' />
+<a href="/themen/infokompakt/nachrichten/kurznachrichten_liste100.html" >Kurznachrichten</a>
+Kompaktmeldungen und Regionales
+</li>
+<li >
+<img src="/themen/infokompakt108_v-PulldownIcon.jpg"    title="Bildrechte: WDR/dpa[M]bhm" alt="Wettergrafik" height="36" width='64' />
+<a href="http://www.wdr.de/themen/wetter/nrw/heute.jhtml" >NRW-Wetter</a>
+Vorhersage und Zusatzinformationen
+</li>
+<li >
+<img src="/themen/infokompakt/videotext_ea/videotext114_v-PulldownIcon.jpg"    title="Bildrechte: WDR/ Vocke" alt="WDR Videotext-Seiten" height="36" width='64' />
+<a href="/themen/infokompakt/videotext/externvtx100.html" >WDR Text </a>
+Der Videotext im WDR Fernsehen
+</li>
+<li >
+<img src="/themen/infokompakt110_v-PulldownIcon.jpg"    title="Bildrechte: WDR/dpa[M]bhm" alt="Strasse mit Autobahnsymbol" height="36" width='64' />
+<a href="http://www.wdr.de/verkehrslage/" >Verkehrslage</a>
+Aktuelle Stauinformationen
+</li>
+<li >
+<img src="http://www.wdr2.de/politik/nrw_kompakt100_v-PulldownIcon.jpg"    title="Bildrechte: WDR" alt="Schriftzug Nachrichten" height="36" width='64' />
+<a href="http://www.wdr.de/radio/home/nachrichten/index.phtml" >Radionachrichten</a>
+Zum Hören und Lesen
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+<h3 class="invisible">WDR Hauptnavigation</h3>
+<ul id="wdrNavi">
+<li class="active">
+<a href="/themen/index.html">WDR.de</a>
+</li>
+<li><a href="http://www.wdr.de/tv/home/">Fernsehen</a></li>
+<li><a href="http://www.wdr.de/radio/">Radio</a></li>
+<li><a href="http://www.wdr.de/mediathek/html/regional/index.xml">Mediathek</a></li>
+<li><a href="http://www.wdr.de/programmvorschau/">Programmvorschau</a></li>
+</ul>
+<h3 class="invisible">Service Navigation</h3>
+<ul id="wdrSubNavi">
+<li id="weatherLink"><a href="http://www.wdr.de/themen/wetter/nrw/heute.jhtml"><acronym title="Nordrhein-Westfalen">NRW</acronym>-Wetter</a></li>
+<li id="trafficLink"><a href="http://www.wdr.de/verkehrslage/">Verkehrslage</a></li>
+<li id="textLink"><a href="/themen/infokompakt/videotext_ea/index.html" >WDR Text</a></li>
+<li id="contactLink" >
+<a href="/themen/global/kontakt/kontakt112.html" >Kontakt</a>
+</li>
+<li id="azLink">
+<a href="/themen/global/abisz/abisz100.html" >A - Z</a>
+</li>
+<li id="helpLink">
+<a href="/themen/hilfe/hilfe100.html" >Hilfe</a>
+</li>
+<li id="companyLink"><a href="http://www.wdr.de/unternehmen/">Unternehmen</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="ivwPix">
+<script type="text/javascript"><!-- <![CDATA[
+var IVW='http://wdr.ivwbox.de/cgi-bin/ivw/CP/;www1.wdr.de/themen/global/fehler/defaultError102.html';
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"\" width=\"1\" height=\"1\" alt=\"\" />");
+// ]]> --></script><noscript>
+<div><img src="http://wdr.ivwbox.de/cgi-bin/ivw/CP/;www1.wdr.de/themen/global/fehler/defaultError102.html" width="1" height="1" alt="" /></div>
+</noscript>
+</div>
+<script type="text/javascript" charset="utf-8" src="/themen/resources/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/themen/resources/js/plugins/jquery.requireScript-1.2.1.min.js"></script>
+<script type="text/javascript">
+<!--<![CDATA[
+var $jsPath = '/themen/resources/js/';
+jQuery.noConflict();
+// ]]>  -->
+</script>
+<script type="text/javascript" charset="utf-8" src="/themen/resources/js/basic.min.js"></script>
+<!--googleon: index-->
+</body>
+</html>

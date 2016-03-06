@@ -1,0 +1,17 @@
+<div class="header-container">
+  <header class="wrapper clearfix">
+    <div class="title logo clearfix">
+      <h1><a href="/">bascht.com</a>&nbsp;<span class="shell">:~$</span></h1>
+      <small class="claim">Infrastruktur &middot; Telefonseelsorge
+      &middot; Open-Source.</small>
+    </div>
+    <nav id="main">
+      <ul>
+          {{ $currentNode := . }}
+          {{ range .Site.Menus.main }}
+          <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+          {{end}}
+      </ul>
+    </nav>
+  </header>
+</div>

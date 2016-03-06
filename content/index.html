@@ -1,0 +1,32 @@
+---
+title: bascht.com &raquo; Digitaler Kopfbahnhof von Sebastian Schulze
+type: yo
+---
+Yo
+
+{% assign latest = blog('bascht').articles.first %}
+
+<p><img align="left" src="/assets/images/bascht.jpg">
+Mein Name ist <strong>Bascht</strong>. Ich bin hauptsächlich Mensch,
+Christ, Dipl.-Ing. für Multimediatechnik, Musikliebhaber. Als
+freiberuflicher Infrastruktur- &amp; Webentwickler beschäftige ich
+mich mit <a href="http://www.ruby-lang.org">Ruby</a> &amp; <a href="https://puppetlabs.com/">Puppet</a>
+und bändige diverse virtuelle und reale Linuxe. Liebend gern bewege
+ich mich in real existierenden sozialen Netzwerken wie der
+<a href="/mensch/freundearbeit.html">Freundearbeit</a>,
+dem <a href="http://www.sublab.org">sublab</a>,
+dem <a href="http://www.ccc.org">CCC</a>
+und der <a href="http://www.phpugl.de">PHPUGL</a>.
+Musikalisch fühle ich mich irgendwo zwischen Hardcore und Jazz zu Hause, spiele Gitarre und ein
+KORG nanoKEY (letzteres noch mehr schlecht als recht). Falls ihr mir nicht im echten Leben begegnen möchtet, gibt es hier eine
+breite Auswahl sozialer Netzwerke, in denen ihr mich stalken könnt. Sonst freue ich mich natürlich immer
+über Kommentare in meinem <a href="/blog" title="Mein Blog">Blog</a>.<br></p>
+<div class="panel">
+  <h5>Aktueller Blog-Post: </h5>
+  <p> <em>{{ latest.title }}</em> – {{ latest.data.teaser || latest.summary(120, '…') }} </p>
+  <a class="button radius right round" href="{{ latest.url }}">lesen →</a>
+</div>
+
+<p>Viel Spaß dabei.</p>
+
+<p><img class="borderless" src="/assets/images/bascht_unterschrift.gif"></p>

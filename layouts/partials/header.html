@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="de" lang="de-de">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ .Title }}</title>
+  <meta name="description" content="{{/*{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}*/}}">
+
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/normalize.min.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bascht.com.css">
+  <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+  <link rel="alternate" type="application/rss+xml" title="{{  .Site.Title }}" href="{{ .RSSlink }}">
+  <link href="http://feeds.feedburner.com/baschtcom" rel="alternate" title="bascht.com" type="application/atom+xml">
+</head>

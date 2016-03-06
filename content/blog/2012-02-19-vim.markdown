@@ -1,0 +1,100 @@
+---
+title: "VIM"
+date: 2012-02-19
+comments: true
+tags: programmierung unix
+---
+
+Die kleinen Dinge des Alltags beachtet man üblicherweise viel zu wenig. Zu den kleinen
+Dingen im Alltag eines DevOp und Entwicklers gehört ohne Zweifel sein Editor. Für mich
+ist das seit nun schon fast 5 Jahren der *Vi IMproved Editor* **VIM**.
+
+![VIM](/blog/2012-02-19-vim/vim.png)
+
+## VIM ist für mich
+
+  * Texteditor
+
+    Wann immer ich etwas öffnen oder bearbeiten möchte, geschieht dies in VIM. Nicht nur
+    habe ich VIM auf allen meinen Maschinen installiert - in 9.7 von 10 Fällen findet sich
+    auch auf den entfernten Systemen mit denen ich arbeite ein VIM. Falls ihr beispielsweise
+    mit einem Mac oder Linux-System arbeitet, habe ich meinen Editor bei euch schon installiert.
+
+  * IDE
+
+    Entwicklungsumgebung meiner Wahl. Hier gab es vor einigen Jahren für mich die Wende:
+    Spendiere ich Eclipse noch mal zwei neue Riegel RAM, oder versuche ich mich einfach in
+    etwas ressourcenschonenderes einzuarbeiten?
+
+  * Notizblock
+
+    Scribbeln, Textschnipsel be- und verarbeiten, Suchen, Ersetzen, Logfiles crunchen, alles im VIM.
+
+  * Worklog & Knowledgebase
+
+    Mein Worklog ist eine einzige [Markdown](http://daringfireball.net/projects/markdown/)-Datei mit Subsections pro Tag,
+    parallel dazu meine kleine "Brauch-Ich-Immer Mal" Zettelbox für UNIX-Tools und kleine
+    Merkhilfen für Kundenprojekte. Inspiriert von [@tqmz](http://twitter.com/#!/tqmz).
+
+  * Blogging-Tool
+
+    Diesen Blog-Post schreibe ich gerade mit VIM. Den Rest erledigt [Octopress](http://octopress.org/) für mich.
+
+## Meine Plugins
+Falls ihr vielleicht schon VIM nutzt, hier als Anregung meine aktuelle Plugin-Bestückung.
+Ich freue mich natürlich sehr über neue Tips und Flamewars.
+
+    Command-T (1.3.1)
+    FuzzyFinder (4.2.2)
+    Zenburn (2.21@1)
+    ack.vim (heads/master)
+    bufexplorer (7.2.8)
+    gundo.vim (v2.2.2-9-g5009271)
+    jasmine.vim (heads/master)
+    mustache.vim (heads/master)
+    nerdtree (4.2.0-49-geced5f9)
+    screen (1.5-9-gea15f8f)
+    syntastic (2.2.0-43-gfe5b898)
+    textile.vim (0.2-15-g2f831f4)
+    tlib_vim (0.43-1-gf288a58)
+    vcscommand.vim (1.99.46)
+    vim-addon-mw-utils (heads/master)
+    vim-align (heads/master)
+    vim-blackboard (heads/master)
+    vim-coffee-script (v002-2-g2591fef)
+    vim-colors-solarized (heads/master)
+    vim-cucumber (heads/master)
+    vim-fugitive (v1.2-79-gb4b75ef)
+    vim-git (v5.0-10-gd058250)
+    vim-haml (vim7.2-58-ga995d4a)
+    vim-l9 (heads/master)
+    vim-markdown (heads/master)
+    vim-peepopen (heads/master)
+    vim-powerline (remotes/origin/feature/customizability-14-gf2acebb)
+    vim-puppet (heads/master)
+    vim-repeat (v1.0-4-gcdffdd4)
+    vim-ruby (vim7.3-89-g0d4ae14)
+    vim-ruby-debugger (v0.1-46-g9008a57)
+    vim-shoulda (heads/master)
+    vim-snipmate (heads/master)
+    vim-speeddating (v20100301-6-ga08c2d7)
+    vim-supertab (heads/master)
+    vim-surround (v1.90-18-g4eb2cdf)
+    vim-vividchalk (v2.0-1-g22aee9b)
+    zencoding-vim (remotes/origin/experimental-46-g62c8a5c)
+
+## Warum dieser Blogpost?
+
+Neben einem einfachem »Because I can« steht noch etwas anderes im Vordergrund: Falls ihr
+bisher den Schritt noch nicht gewagt habt: *Probiert es aus*. VIM hat keine Lernkurve,
+sondern eher eine Eiger Nordwand - aber die Besteigung lohnt sich jeden Tag aufs neue.
+
+Ich bin so nett und rechne das für euren persönlichen [ROI](http://de.wikipedia.org/wiki/Return_on_Investment) einmal durch:
+
+* Macromates Textmate Lizenz: **44.85 €**
+
+* BBEdit Lizenz: **49.99 €**
+
+* »Learning the vi and vim Editors« Taschenbuch & eine 216er Packung feste Taschentücher für die ersten Wochen: **29.93 €**
+
+Ihr habt also *keine* Ausrede mehr.

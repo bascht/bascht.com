@@ -1,0 +1,14 @@
+---
+author: bascht
+date: 2009-10-30
+slug: buntes-b
+status: publish
+title: Buntes B
+comments: true
+wordpress_id: '572'
+autoframe: true
+tags: berlin, unterwegs,morgens,gedanken
+---
+
+![Buntes Berlin](/blog/2009-10-30-buntes-b/2009-10-30_07-33-19-scaled-1000.jpg)
+

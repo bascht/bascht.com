@@ -1,0 +1,15 @@
+---
+author: bascht
+date: 2009-10-13
+slug: dienstag
+status: publish
+title: Dienstag
+comments: true
+wordpress_id: '588'
+autoframe: true
+tags: dienstag, gedanken
+---
+
+Dienstag halt.
+
+![Dienstag](/blog/2009-10-13-dienstag/photo_on_2009-10-13_at_09-19.jpg)

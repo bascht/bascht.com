@@ -1,0 +1,3 @@
+{{ range where .Data.Pages "Section" "blog" }}
+{{ .Render "summary" }}
+{{ end }}

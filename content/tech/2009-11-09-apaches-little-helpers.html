@@ -1,0 +1,12 @@
+---
+title: Apaches little helpers
+category: tech
+---
+<p>I installed my mamp stack via macports, so the normal GUI-tools of Mac OS won't let me toggle any services. Coming from the Linux / init world thats my bumbling approach to have a quick startup-script for Apache and MySQL: <code> #!/bin/bash
+ if [ "$1" == "start" ];
+ then  /opt/local/apache2/bin/apachectl start&amp;
+ /opt/local/bin/mysqld_safe5&amp;
+ else
+ /opt/local/apache2/bin/apachectl stop
+ /opt/local/bin/mysqladmin5 -u root shutdown
+ fi  </code></p>

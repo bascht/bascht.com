@@ -1,0 +1,19 @@
+---
+author: bascht
+date: 2007-12-11
+slug: html5
+status: publish
+title: HTML5
+comments: true
+category: tech
+wordpress_id: '300'
+tags:
+  - html
+  - internet
+  - neuigkeiten
+  - web
+---
+
+A List Apart gibt einen schönen Überblick über die Features des
+neuen HTML-Entwurfs: HTML 5
+[http://www.alistapart.com/articles/previewofhtml5Â](http://www.alistapart.com/articles/previewofhtml5)
