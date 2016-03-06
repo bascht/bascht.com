@@ -1,9 +1,0 @@
----
-title: Installing the ruby-filemagic gem via bundler on OSX
----
-<p>If you're running into trouble when installing the <strong>ruby-filemagic</strong> gem on Mac OS X:</p>
-<p><code> Installing ruby-filemagic (0.4.2) with native extensions /Users/bascht<br>/.rvm/rubies/ruby-1.9.2-p0/lib/ruby/1.9.1/rubygems/installer.rb:483:in `rescue in block in build_extensions': <br>ERROR: Failed to build gem native extension. (Gem::Installer::ExtensionBuildError) <br>/Users/bascht/.rvm/rubies/ruby-1.9.2-p0/bin/ruby extconf.rb  checking for magic_open() in -lmagic... no *** <br>ERROR: missing required library to compile this module </code></p>
-<p>You might wanna hand over the path to your macports installation of <strong>file</strong>.</p>
-<p><code>--with-magic-dir=/opt/local </code></p>
-<p>Kudos to <a href="http://twitter.com/xylakant">@Xylakant</a> who stumbled over  the correct way how to do this with <strong>bundler</strong>:</p>
-<p><code> bundle config build.ruby-filemagic --with-magic-dir=/opt/local </code></p>
