@@ -49,8 +49,10 @@ Viel Hardware brauchte es dafür auch nicht. Alles was ich hier beschreibe, läu
 Maschinen auf meinen Mac Mini zu Hause. SSL Proxy + DynDNS wird von einem Raspberry PI erledigt. Es ist
 also keine Raketentechnik.
 
-![Mac Mini](/blog/2014-02-14-sachen-selber-machen/512px-Mac_mini.png)
-
+{{< figure
+src="/images/blog/2014-02-14-sachen-selber-machen/512px-Mac_mini.png"
+alt="Mac Mini"
+class="noborder">}}
 ### Bevor es losgeht
 
 Die Dienste, die ich hier vorstelle, betreibe ich alle hinter einem Raspberry PI, der gleichzeitig SSL Gateway
@@ -132,7 +134,7 @@ Und damit haben wir das nächste Häkchen:
   ✓ Taskliste
 </div>
 
-![SimpleTask](/blog/2014-02-14-sachen-selber-machen/simpletask.png)
+![SimpleTask](/images/blog/2014-02-14-sachen-selber-machen/simpletask.png)
 
 ## Subsonic
 
@@ -169,7 +171,7 @@ gute Dienste.
   ✓ iTunes Match
 </div>
 
-![Subsonic](/blog/2014-02-14-sachen-selber-machen/subsonic.png)
+![Subsonic](/images/blog/2014-02-14-sachen-selber-machen/subsonic.png)
 
 Wie ihr vielleicht bemerkt habt - einen wirklichen Ersatz für Spotify bietet das natürlich nicht. (Es sei denn, ihr habt
 wirklich eine Musik-Bibliothek dieser Größe…)
@@ -198,7 +200,7 @@ der die Artikel im Hintergrund für euch läd.
 Die Android-App ist simpel und bedienbar - das Markieren von Artikeln (mit Stern) funktioniert wie ich es mir wünsche.
 Alles fein.
 
-![Tiny Tiny RSS](/blog/2014-02-14-sachen-selber-machen/tinytinyrss.png)
+![Tiny Tiny RSS](/images/blog/2014-02-14-sachen-selber-machen/tinytinyrss.png)
 
 Endstand somit:
 <div data-alert class="alert-box success radius">

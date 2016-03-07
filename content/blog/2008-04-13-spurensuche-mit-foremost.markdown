@@ -18,7 +18,7 @@ Linux-Boardwerkzeug zu Leibe zu rücken... :)
 
 Den output von dmesg überprüfen, eventuell ist sie Partitionstabelle kaputt, die Daten aber noch da.
 
-```syslog
+``` pypy
 [2879.952330] sd 6:0:0:2: [sde] 1981440 512-byte hardware sectors (1014 MB)
 [2879.953584] sd 6:0:0:2: [sde] Write Protect is off
 [2879.953593] sd 6:0:0:2: [sde] Mode Sense: 43 00 00 08

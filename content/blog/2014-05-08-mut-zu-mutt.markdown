@@ -6,7 +6,7 @@ teaser: |
   Wer hat Angst vorm bösen mutt? Der erste Teil einer kleinen Einführung
   in den einzigen E-Mail Client, der nicht stinkt.
 autoframe: false
-tags: mutt, mail, mua, email, hacking, linux, unix
+tags: [mutt, mail, mua, email, hacking, linux, unix]
 ---
 > All mail clients suck.  This one just sucks less.
 
@@ -93,7 +93,7 @@ Ihr kennt das. Irgendwann einmal habt ihr euch gedacht:
 
 Dann startet man voller Enthusiasmus dieses feine Stück Software und sitzt da wie ein Frosch wenn es blitzt:
 
-![Plain Mutt](/blog/2014-05-08-mut-zu-mutt/mutt-ohne-config.png)
+![Plain Mutt](/images/blog/2014-05-08-mut-zu-mutt/mutt-ohne-config.png)
 
 *Und nun?*
 
@@ -114,7 +114,7 @@ Um einen kleinen Vorgeschmack auf den nächsten Teil dieser Serie zu geben und �
 zuletzt – zu zeigen, dass Mutt auch *tatsächlich* E-Mails darstellen kann, hier ein
 kleiner Screenshot meines derzeitigen mutt:
 
-![Mein Mutt](/blog/2014-05-08-mut-zu-mutt/full-blown-mutt.png)
+![Mein Mutt](/images/blog/2014-05-08-mut-zu-mutt/full-blown-mutt.png)
 
 Damit soll es das für diesen Blogpost aber auch schon gewesen sein – ich freue mich darauf,
 mit euch im nächsten Teil Schritt für Schritt durch die Konfiguration von mutt zu stolpern.

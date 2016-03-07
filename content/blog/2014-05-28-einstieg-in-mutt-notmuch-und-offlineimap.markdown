@@ -54,17 +54,19 @@ Konten miteinander synchronisieren (das lassen wir aber jetzt mal).
 
 #### offlineimaprc
 
-{{< highlight ini >}}
-# Offlineimap soll die folgenden beiden Accounts synchronisieren, die wir gleich
-# definieren. Lasst ihr die »2« weg, wird nur der Erste der beiden Accounts
-# synchronisiert, wenn ihr es euch nicht explizit per Kommandozeile wünscht.
+```ini
+# Offlineimap soll die folgenden beiden Accounts synchronisieren,
+# die wir gleich definieren. Lasst ihr die »2« weg, wird nur der
+# Erste der beiden Accounts synchronisiert, wenn ihr es euch nicht
+# explizit per Kommandozeile wünscht.
 
 [general]
 accounts = privat, arbeit
 maxsyncaccounts = 2
 
-# Die beiden Accounts - hierbei handelt es sich nur um eine Verknüpfung aus einer
-# lokalen Quelle (privat-local) und einer Remote-Quelle (privat-remote).
+# Die beiden Accounts - hierbei handelt es sich nur um eine
+# Verknüpfung aus einer lokalen Quelle (privat-local) und
+# einer Remote-Quelle (privat-remote).
 
 [Account privat]
 localrepository  = privat-local
@@ -78,10 +80,10 @@ remoterepository = arbeit-remote
 status_backend   = sqlite
 autorefresh      = 1
 
-# Das beiden "Repositories" - dies sind lediglich Ordner in eurem Dateisystem,
-# in denen Offlineimap für euch dann eine Ordnerstruktur erstellt. Für Mutt
-# möchte ich gerne das Format "Maildir" und das ganze soll in ~/Documents/Mail
-# abgelegt werden.
+# Das beiden "Repositories" - dies sind lediglich Ordner in eurem
+# Dateisystem, in denen Offlineimap für euch dann eine Ordnerstruktur
+# erstellt. Für Mutt möchte ich gerne das Format "Maildir" und das
+# ganze soll in ~/Documents/Mail abgelegt werden.
 
 [Repository privat-local]
 type         = Maildir
@@ -91,11 +93,12 @@ localfolders = ~/Documents/Mail/privat/
 type         = Maildir
 localfolders = ~/Documents/Mail/arbeit/
 
-# Jetzt die beiden IMAP Zugänge. Achtet darauf dass ihr SSL aktiviert :-)
-# Damit offlineimap etwas schneller arbeitet, könnt ihr mehrere Connections
-# erlauben (probiert einfach mal mit maxconnections herum). In meinem IMAP
-# Workflow verwende ich Archiv-Ordner für jedes Jahr, die möchte ich natürlich
-# nicht in jedem Lauf synchronsisieren, daher der folderfilter.
+# Jetzt die beiden IMAP Zugänge. Achtet darauf dass ihr SSL aktiviert
+# :-) Damit offlineimap etwas schneller arbeitet, könnt ihr mehrere
+# Connections erlauben (probiert einfach mal mit maxconnections
+# herum). In meinem IMAP Workflow verwende ich Archiv-Ordner für jedes
+# Jahr, die möchte ich natürlich nicht in jedem Lauf synchronsisieren,
+# daher der folderfilter.
 
 [Repository privat-remote]
 type               = IMAP
@@ -117,9 +120,9 @@ maxconnections     = 5
 holdconnectionopen = yes
 
 
-# Und nun das Feintuning. Offlineimap schreibt in ~/.mutt/mailboxes alle Mailboxen
-# auf, damit Mutt seine gewünschte Ordner-Struktur vorfindet. Das ist das
-# entscheidende Stückchen Gluecode.  :-)
+# Und nun das Feintuning. Offlineimap schreibt in ~/.mutt/mailboxes alle
+# Mailboxen auf, damit Mutt seine gewünschte Ordner-Struktur
+# vorfindet. Das ist das entscheidende Stückchen Gluecode.  :-)
 
 [mbnames]
 enabled  = yes
@@ -128,7 +131,7 @@ header   = "mailboxes "
 peritem  = "+%(accountname)s/%(foldername)s"
 sep      = " "
 footer   = "\n"
-{{< /highlight >}}
+```
 
 Fertig. Jetzt startet ihr einfach `offlineimap` und seht dabei zu, wie die
 E-Mails in eurem Mail-Ordner eintrudeln. Nächster Halt: Notmuch.
@@ -153,9 +156,9 @@ beiden Sektionen `[Account]` fügt ihr einfach noch eine Zeile ein –
 
 ```ini
 [Account privat]
-…
+# -- schnipp --
 postsynchook = /usr/bin/notmuch new
-…
+# -- schnapp --
 ```
 
 (Hier könnt ihr später auch not notmuch tagging hinzufügen, das sprengt aber
@@ -171,7 +174,7 @@ Ich selbst habe mich für `msmtp` entschieden. Ein kleines Werkzeug, was sich
 von außen wie `sendmail` verhält und es mir ermöglicht, Mails über meinen
 regulären SMTP Server zu versenden. Die Konfiguration ist selbsterklärend:
 
-```config
+``` ini
 account default
 auth on
 host smtp.example.com
@@ -213,7 +216,7 @@ welchen Adressen aus ihr E-Mails verschickt. Weiter unten in diesem Block seht
 ihr auch den `subscribe` Parameter für alle Mailinglisten, die ein wenig
 kaputt-konfiguriert wurden. (Zumeist Google Groups)
 
-```config
+``` ini
 # My Mailer
 set sendmail = "/usr/bin/msmtp"
 set realname = "Sebastian Schulze"
@@ -230,7 +233,7 @@ die ihr auch schon mit `offlineimap` weiter oben synchronisiert habt.
 Das abschließende `source` Kommando liest die von `offlineimap` generierte
 Liste ein.
 
-```config
+``` ini
 # Maildir
 set mbox_type        = Maildir
 set folder           = "/home/bascht/Documents/Mail/"
@@ -257,7 +260,7 @@ Ganz wichtig: Der `reverse_name`. Damit sorgt ihr dafür dass ihr E-Mails immer
 mit der Adresse beantwortet, auf der ihr sie empfangen habt. Das ist besonders
 beim Wechsel zwischen verschiedenen Accounts sehr angenehm.
 
-```config
+``` ini
 # Mutt Behaviour
 set move              = no
 set sort              = 'threads'
@@ -281,7 +284,7 @@ euch nur die E-Mail Header anzeigt, die euch auch interessieren. Die
 `hdr_order` legt die Reihenfolge auf, in der sie in der Mail dargestellt
 werden.
 
-```config
+``` ini
 # Headers
 ignore "Authentication-Results:"
 ignore "DomainKey-Signature:"
@@ -297,7 +300,7 @@ Kleines Goodie: Mit dem Kommando +Goyo starte ich direkt in den
 [Goyo](https://github.com/junegunn/goyo.vim) Modus von VIM.
 
 
-```config
+``` ini
 # Nice spell checker
 set editor="vim -c 'set spell spelllang=de,en' +Goyo"
 ```
@@ -306,7 +309,7 @@ URLs öffnen. Da Mutt die meisten URLs vermutlich umbrechen wird, sorgt ihr mit
 der Pipe durch `urlview` dafür dass ihr eine angenehme Select-Liste mit allen
 in der E-Mail vorkommenden Adressen zur Auswahl bekommt.
 
-```config
+``` ini
 # URL Opener
 macro pager \Cb <pipe-entry>'urlview'<enter> 'Follow links with urlview'
 ```
@@ -319,7 +322,7 @@ Wie ihr die Schlüssel da hin bekommt, verrät euch [die Mutt
 Doku](http://dev.mutt.org/trac/wiki/MuttGuide/UseSMIME).
 
 
-```config
+``` ini
 # GPG
 set pgp_use_gpg_agent = yes
 set pgp_timeout       = 3600
@@ -345,7 +348,7 @@ entscheiden, ob ich gerade privat, geschäftlich oder auf einer Mailingliste
 unterwegs bin.
 
 
-```config
+``` javascript
 folder-hook +privat/INBOX   'source ~/.mutt/privat'
 folder-hook +privat/Lists   'source ~/.mutt/mailingsm'
 folder-hook +arbeit/INBOX   'source ~/.mutt/arbeit'
@@ -354,7 +357,7 @@ folder-hook +arbeit/INBOX   'source ~/.mutt/arbeit'
 In so einer individuellen Konfigurationsdatei reagiere ich dann zum Beispiel
 noch auf individuelle Absender mit dem Switch von PGP auf SMIME.
 
-```config
+``` ini
 send-hook "(~t .*@dieser-kunde.example.com)"  "set crypt_autoencrypt crypt_autosign"
 send-hook "(~t .*@anderer-kunde.example.com)" "set pgp_autoencrypt pgp_autosign"
 
@@ -369,8 +372,7 @@ noch ein wenig an der Darstellung der E-Mail Liste, blende die Sidebar aus
 (brauche ich nicht) und sage Mutt dass es den Titel meines Terminals ändern
 darf.
 
-```config
-
+``` ini
 set xterm_set_titles  = yes
 set sidebar_visible   = no
 ```
@@ -382,7 +384,7 @@ dargestellt haben möchte.
 
 Hier ein kleiner, kommentierter Auszug.
 
-```config
+``` ini
 # Den Absender möchte ich *fett* dargestellt haben
 color header     brightblack   default  "^(from|subject):"
 # Und E-Mail Adressen im Body bitte cyanfarben
@@ -408,4 +410,5 @@ Konfigurationsdateien gebrauchen und habt beim Einrichten genau so viel Spaß
 wie ich.
 
 Ich freue mich auf eure Rückmeldungen per Mail [sic!] oder Twitter!
+
 Happy mutting!
