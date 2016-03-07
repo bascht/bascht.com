@@ -2,7 +2,8 @@ baseurl = "http://bascht.com/"
 languageCode = "de-de"
 
 title = "bascht.com"
-pygmentsStyle = "default"
+pygmentsStyle = "trac"
+PygmentsCodeFences = true
 
 [params]
 locale = "de-DE"
@@ -16,18 +17,10 @@ tag = "tags"
 
 
 [[menu.main]]
-name = "Vermietung"
-weight = -110
-url = "/rent-a-bascht/"
-[[menu.main]]
 name = "Blog"
 weight = -100
-url = "/blog/*"
+url = "/blog/"
 [[menu.main]]
 name = "Tech"
 weight = -90
 url = "/tech/"
-[[menu.main]]
-name = "Impressum"
-weight = -80
-url = "/impressum"
