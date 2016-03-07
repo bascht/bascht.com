@@ -5,6 +5,7 @@ comments: false
 sharing: false
 permalink: impressum.html
 menu: main
+weight: -20
 ---
 
 Snail-Mail, Abmahnungen & Papierpost an:
@@ -19,14 +20,15 @@ Snail-Mail, Abmahnungen & Papierpost an:
 ## Kontakt
 
 **E-Mail:** mail<small>at</small>bascht<small>punkt</small>com<br/>
-**Telefon:** +49 37421 649639
-
+**Telefon:** +49 37421 649639 <small>(IP Telefonnummer, ihr landet
+auf einer Mailbox & ich rufe zurück)</small>
 
 ### PGP Key
 
-Verschlüsselte Post gern via PGP. Meinen Schlüssel gibt es unter
-[bascht.com/key.asc](/key.asc) oder
-[hier](http://pgp.mit.edu/pks/lookup?search=0x7406AC3EBC21CEC5).
+Verschlüsselte Post gern via PGP an Key `BC21CEC5`. Meinen Schlüssel
+gibt es unter [bascht.com/key.asc](/key.asc) auf
+[öffentlichen Keyservern](https://sks-keyservers.net/pks/lookup?op=get&search=0x7406AC3EBC21CEC5)
+oder [keybase.io/bascht](https://keybase.io/bascht).
 
 ## Copyleft
 

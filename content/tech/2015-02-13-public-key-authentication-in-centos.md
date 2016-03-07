@@ -10,6 +10,6 @@ If you are wondering why CentOS is ignoring your
 interactive script or e.g. using Puppet – check that you restored the
 SELinux context in the users home directory:
 
-```bash
+``` bash
 $ restorecon -Rv /home/user/.ssh
 ```

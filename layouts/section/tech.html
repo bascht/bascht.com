@@ -2,9 +2,12 @@
 <body>
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
+    <h2>Tech notes</h2>
+    <div class="tech-notes clearfix">
     {{ range where .Data.Pages "Section" "tech" }}
     {{ .Render "summary" }}
     {{ end }}
+    </div>
   </div>
   {{ partial "footer.html" . }}
 </body>

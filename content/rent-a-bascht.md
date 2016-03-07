@@ -2,8 +2,8 @@
 title: "Vermietung"
 permalink: 'rent-a-bascht.html'
 menu: main
+weight: -120
 ---
-
 Mich kann man zwar nicht kaufen, aber wenn ihr an spannenden Projekten rund
 um den großen Bereich Betrieb, Software-Entwicklung und Continuous Integration
 arbeitet und dabei Unterstützung gebrauchen könnt: *Mich kann man mieten*.

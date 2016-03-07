@@ -2,8 +2,11 @@
 <body>
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
-    <article>
-      <img align="left" src="/images/bascht.jpg">
+    <div class="post-content">
+
+      <img align="left" style="margin-top: 0;" src="/images/bascht.jpg">
+
+      <h4>Hallo!</h4>
       Mein Name ist <strong>Bascht</strong>. Ich bin hauptsächlich Mensch,
       Christ, Dipl.-Ing. für Multimediatechnik, Musikliebhaber. Als
       freiberuflicher Infrastruktur- &amp; Webentwickler beschäftige ich
@@ -14,25 +17,29 @@
       dem <a href="http://www.ccc.org">CCC</a>
       und der <a href="http://munich.onruby.de">Rubyshift Munich</a>.
       Musikalisch fühle ich mich irgendwo zwischen Hardcore und Jazz zu Hause, spiele Gitarre und ein
-      KORG nanoKEY (letzteres noch mehr schlecht als recht). Falls ihr mir nicht im echten Leben begegnen möchtet, gibt es hier eine
-      breite Auswahl sozialer Netzwerke, in denen ihr mich stalken könnt. Sonst freue ich mich natürlich immer
-      über Kommentare in meinem <a href="/blog/" title="Mein Blog">Blog</a>.<br></p>
+      KORG nanoKEY (letzteres noch mehr schlecht als recht).
+      Viel Spaß beim stöbern!
 
-<p>Viel Spaß dabei.</p>
 
-<p><img class="borderless"
-        src="/images/bascht_unterschrift.gif"></p>
-</article>
-<aside>
+
+<p class="noborder"><img src="/images/bascht_unterschrift.gif"></p>
+</div>
+<div class="teaser">
+
   <h5>Aktueller Blog-Post: </h5>
-  {{ range first 1 .Data.Pages }}
+  {{ range first 1 (where .Data.Pages "Section" "blog") }}
+  <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+  <div class="post-meta">{{ .Date.Format "02.01.2006" }} - {{ .FuzzyWordCount }} Wörter </div>
 
-  {{ .Render "summary"}}
+  {{ .Summary }}
+
+  <footer>
+    <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+  </footer>
 
   {{ end }}
 
-</aside>
-
+</div>
 
 </div>
 {{ partial "footer.html" . }}
