@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+  <div class="main wrapper clearfix">
+    <h1>{{ .Title }}</h1>
+    <article>
+      <div class="post-content">
+        {{ .Content }}
+      </div>
+    </article>
+    <aside>
+      <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
+      <h4>Tags</h4> {{ partial "tags.html" . }}
+      <hr/>
+      📂 <a href="/tech/">Tech-Archive</a>
+    </aside>
+  </div>
+  {{ partial "pager.html" . }}
+  {{ partial "footer.html" . }}
+</body>
+</html>

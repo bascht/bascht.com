@@ -1,0 +1,18 @@
+<div class="main wrapper clearfix">
+
+  <div class="pager">
+    <span class="prev">
+      {{if .PrevInSection}}
+      <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a>
+      ↢
+      {{end}}
+    </span>
+    <span class="middle"> &middot; </span>
+    <span class="next">
+      {{if .NextInSection}}
+      ↣
+      <a class="next" href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a>
+    </span>
+    {{end}}
+  </div>
+</div>

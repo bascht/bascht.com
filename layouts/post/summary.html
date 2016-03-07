@@ -1,0 +1,11 @@
+<article class="summary">
+
+<h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+<div class="post-meta">{{ .Date.Format "02.01.2006" }} - {{ .FuzzyWordCount }} Wörter </div>
+
+{{ .Summary }}
+
+<footer>
+<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+</footer>
+</article>
