@@ -15,5 +15,4 @@ Killer-Applikation mit Python oder Java EE. Ansonsten lässt sich es
 nämlich nicht rechtfertigen das ich heute *eindeutig* zu viel Geld
 im Buchladen gelassen habe...
 
-![2 Bücher](/blog/2008-04-16-der-roi-von-buchern/2buecher.jpg)
-
+![2 Bücher](https://img.bascht.com/uploads/big/8a095288924b1fdbeed30cb9fd568056.jpg)

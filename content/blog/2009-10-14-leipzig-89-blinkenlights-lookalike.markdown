@@ -10,4 +10,4 @@ tags: leipzig, blinkenlights, daheim
 ---
 
 
-![Leipzig 89](/blog/2009-10-14-leipzig-89-blinkenlights-lookalike/2009-10-09_18-56-00-scaled-1000.jpg)
+![Leipzig 89](https://img.bascht.com/uploads/big/f73fe2c4eb7fb3c6b5fdbce1d849b273.jpg)

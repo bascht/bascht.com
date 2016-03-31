@@ -32,6 +32,6 @@ ist bei mir das digitale Kribbeln in den Fingern wieder gekommen. Ich habe die O
 etwas verkleinert, etwas Platz für einen Blick über den Tellerrand geschaffen und seit mehreren Wochen Ubuntu
 12.10 als mein Haupt-System im Einsatz.
 
-![MacBook Air](/blog/2013-02-04-retrospektive/macbookair.jpg)
+![MacBook Air](https://img.bascht.com/uploads/big/0ab88a14428ccaf5c64a4c65a96eece0.jpg)
 
 In der nächsten Zugfahrt habe ich bestimmt Zeit für einen länglicheren Post darüber.

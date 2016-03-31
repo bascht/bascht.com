@@ -32,4 +32,4 @@ und im UU Wiki:
 [http://wiki.ubuntuusers.de/Ion3](http://wiki.ubuntuusers.de/Ion3)
 
 
-![Ion3 Snapshot](/blog/2008-03-24-ion3-fur-ubuntu/2008-03-24-214550_1440x900_scrot.png)
+![Ion3 Snapshot](https://img.bascht.com/uploads/big/bb9b95f98297f5df78bd96e1e7928034.png)

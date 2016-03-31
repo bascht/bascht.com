@@ -16,4 +16,4 @@ halten was man will, aber im
 [Pool](http://flickr.com/groups/no_video_on_flickr/pool/) gibts
 einige lustiges Protestbildchen anzugucken.
 
-![No Flickrtube](/blog/2008-04-10-keine-flickrtube/notoflickrtube.jpg)
+![No Flickrtube](https://img.bascht.com/uploads/big/02ec8f1c5ba5f3c54c7011e3011629ab.jpg)

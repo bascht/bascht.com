@@ -18,10 +18,8 @@ Vimperator nimmt einem die Shortcuts für coole Webapps wie z.Bsp.
 Remember The Milk weg. Das lässt sich aber einfach ändern. Einfach
 im Command-Mode die entsprechende URL für passAllKeys aktivieren:
 
-```
+```vim
 :au LocationChange .* js modes.passAllKeys = /rememberthemilk.com/.test(buffer.URL)
 ```
 
 Happy Browsing.
-
-

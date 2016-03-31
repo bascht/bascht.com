@@ -18,9 +18,7 @@ grafiklastigen Sachen unter Compiz einfriert, könnte man damit
 Amarok ersetzen. Jaja, könnte... :) Noch bringt mich nix von Amarok
 weg. Aber schaut mal:
 
-![Songbird](/blog/2008-12-09-songbird/songbird.jpg)
+![Songbird](https://img.bascht.com/uploads/big/4288b6fe3c9b335b9aaa4fcdcce47cc5.jpg)
 
 Pakete gibts hier:
 [http://gnubuntux.wordpress.com/2008/12/08/paket-fur-songbird/](http://gnubuntux.wordpress.com/2008/12/08/paket-fur-songbird/)
-
-

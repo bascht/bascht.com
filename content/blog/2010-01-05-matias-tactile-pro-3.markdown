@@ -10,12 +10,11 @@ tags: keyboard, nerd, hardware
 ---
 Gefunden auf [matias.ca](http://matias.ca/tactilepro3/)
 
-#### Ich will. Ich will!   
+#### Ich will. Ich will!
 
 Aber $149 für eine Tastatur sind schon wieder massiver Luxus.
 
 Gnarhgh.
 
-![Tactile Pro](/blog/2010-01-05-matias-tactile-pro-3/media_httpmatiascatac_shjly-scaled1000.jpg)
-
-
+{{< img title="Tactile Pro" class="noborder"
+src="https://img.bascht.com/uploads/big/ba018c99df9ac29ad71205cfde4e6a18.jpg" >}}

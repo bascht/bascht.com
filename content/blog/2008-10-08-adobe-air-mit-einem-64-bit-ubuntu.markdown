@@ -23,12 +23,15 @@ ZIP-Files) gleich mit in das AIR Verzeichnis. Ich hab ein
 Unterverzeichnis 'apps' erstellt. Ich nehm als Beispiel mal
 TweetDeck: /home/bascht/bin/air/apps/TweetDeck
 
-![Tweetdeck](/blog/2008-10-08-adobe-air-mit-einem-64-bit-ubuntu/air_app.jpg)
+![Tweetdeck](https://img.bascht.com/uploads/big/9d7a158b8340052ef60e217f178f42f6.jpg)
 
 Jetzt legt euch einfach einen Starter ins Panel, der die AIR
-Applikation direkt startet: /home/bascht/bin/air/bin/adl -nodebug
-/home/bascht/bin/air/apps/TweetDeck/META-INF/AIR/application.xml
-/home/bascht/bin/air/apps/TweetDeck/ Wichtig: Das ist \_eine\_
-Zeile. Icon festlegen und klicken. Happy Twitter-Ing.
+Applikation direkt startet:
 
+``` bash
+/home/bascht/bin/air/bin/adl -nodebug\
+  /home/bascht/bin/air/apps/TweetDeck/META-INF/AIR/application.xml\
+  /home/bascht/bin/air/apps/TweetDeck/
+```
 
+Wichtig: Das ist \_eine\_ Zeile. Icon festlegen und klicken. Happy Twitter-Ing.

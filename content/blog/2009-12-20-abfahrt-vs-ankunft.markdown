@@ -9,10 +9,8 @@ wordpress_id: '559'
 tags: unterwegs, marburg, vogtland, auto
 ---
 
-Marburg, Zwischenstop Jena Rosenkeller, Vogtland.  
+Marburg, Zwischenstop Jena Rosenkeller, Vogtland.
 Jetzt: Nickerchen
 
-![Abfahrt](/blog/2009-12-20-abfahrt-vs-ankunft/2009-12-20_00-03-39-scaled-1000.jpg)
-![Ankunft](/blog/2009-12-20-abfahrt-vs-ankunft/2009-12-20_04-11-56-scaled-1000.jpg)
-
-
+![Abfahrt](https://img.bascht.com/uploads/big/9a612def17acf285c59391b18a81102f.jpg)
+![Ankunft](https://img.bascht.com/uploads/big/820025dd08bdc829a6ef2a3a216e2622.jpg)

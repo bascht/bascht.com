@@ -19,14 +19,10 @@ hab ich nach über einem Jahr Abstinenz mal neue Graphen für mein
 War gespannt - und faszinierenderweise zieht sich eine Band als
 dicke Linie durch das ganze Profil: Thrice.
 
+![Thrice-Line](https://img.bascht.com/uploads/big/dcfd5c2702b341892ee0352d32933149.jpg)
 
-[Probierts mal aus (](http://lastgraph3.aeracode.org)[http://lastgraph3.aeracode.org/)](http://lastgraph3.aeracode.org/)). 
+[Probierts mal aus (](http://lastgraph3.aeracode.org)[http://lastgraph3.aeracode.org/)](http://lastgraph3.aeracode.org/)).
 
 
 Und zeigt mal eure Graphen, gern als Trackback - oder als
 Kommentar!
-
-<ul class="clearing-thumbs" data-clearing>
-  <li><a href="/blog/2009/10/23/die-thrice-linie/index/graph_109227-scaled-1000.jpg"><img data-catption="Thrice-Linie" src="/blog/2009/10/23/die-thrice-linie/index/graph_109227-scaled-1000.jpg"></a></li>
-</ul>
-

@@ -24,4 +24,4 @@ Ihr braucht folgendes:
     [Ubuntu Wiki: Firefox Dust Theme](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme#Firefox%20theme)
 
 
-![Dust Theme](/blog/2008-10-09-ubuntu-dust-theme-schon-jetzt/dusttheme-300x207.jpg)
+![Dust Theme](https://img.bascht.com/uploads/big/8e3b285bfffcad1137fe8a5c653ad564.jpg)

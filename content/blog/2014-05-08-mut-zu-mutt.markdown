@@ -93,7 +93,7 @@ Ihr kennt das. Irgendwann einmal habt ihr euch gedacht:
 
 Dann startet man voller Enthusiasmus dieses feine Stück Software und sitzt da wie ein Frosch wenn es blitzt:
 
-![Plain Mutt](/images/blog/2014-05-08-mut-zu-mutt/mutt-ohne-config.png)
+![Plain Mutt](https://img.bascht.com/uploads/big/05f396221406af2da34d6a9648839b7d.png)
 
 *Und nun?*
 
@@ -114,7 +114,7 @@ Um einen kleinen Vorgeschmack auf den nächsten Teil dieser Serie zu geben und �
 zuletzt – zu zeigen, dass Mutt auch *tatsächlich* E-Mails darstellen kann, hier ein
 kleiner Screenshot meines derzeitigen mutt:
 
-![Mein Mutt](/images/blog/2014-05-08-mut-zu-mutt/full-blown-mutt.png)
+![Mein Mutt](https://img.bascht.com/uploads/big/0d9dd5b4f9110df9d69480df0a861a8e.png)
 
 Damit soll es das für diesen Blogpost aber auch schon gewesen sein – ich freue mich darauf,
 mit euch im nächsten Teil Schritt für Schritt durch die Konfiguration von mutt zu stolpern.

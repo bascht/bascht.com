@@ -25,9 +25,11 @@ liegt im Repo. Also, frisch ans Werk - Plugin eingebunden - Task
 probiert - **Fehler**. Hab mich mit Skoop kurzgeschlossen, das
 Plugin ist derzeit nur Symfony 1.2 erprobt. Bei Versionen < 1.2
 scheint das Autoloading fehlzuschlagen. Einfach per Hand nachrüsten
-und los gehts: 
+und los gehts:
 
 ```php
+<?php
+
 include_once(sfConfig::get('sf_plugins_dir') .  \
   '/symfonyUnderControlPlugin/lib/SymfonyUnderControlOutput.class.php');
 include_once(sfConfig::get('sf_plugins_dir') .  \
@@ -42,9 +44,7 @@ zur Modelerstellung unter Doctrine hinzugefügt. `` Das wars - jetzt
 den Java-Buildserver von CruiseControl starten und warten bis die
 ersten Builds durchrollen.
 
-![Symfony under control](/blog/2009-02-09-continuous-integration-mit-symfony/symfonyundercontrol.png)
+![Symfony under control](https://img.bascht.com/uploads/big/1eb5170afccbab6d43aae01afc7afac7.png)
 
 Happy Coding! Bei Fragen, einfach
 irc://irc.freenode.net:6667/\#symfony und dort skoop. :-)
-
-

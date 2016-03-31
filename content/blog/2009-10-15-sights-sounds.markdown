@@ -19,5 +19,4 @@ Sounds' im Conne abschliessen. Gespannt drauf, Andrew Neufeld mal
 nicht schreien zu hören. Fein.
 
 
-![Sights and Sounds](/blog/2009-10-15-sights-sounds/2009-10-15_21-09-44-scaled-1000.jpg)
-
+![Sights and Sounds](https://img.bascht.com/uploads/big/f4a495bf30c00d582692651ef7129b8e.jpg)

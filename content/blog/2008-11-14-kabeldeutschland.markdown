@@ -4,6 +4,7 @@ date: 2008-11-14
 slug: kabeldeutschland
 status: publish
 title: '#kabeldeutschland'
+permalink: 2008/11/14/kabeldeutschland
 comments: true
 wordpress_id: '433'
 tags: computer, fru, internet, kabeldeutschland

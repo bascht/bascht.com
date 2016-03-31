@@ -50,7 +50,7 @@ Maschinen auf meinen Mac Mini zu Hause. SSL Proxy + DynDNS wird von einem Raspbe
 also keine Raketentechnik.
 
 {{< figure
-src="/images/blog/2014-02-14-sachen-selber-machen/512px-Mac_mini.png"
+src="https://img.bascht.com/uploads/big/1e1c065e3e28404b2b09cca5959a95ae.png"
 alt="Mac Mini"
 class="noborder">}}
 ### Bevor es losgeht
@@ -134,7 +134,7 @@ Und damit haben wir das nächste Häkchen:
   ✓ Taskliste
 </div>
 
-![SimpleTask](/images/blog/2014-02-14-sachen-selber-machen/simpletask.png)
+![SimpleTask](https://img.bascht.com/uploads/big/7ceac1b65dbb2c5b1e0d9d46383d1dd0.png)
 
 ## Subsonic
 
@@ -171,7 +171,7 @@ gute Dienste.
   ✓ iTunes Match
 </div>
 
-![Subsonic](/images/blog/2014-02-14-sachen-selber-machen/subsonic.png)
+![Subsonic](https://img.bascht.com/uploads/big/28804eb7a5656c57cb4f09d2b73f1af3.png)
 
 Wie ihr vielleicht bemerkt habt - einen wirklichen Ersatz für Spotify bietet das natürlich nicht. (Es sei denn, ihr habt
 wirklich eine Musik-Bibliothek dieser Größe…)
@@ -200,7 +200,7 @@ der die Artikel im Hintergrund für euch läd.
 Die Android-App ist simpel und bedienbar - das Markieren von Artikeln (mit Stern) funktioniert wie ich es mir wünsche.
 Alles fein.
 
-![Tiny Tiny RSS](/images/blog/2014-02-14-sachen-selber-machen/tinytinyrss.png)
+![Tiny Tiny RSS](https://img.bascht.com/uploads/big/90adce0a9acb945074572d2b4860b699.png)
 
 Endstand somit:
 <div data-alert class="alert-box success radius">

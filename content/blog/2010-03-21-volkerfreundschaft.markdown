@@ -11,49 +11,46 @@ tags: agavi, frameworks, php, symfony
 ---
 
 Hab' gestern ein kleines, aber feines Paket aus der Post gefischt.
-  
+
 Liebevoll und Handsigniert von
 @[Xylakant](http://twitter.com/Xylakant) und
 @[fnordfish](http://twitter.com/fnordfish).
 
 Der Inhalt: **Ein Agavi-Shirt**!
 
-![Bascht mit Agavi-Shirt](/blog/2010-03-21-volkerfreundschaft/bascht.jpg)
+![Bascht mit Agavi-Shirt](https://img.bascht.com/uploads/big/a69257c95b44eafa68f64506421710ea.jpg)
 
 Nein, ich wurde nicht bestochen. Und nein, mein E-Mail Account
-wurde   
+wurde
 auch nicht gehackt. Ich werde auch in keiner geheimen
-Agavi-Schmiede   
+Agavi-Schmiede
 gefangen gehalten. Ich hab' es freiwillig an.
 
 Weil?
 
 …weil die Entwickler-Community ruhig mal etwas lockerer werden
-könnte.   
+könnte.
 Mädels & Jungs, wir sind hier nicht beim Fußball. Es können beide
-  
+
 Frameworks gewinnen. Wir müssen weder Lagerkämpfe austragen, noch
-der   
-anderen »Gruppe« die Mitglieder abzuwerben.   
+der
+anderen »Gruppe« die Mitglieder abzuwerben.
 Es scheint irgendwo eine geheime Scheuklappen-Ausgabestelle zu
-geben.   
-Viele sehen andere Konzepte, andere Frameworks, andere   
+geben.
+Viele sehen andere Konzepte, andere Frameworks, andere
 Programmiersprachen nur in ihren Nachteilen. So wird jede
-Diskussion   
+Diskussion
 nach wenigen Minuten müßig. Und dogmatisch.
 
 Dass wir dabei auf dünnem PHP 5.3 Eis stehen - blenden wir aus.
 
-Also: Macht euch mal geschmeidig. Besucht eure örtliche   
+Also: Macht euch mal geschmeidig. Besucht eure örtliche
 Smalltalk-Usergroup, saugt Workshops anderer Frameworks auf,
-tauscht   
+tauscht
 euch auf Konferenzen aus. Alles Andere ist Rückschritt.
 
 Davon profitieren lediglich Individuen im Enterprise-Bereich. Die
-  
+
 bekommen ihre Scheuklappen nämlich finanziert.
 
 *Lieben Dank noch mal an Felix & Robert - die haben diesen Post ermöglicht :-)*
-
-
-

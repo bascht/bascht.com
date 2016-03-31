@@ -21,6 +21,4 @@ Gestern auf Live-Server ein dist-upgrade gefahren - und siehe an:
 Weitgehend ohne Verletzte. Hab mich dann heute morgen nur über die
 Nullstelle im Log gewundert...
 
-![Nullstelle](/blog/2008-06-04-nullstelle-im-apache-log/localhostlocaldomain-apache_accesses-day.png)
-
-
+![Nullstelle](https://img.bascht.com/uploads/big/6dc76b5351083e48914b4bef1d1dd6eb.png)

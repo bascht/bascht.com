@@ -12,9 +12,7 @@ tags: google, gefunden
 
 Via [filippominelli.com](http://www.filippominelli.com/google.html)
 
-Google überall. Diesmal nicht nur im Internet.   
+Google überall. Diesmal nicht nur im Internet.
 (gefunden bei [@saschaaleks01](https://twitter.com/saschaaleks01))
 
-![Google Wall](/blog/2009-11-12-google-uberall/media_httpwwwfilippominellicomfotogoogle16jpg_bsccafxfijqbdkc-scaled500.jpg)
-
-
+![Google Wall](https://img.bascht.com/uploads/big/8a0209aa75445317635bb2fae2320245.jpg)

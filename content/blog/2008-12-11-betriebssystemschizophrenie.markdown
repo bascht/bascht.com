@@ -20,7 +20,7 @@ neuen Begriff ins Internet importieren:
 Betriebssystemschizophrenie
 Warum?
 
-![Betriebssystemschizophrenie](/blog/2008-12-11-betriebssystemschizophrenie/schizophrenie.png)
+![Betriebssystemschizophrenie](https://img.bascht.com/uploads/big/19c4371b4a8c4320331102f3a245a8a9.png)
 
 Ich sitze grade am Thinkpad (**Ubuntu 8.10**), bin per RDP an einem
 **Windows Server 2003 R2** eingeloggt und hab vor dort in einer
@@ -28,5 +28,3 @@ Virtuellen Maschine ein 32bit **Ubuntu 8.04 LTS** zu installieren.
 Punkt. Dafür fällt mir spontan kein besserer Begriff ein... Tut mir
 den gefallen und googelt mich morgen mal:
 [http://www.google.de/search?q=Betriebssystemschizophrenie](http://www.google.de/search?q=Betriebssystemschizophrenie)
-
-

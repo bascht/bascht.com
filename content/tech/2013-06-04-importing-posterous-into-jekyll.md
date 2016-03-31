@@ -1,6 +1,7 @@
 ---
 title:  "Importing Posterous archives into Jekyll"
 date:   2013-06-04
+permalink: 'tech/2013/06/04/importing-posterous-into-jekyll'
 categories: meta posterous jekyll ruby
 ---
 

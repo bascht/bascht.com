@@ -10,11 +10,11 @@ tags: unterwegs, berlin, leipzig, bahn
 ---
 
 
-War jut.  
-War lehrreich.  
+War jut.
+War lehrreich.
 War lustig.
 
 Aber jetz brooch ick erstmal wieder Leipzig.
 
 
-![BVG](/blog/2009-10-30-machs-gut-b/2009-10-30_16-25-54-scaled-1000.jpg)
+![BVG](https://img.bascht.com/uploads/big/34045fcaf96b4140a09e7bb07cc7d7a5.jpg)

@@ -20,4 +20,4 @@ Niederländer als Dozent. Was will man mehr?
 Also, falls du auch grad in Berlin herumschlurfst: Drop me a line!
 
 
-![Schulbank](/blog/2009-10-26-schulbank-again/2009-10-26_16-14-53-scaled-1000.jpg)
+![Schulbank](https://img.bascht.com/uploads/big/3ef3b20ce179d3e9d59b7caa5e231e61.jpg)

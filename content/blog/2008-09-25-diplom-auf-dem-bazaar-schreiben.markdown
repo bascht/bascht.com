@@ -36,7 +36,4 @@ schon lieber merges, als commits (was mir mit SVN niemals in den
 Sinn gekommen wäre...). So sieht das ganze mit Olive aus (Meine
 Dipl-Arbeit auf 3 Rechnern):
 
-![Bazaar](/blog/2008-09-25-diplom-auf-dem-bazaar-schreiben/bzr-diploma.png)
-
-
-
+![Bazaar](https://img.bascht.com/uploads/big/3f4d3c957eabb3bdb59adfe5ead76b7b.png)

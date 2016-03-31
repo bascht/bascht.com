@@ -18,7 +18,7 @@ Linux-Boardwerkzeug zu Leibe zu rücken... :)
 
 Den output von dmesg überprüfen, eventuell ist sie Partitionstabelle kaputt, die Daten aber noch da.
 
-``` pypy
+```
 [2879.952330] sd 6:0:0:2: [sde] 1981440 512-byte hardware sectors (1014 MB)
 [2879.953584] sd 6:0:0:2: [sde] Write Protect is off
 [2879.953593] sd 6:0:0:2: [sde] Mode Sense: 43 00 00 08
@@ -35,8 +35,8 @@ Den output von dmesg überprüfen, eventuell ist sie Partitionstabelle kaputt, d
 Das geht einfach mit `dd`. Device als Input merken. Output ist eine Datei, die ihr dann
 untersuchen könnt.
 
-```bash
-f$ sudo dd if=/dev/sde of=./sd.image
+``` bash
+$ sudo dd if=/dev/sde of=./sd.image
 1981440+0 Datensätze ein 1981440+0 Datensätze aus 1014497280 Bytes (1,0 GB) kopiert, 449,267s, 2,3 MB
 ```
 

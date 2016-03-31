@@ -15,11 +15,10 @@ Wenn der jetzt mal noch in alle gängigen Jabber / Skype Clients
 integriert werden würde, dann hättet ihr endlich den passenden
 Smiley für mich. Say hello to:
 
-![Caffeine](/blog/2009-01-22-importsmiley/caffienated.gif)
+{{< img alt="Caffeine" class="noborder"
+src="https://img.bascht.com/uploads/big/221aaf2e4bd09e55f327fa35543dd077.gif" >}}
 
 Dank an
 [Arlett](http://www.blog.miracleworld.de/index.php/2009/01/20/ablenkung-vom-pauken/#comments).
 Frohe Prüfungszeit! Übrigens: vergesst nicht das
 [Voting!](http://www.bascht.com/2009/01/10/moge-der-bessere-gewinnen).
-
-

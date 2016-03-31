@@ -10,5 +10,4 @@ autoframe: true
 tags: berlin, unterwegs,morgens,gedanken
 ---
 
-![Buntes Berlin](/blog/2009-10-30-buntes-b/2009-10-30_07-33-19-scaled-1000.jpg)
-
+![Buntes Berlin](https://img.bascht.com/uploads/big/116998e76ea222d80ab319c8e3b43183.jpg)

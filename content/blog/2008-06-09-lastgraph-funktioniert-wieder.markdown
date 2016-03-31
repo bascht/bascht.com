@@ -15,6 +15,4 @@ genommen. (Die Zugriffsstatistiken hätte ich gern gesehen...) Jetzt
 ists wieder up und die Wartezeiten sind erträglich:
 [http://lastgraph3.aeracode.org/](http://lastgraph3.aeracode.org/)
 
-![Lastgraph](/blog/2008-06-09-lastgraph-funktioniert-wieder/lastgraph.png)
-
-
+![Lastgraph](https://img.bascht.com/uploads/big/db48d3653100307e674a77f8d2675dff.png)

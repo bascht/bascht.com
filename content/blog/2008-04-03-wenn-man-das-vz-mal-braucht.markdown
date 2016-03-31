@@ -13,4 +13,4 @@ autoframe: true
 Da Nick nicht flickern will (:)) wollte ich mal schauen, was er
 denn so für Bilder gemacht hat. Aber, siehe da: Murphys Law...
 
-![Down VZ](/blog/2008-04-03-wenn-man-das-vz-mal-braucht/alles_down.jpg)
+![Down VZ](https://img.bascht.com/uploads/big/9458c9ad78c346d247aa3c821e1b250a.jpg)

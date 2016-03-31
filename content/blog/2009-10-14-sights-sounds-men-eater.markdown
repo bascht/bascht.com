@@ -12,7 +12,4 @@ tags: sightsandsounds, avocado, hardcore, leipzig, conneisland
 Morgen im Conne Island.
 [conne-island.de](http://www.conne-island.de/plakate/gross/2009-10-15p.jpg)
 
-
-
-![Sights and Sounds](/blog/2009-10-14-sights-sounds-men-eater/media_httpwwwconneislanddeplakategross20091015pjpg_ilpqhqibjytifii-scaled1000.jpg)
-
+![Sights and Sounds](https://img.bascht.com/uploads/big/f4a495bf30c00d582692651ef7129b8e.jpg)

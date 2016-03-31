@@ -17,4 +17,4 @@ getestet, nach anfänglichen Hängern (Die Platte darf natürlich
 nirgendwo mehr eingebunden sein...) läuft der Firmware Updater
 super mit Wine.
 
-![Firmware Flashen mit Wine](/blog/2008-03-28-buffalo-linkstation-live-unter-linux-updaten/nas_flash.png)
+![Firmware Flashen mit Wine](https://img.bascht.com/uploads/big/a4ac84d802f7be4df90a4415be04d59d.png)

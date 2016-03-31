@@ -12,14 +12,14 @@ Nachdem der [erste Session-Tag](http://www.timetabler.de/events/6f032c86c21ca842
 meiner Meinung nach ziemlich mau war (alles Oberflächenkratzer), hat mir der [zweite Tag](http://www.timetabler.de/events/6f032c86c21ca8425025a60fd0281e203ecba335)
 um so mehr Spaß gemacht.
 
-![Railscamp Hamburg](/blog/2011-10-30-railscamp-hamburg/rchh1.jpg)
+![Railscamp Hamburg](https://img.bascht.com/uploads/big/a85117ddaf28b31e8d15ba42e4c7ea6e.jpg)
 
 Coupling & Cohesion von [@stdout](https://twitter.com/#!/stdout) - Viel Interaktion, wenig Referat. So sollte es sein.
 Anschließend zur Varnish-Session mit kurzem Praxisbericht (im übrigen von einer Symfony-Website).
 Und dann ab zum VIM Exchange, einer sehr angenehmen Session in der es (hoffentlich nicht nur für mich)
 noch viel in der `.vimrc` zu verbessern gab.
 
-![Railscamp Hamburg](/blog/2011-10-30-railscamp-hamburg/rchh3.jpg)
+![Railscamp Hamburg](https://img.bascht.com/uploads/big/a12fbcefc4b4c0a4b4cbf053fdc1a9a0.jpg)
 
 Die Idee zur-Session schienen [@thilko](https://twitter.com/#!/thilko) und ich scheinbar parallel gehabt
 zu haben - er stand zwei Plätze hinter mir in der Session-Planung. Letzterer schreibt übrigens
@@ -28,7 +28,7 @@ Als letztes bleibt mir wohl nur noch meine Faszination für den Coworking-Space 
 Aber ich vermute das wissen die Hamburger bereits zu schätzen.
 (im Bild: [@thegcat](https://twitter.com/#!/thegcat))
 
-![Railscamp Hamburg](/blog/2011-10-30-railscamp-hamburg/rchh2.jpg)
+![Railscamp Hamburg](https://img.bascht.com/uploads/big/f364ae815c69569cc45e481db25f33cb.jpg)
 
 Soweit.
 

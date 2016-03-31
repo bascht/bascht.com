@@ -11,6 +11,4 @@ tags: proberaum, musik, arbeit, hardcore
 
 Proberaum, Arbeitsplatz
 
-![Proberaum](/blog/2009-10-18-places-to-be/2009-10-18_15-09-40-scaled-1000.jpg)
-
-
+![Proberaum](https://img.bascht.com/uploads/big/0489f6059aa52e73cfb721b4f66a8d20.jpg)

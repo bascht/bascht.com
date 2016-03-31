@@ -20,6 +20,7 @@ wordpress_id: '359'
 ---
 
 Das ist einfach zu lustig. Muss ich zitieren.
+
 > Every solution I've ever seen or developed in PHP feels clunky and
 > bulky, there is no elegance or grace. Working with PHP is a bit
 > like throwing a 10 pound concrete cube from a ten story building:
@@ -32,5 +33,3 @@ Das ist einfach zu lustig. Muss ich zitieren.
 Ich weiß. Populistisch. Übertrieben. Unwahr. Irgendwas. Aber
 lustig. Gefunden auf
 [http://www.codinghorror.com/blog/archives/001119.html](http://www.codinghorror.com/blog/archives/001119.html)
-
-

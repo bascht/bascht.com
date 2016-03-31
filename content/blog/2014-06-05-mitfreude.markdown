@@ -2,7 +2,6 @@
 title: "Mitfreude"
 date: 2014-06-05
 comments: true
-type: post
 teaser: |
   Über die Kunst, sich mit Menschen zu freuen – und was das mit der
   Fußball-Weltmeisterschaft, LLVM Compilern und Konvergenz zu tun hat.
@@ -17,7 +16,7 @@ tags:
 ---
 
 <span style="float: right">
-![Allianz Arena](/images/blog/2014-06-05-mitfreude/allianz-arena.jpg)
+![Allianz Arena](https://img.bascht.com/uploads/big/e79bb0ea0b9ae91680918f3c9dd550c2.jpg)
 </span>
 
 Wer die letzten Wochen unter einem Stein verbracht hat, dem werden zwei Dinge
@@ -61,7 +60,7 @@ _Do:_ "Ui. Und? Dein Tipp?"
 
 
 <span style="float: right">
-![Apple Campus](/images/blog/2014-06-05-mitfreude/apple-campus.jpg)
+![Apple Campus](https://img.bascht.com/uploads/big/3b9c1f821a78d8932fe3baf0fb670eff.jpg)
 </span>
 
 Und dabei geht es nicht um geheucheltes Interesse, sondern um einen einfachen Sprung

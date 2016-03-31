@@ -21,4 +21,4 @@ Sonst habt ihr ja nix davon. Im Frontend sieht man nämlich fast
 nix. :)
 
 
-![Das neue Backend](/blog/2008-04-05-baschtcom-25/wp_25_backend.jpg)
+![Das neue Backend](https://img.bascht.com/uploads/big/de027e780c0f14b74e44a4bc1a80526a.jpg)

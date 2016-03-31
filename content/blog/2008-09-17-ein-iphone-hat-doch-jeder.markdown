@@ -17,9 +17,6 @@ Vermutlich auch zu besseren Konditionen als ein iPhone, das mich \>
 450 EUR und eine Fahrt nach Italien kosten würde. Ich hab das
 jedenfalls schonmal getestet...
 
-![Android](/blog/2008-09-17-ein-iphone-hat-doch-jeder/android.png)
+![Android](https://img.bascht.com/uploads/big/eb86b8522cfddb6e3cb4feed2f6e3da0.png)
 
 ...schauen wir mal. :)
-
-
-
