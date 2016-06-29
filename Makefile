@@ -10,6 +10,7 @@ hugo:
 
 public:
 	hugo
-
+clean:
+	rm -rf public/
 sync:
 	rsync -avz public/ uberspace-bascht:/var/www/virtual/bascht/bascht.com
