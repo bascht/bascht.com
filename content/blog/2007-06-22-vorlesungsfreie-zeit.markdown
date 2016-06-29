@@ -6,7 +6,13 @@ status: publish
 title: Vorlesungsfreie Zeit
 comments: true
 wordpress_id: '182'
-tags: feierabend, gedanken, lernen, prüfungen, studium, wochenende
+tags:
+  - feierabend
+  - gedanken
+  - lernen
+  - prüfungen
+  - studium
+  - wochenende
 autoframe: true
 ---
 Eigentlich ein zynischer Begriff! Aber trotzdem, irgendwie müssen

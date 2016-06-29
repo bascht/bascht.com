@@ -5,7 +5,10 @@ slug: jana-geht-erdbeerenpflucken
 status: publish
 title: Jana geht Erdbeerenpflücken
 comments: true
-tags: blog, gerüchte, lustiges
+tags:
+    - blog,
+    - gerüchte
+    - lustiges
 ---
 
 Und das findige Team der Baschtschen Presseagentur (BPA) hat
@@ -16,5 +19,3 @@ ausgebuddelt hat.
 Kiloschwere Erdbeere
 ![Fundort](http://www.wdr.de/themen/politik/nrw02/tschernobyl/infobox/data/tschernobyl/reaktor03_400q.jpg)
 Fundort
-
-

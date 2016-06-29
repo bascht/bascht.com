@@ -6,7 +6,7 @@ status: publish
 title: Wenn man das VZ mal braucht
 comments: true
 wordpress_id: '341'
-tags: internet, lustiges, studivz
+tags: internet lustiges studivz
 autoframe: true
 ---
 

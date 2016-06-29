@@ -6,7 +6,10 @@ status: publish
 title: Es hat etwas beruhigendes
 comments: true
 wordpress_id: '3'
-tags: bascht.com,gedanken,internet
+tags:
+    - bascht.com
+    - gedanken
+    - internet
 ---
 
 ![Es hat etwas beruhigendes](2004-05-06-es-hat-etwas-beruhigendes/img_3610.jpg)
@@ -24,5 +27,3 @@ stehen einige meiner Werke zum Begutachten. Auch das Gästebuch ist
 jetzt endlich direkt auf der Seite. Das hat den angenehmen Effekt,
 das ich jetzt alles Zentral administrieren kann. Also - Probiert es
 aus und habt Spaß! Euer bascht
-
-

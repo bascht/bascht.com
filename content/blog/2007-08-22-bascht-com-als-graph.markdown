@@ -6,7 +6,10 @@ status: publish
 title: Bascht.com als Graph
 comments: true
 wordpress_id: '730'
-tags: graph, visualisierung, bascht.com
+tags:
+ - graph
+ - visualisierung
+ - bascht.com
 ---
 
 Tolle Webseite:
@@ -14,7 +17,6 @@ Tolle Webseite:
 
 ![image](/blog/2007-08-22-bascht-com-als-graph/bascht-graph.jpg)
 
-Und noch toller, das dann alles zu [teilen](http://flickr.com/photos/tags/websitesasgraphs/). 
+Und noch toller, das dann alles zu [teilen](http://flickr.com/photos/tags/websitesasgraphs/).
 
 Schönes neues Web. :)
-

@@ -6,7 +6,7 @@ status: publish
 title: Avahi!
 comments: true
 wordpress_id: '266'
-tags: computer,linux,lustiges,mac,vorlesung,windows
+tags: [ computer,linux,lustiges,mac,vorlesung,windows]
 ---
 
 ![Avahi](/blog/2007-10-23-avahi/avahi.png)
@@ -15,6 +15,3 @@ Hallo ihr Macs. ich seh euch! Nur ihr seht mich (mal abgesehen von iStumbleAndr�
 
 Hach, wasn Spaß. Wenn die Windowser nur wüssten was sie
 mit modernen Betriebssystemen alles machten könnten. :)
-
-
-

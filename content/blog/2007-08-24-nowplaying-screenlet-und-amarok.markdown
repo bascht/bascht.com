@@ -6,7 +6,7 @@ status: publish
 title: NowPlaying Screenlet und Amarok
 comments: true
 wordpress_id: '226'
-tags: compiz, computer, howto, linux, ubuntu
+tags: [ compiz, computer, howto, linux, ubuntu ]
 ---
 
 Kleine Empfehlung für alle Compiz-Fusion Freunde: Das NowPlaying
@@ -23,5 +23,3 @@ sudo apt-get install python-dcop
 ```
 
 Rock on! (currently with AILD...) bascht
-
-
