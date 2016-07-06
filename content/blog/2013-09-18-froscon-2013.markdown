@@ -2,7 +2,7 @@
 title: "Froscon 2013"
 date: 2013-09-18
 comments: true
-tags: froscon oss opensource bonn konferenz deployment
+tags: [froscon, oss, opensource, bonn, konferenz, deployment]
 ---
 Ich habe auf der [RedFrog Conf 2013](http://ruby.froscon.de) einen kleinen Talk rund um das große Thema »Deployment« gehalten.
 Mitschnitt gibt es hier:

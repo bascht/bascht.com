@@ -1,7 +1,7 @@
 ---
 title:  "Building a Vagrant VMware base box for CentOS 6.4"
 date:   2013-10-07
-categories: redhat centos vmware kernel modules
+tags: [redhat, centos, vmware, kernel, modules]
 ---
 
 If you followed the 'semi official' guides for installing the `vmware-tools` in CentOS 6, you

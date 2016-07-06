@@ -7,7 +7,7 @@ title: '#kabeldeutschland'
 permalink: 2008/11/14/kabeldeutschland
 comments: true
 wordpress_id: '433'
-tags: computer, fru, internet, kabeldeutschland
+tags: [computer, fru, internet, kabeldeutschland]
 ---
 Ich hab mich gerade mal gewundert, ob ich denn der Einzige bin, der
 über Kabeldeutschland schimpft, aber ich glaube es gibt noch mehr

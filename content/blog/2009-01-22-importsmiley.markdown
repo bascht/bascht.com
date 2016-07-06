@@ -6,7 +6,7 @@ status: publish
 title: Importsmiley
 comments: true
 wordpress_id: '508'
-tags: lustiges, lustiges, nonsens, web
+tags: [lustiges, lustiges, nonsens, web]
 ---
 
 Hab in der [Miracleworld](http://blog.miracleworld.de/) einen neuen

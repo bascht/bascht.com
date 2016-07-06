@@ -2,7 +2,7 @@
 title:  "Choosing a Vagrant default provider"
 date: 2013-12-12
 lang: en
-categories: vagrant vmware virtualbox
+tags: [vagrant, vmware, virtualbox]
 ---
 
 If you are using the VMWare Fusion or Workstation Providers with Vagrant,

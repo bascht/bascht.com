@@ -2,7 +2,7 @@
 title:  "Importing Posterous archives into Jekyll"
 date:   2013-06-04
 permalink: 'tech/2013/06/04/importing-posterous-into-jekyll'
-categories: meta posterous jekyll ruby
+tags: [meta, posterous, jekyll, ruby]
 ---
 
 As I got dropped from posterous I was searching for a simple solution to import

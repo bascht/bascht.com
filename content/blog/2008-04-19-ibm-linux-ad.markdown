@@ -6,7 +6,7 @@ status: publish
 title: IBM Linux Ad
 comments: true
 wordpress_id: '355'
-tags: fernsehen, linux, video
+tags: [fernsehen, linux, video]
 ---
 
 Mensch, in den Staaten läuft sogar richtig gut produzierte

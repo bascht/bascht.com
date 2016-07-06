@@ -7,7 +7,7 @@ title: Montag abgehakt
 comments: true
 wordpress_id: '577'
 autoframe: true
-tags: inbetween, inbetween, monday, monday
+tags: [inbetween, inbetween, monday, monday]
 ---
 
 Tag mit Buch und Stille beenden. Vorher das (dann doch bei iTunes

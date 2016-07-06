@@ -6,7 +6,7 @@ status: publish
 title: Reality Check
 comments: true
 wordpress_id: '1216'
-tags: computer, daten, maschine
+tags: [computer, daten, maschine]
 ---
 
 Man muss nicht unbedingt eine Datenparanoia haben, um bei folgendem

@@ -7,7 +7,7 @@ title: Der ROI von Büchern.
 comments: true
 autoframe: true
 wordpress_id: '350'
-tags: bücher, hibernate, java, python, software, unterwegs
+tags: [bücher, hibernate, java, python, software, unterwegs]
 ---
 
 Hoffentlich rechnet sich das bald aus und ich schreibe die absolute

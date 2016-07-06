@@ -1,7 +1,7 @@
 ---
 title:  "Emulate a robots.txt file with a simple nginx directive"
 date:   2013-06-20
-categories: nginx seo google robots robotstxt
+tags: [nginx, seo, google, robots, robotstxt]
 ---
 
 If you use nginx as a reverse proxy, you might want to emulate a

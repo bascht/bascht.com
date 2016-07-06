@@ -2,7 +2,7 @@
 title: "Tech-Blog"
 date: 2013-07-17
 comments: true
-tags:  tech blog bascht.com meta
+tags: [tech, blog, bascht.com, meta]
 ---
 
 Was macht man, wenn man ein paar Stunden Leerlauf hat? _Richtig._ Man belebt seinen alten Tech-Blog wieder.

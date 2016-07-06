@@ -7,7 +7,7 @@ title: International Obfuscated C Code Contest
 comments: true
 wordpress_id: '371'
 autoframe: true
-tags: c, computer, lustiges, programmierung
+tags: [c, computer, lustiges, programmierung]
 ---
 
 Grad über irgendeinen Tweet auf eine lustige Wikipedia-Seite

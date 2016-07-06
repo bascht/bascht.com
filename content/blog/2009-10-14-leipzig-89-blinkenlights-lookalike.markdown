@@ -6,7 +6,7 @@ status: publish
 title: Leipzig '89 Blinkenlights lookalike
 comments: true
 wordpress_id: '583'
-tags: leipzig, blinkenlights, daheim
+tags: [leipzig, blinkenlights, daheim]
 ---
 
 

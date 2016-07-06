@@ -2,7 +2,7 @@
 title: "Kingdoms"
 date: 2011-10-27
 comments: true
-tags: musik, hardcore
+tags: [musik, hardcore]
 ---
 
 Seit gestern gibt es drei neue Gäste in meiner Musikbibliothek:

@@ -7,7 +7,7 @@ title: Dienstag
 comments: true
 wordpress_id: '588'
 autoframe: true
-tags: dienstag, gedanken
+tags: [dienstag, gedanken]
 ---
 
 Dienstag halt.

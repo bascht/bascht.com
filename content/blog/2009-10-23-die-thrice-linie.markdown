@@ -6,7 +6,7 @@ status: publish
 title: Die Thrice-Linie
 comments: true
 wordpress_id: '575'
-tags: music, social networks, thrice, tools, web
+tags: [music, social networks, thrice, tools, web]
 ---
 
 

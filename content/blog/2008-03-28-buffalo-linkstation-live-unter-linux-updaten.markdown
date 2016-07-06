@@ -6,7 +6,7 @@ status: publish
 title: Buffalo Linkstation Live unter Linux updaten
 comments: true
 wordpress_id: '339'
-tags: firmware, buffallo, linux
+tags: [firmware, buffalo, linux]
 autoframe: true
 ---
 

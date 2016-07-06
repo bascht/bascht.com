@@ -2,7 +2,7 @@
 title: "Retrospektive 01/2013"
 date: 2013-02-04
 comments: true
-tags: retrospektive arbeit ruby geekstammtisch linux
+tags: [retrospektive, arbeit, ruby, geekstammtisch, linux]
 ---
 
 Drei Sachen die für einen einzelnen Blog-Post zu kurz, für einen Tweet aber zu lang schienen.

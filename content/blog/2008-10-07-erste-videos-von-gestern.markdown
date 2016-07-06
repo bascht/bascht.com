@@ -6,7 +6,7 @@ status: publish
 title: Erste Videos von gestern
 comments: true
 wordpress_id: '389'
-tags: hardcore, jena, unterwegs, video, wallsofjericho, youtube
+tags: [hardcore, jena, unterwegs, video, wallsofjericho, youtube]
 ---
 
 Da waren tatsächlich Leute so mutig, ihre Kameras mit reinzunehmen:

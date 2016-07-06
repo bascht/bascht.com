@@ -7,7 +7,7 @@ title: Songbird
 comments: true
 wordpress_id: '443'
 autoframe: true
-tags: neuigkeiten, software, songbird, ubuntu
+tags: [neuigkeiten, software, songbird, ubuntu]
 ---
 
 Dank dem **Gnubuntux** Blog musste ich noch nichtmal Pakete bauen,

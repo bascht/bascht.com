@@ -6,7 +6,7 @@ status: publish
 title: T-500
 comments: true
 wordpress_id: '321'
-tags: computer, fehler, internet, java, lustiges, telekom
+tags: [computer, fehler, internet, java, lustiges, telekom]
 autoframe: true
 ---
 

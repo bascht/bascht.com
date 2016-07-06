@@ -3,7 +3,7 @@ title: "daskeyboard"
 date: 2011-11-21
 comments: true
 autoframe: true
-tags: coding, hardware
+tags: [coding, hardware]
 ---
 Am Wochenende ist es gelandet, heute macht es den ersten harten Praxistag mit
 und ich könnte zufriedener nicht sein. Anschlag ist wunderbar & präzise, die

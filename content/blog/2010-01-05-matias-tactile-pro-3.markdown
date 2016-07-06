@@ -6,7 +6,7 @@ status: publish
 title: Matias Tactile Pro 3
 comments: true
 wordpress_id: '558'
-tags: keyboard, nerd, hardware
+tags: [keyboard, nerd, hardware]
 ---
 Gefunden auf [matias.ca](http://matias.ca/tactilepro3/)
 

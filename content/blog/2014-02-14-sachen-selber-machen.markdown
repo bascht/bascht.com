@@ -6,7 +6,7 @@ teaser: |
   Ein kleines Manifest für alle, die schon länger darüber nachdenken,
   ihre Infrastruktur selbst in die Hand zu nehmen.
 autoframe: true
-tags: dyi, hacking, oss, floss, google
+tags: [dyi, hacking, oss, floss, google]
 ---
 
 Spätestens seit der Zeitrechnung [nach Snowden](http://www.fr-online.de/digital/duckduckgo-und-ixquick-google-konkurrenz-bewirbt-datenschutz,1472406,23571772.html)

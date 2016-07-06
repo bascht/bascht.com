@@ -3,7 +3,7 @@ title: "Railscamp Hamburg"
 date: 2011-10-30
 comments: true
 autoframe: true
-tags: railscamp, hamburg, rails, ruby, rchh, unterwegs
+tags: [railscamp, hamburg, rails, ruby, rchh, unterwegs]
 ---
 
 Da dieser Post schon viel zu lange (siehe Datum) im Octopress Stash lag, endlich mal

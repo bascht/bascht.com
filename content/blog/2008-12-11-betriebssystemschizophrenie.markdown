@@ -7,7 +7,7 @@ title: Betriebssystemschizophrenie
 comments: true
 autoframe: true
 wordpress_id: '447'
-tags: betriebssysteme, lustiges, seo, ubuntu, windows
+tags: [betriebssysteme, lustiges, seo, ubuntu, windows]
 ---
 
 Heute wird [bascht.com](http://www.bascht.com) mal wieder

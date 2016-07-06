@@ -7,7 +7,7 @@ title: Apfelschifffahrt
 comments: true
 wordpress_id: '565'
 autoframe: true
-tags: gedanken, sachsen
+tags: [gedanken, sachsen]
 ---
 
 

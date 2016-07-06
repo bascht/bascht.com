@@ -6,7 +6,7 @@ status: publish
 title: SIGHTS & SOUNDS + MEN EATER
 comments: true
 wordpress_id: '584'
-tags: sightsandsounds, avocado, hardcore, leipzig, conneisland
+tags: [sightsandsounds, avocado, hardcore, leipzig, conneisland]
 ---
 
 Morgen im Conne Island.

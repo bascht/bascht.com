@@ -7,7 +7,7 @@ title: WochenENDE
 comments: true
 wordpress_id: '561'
 autoframe: true
-tags: wochenende, vogtland, band, musik
+tags: [wochenende, vogtland, band, musik]
 ---
 
 ...war zwar dunkel, aber schön.

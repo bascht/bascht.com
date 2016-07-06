@@ -7,7 +7,7 @@ title: Schulbank again
 comments: true
 wordpress_id: '574'
 autoframe: true
-tags: schulbank, schule, berlin, linux, lpic, unterwegs
+tags: [schulbank, schule, berlin, linux, lpic, unterwegs]
 ---
 
 

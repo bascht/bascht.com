@@ -2,7 +2,7 @@
 title: "Neuer PGP Key"
 date: 2011-10-24
 comments: true
-tags: security, pgp, verschluesselung
+tags: [security, pgp, verschluesselung]
 ---
 Nachdem ich jetzt zwar schon seit einer ganzen Weile S/MIME zum Signieren meiner
 E-Mails benutze, wurde es trotzdem mal wieder Zeit, meinen GPG Schlüssel zu erneuern.

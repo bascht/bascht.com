@@ -6,7 +6,7 @@ status: publish
 title: Halfpipeziege
 comments: true
 wordpress_id: '374'
-tags: lustiges, tiere, unterwegs, video, youtube, ziege
+tags: [lustiges, tiere, unterwegs, video, youtube, ziege]
 ---
 
 Falls mir mal wieder jemand nicht glaubt: Ja, wir haben eine Ziege.

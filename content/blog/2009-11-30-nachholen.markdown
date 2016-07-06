@@ -7,7 +7,7 @@ title: Nachholen
 comments: true
 wordpress_id: '562'
 autoframe: true
-tags: vogtland, kaffee, wochenende
+tags: [vogtland, kaffee, wochenende]
 ---
 
 

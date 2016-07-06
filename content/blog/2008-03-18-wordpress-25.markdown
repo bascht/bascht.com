@@ -6,7 +6,7 @@ status: publish
 title: Wordpress 2.5
 comments: true
 wordpress_id: '331'
-tags: wordpress, gedanken, nick, mk
+tags: [gedanken, nick, mk]
 autoframe: true
 ---
 

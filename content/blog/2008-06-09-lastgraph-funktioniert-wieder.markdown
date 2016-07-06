@@ -7,7 +7,7 @@ title: Lastgraph funktioniert wieder
 comments: true
 wordpress_id: '364'
 autoframe: true
-tags: lastfm, musik, tools
+tags: [lastfm, musik, tools]
 ---
 
 Tolles Tool. Leider die letzte Woche von lifehacker.com down

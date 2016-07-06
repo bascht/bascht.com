@@ -6,7 +6,7 @@ status: publish
 title: Probleme mit dem WP Stats Plugin
 comments: true
 wordpress_id: '344'
-tags: howto, lernen, neuigkeiten, studium, wordpress, php
+tags: [howto, lernen, neuigkeiten, studium, wordpress, php]
 ---
 
 Die Screenshots sahen natürlich super aus und auch im neuen 2.5er

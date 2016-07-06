@@ -2,7 +2,7 @@
 title:  "Enabling public key authentication in CentOS"
 date:   2015-02-13
 lang: en
-categories: centos ssh authorized_keys selinux
+tags: [centos, ssh, authorized_keys, selinux]
 ---
 
 If you are wondering why CentOS is ignoring your

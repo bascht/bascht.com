@@ -1,7 +1,7 @@
 ---
 title:  "Getting the EPSON CX11NF to work with Linux"
 date:   2012-12-10
-categories: linux printing epson cx11nf ubuntu
+tags: [linux, printing, epson, cx11nf, ubuntu]
 ---
 
 Linux. And printing. Well that's another chapter.

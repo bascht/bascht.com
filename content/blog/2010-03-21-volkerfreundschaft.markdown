@@ -7,7 +7,7 @@ title: 'Völkerfreundschaft '
 comments: true
 autoframe: true
 wordpress_id: '554'
-tags: agavi, frameworks, php, symfony
+tags: [agavi, frameworks, php, symfony]
 ---
 
 Hab' gestern ein kleines, aber feines Paket aus der Post gefischt.

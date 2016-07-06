@@ -6,7 +6,7 @@ status: publish
 title: Places to be.
 comments: true
 wordpress_id: '579'
-tags: proberaum, musik, arbeit, hardcore
+tags: [proberaum, musik, arbeit, hardcore]
 ---
 
 Proberaum, Arbeitsplatz

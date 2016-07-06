@@ -7,7 +7,7 @@ title: Symfony in 24 Tagen
 comments: true
 wordpress_id: '440'
 autoframe: true
-tags: entwicklung, php, symfony
+tags: [entwicklung, php, symfony]
 ---
 
 Endlich hat sich jemand mal erbarmt und den Symfony Adventskalender

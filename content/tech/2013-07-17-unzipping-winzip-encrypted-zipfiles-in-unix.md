@@ -1,7 +1,7 @@
 ---
 title:  "Unzipping encrypted (win)zip files in linux"
 date:   2013-07-17
-categories: unzip winzip 7z encryption
+tags: [unzip, winzip, 7z, encryption]
 ---
 
 Last week I got my hands on an »encrypted« .zip file, the built-in zip command wouldn't eat:

@@ -2,7 +2,7 @@
 title:  "Enabling emacs style shortcuts in GNOME"
 date:   2016-04-01
 lang: en
-categories: linux emacs desktop shortcuts
+tags: [linux, emacs, desktop, shortcuts]
 ---
 
 Emacs aficionado? Want to use your beloved keyboard movements

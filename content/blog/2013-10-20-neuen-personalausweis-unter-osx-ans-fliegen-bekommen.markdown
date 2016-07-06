@@ -2,7 +2,7 @@
 title: "Den neuen Personalausweis (nPA) unter OS X ans Fliegen bekommen"
 date: 2013-10-20
 comments: true
-tags: npa,german government,egovernment,eid,ausweis,ausweisapp
+tags: [npa,german government,egovernment,eid,ausweis,ausweisapp]
 ---
 
 

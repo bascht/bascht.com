@@ -6,7 +6,7 @@ status: publish
 title: Abfahrt vs. Ankunft
 comments: true
 wordpress_id: '559'
-tags: unterwegs, marburg, vogtland, auto
+tags: [unterwegs, marburg, vogtland, auto]
 ---
 
 Marburg, Zwischenstop Jena Rosenkeller, Vogtland.

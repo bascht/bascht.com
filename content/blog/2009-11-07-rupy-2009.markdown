@@ -7,7 +7,7 @@ title: RuPy 2009
 comments: true
 wordpress_id: '569'
 autoframe: true
-tags: unterwegs, polen, rupy, ruby, python, konferenzen
+tags: [unterwegs, polen, rupy, ruby, python, konferenzen]
 ---
 
 Werd die nächsten Tage auf der [RuPy 2009](http://rupy.eu/) sein.

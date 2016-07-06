@@ -7,7 +7,7 @@ title: Google überall
 comments: true
 wordpress_id: '567'
 autoframe: true
-tags: google, gefunden
+tags: [google, gefunden]
 ---
 
 Via [filippominelli.com](http://www.filippominelli.com/google.html)

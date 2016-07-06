@@ -2,7 +2,7 @@
 title: "Cluster"
 date: 2012-06-22
 comments: true
-tags: bash shell scripting tools zsh
+tags: [bash, shell, scripting, tools, zsh]
 ---
 Aus der beliebten Serie: *Klein, aber nützlich* heute mal ein kleines Bash-Schnipsel was ich mittlerweile für fast
 alle Projekte nutze. Eine kleine Cluster-Funktion:

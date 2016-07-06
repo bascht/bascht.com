@@ -6,10 +6,9 @@ status: publish
 title: WikiReader
 comments: true
 wordpress_id: '585'
-tags: wiki, reader, wikireader, internet, oss
+tags: [wiki, reader, wikireader, internet, oss]
 ---
 
 Großartiges Device, falls das mal kein Fake ist.
 
 [thewikireader.com](http://www.thewikireader.com)
-

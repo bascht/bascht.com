@@ -6,7 +6,7 @@ status: publish
 title: Machs gut, B.
 comments: true
 wordpress_id: '571'
-tags: unterwegs, berlin, leipzig, bahn
+tags: [unterwegs, berlin, leipzig, bahn]
 ---
 
 

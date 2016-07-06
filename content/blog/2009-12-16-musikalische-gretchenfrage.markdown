@@ -7,7 +7,7 @@ title: Musikalische Gretchenfrage
 comments: true
 autoframe: true
 wordpress_id: '560'
-tags: musik, gedanken, itunes
+tags: [musik, gedanken, itunes]
 ---
 
 Obacht. No offense.

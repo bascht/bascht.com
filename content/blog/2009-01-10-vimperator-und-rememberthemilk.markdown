@@ -6,7 +6,7 @@ status: publish
 title: Vimperator und Rememberthemilk
 comments: true
 wordpress_id: '489'
-tags: firefox, mozilla, software, vim, vimperator, web
+tags: [firefox, mozilla, software, vim, vimperator, web]
 ---
 
 Bin seit einiger Zeit wieder mal mit dem

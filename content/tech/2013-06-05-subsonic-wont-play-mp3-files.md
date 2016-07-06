@@ -1,7 +1,7 @@
 ---
 title:  "Subsonic won't play MP3 or AAC files"
 date: 2013-06-05
-categories: music audio subsonic
+tags: [music, audio, subsonic]
 ---
 
 I'm currently running my private trial in hosting [Subsonic](http://www.subsonic.org/pages/index.jsp)

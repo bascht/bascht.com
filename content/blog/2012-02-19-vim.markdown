@@ -2,7 +2,7 @@
 title: "VIM"
 date: 2012-02-19
 comments: true
-tags: programmierung unix
+tags: [programmierung, unix]
 ---
 
 Die kleinen Dinge des Alltags beachtet man üblicherweise viel zu wenig. Zu den kleinen

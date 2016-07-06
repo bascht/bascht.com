@@ -6,7 +6,7 @@ status: publish
 title: Freundearbeitabend
 comments: true
 wordpress_id: '333'
-tags: freundearbeit, gedanken
+tags: [freundearbeit, gedanken]
 ---
 
 [![image](http://media.shozu.com/cache/portal/media/a8e3c8/16777225_journal)](http://media.shozu.com/cache/portal/media/a8e3c8/16777225)

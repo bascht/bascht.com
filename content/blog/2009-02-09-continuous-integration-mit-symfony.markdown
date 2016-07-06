@@ -7,7 +7,7 @@ title: Continuous Integration mit Symfony
 comments: true
 autoframe: true
 wordpress_id: '522'
-tags: agile development, ci, lernen, php, programming, symfony
+tags: [agile, development, ci, lernen, php, programming, symfony]
 ---
 
 Auf Wunsch eines einzelnen

@@ -7,7 +7,7 @@ title: Buntes B
 comments: true
 wordpress_id: '572'
 autoframe: true
-tags: berlin, unterwegs,morgens,gedanken
+tags: [berlin, unterwegs,morgens,gedanken]
 ---
 
 ![Buntes Berlin](https://img.bascht.com/uploads/big/116998e76ea222d80ab319c8e3b43183.jpg)

@@ -6,7 +6,7 @@ status: publish
 title: Vater und Mutter ehren
 comments: true
 wordpress_id: '564'
-tags: hardware, mac, powerpc, macpro
+tags: [hardware, mac, powerpc, macpro]
 ---
 
 So, oder so ähnlich muss es wohl den beiden gehen.

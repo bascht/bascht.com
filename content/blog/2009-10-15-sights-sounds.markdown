@@ -7,7 +7,7 @@ title: Sights & Sounds
 comments: true
 wordpress_id: '582'
 autoframe: true
-tags: sightsandsounds, hardcore, music, leipzig, conneisland
+tags: [sightsandsounds, hardcore, music, leipzig, conneisland]
 ---
 
 Heftiger Tag gewesen. Zu wenig Schlaf, Büro auf full throttle,

@@ -2,7 +2,7 @@
 title:  "Recover stuck RancherOS after upgrade to 0.4.5"
 date:   2016-06-29
 lang: en
-categories: linux docker rancher
+tags: [linux, docker, rancher]
 ---
 
 Just tripped into that one: I upgraded a Rancher host to `0.4.5`,

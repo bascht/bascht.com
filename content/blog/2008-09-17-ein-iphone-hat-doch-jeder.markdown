@@ -7,7 +7,7 @@ title: Ein iPhone hat doch jeder
 comments: true
 autoframe: true
 wordpress_id: '377'
-tags: android, apple, htc, iphone, touch
+tags: [android, apple, htc, iphone, touch]
 ---
 
 Nachdem ich nun langsam auch aufs Vertragsende zuschlittere, kommt

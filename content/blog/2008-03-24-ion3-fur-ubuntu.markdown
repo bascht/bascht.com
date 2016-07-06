@@ -6,7 +6,7 @@ status: publish
 title: Ion3 für Ubuntu
 comments: true
 wordpress_id: '336'
-tags: computer, neuigkeiten, ubuntu
+tags: [computer, neuigkeiten, ubuntu]
 autoframe: true
 ---
 

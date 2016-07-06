@@ -6,7 +6,7 @@ status: publish
 title: Spurensuche mit Foremost
 comments: true
 wordpress_id: '348'
-tags: computer, howto, lifehacks, linux
+tags: [computer, howto, lifehacks, linux]
 ---
 
 Hab gestern von Matthias ne *kaputte* SD Karte in Empfang genommen.

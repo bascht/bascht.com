@@ -6,7 +6,7 @@ status: publish
 title: Schlüsseldienst
 comments: true
 wordpress_id: '436'
-tags: aktuelles, pgp, sicherheit, verschlüsselung
+tags: [aktuelles, pgp, sicherheit, verschlüsselung]
 ---
 
 Hallo zusammen. Gerade gemerkt das ich meinen privaten Schlüssel
@@ -17,7 +17,7 @@ Schlüssel ID: 6A3BB6E1
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1.4.9 (GNU/Linux)
-    
+
     mQGiBEkjL8YRBADNVi1z4tf4eaJRN+yahvR5bNLaK9/wFC7V76J7qO6JY2gnywR1
     vaYZqnZwMqVDJUepaP9sE19DQlLF2QFTDoyWBvFVb2C84Lw4Z/VQqNTMXP2dgZsD
     pGnzK5BqRPdhVaqK8NildN6/APH9RjU/I7K1etOvypFKQgzdMi0jmBAr6wCgpuG+
@@ -56,6 +56,3 @@ Schlüssel ID: 6A3BB6E1
     eRX0CKIbT3X47tTxTcfXhk4AnjcWeH2pPSpP347aetdS8Jt0WuoD
     =tdGm
     -----END PGP PUBLIC KEY BLOCK-----
-
-
-

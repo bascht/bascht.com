@@ -6,7 +6,7 @@ status: publish
 title: Ubuntu Dust Theme schon jetzt
 comments: true
 wordpress_id: '397'
-tags: gnome, grafik, howto, linux, software, ubuntu, unsortiertes
+tags: [gnome, grafik, howto, linux, software, ubuntu, unsortiertes]
 ---
 
 Wer nicht bis zum Ibex-Release warten möchte, kann schon jetzt

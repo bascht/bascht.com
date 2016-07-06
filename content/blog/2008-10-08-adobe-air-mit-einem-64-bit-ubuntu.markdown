@@ -7,7 +7,7 @@ title: Adobe AIR mit einem 64 bit Ubuntu
 comments: true
 wordpress_id: '391'
 autoframe: true
-tags: adobe, air, howto, linux, software, tweetdeck, twitter, ubuntu
+tags: [adobe, air, howto, linux, software, tweetdeck, twitter, ubuntu]
 ---
 
 Adobe AIR machte auf meinem 64bit Ubuntu irgendwie keine richtigen

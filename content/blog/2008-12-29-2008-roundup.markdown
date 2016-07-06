@@ -6,7 +6,7 @@ status: publish
 title: 2008 Roundup
 comments: true
 wordpress_id: '478'
-tags: gedanken, jahresrückblick
+tags: [gedanken, jahresrückblick]
 ---
 
 Sodala. Das war doch schon fast wieder ein Jahr. Morgen ist der
@@ -30,8 +30,5 @@ zurück! Für mich gibts noch dringend zu tun:
 
 Dann mach ich mich mal an die Arbeit...
 
- (⃰) irgendwie wird mein MySQL ständig vom Kernel mit einer "out of memory, killing..." 
+ (⃰) irgendwie wird mein MySQL ständig vom Kernel mit einer "out of memory, killing..."
 Meldung weggeschossen. Anregungen gerne an mich.
-
-
-

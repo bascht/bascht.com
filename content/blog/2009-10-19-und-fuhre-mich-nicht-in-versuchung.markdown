@@ -7,7 +7,7 @@ title: Und führe mich nicht in Versuchung...
 comments: true
 wordpress_id: '578'
 autoframe: true
-tags: music, hardcore, gwenstacy, spotify
+tags: [music, hardcore, gwenstacy, spotify]
 ---
 
 Da passt man mal ein paar Tage nicht auf - und schon liegt das neue

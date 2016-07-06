@@ -6,7 +6,7 @@ status: publish
 title: Mal wieder HDR in MW
 comments: true
 wordpress_id: '324'
-tags: fotos, hdr, mittweida, unterwegs
+tags: [fotos, hdr, mittweida, unterwegs]
 ---
 
 Hab mich heute mal nicht durch die Kälte verscheuchen lassen und

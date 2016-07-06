@@ -1,7 +1,7 @@
 ---
 title:  "Adjusting the Crunchbang cursor size"
 date:   2013-10-17
-categories: crunchbang openbox x11 cursor dualhead
+tags: [crunchbang, openbox, x11, cursor, dualhead]
 ---
 
 Firing up Crunchbang in dual screen mode (via arandr) made the cursor appear *huge* on some windows.

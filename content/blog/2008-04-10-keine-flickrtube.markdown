@@ -7,7 +7,7 @@ title: Keine FlickrTube
 comments: true
 wordpress_id: '346'
 autoframe: true
-tags: flickr, neuigkeiten, youtube
+tags: [flickr, neuigkeiten, youtube]
 ---
 
 Bei Flickr formiert sich zur Zeit regelrechter Protest gegen die

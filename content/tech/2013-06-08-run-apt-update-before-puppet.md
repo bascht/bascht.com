@@ -1,7 +1,7 @@
 ---
 title:  "Bootstrap a Vagrant VM before running the provisioner."
 date:   2013-06-08
-categories: puppet vagrant bootstrap vm tricks
+tags: [puppet, vagrant, bootstrap, vm, tricks]
 ---
 
 This might not be the most elegant way to deal with this problem,
@@ -19,18 +19,16 @@ the provisioner only runs on the very first time.
 
 ## In your Vagrantfile
 Add a provisioner right _before_ your puppet or chef provisioner.
-{% highlight ruby %}
-  config.vm.provision :shell, :path => "your/path/to/bootstrap-vagrant.sh"
-{% endhighlight %}
 
-<br>
+``` ruby
+config.vm.provision :shell, :path => "your/path/to/bootstrap-vagrant.sh"
+```
 
 ## In a separate Shell-Script e.g. bootstrap-vagrant.sh
 Add your bootstrapping-code and wrap it in a conditional expression.
 
-{% highlight sh %}
+``` bash
 #!/bin/bash
-
 STAGE="/etc/first_stage"
 if [ ! -e $STAGE ]; then
   # Your bootstrapping-code
@@ -39,6 +37,6 @@ if [ ! -e $STAGE ]; then
   # * add ssh key, etc.
   touch $STAGE
 fi
-{% endhighlight %}
+```
 
 Not *that* fancy, but it gets stuff done for your dev boxes.
