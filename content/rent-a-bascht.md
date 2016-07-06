@@ -12,12 +12,11 @@ Folgende Buzzwords habe ich dafür in der Werkzeugkiste:
 
 <img align="right" src="/images/terminal.png" />
 
-* Automatisierung, Automatisierung, Automatisierung
-* Infrastruktur-Entwicklung mit Ruby & Puppet
+* Automatisierung und Infrastruktur-Entwicklung mit Ruby & Puppet
+* Shenanigans mit Vagrant, Puppet, Docker, Rancher, u.v.m.
 * Bau- und Ausbau eurer Build & Delivery-Pipelines
-* Testing und Deployment & Paketierung von Rails- und Padrino Applikationen in JRuby oder MRI
-* Continuous Integration
-* Test-Setups und Entwickler-Systeme mit Vagrant
+* Continuous Integration und Deployment & Paketierung von Applikationen
+* Test-Setups und Entwickler-Systeme
 * (kleine) Web-Projekte mit Padrino
 
 Wer gerne den offiziellen Weg geht, findet [hier](https://www.xing.com/profile/Sebastian_Schulze10) mein Xing-Profil.
