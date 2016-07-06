@@ -1,25 +1,35 @@
-@font-face {
-    font-family: 'inconsolata';
-    src: url('../fonts/inconsolata.eot');
-    src: url('../fonts/inconsolata.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/inconsolata.woff') format('woff'),
-    url('../fonts/inconsolata.ttf') format('truetype'),
-    url('../fonts/inconsolata.svg#inconsolata') format('svg');
-    font-weight: normal;
+@font-face{
+    font-family: 'Fira Mono';
+    src: url('../fonts/eot/FiraMono-Regular.eot');
+    src: local('Fira Mono'),
+    url('../fonts/eot/FiraMono-Regular.eot') format('embedded-opentype'),
+    url('../fonts/woff/FiraMono-Regular.woff') format('woff'),
+    url('../fonts/ttf/FiraMono-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Fira Mono';
+    src: url('../fonts/eot/FiraMono-Bold.eot');
+    src: local('Fira Mono Bold'),
+    url('../fonts/eot/FiraMono-Bold.eot') format('embedded-opentype'),
+    url('../fonts/woff/FiraMono-Bold.woff') format('woff'),
+    url('../fonts/ttf/FiraMono-Bold.ttf') format('truetype');
+    font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'roboto_slabregular';
-    src: url('../fonts/roboto_slab.eot');
-    src: url('../fonts/roboto_slab.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/roboto_slab.woff') format('woff'),
-    url('../fonts/roboto_slab.ttf') format('truetype'),
-    url('../fonts/roboto_slab.svg#roboto_slabregular') format('svg');
+    src: url('../fonts/eot/roboto_slab.eot');
+    src: url('../fonts/eot/roboto_slab.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/woff/roboto_slab.woff') format('woff'),
+    url('../fonts/ttf/roboto_slab.ttf') format('truetype'),
+    url('../fonts/svg/roboto_slab.svg#roboto_slabregular') format('svg');
     font-weight: normal;
-    font-style: normal;
 }
-
+    
 h1, h2, h3, h4, h5, nav#main { 
     
 }
@@ -27,7 +37,10 @@ h1, h2, h3, h4, h5, nav#main {
 body { 
     background-image:url('../images/main_background_light.png');
     background-repeat:repeat-x;
-    font-family: 'roboto_slabregular';
+    font-family: 'Fira Mono';
+}
+header {
+    font-family: "roboto_slabregular";
 }
 
 header div.logo h1 {
@@ -54,13 +67,6 @@ header #logo #slogan {
 a { color: #882211; }
 a:hover { color: #a71000; }
 a:visited { color: none; }
-
-article,
-p,
-.page-content,
-div.highlight {
-    font-family: 'inconsolata';
-}
 
 div.post-content img,
 div.highlight,
@@ -136,7 +142,7 @@ div.pager a {
     text-decoration: none
 }
 
-article.summary .post-meta {
+raticle.summary .post-meta {
     text-align: right;
 }
 
