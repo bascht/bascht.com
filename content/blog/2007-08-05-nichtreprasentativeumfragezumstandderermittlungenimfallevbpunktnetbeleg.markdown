@@ -3,7 +3,7 @@ author: bascht
 date: 2007-08-05
 slug: nichtreprasentativeumfragezumstandderermittlungenimfallevbpunktnetbeleg
 status: publish
-title: nichtrepräsentativeumfragezumstandderermittlungenimfallevbpunktnetbeleg
+title: nichtrepräsentativeumfrage[…]
 comments: true
 wordpress_id: '217'
 ? ''
@@ -19,5 +19,3 @@ wordpress_id: '217'
 [http://www.tech-nick-blog.de/vbnet/audio-video-player-in-vbnet-zwischenstand.html](http://www.tech-nick-blog.de/vbnet/audio-video-player-in-vbnet-zwischenstand.html)
 Wie ist bei euch der Fortschritt? Ich hab ein schlechtes
 Gewissen...
-
-
