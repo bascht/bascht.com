@@ -3,9 +3,7 @@
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
     <div class="post-content">
-
       <img align="left" style="margin-top: 0;" src="/images/bascht.jpg">
-
       <h4>Hallo!</h4>
       Mein Name ist <strong>Bascht</strong>. Ich bin hauptsächlich Mensch,
       Christ, Dipl.-Ing. für Multimediatechnik, Musikliebhaber. Als
@@ -20,27 +18,15 @@
       KORG nanoKEY (letzteres noch mehr schlecht als recht).
       Viel Spaß beim stöbern!
 
-
-
-<p class="noborder"><img src="/images/bascht_unterschrift.gif"></p>
-</div>
-<div class="teaser">
-
-  <h5>Aktueller Blog-Post: </h5>
   {{ range first 1 (where .Data.Pages "Section" "blog") }}
-  <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
-  <div class="post-meta">{{ .Date.Format "02.01.2006" }} - {{ .FuzzyWordCount }} Wörter </div>
-
-  {{ .Summary }}
-
-  <footer>
-    <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
-  </footer>
-
-  {{ end }}
-
+      <p> Aktueller Blog-Post:
+        <a href='{{ .Permalink }}'> {{ .Title }}</a>
+        ({{ .FuzzyWordCount }} Wörter vom {{ .Date.Format "02.01.2006" }}).
+      </p>
+    {{ end }}
+      <hr/>
+      <p class="noborder"><img src="/images/bascht_unterschrift.gif"></p>
 </div>
-
 </div>
 {{ partial "footer.html" . }}
 </body>
