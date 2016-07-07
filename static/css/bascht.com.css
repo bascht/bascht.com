@@ -31,7 +31,7 @@
 }
     
 h1, h2, h3, h4, h5, nav#main { 
-    
+    font-family: "roboto_slabregular";
 }
 
 body { 
@@ -125,8 +125,13 @@ aside article h2 {
     margin-top: 0;
 }
 
-nav ul li.active a {
-    background-color: #e5938a;
+nav#main ul li a {
+    font-weight: normal;
+    border-radius: 3px;
+    padding: 0 1em 0 1em;
+}
+nav#main ul li.active a {
+    background-color: rgb(34, 34, 34);
 }
 
 .noborder * {
@@ -142,8 +147,12 @@ div.pager a {
     text-decoration: none
 }
 
-raticle.summary .post-meta {
-    text-align: right;
+article.summary .post-meta {
+    color: #cdcdcd;
+}
+
+article.summary a.anchor {
+    text-decoration: none;
 }
 
 .tech-notes a {
