@@ -2,7 +2,11 @@
 <body>
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
-    <h2>Tech notes</h2>
+    <h2>Tech notes &amp; snippets</h2>
+    Random assortment of little snippets and hiccups I came them
+    useful (or at least amusing). Got something to add / correct?
+    I' love your feedback.
+
     <div class="tech-notes clearfix">
     {{ range where .Data.Pages "Section" "tech" }}
     {{ .Render "summary" }}
