@@ -1,9 +1,9 @@
 ---
-title: "Impressum"
+title: "Kontakt"
 #date: 2011-10-21 19:16
 comments: false
 sharing: false
-permalink: impressum.html
+permalink: kontakt.html
 menu: main
 weight: -20
 ---
@@ -20,6 +20,7 @@ Snail-Mail, Abmahnungen & Papierpost an:
 ## Kontakt
 
 **E-Mail:** mail<small>at</small>bascht<small>punkt</small>com<br/>
+**Jabber:** bascht<small>at</small>yakshed<small>punkt</small>org<br/>
 **Telefon:** +49 37421 649639 <small>(IP Telefonnummer, ihr landet
 auf einer Mailbox & ich rufe zurück)</small>
 
