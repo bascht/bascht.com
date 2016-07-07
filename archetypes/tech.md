@@ -1,7 +1,6 @@
 ---
 title:  ""
 lang: en
-categories:
 tags:
 ---
 
