@@ -233,7 +233,7 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 40%;
+        min-width: 370px;
         margin-top: 4em;
     }
 
