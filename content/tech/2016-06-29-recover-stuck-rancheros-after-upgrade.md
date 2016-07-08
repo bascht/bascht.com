@@ -10,7 +10,7 @@ rebooted it & somehow only the `system-docker` daemon came up.
 
 The user facing container was stuck in a reboot loop:
 
-```
+```bash
 CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                          PORTS               NAMES
 e11da889990c        rancher/os-docker:v0.4.5    "/usr/sbin/entry.sh /"   11 minutes ago      Restarting (0) 47 seconds ago                       docker
 9f0f66b8eef0        rancher/os-console:v0.4.5   "/usr/sbin/entry.sh /"   11 minutes ago      Up 11 minutes                                       console
@@ -30,7 +30,7 @@ Error starting daemon: Error initializing network controller: could not delete t
 
 The solution was fairly easy:
 
-``` bash
+```bash
 $ sudo rm -r /var/lib/docker/network; sudo reboot;
 ```
 

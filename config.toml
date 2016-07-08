@@ -2,7 +2,7 @@ baseurl = "https://bascht.com"
 languageCode = "de-de"
 
 title = "bascht.com"
-pygmentsStyle = "trac"
+pygmentsStyle = "monokai"
 PygmentsCodeFences = true
 
 [params]
