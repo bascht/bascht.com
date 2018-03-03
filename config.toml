@@ -1,5 +1,8 @@
 baseurl = "https://bascht.com"
+MetaDataFormat = "yaml"
 languageCode = "de-de"
+defaultContentLanguage = "de"
+enableEmoji = true
 
 title = "bascht.com"
 pygmentsStyle = "monokai"
