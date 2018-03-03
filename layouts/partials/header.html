@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bascht.com.css">
   <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
-  <link rel="alternate" type="application/rss+xml" title="{{  .Site.Title }}" href="{{ .RSSlink }}">
+  {{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end -}}
   <link href="http://feeds.feedburner.com/baschtcom" rel="alternate" title="bascht.com" type="application/atom+xml">
 </head>
