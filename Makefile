@@ -1,12 +1,13 @@
-HUGO_URL = "https://github.com/spf13/hugo/releases/download/v0.37/hugo_0.37_linux_amd64.tar.gz"
+HUGO_VERSION="0.37"
+HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz"
 
-default: hugo public
+
+default: hugo clean public
 
 hugo:
 	curl -L $(HUGO_URL) > ./hugo.tar.gz
 	tar -xvf hugo.tar.gz
-	mv hugo_*/hugo*amd64 hugo
-	rm -rf hugo.tar.gz hugo_*_amd64
+	rm -f LICENSE.md README.md
 
 public:
 	hugo
