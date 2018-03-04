@@ -1,4 +1,4 @@
-HUGO_URL = "https://github.com/spf13/hugo/releases/download/v0.15/hugo_0.15_linux_amd64.tar.gz"
+HUGO_URL = "https://github.com/spf13/hugo/releases/download/v0.37/hugo_0.37_linux_amd64.tar.gz"
 
 default: hugo public
 
