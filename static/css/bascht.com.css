@@ -230,6 +230,18 @@ div.highlight {
     border-radius: 5px;
 }
 
+article h1 {
+    font-size: 1.5em;
+}
+
+article h2 {
+    font-size: 1.2em;
+}
+
+article h3 {
+    font-size: 1em;
+}
+
 article pre {
     font-family: "Fira Mono";
     color: #efefef;
