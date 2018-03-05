@@ -6,7 +6,7 @@
 My personal relation with Hugo [[https://git.bascht.space/bascht/bascht.com/commit/75ae9c346694686f1d05a5839df6a4c23e628260][has been a mixed bag]] but so far I'm still happy
 with it - especially since it [[http://bepsays.com/en/2017/02/27/hugo-019/][supports native =org-mode=]] with version 0.19.
 
-* Trouble during the 0.3-something
+* Trouble during the 0.3-something update
 
   I'm not too sure since when this has been broken on my side, but upon updating
   to =0.37= Hugo refused to build anything:
