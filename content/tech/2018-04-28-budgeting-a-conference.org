@@ -1,0 +1,129 @@
+#+TITLE:  Ruby on Ice – A quick glance at our budget
+#+DATE: 2018-04-30
+#+DRAFT: nil
+#+TAGS: ruby rubyonice money budget rubyberlin
+
+I wanted to to publish this blog post for a while now, but time 's been running
+fast and now it's already three months since [[https://rubyonice.com/2018][Ruby
+on Ice 2018]] took place. This isn't a recap – if you want to get a few
+impressions, just scroll through the
+[[https://twitter.com/hashtag/rubyonice2018][#rubyonice2018]] tweets.
+
+[[file:http://rubyberlin.org/images/content/projects/rubyonice-2018.svg]]
+
+This post should give you a quick recap of our conference budget planning for
+Ruby on Ice 2018 and should help you as a conference organiser to put your own
+budget in perspective and give some transparency to you as a conference
+attendee. Note that this might not apply to large business conferences, but it
+worked for us as a community-conference.
+
+* Retrospective
+
+We started planning for Ruby on Ice roughly one year ago - March / April 2017
+with a core team of three people. We had the backing of the Berlin-based
+Non-Profit [[https://rubyberlin.org/][Ruby Berlin e.V.]] that enabled us to have
+a legal entity for running the conference, selling tickets + sponsorships.
+
+A huge part of our planning time went into a huge Google Docs budget sheet. We
+adapted it from [[https://twitter.com/fannivuniconnu][@fannivuniconnu's]]
+version back from the eurucamp days and this was our guideline for all
+decisions.
+
+Our goal was to organise a community-run conference in the south of Germany with
+the backdrop of the Alps – inviting Rubyists from all over the world but also
+appealing to people from southern Germany, Austria and Switzerland who didn't
+want to travel to Berlin all the time.
+
+** Ticket sales vs. Sponsoring
+
+This was the first big head scratcher. Ruby Berlin e.V. is a Non-Profit. Sounds
+good, no? So at least we don't have to be profitable. Well. But we also should
+not operate at a 100% loss, as we want to keep the Verein healthy.
+
+I was involved in a lot of community-run conferences and used to ticket prices
+somewhere between *60-100€* for a two day event. Now – since I moved to Munich,
+I already expected it to be a bit more pricy, but the longer we shuffled around
+numbers the more we realised that we would have to raise the ticket prices to
+organise a conference with a balanced budget.
+
+Speaking of balance – most conferences rely on two revenue streams: /Ticket
+sales/ and /Sponsoring deals/. The first trap we probably stepped into was
+assuming that we could smoothly fill all the missing budget parts with
+sponsoring money.
+
+Well. We couldn't.
+
+*** On sponsoring »money«
+
+It's easy to think of Sponsoring »money« as a regular part of your budget or as
+some kind of benevolent donations. Except they're not. You _sell_ part of your
+stage and attention to a sponsor and you get paid for goods and services. Even
+though we're a Non-profit we have to pay taxes for those payments.
+
+A good baseline we adapted from grooming our budget with
+[[https://twitter.com/argorak][Florian]] was: 
+
+#+BEGIN_QUOTE
+Try to cover the base line of your cost (food, venue) with regular ticket sales and use the sponsoring money to afford nice things on top of that.
+#+END_QUOTE
+
+In the end we still evened out at a rough =50:50= ratio:
+
+[[file:https://img.bascht.com/2018-blog/rubyonice-chart-income.png]]
+
+We priced the sponsoring packages pretty high (2000€, 5000€, 7500€ and one /free
+style/) but in the end we where happy the way we calculated them. Setting the
+prices lower might have attracted a few more sponsors but would have also
+increased the workload we had in managing the sponsoring agreements.
+
+What helped us in the end: We set up pretty pessimistic prospectives for
+sponsoring packages and always calculated with a 20% buffer so we could afford
+to negotiate with sponsors:
+
+[[file:https://img.bascht.com/2018-blog/sponsoring-budget-security.png]]
+
+
+That being said: We managed to get really amazing companies to support our
+conference and were pretty happy to have them aboard. (And: No – this compliment
+is not part of a sponsoring deal).
+
+To kickstart ticket sales we started with an early bird price of =220€= and
+progressed to a regular ticket price of =330€= (incl. taxes).
+
+* Ticket sale timeline
+
+We opened up our ticket sale in October 2017 with our early bird sale and sold
+our last ticket on Friday evening when the conference had already started:
+
+#+ATTR_HTML: :class goorgeous
+[[file:https://img.bascht.com/2018-blog/rubyonice-ticketsales.png]]
+
+The first few hours of opening the ticket sale felt great. Look at those
+engagement numbers! The second bump at the beginning of November was the end of
+our early bird sale.
+
+And this brings us to our next ticket pricing lesson: /Try to not lose money on
+early bird tickets/.
+
+
+
+* Cost distribution
+
+[[file:https://img.bascht.com/2018-blog/rubyonice-chart-expenses.png]]
+
+* Takeaways
+
+** Be careful with the Early Bird tickets
+
+** More Newsletters
+
+** Diversity Tickets
+
+
+
+
+My personal relation with Hugo [[https://git.bascht.space/bascht/bascht.com/commit/75ae9c346694686f1d05a5839df6a4c23e628260][has been a mixed bag]] but so far I'm still happy
+with it - especially since it [[http://bepsays.com/en/2017/02/27/hugo-019/][supports native =org-mode=]] with version 0.19.
+
+** Mind the sponsoring *goodies*
+** Sponsoring deal Buffer + less sponsors 
