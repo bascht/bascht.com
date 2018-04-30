@@ -17,6 +17,9 @@ budget in perspective and give some transparency to you as a conference
 attendee. Note that this might not apply to large business conferences, but it
 worked for us as a community-conference.
 
+And before I dive in, a *big thank you* to Dajana, Bodo and Florian who helped
+us immensely in the run up to the conference by giving insight + feedback. <3
+
 * Retrospective
 
 We started planning for Ruby on Ice roughly one year ago - March / April 2017
@@ -74,56 +77,94 @@ In the end we still evened out at a rough =50:50= ratio:
 We priced the sponsoring packages pretty high (2000€, 5000€, 7500€ and one /free
 style/) but in the end we where happy the way we calculated them. Setting the
 prices lower might have attracted a few more sponsors but would have also
-increased the workload we had in managing the sponsoring agreements.
+increased the workload we had in managing the sponsoring agreements. Our
+[[https://rubyonice.com/2018/sponsors/sponsor-rubyonice-2018.pdf][sponsoring]]
+packages came with free 2 / 3 tickets for the sponsoring companies. This also
+adds up to the fixed budget part I'm getting to in the next section.
 
 What helped us in the end: We set up pretty pessimistic prospectives for
 sponsoring packages and always calculated with a 20% buffer so we could afford
-to negotiate with sponsors:
+to negotiate with sponsors. So the number we calculated our budget with was
+always a bit more pessimistic:
 
 [[file:https://img.bascht.com/2018-blog/sponsoring-budget-security.png]]
-
 
 That being said: We managed to get really amazing companies to support our
 conference and were pretty happy to have them aboard. (And: No – this compliment
 is not part of a sponsoring deal).
 
-To kickstart ticket sales we started with an early bird price of =220€= and
-progressed to a regular ticket price of =330€= (incl. taxes).
+Something we weren't prepared for: Some sponsors will make a netting for their
+investment in you. Means, they calculate their sponsoring cost per attendee.
+This is especially hard to reason with if you are a smaller conference.
 
 * Ticket sale timeline
 
-We opened up our ticket sale in October 2017 with our early bird sale and sold
-our last ticket on Friday evening when the conference had already started:
+To kickstart ticket sales we started with an early bird price of =220€= and
+progressed to a regular ticket price of =330€= (incl. taxes). We opened up our
+ticket sale in October 2017 with our early bird sale and sold our last ticket on
+Friday evening when the conference had already started:
 
 #+ATTR_HTML: :class goorgeous
 [[file:https://img.bascht.com/2018-blog/rubyonice-ticketsales.png]]
 
 The first few hours of opening the ticket sale felt great. Look at those
 engagement numbers! The second bump at the beginning of November was the end of
-our early bird sale.
+our early bird sale. And this brings us to our next ticket pricing lesson: /Try
+to not lose money on early bird tickets/. This may sound like a give away but
+it's actually really tough to spot if you do not keep track of one important
+data point: *cost per attendee*. We nearly missed that point and in hindsight we
+should have raised the early bird price and lowered the regular ticket price.
 
-And this brings us to our next ticket pricing lesson: /Try to not lose money on
-early bird tickets/.
-
-
+Also: No matter how long you run the early bird sale: Most people will probably
+buy their ticket in the eleventh hour.
 
 * Cost distribution
 
-[[file:https://img.bascht.com/2018-blog/rubyonice-chart-expenses.png]]
+As I mentioned earlier: Keep track of your /cost per attendee/ number. And
+here's why: Running a conference means that you will have both flexible and
+fixed budget items. /Flexible/ items are things that will scale nice with the
+number of attendees. Our [[https://rubyonice.com/2018/schedule][outdoor sledding
+activity]] is a good example for one of those /if nobody wants to go, then we
+don't have to pay anything/ items. So – what are fixed costs? Well, have a look
+at those three big hunks of cake:
+
+ [[file:https://img.bascht.com/2018-blog/rubyonice-chart-expenses.png]]
+
+The Venue is a perfect example for a fixed cost item. No matter if we sell 100
+tickets or no ticket at all: The venue will cost us the same. Catering and
+Logistics + Speaker / Staff travel & accommodation are mixed items with a huge
+fixed part.
+
+We wanted to take care of the Hotel accommodation for both our speakers as well
+as our helpers. The same rule will apply here: /No matter if we sell 100 tickets
+or no ticket at all./ We wanted to offer diversity grants and got support from
+the amazing [[https://diversitytickets.org/][Diversity Tickets]] initiative of
+the Travis foundation. The only "downside" to this (and you probably saw this
+already coming): Offering diversity tickets adds to your fixed budget. We tried
+to re-finance them via Supporter Tickets with a 50% or 100% added charge but we
+didn't make a good job in advertising / selling those tickets.
+
+Our fixed budget part was a close call, but we need to improve on that in the
+next year. Underestimating that part can actually ruin your budget completely:
+
+If you underestimate your fixed budget
+
+- you need to sell a boat load of tickets to get out of the red
+- you rely on sponsoring money to backfill that gap
+
+If you underestimate the cost per attendee
+
+- best case: You even out and stay at 0 revenue even you sell thousands of tickets
+- worst case: You lose money by selling tickets. Yes, this is a thing.
+- same as above: You rely on sponsoring money
 
 * Takeaways
 
-** Be careful with the Early Bird tickets
+To sum up our budget-learnings:
 
-** More Newsletters
-
-** Diversity Tickets
-
-
-
-
-My personal relation with Hugo [[https://git.bascht.space/bascht/bascht.com/commit/75ae9c346694686f1d05a5839df6a4c23e628260][has been a mixed bag]] but so far I'm still happy
-with it - especially since it [[http://bepsays.com/en/2017/02/27/hugo-019/][supports native =org-mode=]] with version 0.19.
-
-** Mind the sponsoring *goodies*
-** Sponsoring deal Buffer + less sponsors 
+- Keep an eye on _cost per attendee_
+- Double check your Early Bird calculation
+- Monitor your fixed budget items
+- Make diversity tickets part of your budget planning
+- Be prepared to negotiate with sponsors
+- Send out regular newsletters. Repetition is key
