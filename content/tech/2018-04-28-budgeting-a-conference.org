@@ -8,7 +8,8 @@ on Ice 2018]] took place. This isn't a recap – if you want to get a few
 impressions, just scroll through the
 [[https://twitter.com/hashtag/rubyonice2018][#rubyonice2018]] tweets.
 
-[[file:http://rubyberlin.org/images/content/projects/rubyonice-2018.svg]]
+[[file:https://img.bascht.com/2018-blog/rubyonice-2018-logo.svg][Ruby on Ice
+2018 logo]]
 
 This post should give you a quick recap of our conference budget planning for
 Ruby on Ice 2018 and should help you as a conference organiser to put your own
@@ -16,8 +17,11 @@ budget in perspective and give some transparency to you as a conference
 attendee. Note that this might not apply to large business conferences, but it
 worked for us as a community-conference.
 
-And before I dive in, a *big thank you* to Dajana, Bodo and Florian who helped
-us immensely in the run up to the conference by giving insight & feedback. <3
+And before I dive in, a *big thank you* to
+[[https://twitter.com/@DajanaGuenther][Dajana]],
+[[https://twitter.com/bitboxer][Bodo]] and
+[[https://twitter.com/Argorak][Florian]] who helped us immensely in the run up
+to the conference by giving insight & feedback. <3
 
 * Retrospective
 
