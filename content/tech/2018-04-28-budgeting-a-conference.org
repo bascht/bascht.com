@@ -1,6 +1,5 @@
-#+TITLE:  Ruby on Ice – A quick glance at our budget
+#+TITLE:  Ruby on Ice: A quick glance at our budget
 #+DATE: 2018-04-30
-#+DRAFT: nil
 #+TAGS: ruby rubyonice money budget rubyberlin
 
 I wanted to to publish this blog post for a while now, but time's been running
@@ -9,8 +8,7 @@ on Ice 2018]] took place. This isn't a recap – if you want to get a few
 impressions, just scroll through the
 [[https://twitter.com/hashtag/rubyonice2018][#rubyonice2018]] tweets.
 
-[[file:https://img.bascht.com/2018-blog/rubyonice-2018-logo.svg][Ruby on Ice
-2018 logo]]
+[[file:http://rubyberlin.org/images/content/projects/rubyonice-2018.svg]]
 
 This post should give you a quick recap of our conference budget planning for
 Ruby on Ice 2018 and should help you as a conference organiser to put your own
