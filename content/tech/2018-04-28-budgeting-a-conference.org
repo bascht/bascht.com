@@ -3,7 +3,7 @@
 #+DRAFT: nil
 #+TAGS: ruby rubyonice money budget rubyberlin
 
-I wanted to to publish this blog post for a while now, but time 's been running
+I wanted to to publish this blog post for a while now, but time's been running
 fast and now it's already three months since [[https://rubyonice.com/2018][Ruby
 on Ice 2018]] took place. This isn't a recap – if you want to get a few
 impressions, just scroll through the
@@ -18,7 +18,7 @@ attendee. Note that this might not apply to large business conferences, but it
 worked for us as a community-conference.
 
 And before I dive in, a *big thank you* to Dajana, Bodo and Florian who helped
-us immensely in the run up to the conference by giving insight + feedback. <3
+us immensely in the run up to the conference by giving insight & feedback. <3
 
 * Retrospective
 
@@ -32,22 +32,23 @@ adapted it from [[https://twitter.com/fannivuniconnu][@fannivuniconnu's]]
 version back from the eurucamp days and this was our guideline for all
 decisions.
 
-Our goal was to organise a community-run conference in the south of Germany with
-the backdrop of the Alps – inviting Rubyists from all over the world but also
-appealing to people from southern Germany, Austria and Switzerland who didn't
-want to travel to Berlin all the time.
+Our goal was to organise a community-run conference in the south of Germany
+against the backdrop of the Alps – inviting Rubyists from all over the world but
+especially appealing to people from southern Germany, Austria and Switzerland who
+didn't want to travel to Berlin all the time.
 
 ** Ticket sales vs. Sponsoring
 
-This was the first big head scratcher. Ruby Berlin e.V. is a Non-Profit. Sounds
-good, no? So at least we don't have to be profitable. Well. But we also should
-not operate at a 100% loss, as we want to keep the Verein healthy.
+This was the first big head scratcher. Ruby Berlin e.V. is a Non-Profit (in
+German: » ein Gemeinnütziger Verein«). Sounds good, no? So at least we don't
+have to be profitable. Well. But we also should not operate at a 100% loss, as
+we want to keep the Verein healthy.
 
-I was involved in a lot of community-run conferences and used to ticket prices
-somewhere between *60-100€* for a two day event. Now – since I moved to Munich,
-I already expected it to be a bit more pricy, but the longer we shuffled around
-numbers the more we realised that we would have to raise the ticket prices to
-organise a conference with a balanced budget.
+I was involved in a lot of community-run conferences and was used to ticket
+prices somewhere between *60-100€* for a two day event. Now – since I moved to
+Munich, I already expected it to be a bit more pricy, but the longer we shuffled
+around numbers the more we realised that we would have to raise the ticket
+prices to organise a conference with a balanced budget.
 
 Speaking of balance – most conferences rely on two revenue streams: /Ticket
 sales/ and /Sponsoring deals/. The first trap we probably stepped into was
@@ -72,22 +73,26 @@ Try to cover the base line of your cost (food, venue) with regular ticket sales 
 
 In the end we still evened out at a rough =50:50= ratio:
 
-[[file:https://img.bascht.com/2018-blog/rubyonice-chart-income.png]]
+#+CAPTION: A black cat stalking a spider
+#+ATTR_HTML: :alt cat/spider image :title Action! :align right
+[[file:https://img.bascht.com/2018-blog/rubyonice-chart-income.png][Really
+helpful visualisation of what a 50:50 distribution looks like]]
 
-We priced the sponsoring packages pretty high (2000€, 5000€, 7500€ and one /free
-style/) but in the end we where happy the way we calculated them. Setting the
-prices lower might have attracted a few more sponsors but would have also
+We priced the sponsoring packages pretty high (2.000€, 5.000€, 7.500€ and one
+/free style/) but in the end we where happy the way we calculated them. Setting
+the prices lower might have attracted a few more sponsors but would have also
 increased the workload we had in managing the sponsoring agreements. Our
 [[https://rubyonice.com/2018/sponsors/sponsor-rubyonice-2018.pdf][sponsoring]]
 packages came with free 2 / 3 tickets for the sponsoring companies. This also
 adds up to the fixed budget part I'm getting to in the next section.
 
-What helped us in the end: We set up pretty pessimistic prospectives for
-sponsoring packages and always calculated with a 20% buffer so we could afford
-to negotiate with sponsors. So the number we calculated our budget with was
-always a bit more pessimistic:
+What helped us in the end: We set up pretty pessimistic forecasts for sponsoring
+packages and always calculated with a 20% buffer so we could afford to negotiate
+with sponsors. So the number we calculated our budget with was always a bit more
+pessimistic:
 
-[[file:https://img.bascht.com/2018-blog/sponsoring-budget-security.png]]
+[[file:https://img.bascht.com/2018-blog/sponsoring-budget-security.png][Screenshot
+of our Google Docs sheet showing the 20% security margin formula]]
 
 That being said: We managed to get really amazing companies to support our
 conference and were pretty happy to have them aboard. (And: No – this compliment
@@ -95,7 +100,9 @@ is not part of a sponsoring deal).
 
 Something we weren't prepared for: Some sponsors will make a netting for their
 investment in you. Means, they calculate their sponsoring cost per attendee.
-This is especially hard to reason with if you are a smaller conference.
+This is especially hard to reason with if you are a smaller conference. This is
+totally reasonable from a business perspective, but be prepared to sell your
+conference well.
 
 * Ticket sale timeline
 
@@ -105,7 +112,8 @@ ticket sale in October 2017 with our early bird sale and sold our last ticket on
 Friday evening when the conference had already started:
 
 #+ATTR_HTML: :class goorgeous
-[[file:https://img.bascht.com/2018-blog/rubyonice-ticketsales.png]]
+[[file:https://img.bascht.com/2018-blog/rubyonice-ticketsales.png][Screenshot of
+our Tito ticket sale timeline]]
 
 The first few hours of opening the ticket sale felt great. Look at those
 engagement numbers! The second bump at the beginning of November was the end of
@@ -128,7 +136,9 @@ activity]] is a good example for one of those /if nobody wants to go, then we
 don't have to pay anything/ items. So – what are fixed costs? Well, have a look
 at those three big hunks of cake:
 
- [[file:https://img.bascht.com/2018-blog/rubyonice-chart-expenses.png]]
+ [[file:https://img.bascht.com/2018-blog/rubyonice-chart-expenses.png][Chart of
+ our expenses distribution, roughtly 39% catering, 27% logistics, travel,
+ accommodation, 21% venue]]
 
 The Venue is a perfect example for a fixed cost item. No matter if we sell 100
 tickets or no ticket at all: The venue will cost us the same. Catering and
@@ -167,4 +177,4 @@ To sum up our budget-learnings:
 - Monitor your fixed budget items
 - Make diversity tickets part of your budget planning
 - Be prepared to negotiate with sponsors
-- Send out regular newsletters. Repetition is key
+- Send out regular newsletters. Repetition is key. Repetition is key
