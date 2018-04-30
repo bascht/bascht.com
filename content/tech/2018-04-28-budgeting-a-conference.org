@@ -9,7 +9,8 @@ on Ice 2018]] took place. This isn't a recap – if you want to get a few
 impressions, just scroll through the
 [[https://twitter.com/hashtag/rubyonice2018][#rubyonice2018]] tweets.
 
-[[file:http://rubyberlin.org/images/content/projects/rubyonice-2018.svg]]
+[[file:https://img.bascht.com/2018-blog/rubyonice-2018-logo.svg][Ruby on Ice
+2018 logo]]
 
 This post should give you a quick recap of our conference budget planning for
 Ruby on Ice 2018 and should help you as a conference organiser to put your own
