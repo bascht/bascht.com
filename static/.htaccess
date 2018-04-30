@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteCond %{ENV:HTTPS} !=on
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{HTTP_HOST} !=bascht.com
+RewriteRule (.*) https://bascht.com/$1 [R=301,L]
+
+ErrorDocument 404 /404.html
+
+Header set Content-Security-Policy "default-src https: 'unsafe-eval' 'unsafe-inline'; img-src 'self' https://img.bascht.com https://static.media.ccc.de  http://cdn.media.ccc.de"
+Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+Header set X-Content-Type-Options "nosniff"
+Header set X-Frame-Options "SAMEORIGIN"
+Header set X-XSS-Protection "1; mode=block"
+Header set X-Respekt "Du schaust ja wirklich in die Header!"
