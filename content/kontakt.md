@@ -21,7 +21,7 @@ Snail-Mail, Abmahnungen & Papierpost an:
 
 **E-Mail:** mail<small>at</small>bascht<small>punkt</small>com<br/>
 **Jabber:** bascht<small>at</small>yakshed<small>punkt</small>org<br/>
-**Telefon:** +49 37421 649639 <small>(IP Telefonnummer, ihr landet
+**Telefon:** +49 37421 649656 <small>(IP Telefonnummer, ihr landet
 auf einer Mailbox & ich rufe zurück)</small>
 
 ### PGP Key
