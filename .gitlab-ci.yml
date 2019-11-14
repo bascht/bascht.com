@@ -1,0 +1,8 @@
+stages:
+  - build
+  - deploy
+
+"Build Site":
+  image: klakegg/hugo:0.59.1-ext-ubuntu
+  script:
+    - hugo
