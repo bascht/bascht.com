@@ -15,10 +15,8 @@ stages:
 
 deploy:
   stage: deploy
-  image: instrumentisto/rsync-ssh:588dd9a9e8a1f538038cc141ff4a58b9b205a828bb6b39d4a08b504b55aaea36
+  image: instrumentisto/rsync-ssh:154f4a3c6aa3
   script:
-  - echo "${SSH_PRIVATE_KEY}" > id_rsa
-  - chmod 700 id_rsa
   - mkdir "${HOME}/.ssh"
-  - echo "${SSH_HOST_KEY}" > "${HOME}/.ssh/known_hosts"
-  - rsync -hrvz --delete --exclude=_ -e 'ssh -i id_rsa -p 22' public/ "${SSH_USER_HOST_LOCATION}"
+  - cp "${SSH_HOST_KEY}" "${HOME}/.ssh/known_hosts"
+  - rsync -hrvz --delete --dry-run --exclude=_ -e 'ssh -i ${SSH_PRIVATE_KEY}' public/ "${SSH_USER_HOST_LOCATION}"
