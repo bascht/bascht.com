@@ -21,3 +21,4 @@ deploy:
   - cp "${SSH_HOST_KEY}" "${HOME}/.ssh/known_hosts"
   - chmod 0500 "${SSH_PRIVATE_KEY}"
   - rsync -hrvz --delete --dry-run --exclude=_ -e "ssh -i ${SSH_PRIVATE_KEY} -l bascht" public_html/ "${SSH_USER_HOST_LOCATION}"
+  - rsync -hrvz --delete --exclude=_ -e "ssh -i ${SSH_PRIVATE_KEY} -l bascht" public_html/ "${SSH_USER_HOST_LOCATION}"
