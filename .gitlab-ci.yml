@@ -3,8 +3,9 @@ stages:
   - deploy
 
 "Build Site":
-  image: klakegg/hugo:0.59.1-ext-ubuntu
+  image:
+    name: klakegg/hugo:0.59.1-ext-ubuntu
+    entrypoint: [""]
   stage: build
-  entrypoint: [""]
   script:
     - hugo
