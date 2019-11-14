@@ -1,0 +1,38 @@
+#+TITLE:  Upgrading a Rancher 2.x installation
+#+DATE: 2019-07-16
+#+TAGS[]: rancher docker backup security upgrade
+
+This script is mostly an adaptation of the [[https://rancher.com/docs/rancher/v2.x/en/backups/backups/single-node-backups/][Rancher 2.x Backup manual]], molded
+into a single script that can be automated further by you. It obviously won't
+fit everybody but so far it has done me good service to keep regular backups of
+my Rancher installations and moving them away with [[https://www.borgbackup.org][Borg]] and [[https://rclone.org/][rclone]] later.
+
+It will expects your current Rancher instance to run as =rancher_server=.
+
+#+BEGIN_SRC bash 
+#!/bin/bash
+
+set -e
+set -x
+
+DOMAIN=<your-rancher-domain-name>
+TIMESTAMP=$(date +%Y-%m-%d-%H%M%S)
+DATA_CONTAINER_NAME="rancher-data-${TIMESTAMP}"
+
+docker stop rancher_server
+docker create --volumes-from rancher_server \
+       --name "${DATA_CONTAINER_NAME}" \
+       rancher/rancher:latest
+docker run --volumes-from "${DATA_CONTAINER_NAME}" \
+       -v $PWD:/backup alpine tar zcvf \
+       /backup/rancher-data-backup-$TIMESTAMP.tar.gz /var/lib/rancher
+docker rm rancher_server
+docker pull rancher/rancher:latest
+docker run -d --volumes-from "${DATA_CONTAINER_NAME}" \
+       --name rancher_server --restart=unless-stopped \
+       -p 80:80 -p 443:443 \
+       rancher/rancher:latest \
+       --acme-domain "$DOMAIN"
+docker logs -f rancher_server
+#+END_SRC
+
