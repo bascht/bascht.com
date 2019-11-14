@@ -248,12 +248,10 @@ h2 span.social_logo {
 
 div.social_bar {
     clear: both;
+    padding-left: 3em;
 }
 div.social_bar > a {
-    background-color: #FF0000;
-    float: left;
-    width: 30%;
-    height: 200px;
+    margin-left: 2em
     display: inline-block;
 }
 .tech-notes a {
