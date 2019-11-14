@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <body>
   {{ partial "navbar.html" . }}
-  <div class="wrapper clearfix">
+  <div class="main wrapper clearfix">
       <h1><span class="social_logo">{{ partial "social_logo" . }}</span>{{ .Title }}</h1>
     <article>
       <div class="post-content">
@@ -10,12 +10,12 @@
         Originally posted to <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
       </div>
     </article>
-    <div class="clearfix">
+    <aside>
       <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
       <h4>Tags</h4> {{ partial "tags.html" . }}
       <hr/>
       📂 <a href="/posts/">See all posts</a>
-    </div>
+    </aside>
   </div>
   {{ partial "pager.html" . }}
   {{ partial "footer.html" . }}

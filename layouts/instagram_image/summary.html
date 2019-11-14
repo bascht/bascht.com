@@ -1,5 +1,5 @@
-<a href="{{.Permalink}}">
+<a href="{{.Permalink}}" class="summary instagram_image">
   <h2><span class="social_logo">{{ partial "social_logo" . }}</span>{{.Title | default "Untitled" }}</h2>
-  <p><img src="{{ .Params.media_url }}" width="20%" height="20%"></p>
+  <p><img src="{{ .Params.media_url }}" ></p>
   <small>{{ .Date.Format "January, 02th 2006" }}</small>
 </a>

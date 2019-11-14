@@ -200,17 +200,31 @@ article.summary a.anchor {
     text-decoration: none;
 }
 
+.posts {
+    /* width: 80%; */
+    /* min-width: 10%; */
+    /* max-width: 20%; */
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    /* align-items: center; */
+    align-content: stretch;
+}
 .posts a {
-    width: 80%;
     padding: 1em;
+    box-sizing: border-box;
     margin: 1em;
-    display: block;
+    width: 20%;
+    /* height: 10px; */
+    flex: 1 auto;
     /* float: left; */
     /* height: 50px; */
     border: 1px solid #cdcdcd;
     border-radius: 5px;
 
-    /* overflow: hidden; */
+    overflow: hidden;
     text-decoration: none;
     color: inherit;
 
@@ -219,6 +233,9 @@ article.summary a.anchor {
     background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 100%);
 }
 
+.posts.summary a h2 {
+    white-space: nowrap;
+}
 
 .posts a:hover {
     background: #f2f2f2;
@@ -228,6 +245,12 @@ article.summary a.anchor {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#ffffff',GradientType=0 );
 }
 
+.posts .summary.instagram_image img {
+    width: 85%;
+}
+.posts.summary .spotify_like {
+    width: 300px
+}
 .posts span.social_logo {
     color: #f2f2f2;
     width: 0.7em;
