@@ -2,15 +2,13 @@
 <body>
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
-    <h1>{{ .Title }}</h1>
+    <h1>Tweet from {{ .Date.Format "January, 02th 2006" }}</h1>
     <article>
       <div class="post-content">
-        {{ .Params.text }}
-        {{ if .Params.media_url }}
-        <img src="{{ .Params.media_url }}">
-        {{ end }}
-        <hr/>
-        Originally posted to <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
+          <blockquote class="twitter-tweet">
+              <p lang="de" dir="ltr">{{ .Params.text }}</p>&mdash; Bascht (@bascht)
+          </blockquote>
+        Originally posted to <a href="{{ default .Params.original_url .Params.src }}">{{ default .Params.original_url .Params.src }}</a>
       </div>
     </article>
     <aside>
