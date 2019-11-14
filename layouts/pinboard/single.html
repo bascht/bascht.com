@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+  <div class="main wrapper clearfix">
+      <h1><span class="social_logo">{{ partial "social_logo" . }}</span>{{ .Title | truncate 50 }}</h1>
+    <article>
+      <div class="post-content">
+        <blockquote>{{ .Params.text }}</blockquote>
+        <hr/>
+        via <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
+      </div>
+    </article>
+    <aside>
+      <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
+      <h4>Tags</h4> {{ if .Params.Tags }}{{ partial "tags.html" . }}{{ end }}
+      <hr/>
+      📂 <a href="/tech/">Tech-Archive</a>
+    </aside>
+  </div>
+  {{ partial "pager.html" . }}
+  {{ partial "footer.html" . }}
+</body>
+</html>

@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+<body>
+    {{ partial "navbar.html" . }}
+    <div class="main wrapper clearfix">
+
+        {{ $paginator := .Paginate ((where .Data.Pages "Section" "posts").GroupByDate "January 2006") }}
+        {{ range $paginator.PageGroups }}
+        <h2>{{ .Key }}</h2>
+        <div class="posts clearfix">
+            {{ range .Pages.ByDate.Reverse }}
+            {{ .Render "summary" }}
+            {{ end }}
+        </div>
+        {{ end }}
+        {{ template "_internal/pagination.html" . }}
+    </div>
+    {{ partial "footer.html" . }}
+</body>
+</html>
