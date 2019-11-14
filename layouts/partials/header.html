@@ -13,7 +13,10 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bascht.com.css">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link rel="webmention" href="https://webmention.io/bascht.com/webmention" />
+  <link rel="pingback" href="https://webmention.io/bascht.com/xmlrpc" />
   <link rel="icon" href="/favicon.ico" />
+  
   <script src="/js/vendor/modernizr.min.js"></script>
   {{ range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
