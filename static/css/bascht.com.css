@@ -113,6 +113,7 @@ a:hover { color: #a71000; }
 a:visited { color: none; }
 
 div.post-content img,
+div.posts img,
 div.highlight,
 article video,
 article img {
@@ -173,7 +174,7 @@ nav#main ul li a {
     font-family: "Fira Sans";
     font-weight: bold;
     border-radius: 3px;
-    padding: 0 1em 0 1em;
+    /* padding: 0 1em 0 1em; */
 }
 nav#main ul li.active a {
     background-color: rgb(34, 34, 34);
@@ -199,6 +200,62 @@ article.summary a.anchor {
     text-decoration: none;
 }
 
+.posts a {
+    width: 80%;
+    padding: 1em;
+    margin: 1em;
+    display: block;
+    /* float: left; */
+    /* height: 50px; */
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+
+    /* overflow: hidden; */
+    text-decoration: none;
+    color: inherit;
+
+    background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 100%);
+    background: -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 100%);
+}
+
+
+.posts a:hover {
+    background: #f2f2f2;
+    background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 31%);
+    background: -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 31%);
+    background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 31%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#ffffff',GradientType=0 );
+}
+
+.posts span.social_logo {
+    color: #f2f2f2;
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 0.2em;
+    vertical-align: top;
+    display: inline-block;
+}
+
+h1 span.social_logo,
+h2 span.social_logo {
+    color: #f2f2f2;
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 0.5em;
+    display: inline-block;
+}
+
+div.social_bar {
+    clear: both;
+}
+div.social_bar > a {
+    background-color: #FF0000;
+    float: left;
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+}
 .tech-notes a {
     width: 15em;
     padding: 1em;
@@ -227,11 +284,21 @@ article.summary a.anchor {
 }
 
 div.highlight {
+    border: none;
+    padding: 0;
+}
+div.highlight pre {
     border-radius: 5px;
+    padding: 0.8em;
 }
 
 article h1 {
     font-size: 1.5em;
+}
+
+article h1 .u-url {
+    text-decoration: none;
+    color: #222;
 }
 
 article h2 {
@@ -246,4 +313,8 @@ article pre {
     font-family: "Fira Mono";
     color: #efefef;
     background-color: #272822;
+}
+
+.h-card {
+    display: none;
 }

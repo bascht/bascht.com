@@ -1,21 +1,22 @@
 {{ partial "header.html" . }}
 <body>
-  {{ partial "navbar.html" . }}
-  <div class="main wrapper clearfix">
-    <h1>{{ .Title }}</h1>
-    <article>
-      <div class="post-content">
-        {{ .Content }}
-      </div>
-    </article>
-    <aside>
-      <h4>Post vom</h4> {{ .Date.Format "02. January 2006" }}
-      <h4>Tags</h4> {{ partial "tags.html" . }}
-      <hr/>
-      📂 <a href="/blog/">Blog-Archiv</a>
-    </aside>
-  </div>
-  {{ partial "pager.html" . }}
-  {{ partial "footer.html" . }}
+    {{ partial "navbar.html" . }}
+    <div class="main wrapper clearfix">
+        <article class="h-entry">
+            <h1 class="p-name"> <a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <p class="p-summary hidden">{{ .Summary }}</p>
+            <div class="post-content e-content">{{ .Content }}</div>
+            <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
+            <a class="p-author h-card hidden" href="https://bascht.com"><img class="u-photo hidden" src="/images/bascht.jpg"/>Bascht</a>
+        </article>
+        <aside>
+            <h4>Post vom</h4> {{ .Date.Format "02. January 2006" }}
+            <h4>Tags</h4> {{ partial "tags.html" . }}
+            <hr/>
+            📂 <a href="/blog/">Blog-Archiv</a>
+        </aside>
+    </div>
+    {{ partial "pager.html" . }}
+    {{ partial "footer.html" . }}
 </body>
 </html>

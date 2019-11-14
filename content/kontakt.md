@@ -4,8 +4,9 @@ title: "Kontakt"
 comments: false
 sharing: false
 permalink: kontakt.html
-menu: main
-weight: -20
+menu: 
+  main:
+    weight: 100000800
 ---
 
 Snail-Mail, Abmahnungen & Papierpost an:

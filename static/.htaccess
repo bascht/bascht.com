@@ -8,9 +8,29 @@ RewriteRule (.*) https://bascht.com/$1 [R=301,L]
 
 ErrorDocument 404 /404.html
 
+# -- redirects (see https://github.com/gohugoio/hugo/issues/6007)
+
+Redirect 301 /blog/2014/05/28/einstieg-in-mutt-notmuch--offlineimap/ /blog/2014/05/28/einstieg-in-mutt-notmuch-offlineimap
+Redirect 301 /tech/1/01/01/fguillen/simplecov-rcov---github /tech/1/01/01/fguillen/simplecov-rcov-github
+Redirect 301 /tech/1/01/01/ksplice---hello-from-a-libc-free-world /tech/1/01/01/ksplice-hello-from-a-libc-free-world
+Redirect 301 /tech/1/01/01/kill-your-to-do-list--zen-habits /tech/1/01/01/kill-your-to-do-list-zen-habits
+Redirect 301 /tech/1/01/01/tmux-settings-for-screen---vim-fans /tech/1/01/01/tmux-settings-for-screen-vim-fans
+Redirect 301 /tech/1/01/01/run-effective-google-style-meetings---lifehacker /tech/1/01/01/run-effective-google-style-meetings-lifehacker
+Redirect 301 /tech/1/01/01/secured-typing---the-daily-wtf /tech/1/01/01/secured-typing-the-daily-wtf
+Redirect 301 /tech/1/01/01/an-interview-with-andrew-plotkin--the-setup /tech/1/01/01/an-interview-with-andrew-plotkin-the-setup
+Redirect 301 /tech/1/01/01/slicehost-articles-ubuntu-lucid-setup---part-2 /tech/1/01/01/slicehost-articles-ubuntu-lucid-setup-part-2
+Redirect 301 /tech/1/01/01/mac--the-ipad /tech/1/01/01/mac-the-ipad
+Redirect 301 /tech/1/01/01/solve-the-problem-calm-the-client--save-the-project /tech/1/01/01/solve-the-problem-calm-the-client-save-the-project
+Redirect 301 /tech/1/01/01/dont-be-afraid-of-php-5.3---juozas-devblog /tech/1/01/01/dont-be-afraid-of-php-5.3-juozas-devblog
+Redirect 301 /tech/1/01/01/applying-mathematics-to-web-design---smashing-magazine /tech/1/01/01/applying-mathematics-to-web-design-smashing-magazine
+Redirect 301 /tech/1/01/01/hudsons-future--hudson-labs /tech/1/01/01/hudsons-future-hudson-labs
+Redirect 301 /tech/1/01/01/scott-chacon--the-geek-talk /tech/1/01/01/scott-chacon-the-geek-talk
+
 Header set Content-Security-Policy "default-src https: 'unsafe-eval' 'unsafe-inline'; img-src 'self' https://img.bascht.com https://static.media.ccc.de  http://cdn.media.ccc.de"
 Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
 Header set X-Content-Type-Options "nosniff"
 Header set X-Frame-Options "SAMEORIGIN"
 Header set X-XSS-Protection "1; mode=block"
 Header set X-Respekt "Du schaust ja wirklich in die Header!"
+
+Header set Access-Control-Allow-Origin "https://feed.bascht.com"

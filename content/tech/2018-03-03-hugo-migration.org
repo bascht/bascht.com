@@ -1,7 +1,7 @@
 #+TITLE:  Migrating to Hugo 0.3x
 #+DATE: 2018-03-03
 #+DRAFT: nil
-#+TAGS: hugo migration markdown orgmode emacs
+#+TAGS[]: hugo migration markdown orgmode emacs
 
 My personal relation with Hugo [[https://git.bascht.space/bascht/bascht.com/commit/75ae9c346694686f1d05a5839df6a4c23e628260][has been a mixed bag]] but so far I'm still happy
 with it - especially since it [[http://bepsays.com/en/2017/02/27/hugo-019/][supports native =org-mode=]] with version 0.19.

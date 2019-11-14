@@ -1,4 +1,4 @@
-baseurl = "https://bascht.com"
+baseurl = "http://localhost:1313/"
 MetaDataFormat = "yaml"
 languageCode = "de-de"
 defaultContentLanguage = "de"
@@ -7,6 +7,7 @@ enableEmoji = true
 title = "bascht.com"
 pygmentsStyle = "monokai"
 PygmentsCodeFences = true
+SectionPagesMenu = "main"
 
 [params]
 locale = "de-DE"
@@ -14,16 +15,24 @@ locale = "de-DE"
 [permalinks]
 blog = "/blog/:year/:month/:day/:title/"
 tech = "/tech/:year/:month/:day/:title/"
+posts = "/posts/:year/:month/:day/:slug/"
 
 [indexes]
 tag = "tags"
 
-
+[menu]
 [[menu.main]]
 name = "Blog"
 weight = -100
 url = "/blog/"
+identifier = "blog"
 [[menu.main]]
 name = "Tech"
 weight = -90
 url = "/tech/"
+identifier = "tech"
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+weight = -95
+url = "/posts/"

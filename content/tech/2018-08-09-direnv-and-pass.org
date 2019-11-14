@@ -1,6 +1,6 @@
-#+TITLE:  Direnv in combination with Passwordstore
+#+TITLE:  Direnvin combination with Passwordstore
 #+DATE: 2018-08-09
-#+TAGS: direnv pass linux desktop security
+#+TAGS[]: direnv pass linux desktop security
 
 
 I'm using the brilliant [[https://www.passwordstore.org/][pass]] utility to manage passwords and user accounts for

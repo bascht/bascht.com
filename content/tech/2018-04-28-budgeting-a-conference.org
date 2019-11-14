@@ -1,6 +1,6 @@
 #+TITLE:  Ruby on Ice: A quick glance at our budget
 #+DATE: 2018-04-30
-#+TAGS: ruby rubyonice money budget rubyberlin
+#+TAGS[]: ruby rubyonice money budget rubyberlin
 
 I wanted to to publish this blog post for a while now, but time's been running
 fast and now it's already three months since [[https://rubyonice.com/2018][Ruby

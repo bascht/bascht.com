@@ -1,5 +1,6 @@
 ---
 title: "Einstieg in Mutt, Notmuch & Offlineimap"
+slug: "einstieg-in-mutt-notmuch-&-offlineimap"
 date: 2014-05-28
 teaser: |
   Der zweite Teil unserer Serie: »Bascht vs. Email«

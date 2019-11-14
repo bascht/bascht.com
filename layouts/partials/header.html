@@ -11,6 +11,13 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/normalize.min.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bascht.com.css">
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link href="https://micro.blog/bascht" rel="me" />
+  <link href="https://rss.bascht.space/nanopub/nanopub.php" rel="micropub">
+  <link rel="webmention" href="https://feed.bascht.com/wp-json/webmention/1.0/endpoint" />
+  <link rel="http://webmention.org/" href="https://feed.bascht.com/wp-json/webmention/1.0/endpoint" />
+  <link rel="icon" href="/favicon.ico" />
   <script src="/js/vendor/modernizr.min.js"></script>
   {{ range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
