@@ -19,4 +19,4 @@ deploy:
   script:
   - mkdir "${HOME}/.ssh"
   - cp "${SSH_HOST_KEY}" "${HOME}/.ssh/known_hosts"
-  - rsync -hrvz --delete --dry-run --exclude=_ -e 'ssh -i ${SSH_PRIVATE_KEY}' public/ "${SSH_USER_HOST_LOCATION}"
+  - rsync -hrvz --delete --dry-run --exclude=_ -e "ssh -i ${SSH_PRIVATE_KEY}" public/ "${SSH_USER_HOST_LOCATION}"
