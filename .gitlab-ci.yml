@@ -4,5 +4,6 @@ stages:
 
 "Build Site":
   image: klakegg/hugo:0.59.1-ext-ubuntu
+  stage: build
   script:
     - hugo
