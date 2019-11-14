@@ -15,7 +15,7 @@ stages:
 
 deploy:
   stage: deploy
-  image: instrumentisto/rsync-ssh:154f4a3c6aa3
+  image: instrumentisto/rsync-ssh:588dd9a9e8a1
   script:
   - mkdir "${HOME}/.ssh"
   - cp "${SSH_HOST_KEY}" "${HOME}/.ssh/known_hosts"
