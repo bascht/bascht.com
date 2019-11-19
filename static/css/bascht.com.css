@@ -120,12 +120,13 @@ article img {
     padding: 0.5em;
     border: 1px solid #CDCDCD;
 }
-div.post-content img,
 
+div.post-content img,
 article video,
 article img {
-    margin: 0.8em;
-    max-width: 100%;
+    /* margin: 0.8em; */
+    margin: 0.8em 0 0.8em 0;
+    max-width: 90%;
 }
 
 footer ul li {
