@@ -13,11 +13,11 @@ Folgende Buzzwords habe ich dafür in der Werkzeugkiste:
 <img align="right" src="/images/terminal.png" />
 
 * Automatisierung und Infrastruktur-Entwicklung mit Ruby & Puppet
-* Shenanigans mit Vagrant, Puppet, Docker, Rancher, u.v.m.
-* Bau- und Ausbau eurer Build & Delivery-Pipelines
+* Shenanigans mit Vagrant, Puppet, Docker, Rancher, Kubernetes, u.v.m.
+* Bau- und Ausbau eurer Build & Delivery-Pipelines mit GitLab, GitHub, Jenkins
 * Continuous Integration und Deployment & Paketierung von Applikationen
 * Test-Setups und Entwickler-Systeme
-* (kleine) Web-Projekte mit Padrino
+* (kleine) Web-Projekte mit Rails
 
 Wer gerne den offiziellen Weg geht, findet [hier](https://www.xing.com/profile/Sebastian_Schulze10) mein Xing-Profil.
 Ansonsten freue ich mich viel mehr über eine gut signierte & verschlüsselte E-Mail.
