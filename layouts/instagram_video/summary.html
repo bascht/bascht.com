@@ -1,6 +1,7 @@
-<a href="{{.Permalink}}">
+<a href="{{.Permalink}}" class="summary instagram_video">
     <h2><span class="social_logo">{{ partial "social_logo" . }}</span> {{.Title}}</h2>
-  <small>{{ .Date.Format "January, 02th 2006" }}</small>
-  <hr/>
- {{ .Summary }}
+    {{ if .Params.preview_url }}<p><img src="{{ .Params.preview_url }}" ></p>{{ end }}
+    <small>{{ .Date.Format "January, 02th 2006" }}</small>
+    <hr/>
+    {{ .Summary }}
 </a>

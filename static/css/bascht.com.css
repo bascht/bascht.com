@@ -248,6 +248,7 @@ article.summary a.anchor {
 }
 
 
+.posts .summary.instagram_video img, 
 .posts .summary.instagram_image img {
     width: 85%;
 }
