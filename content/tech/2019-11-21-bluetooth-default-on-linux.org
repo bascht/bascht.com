@@ -1,0 +1,20 @@
+#+TITLE:  Disabling Bluetooth on system boot in Fedora
+#+DATE: 2019-11-21
+#+TAGS[]: linux fedora bluetooth power powertop
+
+If you're running Fedora Linux without any desktop environment it's probably
+good to take a look at [[https://en.wikipedia.org/wiki/PowerTOP][=powertop=]] from time to time. Normally I would have GNOME
+or KDE manage Bluetooth for me, but as I'm currently experimenting with Sway,
+started straight from a tty, I have to manage services myself.
+
+Good thing I checked, as the Bluetooth adapter was eating a whole Watt, while
+essentially doing nothing but sending some useless beacons.
+
+To disable the Bluetooth adapter right from the get go, check the config file in
+=/etc/bluetooth=:
+
+#+begin_src bash
+grep AutoEnable /etc/bluetooth/main.conf
+# AutoEnable defines option to enable all controllers when they are found.
+AutoEnable=false
+#+end_src
