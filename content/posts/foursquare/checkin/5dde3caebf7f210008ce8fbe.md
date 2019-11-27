@@ -1,0 +1,1 @@
+{"src":null,"date":"2019-11-27T09:06:54.000Z","slug":null,"tags":["foursquare","swarm"],"text":"At Barber House in Munich, Germany","type":"foursquare_checkin","title":"Barber House","category":"posts","media_url":null,"original_url":"https://www.swarmapp.com/bascht/checkin/5dde3caebf7f210008ce8fbe","location_latitude":null,"additional_payload":null,"location_longitude":null}
