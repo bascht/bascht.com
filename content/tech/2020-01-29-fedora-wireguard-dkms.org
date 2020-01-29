@@ -1,0 +1,87 @@
+#+TITLE:  Fedora DKMS issues with Wireguard
+#+DATE: 2020-01-29
+#+TAGS[]: linux fedora wireguard linux dkms
+
+This has been bugging me for a bit: Every other week when installing system
+updates the =wireguard= package broke and I could no longer establish
+connections or restart the wg-quick service:
+
+#+begin_src 
+$~: sudo systemctl status wg-quick@my_wireguard_connection
+● wg-quick@my_wireguard_connection.service - WireGuard via wg-quick(8) for my_wireguard_connection
+   Loaded: loaded (/usr/lib/systemd/system/wg-quick@.service; disabled; vendor preset: disabled)
+   Active: failed (Result: exit-code) since Wed 2020-01-29 10:51:57 CET; 4s ago
+     Docs: man:wg-quick(8)
+           man:wg(8)
+           https://www.wireguard.com/
+           https://www.wireguard.com/quickstart/
+           https://git.zx2c4.com/wireguard-tools/about/src/man/wg-quick.8
+           https://git.zx2c4.com/wireguard-tools/about/src/man/wg.8
+  Process: 93130 ExecStart=/usr/bin/wg-quick up my_wireguard_connection (code=exited, status=1/FAILURE)
+ Main PID: 93130 (code=exited, status=1/FAILURE)
+      CPU: 20ms
+
+Jan 29 10:51:57 kandalingo systemd[1]: Starting WireGuard via wg-quick(8) for my_wireguard_connection...
+Jan 29 10:51:57 kandalingo wg-quick[93130]: [#] ip link add my_wireguard_connection type wireguard
+Jan 29 10:51:57 kandalingo wg-quick[93130]: Error: Unknown device type.
+Jan 29 10:51:57 kandalingo wg-quick[93130]: Unable to access interface: Protocol not supported
+Jan 29 10:51:57 kandalingo wg-quick[93130]: [#] ip link delete dev my_wireguard_connection
+Jan 29 10:51:57 kandalingo wg-quick[93130]: Cannot find device "my_wireguard_connection"
+Jan 29 10:51:57 kandalingo systemd[1]: wg-quick@my_wireguard_connection.service: Main process exited, code=exited, status=1/FAILURE
+Jan 29 10:51:57 kandalingo systemd[1]: wg-quick@my_wireguard_connection.service: Failed with result 'exit-code'.
+Jan 29 10:51:57 kandalingo systemd[1]: Failed to start WireGuard via wg-quick(8) for my_wireguard_connection.
+#+end_src
+
+
+The problem was easily fixed by reinstalling the =wireguard-dkms= package. But
+upon inspecting the error messages a bit closer I found that =dnf= stumbled upon
+leftover wireguard kernel sources for long gone kernels.
+
+#+begin_src
+$~: ls -l /var/lib/dkms/wireguard/
+total 4
+drwxr-xr-x. 3 root root 4096 Jan 26 19:49 0.0.20200105
+drwxr-xr-x. 3 root root 4096 Jan 26 19:47 0.0.20200121
+lrwxrwxrwx. 1 root root   42 Jun  3  2019 kernel-5.0.17-300.fc30.x86_64-x86_64 -> 0.0.20190601/5.0.17-300.fc30.x86_64/x86_64
+lrwxrwxrwx. 1 root root   42 Sep 21 11:42 kernel-5.2.13-200.fc30.x86_64-x86_64 -> 0.0.20190913/5.2.13-200.fc30.x86_64/x86_64
+lrwxrwxrwx. 1 root root   42 Jan  8 13:13 kernel-5.3.15-300.fc31.x86_64-x86_64 -> 0.0.20200105/5.3.15-300.fc31.x86_64/x86_64
+lrwxrwxrwx. 1 root root   42 Jan 26 19:44 kernel-5.4.12-200.fc31.x86_64-x86_64 -> 0.0.20200121/5.4.12-200.fc31.x86_64/x86_64
+#+end_src
+
+Check for the =0.0.version-number= directories - you should only have the most
+current one for the installed =wireguard-dkms= package. Likewise with the
+=kernel-x.y.x= symlinks. If you look closely in the above listing, you will
+notice that those symlinks point to obsolete versions of the Wireguard module.
+
+You can safely remove all of those. This is what I ended up with:
+
+#+begin_src
+$~: ls -l /var/lib/dkms/wireguard/
+total 4
+drwxr-xr-x. 3 root root 4096 Jan 29 11:01 0.0.20200121
+lrwxrwxrwx. 1 root root   42 Jan 29 10:59 kernel-5.4.13-201.fc31.x86_64-x86_64 -> 0.0.20200121/5.4.13-201.fc31.x86_64/x86_64
+#+end_src
+
+Once you're done, just retrigger the kernel module installation via
+
+#+begin_src 
+sudo dnf reinstall -y wireguard-dkms
+#+end_src
+
+If everything went well you should see the module:
+
+#+begin_src
+$~: modinfo wireguard
+filename:       /lib/modules/5.4.13-201.fc31.x86_64/extra/wireguard.ko.xz
+alias:          net-pf-16-proto-16-family-wireguard
+alias:          rtnl-link-wireguard
+version:        0.0.20200121
+author:         Jason A. Donenfeld <Jason@zx2c4.com>
+description:    WireGuard secure network tunnel
+license:        GPL v2
+srcversion:     BD21F87C71F6D0C453063A7
+depends:        udp_tunnel,ip6_udp_tunnel
+retpoline:      Y
+name:           wireguard
+vermagic:       5.4.13-201.fc31.x86_64 SMP mod_unload
+#+end_src
