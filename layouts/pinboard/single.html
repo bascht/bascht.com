@@ -5,9 +5,10 @@
       <h1><span class="social_logo">{{ partial "social_logo" . }}</span>{{ .Title | truncate 50 }}</h1>
     <article>
       <div class="post-content">
+        {{ .Content -}}
         <blockquote>{{ .Params.text }}</blockquote>
         <hr/>
-        via <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
+        bookmarked in <a href="{{ .Params.src }}">Bascht's Pinboard</a>: <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
       </div>
     </article>
     <aside>

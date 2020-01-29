@@ -3,7 +3,7 @@
     {{ partial "navbar.html" . }}
     <div class="main wrapper clearfix">
 
-        {{ $paginator := .Paginate ((where .Data.Pages "Section" "posts").GroupByDate "January 2006") }}
+        {{ $paginator := .Paginate ((where .Data.Pages "Section" "posts").GroupByDate "January 2006")  100}}
         {{ range $paginator.PageGroups }}
         <h2>{{ .Key }}</h2>
         <div class="posts summary clearfix">
