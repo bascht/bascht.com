@@ -213,7 +213,6 @@ article.summary a.anchor {
     /* align-items: center; */
     align-content: stretch;
 }
-.social_bar a,
 .posts a {
     padding: 1em;
     box-sizing: border-box;
@@ -275,14 +274,33 @@ h2 span.social_logo {
 
 div.social_bar {
     clear: both;
-    padding-left: 3em;
+    padding-left: 1em;
+    height: 230px;
 }
 
 div.social_bar > a {
     margin-left: 2em;
     display: inline-block;
-    width: 20%;
+    /* height: 4em; */
+
+    padding: 1em;
+    box-sizing: border-box;
+    margin: 1em;
+    width: 25%;
+    /* height: 10em; */
+    flex: 1 auto;
+    float: center;
     height: 100%;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+
+    background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 100%);
+    background: -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 100%);
 }
 
 .social_bar .instagram_image img {
