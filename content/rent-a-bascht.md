@@ -25,5 +25,5 @@ Meine Kontakt-Daten gibt es [hier](/impressum).
 
 ---
 <small>
-copyright Terminal Icon: [GNOME Project](https://git.gnome.org/browse/adwaita-icon-theme/plain/src/terminals.svg).
+copyright Terminal Icon: [GNOME Project](https://gitlab.gnome.org/GNOME/adwaita-icon-theme).
 </small>
