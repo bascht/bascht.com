@@ -11,7 +11,7 @@ tags: [mutt, mail, mua, email, hacking, linux, unix]
 > All mail clients suck.  This one just sucks less.
 
 Eigentlich ist dem nichts mehr hinzuzufügen. Nachdem ich nach der letzten
-[Nerdkunde Folge](http://nerdkunde.de/nk027.html) mehrere bestürzte Nachfragen
+[Nerdkunde Folge](https://www.nerdkunde.de/28-nk027) mehrere bestürzte Nachfragen
 zu meiner geistigen Verfassung bekommen habe, möchte ich meine Begeisterung
 für *mutt* nun doch noch einmal in Worte fassen – unter anderem auf vielfachen
 Wunsch eines einzelnen Herren:
