@@ -1,4 +1,4 @@
-<a href="{{.Permalink}}" class="spotify_like">
-  <h2><span class="social_logo">{{ partial "social_logo" . }}</span>{{.Title | truncate 50}}</h2>
+<a class="u-url" href="{{.Permalink}}" class="spotify_like">
+  <h2 class="p-name"><span class="social_logo">{{ partial "social_logo" . }}</span>{{.Title | truncate 50}}</h2>
   <small>{{ .Date.Format "January, 02th 2006" }}</small>
 </a>
