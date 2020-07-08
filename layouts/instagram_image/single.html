@@ -10,6 +10,7 @@
             </div>
             <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
             <a class="p-author h-card hidden" href="https://bascht.com"><img class="u-photo hidden" src="/images/bascht.jpg"/>Bascht</a>
+            Mentions {{ partial "webmentions.html" . }}
         </article>
         <aside>
             <h4>Posted</h4> <span class="dt-published">{{ .Date.Format "January, 02th 2006" }}</span>

@@ -1,0 +1,17 @@
+{{ $urlChecksum := sha256 (printf "https://bascht.com%s" (.Permalink | relURL)) }}
+
+{{ $webmentions := slice }}
+{{ range $webmentions_data := index .Site.Data.webmentions $urlChecksum }}
+{{ $webmentions = $webmentions | append $webmentions_data }}
+{{ end }}
+
+<h3>Reaktionen</h3>
+
+{{ range $like := where $webmentions ".post.wm-property" "like-of"}}
+<a href="{{ $like.post.author.url }}"><img style="width: 30px" src="{{ $like.post.author.photo }}"></a>
+{{ end }}
+
+<h3>Mentions</h3>
+{{ range $mention := where $webmentions ".post.wm-property" "mention-of"}}
+<a href="{{ $mention.post.author.url }}"><img style="width: 30px" src="{{ $mention.post.author.photo }}"></a> auf <a href="{{ $mention.post.url }}">{{ $mention.post.url }}</a>
+{{ end }}
