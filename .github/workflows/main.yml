@@ -22,7 +22,7 @@ jobs:
       run: hugo --minify -d public_html
 
     - name: SSH setup
-      if: github.ref == 'bascht.com'
+      if: github.ref == 'refs/heads/bascht.com'
       env:
         DEPLOY_KEY: ${{ secrets.deploy_key }}
         KNOWN_HOSTS: ${{ secrets.known_hosts }}
@@ -34,7 +34,7 @@ jobs:
         chmod -R 700 ~/.ssh
 
     - name: Rsync deployment
-      if: github.ref == 'bascht.com'
+      if: github.ref == 'refs/heads/bascht.com'
       run: |
         rsync -avz -e ssh --dry-run --exclude=_ --delete public_html/ uber.bascht.space:/var/www/virtual/bascht/bascht.com/
 
