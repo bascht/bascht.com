@@ -6,14 +6,15 @@
     <article>
       <div class="post-content">
           <blockquote class="mastodon-toot">
-              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>&mdash; Bascht (<a href="https://social.yakshed.org/@bascht">@bascht</a>)
+              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
+              {{ if .Params.media_url }}
+              <div class="post-content e-content">
+                  <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+              </div>
+              {{ end }}
+              &mdash; Bascht (<a href="https://social.yakshed.org/@bascht">@bascht</a>)
           </blockquote>
       </div>
-      {{ if .Params.media_url }}
-      <div class="post-content e-content">
-          <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
-      </div>
-      {{ end }}
       Originally posted to <a href="{{ default .Params.original_url .Params.src }}">{{ default .Params.original_url .Params.src }}</a>
       {{ partial "webmentions.html" . }}
     </article>
