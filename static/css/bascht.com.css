@@ -225,31 +225,50 @@ article.summary a.anchor {
     align-content: stretch;
 }
 .posts a {
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    /* border: 2px solid red; */
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.posts div.h-entry {
     padding: 1em;
     box-sizing: border-box;
     margin: 1em;
     width: 20%;
-    /* height: 10px; */
-    flex: 1 auto;
-    /* float: left; */
-    /* height: 50px; */
+    flex: 2 auto;
     border: 1px solid #cdcdcd;
     border-radius: 5px;
-
-    overflow: hidden;
-    text-decoration: none;
-    color: inherit;
 
     background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 100%);
     background: -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 100%);
     background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 100%);
 }
 
-.posts.summary a h2 {
-    white-space: nowrap;
+.posts .h-entry.foursquare_checkin {
+    height: 20%;
+}
+.posts .h-entry.pinboard {
+    height: 20%;
+}
+.posts .h-entry.mastodon_toot {
+    width: 30%;
+}
+.posts .h-entry.twitter_tweet {
+    width: 30%;
+}
+.posts .h-entry.instagram_image {
+    /* width: 40%; */
+}
+.posts.summary .h-entry h2 {
+    /* white-space: nowrap; */
+    overflow: hidden;
 }
 
-.posts a:hover {
+.posts .h-entry:hover {
     background: #f2f2f2;
     background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 31%);
     background: -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 31%);
@@ -258,9 +277,12 @@ article.summary a.anchor {
 }
 
 
-.posts .summary.instagram_video img, 
+.posts div.twitter_tweet img,
+.posts div.mastodon_toot img,
+.posts .summary.instagram_video img,
 .posts .summary.instagram_image img {
-    width: 85%;
+    width: 90%;
+    background-color: #fff;
 }
 .posts.summary .spotify_like {
     width: 300px

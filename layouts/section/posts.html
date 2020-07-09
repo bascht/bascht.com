@@ -8,7 +8,9 @@
         <h2>{{ .Key }}</h2>
         <div class="posts summary clearfix">
             {{ range .Pages.ByDate.Reverse }}
-            {{ .Render "summary" }}
+            <div class="h-entry {{ .Params.type }}">
+                {{ .Render "summary" }}
+            </div>
             {{ end }}
         </div>
         {{ end }}
