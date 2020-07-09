@@ -1,4 +1,4 @@
-name: Go Hugo
+name: Deploy with Hugo
 
 on:
   push:
@@ -11,9 +11,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-
     - name: Hugo setup
       uses: peaceiris/actions-hugo@v2.4.12
       with:
-        hugo-version: 0.59.1
+        hugo-version: 0.73.0
+
+    - name: Build
+      run: hugo --minify -d public_html
+
+    - name: SSH setup
+      if: github.ref == ''
+      env:
+        DEPLOY_KEY: ${{ secrets.deploy_key }}
+        KNOWN_HOSTS: ${{ secrets.known_hosts }}
+      run: |
+        mkdir -p ~/.ssh
+        echo "${KNOWN_HOSTS}" >> ~/.ssh/known_hosts
+        echo "${DEPLOY_KEY}" > ~/.ssh/my_rsync_key
+        echo "IdentityFile ~/.ssh/my_rsync_key" >> ~/.ssh/config
+        chmod -R 700 ~/.ssh
+
+    - name: Rsync deployment
+      if: github.ref == 'bascht.com'
+      run: |
+        rsync -avz -e ssh --dry-run --exclude=_ --delete public_html/ uber.bascht.space:/var/www/virtual/bascht/bascht.com/
+
+
+
