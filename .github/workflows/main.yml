@@ -22,7 +22,7 @@ jobs:
       run: hugo --minify -d public_html
 
     - name: SSH setup
-      if: github.ref == ''
+      if: github.ref == 'bascht.com'
       env:
         DEPLOY_KEY: ${{ secrets.deploy_key }}
         KNOWN_HOSTS: ${{ secrets.known_hosts }}
