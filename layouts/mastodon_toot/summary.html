@@ -1,0 +1,5 @@
+<a class="u-url h-entry" href="{{.Permalink}}">
+    <h2 class="p-name">{{ partial "social_logo" . }} {{.Title}}</h2>
+    <small>{{ .Date.Format "January, 02th 2006" }}</small>
+    <a class="hidden u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
+</a>

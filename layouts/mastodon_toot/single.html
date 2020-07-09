@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+  <div class="main wrapper clearfix">
+    <h1>Tweet from {{ .Date.Format "January, 02th 2006" }}</h1>
+    <article>
+      <div class="post-content">
+          <blockquote class="mastodon-toot">
+              <p lang="de" dir="ltr">{{ .Params.text }}</p>&mdash; Bascht (@bascht)
+          </blockquote>
+      </div>
+      {{ if .Params.media_url }}
+      <div class="post-content e-content">
+          <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+      </div>
+      {{ end }}
+      Originally posted to <a href="{{ default .Params.original_url .Params.src }}">{{ default .Params.original_url .Params.src }}</a>
+    </article>
+    <aside>
+      <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
+      <h4>Tags</h4> {{ partial "tags.html" . }}
+      <hr/>
+      📂 <a href="/tech/">Tech-Archive</a>
+    </aside>
+  </div>
+  {{ partial "pager.html" . }}
+  {{ partial "footer.html" . }}
+</body>
+</html>
