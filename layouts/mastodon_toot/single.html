@@ -2,11 +2,11 @@
 <body>
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
-    <h1>Tweet from {{ .Date.Format "January, 02th 2006" }}</h1>
+    <h1>Toot from {{ .Date.Format "January, 02th 2006" }}</h1>
     <article>
       <div class="post-content">
           <blockquote class="mastodon-toot">
-              <p lang="de" dir="ltr">{{ .Params.text }}</p>&mdash; Bascht (@bascht)
+              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>&mdash; Bascht (<a href="https://social.yakshed.org/@bascht">@bascht</a>)
           </blockquote>
       </div>
       {{ if .Params.media_url }}
