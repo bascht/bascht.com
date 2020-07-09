@@ -15,6 +15,7 @@
       </div>
       {{ end }}
       Originally posted to <a href="{{ default .Params.original_url .Params.src }}">{{ default .Params.original_url .Params.src }}</a>
+      {{ partial "webmentions.html" . }}
     </article>
     <aside>
       <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}

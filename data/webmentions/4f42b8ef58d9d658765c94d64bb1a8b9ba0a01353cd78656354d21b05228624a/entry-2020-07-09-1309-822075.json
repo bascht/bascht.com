@@ -1,1 +1,29 @@
-eyJwb3N0Ijp7InVybCI6Imh0dHBzOi8vc29jaWFsLnlha3NoZWQub3JnL0BiYXNjaHQvMTA0NDgwMTExMDY4NDI3MjY3I2Zhdm9yaXRlZC1ieS0xODMiLCJuYW1lIjpudWxsLCJ0eXBlIjoiZW50cnkiLCJ3bS1pZCI6ODIyMDc1LCJhdXRob3IiOnsidXJsIjoiaHR0cHM6Ly9tYXN0b2Rvbi5zb2NpYWwvQHBmZWZmZXJsZSIsIm5hbWUiOiJNYXR0aGlhcyBQZmVmZmVybGUiLCJ0eXBlIjoiY2FyZCIsInBob3RvIjoiaHR0cHM6Ly93ZWJtZW50aW9uLmlvL2F2YXRhci9zdG9yYWdlLnNwYWNlYmVhci5lZS9hNWVhOTdhMjhlNGM5YWFhODFjZTNiNGNhZWJlMjBjZjhmNTUwYzlhNzRiOWViMmY3OTk4YjM4NjVlN2Q2NTU2LnBuZyJ9LCJjb250ZW50Ijp7Imh0bWwiOm51bGwsInRleHQiOm51bGx9LCJwdWJsaXNoZWQiOm51bGwsIndtLXNvdXJjZSI6Imh0dHBzOi8vYnJpZC1neS5hcHBzcG90LmNvbS9saWtlL21hc3RvZG9uL0BiYXNjaHRAc29jaWFsLnlha3NoZWQub3JnLzEwNDQ4MDExMTA2ODQyNzI2Ny8xODMiLCJ3bS10YXJnZXQiOiJodHRwczovL2Jhc2NodC5jb20vcG9zdHMvIiwid20tcHJpdmF0ZSI6ZmFsc2UsImluLXJlcGx5LXRvIjpudWxsLCJ3bS1wcm9wZXJ0eSI6Imxpa2Utb2YiLCJ3bS1yZWNlaXZlZCI6IjIwMjAtMDctMDlUMTA6MzE6MTNaIn0sInNlY3JldCI6bnVsbCwic291cmNlIjoiaHR0cHM6Ly9icmlkLWd5LmFwcHNwb3QuY29tL2xpa2UvbWFzdG9kb24vQGJhc2NodEBzb2NpYWwueWFrc2hlZC5vcmcvMTA0NDgwMTExMDY4NDI3MjY3LzE4MyIsInRhcmdldCI6Imh0dHBzOi8vYmFzY2h0LmNvbS9wb3N0cy8iLCJwcml2YXRlIjpmYWxzZX0=
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104480111068427267#favorited-by-183",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822075,
+    "author": {
+      "url": "https://mastodon.social/@pfefferle",
+      "name": "Matthias Pfefferle",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a5ea97a28e4c9aaa81ce3b4caebe20cf8f550c9a74b9eb2f7998b3865e7d6556.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104480111068427267/183",
+    "wm-target": "https://bascht.com/posts/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-09T10:31:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104480111068427267/183",
+  "target": "https://bascht.com/posts/",
+  "private": false
+}
