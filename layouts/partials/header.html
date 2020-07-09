@@ -8,12 +8,11 @@
   <title>{{ .Title }}</title>
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
 
-  <link rel="preload" href="{{ .Site.BaseURL }}/fonts/woff/FiraSans-Regular.woff" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="{{ .Site.BaseURL }}/fonts/woff/FiraSans-Bold.woff" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="{{ .Site.BaseURL }}/fonts/woff/roboto_slab.woff" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/normalize.min.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bascht.com.css">
+  <link rel="preload" href="{{ .Site.BaseURL }}fonts/woff/FiraSans-Regular.woff" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ .Site.BaseURL }}fonts/woff/FiraSans-Bold.woff" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ .Site.BaseURL }}fonts/woff/roboto_slab.woff" as="font" type="font/woff2" crossorigin>
+  {{ $css := resources.Match "css/**.css" | resources.Concat "combined.css" | minify | fingerprint -}}
+  <link rel="stylesheet" href="{{ $css.Permalink }}">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
   <link rel="webmention" href="https://webmention.io/bascht.com/webmention" />

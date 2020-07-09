@@ -1,6 +1,6 @@
 <a href="{{.Permalink}}" class="summary instagram_image">
   <h2 class="p-name"><span class="social_logo">{{ partial "social_logo" . }}</span>{{.Title | default "Untitled" }}</h2>
-  <p><img alt="Instagram Photo: {{ .Params.title }}"  src="{{ .Params.media_url }}" ></p>
+  <p><img alt="Instagram Photo: {{ .Params.title }}"  src="https://img.bascht.com/proxy/300,webp/{{ .Params.media_url }}" ></p>
   <small>{{ .Date.Format "January, 02th 2006" }}</small>
   <a class="hidden u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
 </a>
