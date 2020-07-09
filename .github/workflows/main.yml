@@ -1,0 +1,19 @@
+name: Go Hugo
+
+on:
+  push:
+    branches: [ bascht.com ]
+  pull_request:
+    branches: [ bascht.com ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Hugo setup
+      uses: peaceiris/actions-hugo@v2.4.12
+      with:
+        hugo-version: 0.59.1
