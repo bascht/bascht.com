@@ -36,7 +36,7 @@ jobs:
     - name: Rsync deployment
       if: github.ref == 'refs/heads/bascht.com'
       run: |
-        rsync -avz -e ssh --dry-run --exclude=_ --delete public_html/ uber.bascht.space:/var/www/virtual/bascht/bascht.com/
+        rsync -avz -e ssh --dry-run --exclude=_ --delete public_html/ bascht@uber.bascht.space:/var/www/virtual/bascht/bascht.com/
 
 
 
