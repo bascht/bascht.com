@@ -9,8 +9,10 @@ pygmentsStyle = "monokai"
 PygmentsCodeFences = true
 SectionPagesMenu = "main"
 
+
 [params]
 locale = "de-DE"
+description = "Baschts home on the interwebs."
 
 [permalinks]
 blog = "/blog/:year/:month/:day/:title/"
