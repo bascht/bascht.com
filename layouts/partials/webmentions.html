@@ -5,8 +5,9 @@
   {{ $webmentions = $webmentions | append $webmentions_data }}
 {{ end }}
 
-{{ $likes := where $webmentions ".post.wm-property" "like-of"}}
-{{ $mentions := where $webmentions ".post.wm-property" "mention-of"}}
+{{ $likes := where $webmentions ".post.wm-property" "like-of" }}
+{{ $mentions := where $webmentions ".post.wm-property" "mention-of" }}
+{{ $replies := where $webmentions ".post.wm-property" "in-reply-to" }}
 
 {{ if $likes }}
   <h3>Reaktionen</h3>
@@ -20,4 +21,13 @@
   {{ range $mention := $mentions }}
   <a href="{{ $mention.post.author.url }}"><img style="width: 30px" src="{{ $mention.post.author.photo }}"></a> auf <a href="{{ $mention.post.url }}">{{ $mention.post.url }}</a>
   {{ end }}
+{{ end }}
+
+{{ if $replies }}
+<h3>Antworten</h3>
+{{ range sort $replies "post.published" "asc" }}
+<ul style="list-style-type:none">
+<li><a href="{{ .post.author.url }}"><img style="width: 30px" src="{{ .post.author.photo }}"></a> {{ .post.content.text }}</li>
+</ul>
+{{ end }}
 {{ end }}
