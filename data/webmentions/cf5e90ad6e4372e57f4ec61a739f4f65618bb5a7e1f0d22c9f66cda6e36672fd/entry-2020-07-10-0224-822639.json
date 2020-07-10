@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Daniel_Riecke/status/1280757431145050112",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822639,
+    "author": {
+      "url": "https://twitter.com/Daniel_Riecke",
+      "name": "Daniel Riecke",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d2512fe787f1a9cb5322553e91d7d5b7cee200632fef2823c4db55c4d090e9a.jpg"
+    },
+    "content": {
+      "html": "<a href=\"https://twitter.com/franksitta\">@franksitta</a> ist erfolgreicher <a href=\"https://twitter.com/search?q=%23Unternehmer\">#Unternehmer</a> mit eigener Firma. Sollte er stattdessen nach dem Ausscheiden aus dem <a href=\"https://twitter.com/search?q=%23Bundestag\">#Bundestag</a> als Dachdeckerlehrling anfangen?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "@franksitta ist erfolgreicher #Unternehmer mit eigener Firma. Sollte er stattdessen nach dem Ausscheiden aus dem #Bundestag als Dachdeckerlehrling anfangen?"
+    },
+    "published": "2020-07-08T06:55:41+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1280756019677868032/1280757431145050112",
+    "wm-target": "https://bascht.com/posts/2020/07/08/zieht-sich-in-die-wirtschaft-zur%C3%BCck-ht/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/07/08/zieht-sich-in-die-wirtschaft-zur%C3%BCck-ht/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-10T00:21:46Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1280756019677868032/1280757431145050112",
+  "target": "https://bascht.com/posts/2020/07/08/zieht-sich-in-die-wirtschaft-zur%C3%BCck-ht/",
+  "private": false
+}
