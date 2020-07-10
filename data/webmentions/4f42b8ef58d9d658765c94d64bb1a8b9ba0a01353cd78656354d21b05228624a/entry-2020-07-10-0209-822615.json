@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mstdn.io/@jomo/104486342597931925",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822615,
+    "author": {
+      "url": "https://mstdn.io/@jomo",
+      "name": "jomo :verified:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/d9acb2d387fc822a9c2e2e41bc927ea93c138488210b76d79185c8a9d790ebdb.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> was für ein tool ist das?</p>",
+      "text": "@bascht was für ein tool ist das?"
+    },
+    "published": "2020-07-09T22:51:01",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104486168103580373/104486342624870919",
+    "wm-target": "https://bascht.com/posts/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-10T00:03:53Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104486168103580373/104486342624870919",
+  "target": "https://bascht.com/posts/",
+  "private": false
+}
