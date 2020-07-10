@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1280758193279373314",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822638,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e9899453a2468baff9b8d52402805762e6e483aaa9268fd799fe2c1747c897.jpg"
+    },
+    "content": {
+      "html": "Ich glaube die nehmen auch nicht mehr jeden.\n\nWas wäre mit Erntehelfer?\n<a class=\"u-mention\" href=\"https://twitter.com/Daniel_Riecke\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/franksitta\"></a>",
+      "text": "Ich glaube die nehmen auch nicht mehr jeden.\n\nWas wäre mit Erntehelfer?"
+    },
+    "published": "2020-07-08T06:58:43+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1280756019677868032/1280758193279373314",
+    "wm-target": "https://bascht.com/posts/2020/07/08/zieht-sich-in-die-wirtschaft-zur%C3%BCck-ht/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/07/08/zieht-sich-in-die-wirtschaft-zur%C3%BCck-ht/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-10T00:21:44Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1280756019677868032/1280758193279373314",
+  "target": "https://bascht.com/posts/2020/07/08/zieht-sich-in-die-wirtschaft-zur%C3%BCck-ht/",
+  "private": false
+}
