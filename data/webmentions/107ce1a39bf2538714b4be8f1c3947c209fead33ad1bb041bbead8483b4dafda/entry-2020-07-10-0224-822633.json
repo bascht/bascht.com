@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1281125670807056385#favorited-by-18671236",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822633,
+    "author": {
+      "url": "https://twitter.com/asga404",
+      "name": "asga 🛸",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/29a2e5a03ba1cbab364a22e30d6606b8e6d4d9b6b59cbe8dc096daa3b782be92.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1281125670807056385/18671236",
+    "wm-target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-10T00:21:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1281125670807056385/18671236",
+  "target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+  "private": false
+}
