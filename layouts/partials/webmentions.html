@@ -11,8 +11,8 @@
 
 {{ if $likes }}
   <h3>Reaktionen</h3>
-  {{ range $like := $likes }}
-  <a href="{{ $like.post.author.url }}"><img style="width: 30px" src="{{ $like.post.author.photo }}"></a>
+  {{ range sort $likes "post.published" "asc" }}
+  <a href="{{ .post.author.url }}"><img style="width: 30px" alt="Avatar von {{ .post.author.name }}" title="Like von {{ .post.author.name }}" src="{{ .post.author.photo }}"></a>
   {{ end }}
 {{ end }}
 
