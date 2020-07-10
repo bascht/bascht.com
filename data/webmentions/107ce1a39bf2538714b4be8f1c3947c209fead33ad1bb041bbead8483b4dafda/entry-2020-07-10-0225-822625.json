@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/DanielaKayB/status/1281166692979216385",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822625,
+    "author": {
+      "url": "https://twitter.com/DanielaKayB",
+      "name": "Blockchainflöten des Todes",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2306f8cd25fe5135b15421cb7fc5162ff147f9c4e17524800265e7bd41fadd8d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn Leute sich nicht von alten Branches in Git trennen können:\n\nRepostalgie"
+    },
+    "published": "2020-07-09T10:01:57+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281166692979216385",
+    "wm-target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-07-10T00:21:29Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281166692979216385",
+  "target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+  "private": false
+}
