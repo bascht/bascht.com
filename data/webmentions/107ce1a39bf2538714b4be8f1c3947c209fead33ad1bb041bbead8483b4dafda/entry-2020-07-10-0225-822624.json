@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/acid23/status/1281165135621566465",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822624,
+    "author": {
+      "url": "https://twitter.com/acid23",
+      "name": "acid",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ad3364d6c11438257ddac4648d1e6817bcc1ec762322c85893d887749732d1e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn Leute sich nicht von alten Branches in Git trennen können:\n\nRepostalgie"
+    },
+    "published": "2020-07-09T09:55:45+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281165135621566465",
+    "wm-target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-07-10T00:21:28Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281165135621566465",
+  "target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+  "private": false
+}
