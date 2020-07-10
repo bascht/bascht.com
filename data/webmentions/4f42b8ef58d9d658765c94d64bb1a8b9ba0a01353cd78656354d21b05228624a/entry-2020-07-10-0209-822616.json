@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104486370035843649",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822616,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/46b08f705bd929c10f13dd7648e1aca05ba9010d7a36ee70de43a1c7df4a454f.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mstdn.io/@jomo\" class=\"u-url\">@<span>jomo</span></a></span> Integromat (<a href=\"https://www.integromat.com\"><span>https://www.</span><span>integromat.com</span><span></span></a>) – leider keine freie Software.</p>\n<a href=\"https://www.integromat.com/\">Integromat</a>",
+      "text": "@jomo Integromat (https://www.integromat.com) – leider keine freie Software.\nIntegromat"
+    },
+    "published": "2020-07-09T22:58:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104486168103580373/104486370035843649",
+    "wm-target": "https://bascht.com/posts/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-10T00:03:53Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104486168103580373/104486370035843649",
+  "target": "https://bascht.com/posts/",
+  "private": false
+}
