@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Onkelhotte/status/1281184030566866945",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822626,
+    "author": {
+      "url": "https://twitter.com/Onkelhotte",
+      "name": "Klaus Meyer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8218b60691a569402dc6906a5ab4a3a741dec4789b610c1595074b2296b730d8.png"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn Leute sich nicht von alten Branches in Git trennen können:\n\nRepostalgie"
+    },
+    "published": "2020-07-09T11:10:50+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281184030566866945",
+    "wm-target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-07-10T00:21:30Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281184030566866945",
+  "target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+  "private": false
+}
