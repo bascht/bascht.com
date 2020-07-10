@@ -11,13 +11,13 @@
         bookmarked in <a href="{{ .Params.src }}">Bascht's Pinboard</a>: <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
       </div>
 
-      Mentions {{ partial "webmentions.html" . }}
+      {{ partial "webmentions.html" . }}
     </article>
     <aside>
       <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
       <h4>Tags</h4> {{ if .Params.Tags }}{{ partial "tags.html" . }}{{ end }}
       <hr/>
-      📂 <a href="/tech/">Tech-Archive</a>
+      📂 <a href="/posts/pinboard/">Pinboard-Archive</a>
     </aside>
   </div>
   {{ partial "pager.html" . }}

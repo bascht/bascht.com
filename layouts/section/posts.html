@@ -7,10 +7,9 @@
         {{ range $paginator.PageGroups }}
         <h2>{{ .Key }}</h2>
         <div class="posts summary clearfix">
-            {{ range .Pages.ByDate.Reverse }}
-            <div class="h-entry {{ .Params.type }}">
-                {{ .Render "summary" }}
-            </div>
+            {{ $posts := .Pages.ByDate.Reverse }}
+            {{ range $posts }}
+            {{ .Render "summary" }}
             {{ end }}
         </div>
         {{ end }}

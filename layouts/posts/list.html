@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+<body>
+    {{ partial "navbar.html" . }}
+    <div class="main wrapper clearfix">
+        {{ .Content }}
+        {{ $paginator := .Paginate ( (where (where .Site.Pages "Section" "posts") ".Type" "!=" "posts").GroupByDate "2 Jan 2006")  30}}
+        <div class="h-feed">
+        {{ range $paginator.PageGroups }}
+        <h2>{{ .Key }}</h2>
+        <div class="stream">
+        {{ range .ByDate.Reverse }}
+        {{ .Render "stream-summary" }}
+        {{ end }}
+        </div>
+        {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
+    </div>
+    {{ partial "footer.html" . }}
+</body>
+</html>
