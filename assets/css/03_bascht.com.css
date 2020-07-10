@@ -358,6 +358,20 @@ div.social_bar > a {
     width: 2em;
 }
 
+.webmention-replies ol {
+    /* clear: both; */
+    display: flex;
+    flex: 1 auto;
+}
+.webmention-replies a.author-photo {
+    /* float: left; */
+}
+
+.webmention-replies div.message {
+    /* float: left; */
+    /* padding: 1em; */
+}
+
 .tech-notes a:hover {
     background: #f2f2f2;
     background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 31%);

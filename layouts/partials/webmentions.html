@@ -25,9 +25,14 @@
 
 {{ if $replies }}
 <h3>Antworten</h3>
+<ol style="list-style-type:none" class="webmention-replies">
 {{ range sort $replies "post.published" "asc" }}
-<ul style="list-style-type:none">
-<li><a href="{{ .post.author.url }}"><img style="width: 30px" src="{{ .post.author.photo }}"></a> {{ .post.content.text }}</li>
-</ul>
+    <li>
+        <a href="{{ .post.author.url }}" class="author-photo"><img style="width: 30px" src="{{ .post.author.photo }}"></a>
+        <div class="message">
+            <p>{{ .post.content.text }}</p>
+        </div>
+        <li>
 {{ end }}
+</ol>
 {{ end }}
