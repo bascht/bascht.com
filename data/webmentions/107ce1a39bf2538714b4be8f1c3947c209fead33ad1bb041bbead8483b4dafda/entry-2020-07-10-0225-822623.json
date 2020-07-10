@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/thegcat/status/1281139962126176256",
+    "name": null,
+    "type": "entry",
+    "wm-id": 822623,
+    "author": {
+      "url": "https://twitter.com/thegcat",
+      "name": "Felix (@thegcat@kif.rocks)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98d229bde69df18b684166306bfb966a5952bdcceea7144691592e359cc73059.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn Leute sich nicht von alten Branches in Git trennen können:\n\nRepostalgie"
+    },
+    "published": "2020-07-09T08:15:44+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281139962126176256",
+    "wm-target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-07-10T00:21:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1281125670807056385/1281139962126176256",
+  "target": "https://bascht.com/posts/2020/07/09/wenn-leute-sich-nicht-von-alten-branches/",
+  "private": false
+}
