@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104494642758357479#reblogged-by-1528",
+    "name": null,
+    "type": "entry",
+    "wm-id": 823131,
+    "author": {
+      "url": "https://chaos.social/@frumble",
+      "name": "Maxi von Böhmen ☑️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/5effb6da59d1b72416a8e0a5ae11bf72321961e29db9306a7eeb52073b99026b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104494642758357479/1528",
+    "wm-target": "https://bascht.com/posts/2020/07/11/oh-no.soup/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-07-11T11:24:29Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104494642758357479/1528",
+  "target": "https://bascht.com/posts/2020/07/11/oh-no.soup/",
+  "private": false
+}
