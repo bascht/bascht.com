@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104494642758357479#favorited-by-730",
+    "name": null,
+    "type": "entry",
+    "wm-id": 823427,
+    "author": {
+      "url": "https://social.tchncs.de/@tiefpunkt",
+      "name": "Severin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/bc9ce0f2f7b4ed799c0baca7ca55883b78b57546ea593d764d03f7faf781722a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104494642758357479/730",
+    "wm-target": "https://bascht.com/posts/2020/07/11/oh-no.soup/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-11T15:56:30Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104494642758357479/730",
+  "target": "https://bascht.com/posts/2020/07/11/oh-no.soup/",
+  "private": false
+}
