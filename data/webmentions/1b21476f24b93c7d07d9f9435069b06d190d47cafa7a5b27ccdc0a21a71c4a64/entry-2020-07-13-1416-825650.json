@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104505351224684422#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 825650,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104505351224684422/4585",
+    "wm-target": "https://bascht.com/posts/2020/07/13/swapped-the-ear-cushions-of-my-ol-trust/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-13T11:58:33Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104505351224684422/4585",
+  "target": "https://bascht.com/posts/2020/07/13/swapped-the-ear-cushions-of-my-ol-trust/",
+  "private": false
+}
