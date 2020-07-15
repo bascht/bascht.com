@@ -19,7 +19,13 @@
   <link rel="pingback" href="https://webmention.io/bascht.com/xmlrpc" />
   <link rel="dns-prefetch" href="//img.bascht.com">
   <link rel="pgpkey" href="https://bascht.com/key.asc">
-  <link rel="feed" type="text/html" title="Social Media Posts" href="{{ .Site.BaseURL }}posts/" />
+  <link rel="feed" type="text/html" title="All my social Media Posts" href="{{ .Site.BaseURL }}posts/" />
+  <link rel="feed" type="text/html" title="My Instagram Posts" href="{{ .Site.BaseURL }}posts/instagram/" />
+  <link rel="feed" type="text/html" title="My Tweets" href="{{ .Site.BaseURL }}posts/twitter/" />
+  <link rel="feed" type="text/html" title="My Toots" href="{{ .Site.BaseURL }}posts/mastodon/" />
+  <link rel="feed" type="text/html" title="My Spotify Likes" href="{{ .Site.BaseURL }}posts/spotify/like/" />
+  <link rel="feed" type="text/html" title="My Foursquare Checkins" href="{{ .Site.BaseURL }}posts/foursquare/checkin/" />
+  <link rel="feed" type="text/html" title="My Pinboard Pins" href="{{ .Site.BaseURL }}posts/pinboard/" />
 
   {{ template "_internal/twitter_cards.html" . -}}
   {{ template "_internal/opengraph.html" . -}}
