@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CCorS1jn4Pg/#liked-by-6210413473",
+    "name": null,
+    "type": "entry",
+    "wm-id": 827350,
+    "author": {
+      "url": "https://www.instagram.com/fnordfish/",
+      "name": "Robert Schulze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/b85e924daebe454b2f668ca2938ec07d85f1123090aa69d2d4c132c557a9a05c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2353321215757616096_31971527/6210413473",
+    "wm-target": "https://bascht.com/posts/2020/07/14/17859240392050666/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-15T10:25:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2353321215757616096_31971527/6210413473",
+  "target": "https://bascht.com/posts/2020/07/14/17859240392050666/",
+  "private": false
+}
