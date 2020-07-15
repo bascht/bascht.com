@@ -245,8 +245,7 @@ article.summary a.anchor {
     padding: 1em;
     box-sizing: border-box;
     margin: 1em;
-    width: 20%;
-    flex: 2 auto;
+    flex: 1 1 200px;
     border: 1px solid #cdcdcd;
     border-radius: 5px;
 
@@ -256,10 +255,8 @@ article.summary a.anchor {
 }
 
 .stream .h-entry.foursquare_checkin {
-    height: 20%;
 }
 .stream .h-entry.pinboard {
-    height: 20%;
 }
 .stream .h-entry.mastodon_toot {
     width: 30%;
@@ -292,7 +289,6 @@ article.summary a.anchor {
     background-color: #fff;
 }
 .stream .spotify_like {
-    width: 300px
 }
 .stream span.social_logo {
     color: #f2f2f2;
