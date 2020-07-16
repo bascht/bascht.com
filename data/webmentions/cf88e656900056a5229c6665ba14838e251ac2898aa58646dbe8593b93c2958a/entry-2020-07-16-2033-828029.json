@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1260511550399557632#favorited-by-28079700",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828029,
+    "author": {
+      "url": "https://twitter.com/tomflingern",
+      "name": "Tomtom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad3c3857212d229476790e8607448618ffa41e3f02a0496d32a8db0e38634a8a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1260511550399557632/28079700",
+    "wm-target": "https://bascht.com/posts/2020/05/13/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:54:28Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1260511550399557632/28079700",
+  "target": "https://bascht.com/posts/2020/05/13/",
+  "private": false
+}
