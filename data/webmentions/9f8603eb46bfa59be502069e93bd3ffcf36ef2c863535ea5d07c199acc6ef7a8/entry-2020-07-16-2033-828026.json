@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhinkel/status/1263021571922440193",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828026,
+    "author": {
+      "url": "https://twitter.com/fhinkel",
+      "name": "Franziska Hinkelmann, Ph.D.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/83b52144c38a22598f430cafa6883c765a46b19f239b67613c299b73149306ae.jpg"
+    },
+    "content": {
+      "html": "Und ich frage mich: Wo kommen die 8 Mehrfachsteckdosen her? Ich habe noch nie bewusst eine Mehrfachsteckdose gekauft.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Und ich frage mich: Wo kommen die 8 Mehrfachsteckdosen her? Ich habe noch nie bewusst eine Mehrfachsteckdose gekauft."
+    },
+    "published": "2020-05-20T08:19:43+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263021571922440193",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263021571922440193",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
