@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1265635713359511558#favorited-by-14011202",
+    "name": null,
+    "type": "entry",
+    "wm-id": 827974,
+    "author": {
+      "url": "https://twitter.com/yasmintee",
+      "name": "Yasmin 🦝",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12b618272a4c89ea7f52896b44c2523ec48876bf0f192d74bc2cb61c7b332baa.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1265635713359511558/14011202",
+    "wm-target": "https://bascht.com/posts/2020/05/27/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:53:37Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1265635713359511558/14011202",
+  "target": "https://bascht.com/posts/2020/05/27/",
+  "private": false
+}
