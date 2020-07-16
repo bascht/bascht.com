@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1263010610821898240#favorited-by-15356992",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828015,
+    "author": {
+      "url": "https://twitter.com/senfi",
+      "name": "Tobias",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7341784b2d7ebe5b6cecb8809b206cd193993947ac60cfc4df65964c8e7aaf06.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1263010610821898240/15356992",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:54:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1263010610821898240/15356992",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
