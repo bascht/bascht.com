@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1263045384194187264",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828027,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/862d0df58d6b2c4a947bbad068e38f1c167869f705fca7ff784f129ef1a83077.jpg"
+    },
+    "content": {
+      "html": "Oh ich hab hier eine Schublade die überquillt. Keine Ahnung wo die alle herkommen 🤣\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Oh ich hab hier eine Schublade die überquillt. Keine Ahnung wo die alle herkommen 🤣"
+    },
+    "published": "2020-05-20T09:54:20+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263045384194187264",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263045384194187264",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
