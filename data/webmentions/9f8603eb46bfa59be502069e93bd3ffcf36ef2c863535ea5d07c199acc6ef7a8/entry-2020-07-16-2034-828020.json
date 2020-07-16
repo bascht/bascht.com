@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1263018970636001280",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828020,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e9899453a2468baff9b8d52402805762e6e483aaa9268fd799fe2c1747c897.jpg"
+    },
+    "content": {
+      "html": "GENAU DAS! Ich schreibe sogar meinen Namen drauf.\n\nAndererseits habe ich auch zwei \"eurucamp\" Steckdosen hier. :D\n<a class=\"u-mention\" href=\"https://twitter.com/Maggysche\"></a>",
+      "text": "GENAU DAS! Ich schreibe sogar meinen Namen drauf.\n\nAndererseits habe ich auch zwei \"eurucamp\" Steckdosen hier. :D"
+    },
+    "published": "2020-05-20T08:09:23+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263018970636001280",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:19Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263018970636001280",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
