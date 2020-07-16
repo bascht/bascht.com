@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1260511550399557632#favorited-by-15413876",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828030,
+    "author": {
+      "url": "https://twitter.com/tiefpunkt",
+      "name": "Severin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33bdee156e3c3dadbf0be0c9810e75b656b76e3ecf6c5bdf31db26a1aab1ba56.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1260511550399557632/15413876",
+    "wm-target": "https://bascht.com/posts/2020/05/13/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:54:29Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1260511550399557632/15413876",
+  "target": "https://bascht.com/posts/2020/05/13/",
+  "private": false
+}
