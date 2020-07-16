@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/moritzheiber/status/1260513044624551936",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828033,
+    "author": {
+      "url": "https://twitter.com/moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e6864a6f6d418c1e2903db51c47048c2825e37e64058acab8a8a93ef127088b.jpg"
+    },
+    "content": {
+      "html": "Die Anzeige ist alles was ich von eBay Kleinanzeigen erwarte 😅\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Die Anzeige ist alles was ich von eBay Kleinanzeigen erwarte 😅"
+    },
+    "published": "2020-05-13T10:11:43+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1260511550399557632/1260513044624551936",
+    "wm-target": "https://bascht.com/posts/2020/05/13/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/13/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:32Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1260511550399557632/1260513044624551936",
+  "target": "https://bascht.com/posts/2020/05/13/",
+  "private": false
+}
