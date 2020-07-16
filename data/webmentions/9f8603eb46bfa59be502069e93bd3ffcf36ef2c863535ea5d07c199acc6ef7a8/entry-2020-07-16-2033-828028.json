@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ganzefolge/status/1263078189334695936",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828028,
+    "author": {
+      "url": "https://twitter.com/ganzefolge",
+      "name": "Jan Schulte",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/93d5787547497a1701cb01e36fdbdbab49d67192c108487da3a85ec01f05fb8a.jpg"
+    },
+    "content": {
+      "html": "“Sag mal, was macht ihr mit den Steckdosen? Ess ihr die?”\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "“Sag mal, was macht ihr mit den Steckdosen? Ess ihr die?”"
+    },
+    "published": "2020-05-20T12:04:41+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263078189334695936",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263078189334695936",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
