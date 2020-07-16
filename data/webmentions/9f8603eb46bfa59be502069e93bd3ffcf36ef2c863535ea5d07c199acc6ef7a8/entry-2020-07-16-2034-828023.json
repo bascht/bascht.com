@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/e_phi/status/1263010888925294592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828023,
+    "author": {
+      "url": "https://twitter.com/e_phi",
+      "name": "eviii 🐰 - ⚛️🚴‍♀️👩‍💻",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/483b72c39593d67e0d988af49e80fab70fded1026b9e5dc2cc9f87c6eb3f1273.jpg"
+    },
+    "content": {
+      "html": "Auf Konferenzen in Hotelräumen?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Auf Konferenzen in Hotelräumen?"
+    },
+    "published": "2020-05-20T07:37:16+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263010888925294592",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:22Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263010888925294592",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
