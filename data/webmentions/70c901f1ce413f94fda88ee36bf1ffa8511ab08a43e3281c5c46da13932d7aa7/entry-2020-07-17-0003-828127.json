@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104451154486740973#favorited-by-6911",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828127,
+    "author": {
+      "url": "https://toot.cafe/@Coffee",
+      "name": "Coffee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/05486f8ed8561d3b95b08443e6ffff95e0674313945986a1991a452c6f8f219c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104451154486740973/6911",
+    "wm-target": "https://bascht.com/posts/2020/07/03/hi/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T21:32:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104451154486740973/6911",
+  "target": "https://bascht.com/posts/2020/07/03/hi/",
+  "private": false
+}
