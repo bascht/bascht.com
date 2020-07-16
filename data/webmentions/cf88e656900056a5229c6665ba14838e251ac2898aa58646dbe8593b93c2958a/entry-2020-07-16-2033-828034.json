@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/annasophieluisa/status/1260547032416124929",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828034,
+    "author": {
+      "url": "https://twitter.com/annasophieluisa",
+      "name": "anna schulze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4768d61557cfba5c7c015809bcafa9f21081ed9eb81f746134049c54f79d45cb.jpg"
+    },
+    "content": {
+      "html": "würde mein Auto dort direkt abgeben  <a href=\"https://twitter.com/eBay_KA\">@eBay_KA</a>\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "würde mein Auto dort direkt abgeben  @eBay_KA"
+    },
+    "published": "2020-05-13T12:26:47+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1260511550399557632/1260547032416124929",
+    "wm-target": "https://bascht.com/posts/2020/05/13/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/13/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:33Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1260511550399557632/1260547032416124929",
+  "target": "https://bascht.com/posts/2020/05/13/",
+  "private": false
+}
