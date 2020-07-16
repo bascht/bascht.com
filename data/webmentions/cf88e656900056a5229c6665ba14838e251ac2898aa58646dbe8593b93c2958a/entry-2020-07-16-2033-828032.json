@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1260511550399557632#favorited-by-23248590",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828032,
+    "author": {
+      "url": "https://twitter.com/julianschuh",
+      "name": "𝗷𝘂𝗹𝗲𝘇",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/736c427ab0dd2653205f28eb388ee29448ab70a7c654942dd0a0e94f9f347d5d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1260511550399557632/23248590",
+    "wm-target": "https://bascht.com/posts/2020/05/13/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:54:31Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1260511550399557632/23248590",
+  "target": "https://bascht.com/posts/2020/05/13/",
+  "private": false
+}
