@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/zebel/status/1272901136064884736",
+    "name": null,
+    "type": "entry",
+    "wm-id": 827969,
+    "author": {
+      "url": "https://twitter.com/zebel",
+      "name": "Sebastian Ziebell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/08381672e71fb3a1f4727473a4b44b88e337dbc99de2d9e69b60021d399efcef.jpeg"
+    },
+    "content": {
+      "html": "Würde für Xing Contra-Jobs zahlen, wenn man dann 4x weniger zu gespammt wird.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Würde für Xing Contra-Jobs zahlen, wenn man dann 4x weniger zu gespammt wird."
+    },
+    "published": "2020-06-16T14:37:34+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1272803427811278848/1272901136064884736",
+    "wm-target": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:53:32Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1272803427811278848/1272901136064884736",
+  "target": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+  "private": false
+}
