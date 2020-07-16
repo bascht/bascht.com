@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Maggysche/status/1263018031992750081",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828025,
+    "author": {
+      "url": "https://twitter.com/Maggysche",
+      "name": "Maddie @ 🏠",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7194d623cb637382f436136b73498424952eab724052a8b9473167da38bb6116.jpg"
+    },
+    "content": {
+      "html": "Das Frage ich mich jedes Jahr nach der RuhrJS. Jedes Jahr kaufe ich 10-15 neue Steckdosen um wieder auf 30 Stück zu kommen 🙈 hier Zuhause ist es auch nicht anders 😀\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Das Frage ich mich jedes Jahr nach der RuhrJS. Jedes Jahr kaufe ich 10-15 neue Steckdosen um wieder auf 30 Stück zu kommen 🙈 hier Zuhause ist es auch nicht anders 😀"
+    },
+    "published": "2020-05-20T08:05:39+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263018031992750081",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263018031992750081",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
