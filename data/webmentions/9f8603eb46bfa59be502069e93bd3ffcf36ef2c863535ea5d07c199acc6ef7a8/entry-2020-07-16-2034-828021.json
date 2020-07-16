@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1263022159154339842",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828021,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e9899453a2468baff9b8d52402805762e6e483aaa9268fd799fe2c1747c897.jpg"
+    },
+    "content": {
+      "html": "Bei mir ist der Strom nie da wo ich ihn gerade brauche.  Und wenn er da ist &amp; dann ist der Stecker schon belegt. :D\n<a class=\"u-mention\" href=\"https://twitter.com/fhinkel\"></a>",
+      "text": "Bei mir ist der Strom nie da wo ich ihn gerade brauche.  Und wenn er da ist & dann ist der Stecker schon belegt. :D"
+    },
+    "published": "2020-05-20T08:22:03+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263022159154339842",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263022159154339842",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
