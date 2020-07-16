@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/renecalles/status/1273140641158094848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 827970,
+    "author": {
+      "url": "https://twitter.com/renecalles",
+      "name": "r8s",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/95a719470b068c99df047de54bbc14328b010dcee96e8132ee0ae5333991f144.jpg"
+    },
+    "content": {
+      "html": "Ich wäre ja schon zufrieden wenn die Anfragen auf mein Profil passen würden.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich wäre ja schon zufrieden wenn die Anfragen auf mein Profil passen würden."
+    },
+    "published": "2020-06-17T06:29:17+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1272803427811278848/1273140641158094848",
+    "wm-target": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:53:33Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1272803427811278848/1273140641158094848",
+  "target": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+  "private": false
+}
