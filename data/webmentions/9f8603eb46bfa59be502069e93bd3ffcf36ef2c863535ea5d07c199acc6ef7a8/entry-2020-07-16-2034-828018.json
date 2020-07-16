@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1263010610821898240#favorited-by-2613899154",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828018,
+    "author": {
+      "url": "https://twitter.com/jubalh_",
+      "name": "Michael Vetter",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6c14d9be41ce11e162858805a694cfe14a9b4e0282bec8f9305cf6f68b050e72.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1263010610821898240/2613899154",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:54:18Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1263010610821898240/2613899154",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
