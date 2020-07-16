@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1263010610821898240#favorited-by-18050978",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828016,
+    "author": {
+      "url": "https://twitter.com/SmithersLE",
+      "name": "Danny Sotzny",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea2434928db8017d6e9949f30e4b6ed87ba3d58e4e7d1e9fe0c568105a766e49.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1263010610821898240/18050978",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:54:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1263010610821898240/18050978",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
