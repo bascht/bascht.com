@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1272803427811278848#favorited-by-2484469171",
+    "name": null,
+    "type": "entry",
+    "wm-id": 827963,
+    "author": {
+      "url": "https://twitter.com/rkh_german",
+      "name": "Na der Richard",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/94cc25ed39900fef0ceeac8333318ce823e9c61ccb5373924acf0fd5af9fc040.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1272803427811278848/2484469171",
+    "wm-target": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-16T17:53:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1272803427811278848/2484469171",
+  "target": "https://bascht.com/posts/2020/06/16/z%C3%A4hlt-das-schon-als-reverse-psychology/",
+  "private": false
+}
