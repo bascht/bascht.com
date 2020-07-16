@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Argorak/status/1263046067215568898",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828022,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": "Willkommen in Wurmlochhausen.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bitboxer\"></a>",
+      "text": "Willkommen in Wurmlochhausen."
+    },
+    "published": "2020-05-20T09:57:03+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263046067215568898",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263046067215568898",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
