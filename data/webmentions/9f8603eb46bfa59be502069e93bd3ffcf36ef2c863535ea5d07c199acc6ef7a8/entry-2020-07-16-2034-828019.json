@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/badboy_/status/1263049930958090242",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828019,
+    "author": {
+      "url": "https://twitter.com/badboy_",
+      "name": "jan-erik",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617e5e3369bd75806bdcfcc86fbfeebbc620cff337048b079b678efad76da957.jpg"
+    },
+    "content": {
+      "html": "Ich tausche gegen USB-Kabel.\n\nhttps://t.co/vsd1L1kvIC\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Argorak\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bitboxer\"></a>",
+      "text": "Ich tausche gegen USB-Kabel.\n\nhttps://t.co/vsd1L1kvIC"
+    },
+    "published": "2020-05-20T10:12:24+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263049930958090242",
+    "wm-target": "https://bascht.com/posts/2020/05/20/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/05/20/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-16T17:54:19Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1263010610821898240/1263049930958090242",
+  "target": "https://bascht.com/posts/2020/05/20/",
+  "private": false
+}
