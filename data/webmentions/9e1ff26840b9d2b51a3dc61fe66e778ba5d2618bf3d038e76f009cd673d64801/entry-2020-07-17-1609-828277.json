@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CCvKk4anj0-/#liked-by-40101837",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828277,
+    "author": {
+      "url": "https://www.instagram.com/tomduessel/",
+      "name": "Tom Düssel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/b2235ae9ccccd14620aa2621134a089e40e138187b4332f52aef3f4d348aebf6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2355147645080452414_31971527/40101837",
+    "wm-target": "https://bascht.com/posts/2020/07/17/17880470014676366/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-17T12:28:38Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2355147645080452414_31971527/40101837",
+  "target": "https://bascht.com/posts/2020/07/17/17880470014676366/",
+  "private": false
+}
