@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/beanieboi/status/1284233342628646913",
+    "name": null,
+    "type": "entry",
+    "wm-id": 828408,
+    "author": {
+      "url": "https://twitter.com/beanieboi",
+      "name": "Ben Fritsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71afd2f58c5a0ef1ae0c502feeb6b9347abceae66e8732b819c934b7a10bf14b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": "2020-07-17T21:07:43+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1284209102164578305/1284233342628646913",
+    "wm-target": "https://bascht.com/posts/2020/07/17/3.5-https/t.co/1s3udmwznz/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/07/17/3.5-https/t.co/1s3udmwznz/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-17T22:10:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1284209102164578305/1284233342628646913",
+  "target": "https://bascht.com/posts/2020/07/17/3.5-https/t.co/1s3udmwznz/",
+  "private": false
+}
