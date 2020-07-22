@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1285964533710946307#favorited-by-16015765",
+    "name": null,
+    "type": "entry",
+    "wm-id": 830071,
+    "author": {
+      "url": "https://twitter.com/Onkelhotte",
+      "name": "Klaus Meyer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8218b60691a569402dc6906a5ab4a3a741dec4789b610c1595074b2296b730d8.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1285964533710946307/16015765",
+    "wm-target": "https://bascht.com/posts/2020/07/22/a-soup_io-teen.-https/t.co/1farb8bbp0/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-22T17:33:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1285964533710946307/16015765",
+  "target": "https://bascht.com/posts/2020/07/22/a-soup_io-teen.-https/t.co/1farb8bbp0/",
+  "private": false
+}
