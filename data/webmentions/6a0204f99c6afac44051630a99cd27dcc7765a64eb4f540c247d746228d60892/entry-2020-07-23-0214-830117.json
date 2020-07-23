@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1285964533710946307#favorited-by-18005558",
+    "name": null,
+    "type": "entry",
+    "wm-id": 830117,
+    "author": {
+      "url": "https://twitter.com/mpasternacki",
+      "name": "Maciej Pasternacki",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ca86575579a3a1aa674348a38853bd96c16827909697e481ed5d4f66758b064.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1285964533710946307/18005558",
+    "wm-target": "https://bascht.com/posts/2020/07/22/a-soup_io-teen.-https/t.co/1farb8bbp0/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-22T19:57:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1285964533710946307/18005558",
+  "target": "https://bascht.com/posts/2020/07/22/a-soup_io-teen.-https/t.co/1farb8bbp0/",
+  "private": false
+}
