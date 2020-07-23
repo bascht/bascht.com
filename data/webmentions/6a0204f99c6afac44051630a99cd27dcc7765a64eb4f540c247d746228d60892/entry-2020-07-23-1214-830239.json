@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1285964533710946307#favorited-by-1163292783232393217",
+    "name": null,
+    "type": "entry",
+    "wm-id": 830239,
+    "author": {
+      "url": "https://twitter.com/z_delikatnosci",
+      "name": "cathie 🕊️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/816f9657184447ff778a998ab945559fc368c21157e9cba9c7797f25d1d5816c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1285964533710946307/1163292783232393217",
+    "wm-target": "https://bascht.com/posts/2020/07/22/a-soup_io-teen.-https/t.co/1farb8bbp0/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-23T05:47:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1285964533710946307/1163292783232393217",
+  "target": "https://bascht.com/posts/2020/07/22/a-soup_io-teen.-https/t.co/1farb8bbp0/",
+  "private": false
+}
