@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/simkoelsch/status/1286005385749499908",
+    "name": null,
+    "type": "entry",
+    "wm-id": 830384,
+    "author": {
+      "url": "https://twitter.com/simkoelsch",
+      "name": "Simon Kölsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57f5f52db8a9c37dafd3a80da89945fbf31543b18e6e228230e24a310b47bb60.jpg"
+    },
+    "content": {
+      "html": "Gigabatterien!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Gigabatterien!"
+    },
+    "published": "2020-07-22T18:29:11+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1286002318861901824/1286005385749499908",
+    "wm-target": "https://bascht.com/posts/2020/07/22/dass-selbst-etablierte-zeitungen-das-wor/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/07/22/dass-selbst-etablierte-zeitungen-das-wor/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-23T18:33:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1286002318861901824/1286005385749499908",
+  "target": "https://bascht.com/posts/2020/07/22/dass-selbst-etablierte-zeitungen-das-wor/",
+  "private": false
+}
