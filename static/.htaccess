@@ -35,6 +35,6 @@ Header set X-Respekt "Du schaust ja wirklich in die Header!"
 
 Header set Access-Control-Allow-Origin "https://feed.bascht.com"
 
-<filesMatch "(\.woff|modernizr\.min\.js|normalize\.min\.css)$">
+<filesMatch "(\.woff|\.css)$">
   Header set Cache-Control "max-age=31536000"
 </filesMatch>
