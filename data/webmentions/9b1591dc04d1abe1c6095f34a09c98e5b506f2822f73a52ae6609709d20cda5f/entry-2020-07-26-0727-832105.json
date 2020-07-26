@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104576335725527251#favorited-by-127",
+    "name": null,
+    "type": "entry",
+    "wm-id": 832105,
+    "author": {
+      "url": "https://mastodon.social/@yogthos",
+      "name": "☆ Dmitri ☭",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/6b230dda56fbcdabd61f5b34340427af07e6b5bf4ae5e158b5651d71ddde66c3.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104576335725527251/127",
+    "wm-target": "https://bascht.com/posts/2020/07/25/bascht-go-nuts./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-26T03:51:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104576335725527251/127",
+  "target": "https://bascht.com/posts/2020/07/25/bascht-go-nuts./",
+  "private": false
+}
