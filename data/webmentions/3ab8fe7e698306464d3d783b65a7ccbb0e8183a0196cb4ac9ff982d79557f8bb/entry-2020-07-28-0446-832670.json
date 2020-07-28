@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhemberger/status/1286946118623010816",
+    "name": null,
+    "type": "entry",
+    "wm-id": 832670,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "Frederic'); DROP TABLE tweets;--",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": "Bill Gates findet eh alles raus.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Bill Gates findet eh alles raus."
+    },
+    "published": "2020-07-25T08:47:19+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1286942951982223360/1286946118623010816",
+    "wm-target": "https://bascht.com/posts/2020/07/25/vor-betreten-der-gesch%C3%A4ftsr%C3%A4ume-wird-geb/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/07/25/vor-betreten-der-gesch%C3%A4ftsr%C3%A4ume-wird-geb/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-07-28T01:23:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1286942951982223360/1286946118623010816",
+  "target": "https://bascht.com/posts/2020/07/25/vor-betreten-der-gesch%C3%A4ftsr%C3%A4ume-wird-geb/",
+  "private": false
+}
