@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104591183830948694#favorited-by-490",
+    "name": null,
+    "type": "entry",
+    "wm-id": 832795,
+    "author": {
+      "url": "https://social.librem.one/@agx",
+      "name": "Guido Günther",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a1655be3fffd92a16a6bb36bb951b1c6a1125fd19ebb643ff150d7621f9855dd.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104591183830948694/490",
+    "wm-target": "https://bascht.com/posts/2020/07/28/elegantt-generate-gantt-charts-from-yo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-28T11:54:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104591183830948694/490",
+  "target": "https://bascht.com/posts/2020/07/28/elegantt-generate-gantt-charts-from-yo/",
+  "private": false
+}
