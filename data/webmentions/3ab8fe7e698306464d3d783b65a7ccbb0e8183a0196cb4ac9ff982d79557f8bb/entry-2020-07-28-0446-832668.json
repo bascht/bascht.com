@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/SalocinHB/status/1287069302764580864",
+    "name": null,
+    "type": "entry",
+    "wm-id": 832668,
+    "author": {
+      "url": "https://twitter.com/SalocinHB",
+      "name": "SalocinHB",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f990999e4a9db3330020a3474b6d5b315f71d0ab5174336600dd86b5b539404.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Vor Betreten der Geschäftsräume wird gebeten die Alukappe zu justieren."
+    },
+    "published": "2020-07-25T16:56:49+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1286942951982223360/1287069302764580864",
+    "wm-target": "https://bascht.com/posts/2020/07/25/vor-betreten-der-gesch%C3%A4ftsr%C3%A4ume-wird-geb/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-07-28T01:23:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1286942951982223360/1287069302764580864",
+  "target": "https://bascht.com/posts/2020/07/25/vor-betreten-der-gesch%C3%A4ftsr%C3%A4ume-wird-geb/",
+  "private": false
+}
