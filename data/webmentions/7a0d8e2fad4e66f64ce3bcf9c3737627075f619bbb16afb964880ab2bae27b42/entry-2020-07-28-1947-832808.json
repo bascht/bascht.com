@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104591183830948694#favorited-by-22117",
+    "name": null,
+    "type": "entry",
+    "wm-id": 832808,
+    "author": {
+      "url": "https://mastodon.sdf.org/@jfred",
+      "name": "Jon ☎️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/fa71468e3f150614c3ca2ea67be3aec7465ae8728855d3f55987a250b239aea2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104591183830948694/22117",
+    "wm-target": "https://bascht.com/posts/2020/07/28/elegantt-generate-gantt-charts-from-yo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-28T12:30:12Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104591183830948694/22117",
+  "target": "https://bascht.com/posts/2020/07/28/elegantt-generate-gantt-charts-from-yo/",
+  "private": false
+}
