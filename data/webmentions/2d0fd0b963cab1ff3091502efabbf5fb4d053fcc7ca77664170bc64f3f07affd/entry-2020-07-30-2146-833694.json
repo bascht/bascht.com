@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1288713044781142017#favorited-by-27227212",
+    "name": null,
+    "type": "entry",
+    "wm-id": 833694,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1288713044781142017/27227212",
+    "wm-target": "https://bascht.com/posts/2020/07/30/zw%C3%B6lf-uhr-hinterm-kaugummiautomat-ohne/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-30T16:35:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1288713044781142017/27227212",
+  "target": "https://bascht.com/posts/2020/07/30/zw%C3%B6lf-uhr-hinterm-kaugummiautomat-ohne/",
+  "private": false
+}
