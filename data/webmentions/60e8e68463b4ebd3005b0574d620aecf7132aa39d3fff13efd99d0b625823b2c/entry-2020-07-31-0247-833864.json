@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CDQ_z7WnQLE/#liked-by-332232044",
+    "name": null,
+    "type": "entry",
+    "wm-id": 833864,
+    "author": {
+      "url": "https://www.instagram.com/maxi_kraft_official/",
+      "name": "Maximilian Kraft",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/910749bbef8288b45890cfa7cf861baf3dd62e715b1d22c88630ab8578ad213c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2364670449723179716_31971527/332232044",
+    "wm-target": "https://bascht.com/posts/2020/07/30/18078478015202709/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-07-30T23:40:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2364670449723179716_31971527/332232044",
+  "target": "https://bascht.com/posts/2020/07/30/18078478015202709/",
+  "private": false
+}
