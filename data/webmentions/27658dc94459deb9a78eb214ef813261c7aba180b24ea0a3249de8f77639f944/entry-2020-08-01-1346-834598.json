@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CCVuCWin_qy/#liked-by-38300474149",
+    "name": null,
+    "type": "entry",
+    "wm-id": 834598,
+    "author": {
+      "url": "https://www.instagram.com/lavishdojo/",
+      "name": "View of Luxury",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/d9fb09dd003080c57d0dbfaf7d93479a2d6b3245bd56052c3831461508110a8d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2347985252525275826_31971527/38300474149",
+    "wm-target": "https://bascht.com/posts/2020/07/07/hi/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-01T07:11:57Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2347985252525275826_31971527/38300474149",
+  "target": "https://bascht.com/posts/2020/07/07/hi/",
+  "private": false
+}
