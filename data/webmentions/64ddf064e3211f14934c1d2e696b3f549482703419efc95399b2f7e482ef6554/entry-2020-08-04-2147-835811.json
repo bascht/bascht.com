@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CDeHKCRHIOE/#liked-by-198166036",
+    "name": null,
+    "type": "entry",
+    "wm-id": 835811,
+    "author": {
+      "url": "https://www.instagram.com/thelinke/",
+      "name": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀C. M. Linke",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/bdc6472b5cdfa4618e7c7a842763a1d87b5c5c649cbce673d4477572d0c17be4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2368361929998369668_31971527/198166036",
+    "wm-target": "https://bascht.com/posts/2020/08/04/hifren/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-04T15:04:19Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2368361929998369668_31971527/198166036",
+  "target": "https://bascht.com/posts/2020/08/04/hifren/",
+  "private": false
+}
