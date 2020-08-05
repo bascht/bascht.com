@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1290700043431940106#favorited-by-792122163784327169",
+    "name": null,
+    "type": "entry",
+    "wm-id": 835938,
+    "author": {
+      "url": "https://twitter.com/badomenschurch",
+      "name": "𝑩𝒂𝒅 𝑶𝒎𝒆𝒏𝒔 𝑪𝒉𝒖𝒓𝒄𝒉",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd1b523a4c2adf5c54d37867c5024ca1237d421bdc9af18562cffe13f8d0eedb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1290700043431940106/792122163784327169",
+    "wm-target": "https://bascht.com/posts/2020/08/04/bad-omens-dethrone/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-04T20:29:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1290700043431940106/792122163784327169",
+  "target": "https://bascht.com/posts/2020/08/04/bad-omens-dethrone/",
+  "private": false
+}
