@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104634988511744783#favorited-by-4086",
+    "name": null,
+    "type": "entry",
+    "wm-id": 836107,
+    "author": {
+      "url": "https://chaos.social/@ironiemix",
+      "name": "Frank",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/d2d1c711541ddcbbc43c0e44708aa99378acbbb0d2176b1ec36e48d1b9ca0f1c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104634988511744783/4086",
+    "wm-target": "https://bascht.com/posts/2020/08/05/bascht-moin-sauerland/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-05T06:53:45Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104634988511744783/4086",
+  "target": "https://bascht.com/posts/2020/08/05/bascht-moin-sauerland/",
+  "private": false
+}
