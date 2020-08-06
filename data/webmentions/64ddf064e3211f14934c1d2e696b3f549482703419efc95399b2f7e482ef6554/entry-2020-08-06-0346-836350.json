@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CDeHKCRHIOE/#liked-by-5582120368",
+    "name": null,
+    "type": "entry",
+    "wm-id": 836350,
+    "author": {
+      "url": "https://www.instagram.com/pelztheband/",
+      "name": "Pelz (the band)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/434c226d3be8c1773feb29e8fc955afd11a89e00c4ac6cc3211602c845f40b1f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2368361929998369668_31971527/5582120368",
+    "wm-target": "https://bascht.com/posts/2020/08/04/hifren/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-05T22:37:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2368361929998369668_31971527/5582120368",
+  "target": "https://bascht.com/posts/2020/08/04/hifren/",
+  "private": false
+}
