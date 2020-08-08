@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/maltewelding/status/1292165573053480963",
+    "name": null,
+    "type": "entry",
+    "wm-id": 837551,
+    "author": {
+      "url": "https://twitter.com/maltewelding",
+      "name": "Malte Welding",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/97dbd7d6d4796d9ede90c35c56a72945caaa9118308c9a05d92e208e25b60929.jpg"
+    },
+    "content": {
+      "html": "Hast du jetzt nur nicht „zu dicke Gurken“ gesagt, um kein Fatshaming zu machen?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Hast du jetzt nur nicht „zu dicke Gurken“ gesagt, um kein Fatshaming zu machen?"
+    },
+    "published": "2020-08-08T18:27:34+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1292145594182574087/1292165573053480963",
+    "wm-target": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-08T18:53:32Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1292145594182574087/1292165573053480963",
+  "target": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+  "private": false
+}
