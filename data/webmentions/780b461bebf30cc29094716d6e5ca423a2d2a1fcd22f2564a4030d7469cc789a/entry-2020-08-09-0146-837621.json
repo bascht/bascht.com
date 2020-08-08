@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1292145594182574087#favorited-by-477939661",
+    "name": null,
+    "type": "entry",
+    "wm-id": 837621,
+    "author": {
+      "url": "https://twitter.com/Zuckermensch",
+      "name": "kleine Myz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/41b580249e1f356399eba2ee8731edafbc551d7cfcc5e8fcd02b3b2cfb400f1b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1292145594182574087/477939661",
+    "wm-target": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-08T22:16:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1292145594182574087/477939661",
+  "target": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+  "private": false
+}
