@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1292145594182574087#favorited-by-17289112",
+    "name": null,
+    "type": "entry",
+    "wm-id": 837552,
+    "author": {
+      "url": "https://twitter.com/moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e6864a6f6d418c1e2903db51c47048c2825e37e64058acab8a8a93ef127088b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1292145594182574087/17289112",
+    "wm-target": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-08T18:53:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1292145594182574087/17289112",
+  "target": "https://bascht.com/posts/2020/08/08/wassermelonen-sind-nur-viel-zu-gro%C3%9Fe-und/",
+  "private": false
+}
