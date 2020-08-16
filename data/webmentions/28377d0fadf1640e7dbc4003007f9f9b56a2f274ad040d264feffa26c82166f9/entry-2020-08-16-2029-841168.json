@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1294687449638215685#favorited-by-44320813",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841168,
+    "author": {
+      "url": "https://twitter.com/manualwise",
+      "name": "Manuel Weiss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a625f82027af450e1179872d055114ccf486317260cbd4c6de7f80e3093cfdaa.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/44320813",
+    "wm-target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-16T13:55:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/44320813",
+  "target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+  "private": false
+}
