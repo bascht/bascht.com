@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1294687449638215685#favorited-by-23970275",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841165,
+    "author": {
+      "url": "https://twitter.com/lucaskrebspinto",
+      "name": "medk",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d54e0f665ae492d13d5ab032638dd3a153ac05d5285f3139c91f27869c36a76b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/23970275",
+    "wm-target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-16T13:54:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/23970275",
+  "target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+  "private": false
+}
