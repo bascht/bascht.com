@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1294687449638215685#favorited-by-2902401",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841169,
+    "author": {
+      "url": "https://twitter.com/yetzt",
+      "name": "yetzt",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ed1602dc0a78e11f6c05bc9d18d1c137150bd65bde0cc05a2329516ff6f889a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/2902401",
+    "wm-target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-16T13:55:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/2902401",
+  "target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+  "private": false
+}
