@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1294687449638215685#favorited-by-14642473",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841167,
+    "author": {
+      "url": "https://twitter.com/beanieboi",
+      "name": "Ben Fritsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71afd2f58c5a0ef1ae0c502feeb6b9347abceae66e8732b819c934b7a10bf14b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/14642473",
+    "wm-target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-16T13:55:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1294687449638215685/14642473",
+  "target": "https://bascht.com/posts/2020/08/15/k%C3%B6nnte-ich-stundenlang-durchscrollen-g/",
+  "private": false
+}
