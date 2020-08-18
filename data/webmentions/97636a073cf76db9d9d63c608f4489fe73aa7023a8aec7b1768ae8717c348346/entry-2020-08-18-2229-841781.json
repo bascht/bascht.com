@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1295676785393360896#favorited-by-15143780",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841781,
+    "author": {
+      "url": "https://twitter.com/tobiaskaatzeu",
+      "name": "Tobias Kaatz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/96f337e18780bf4f321f5e79fd979c19e20ff56b49f4f9c3daffb541c971be13.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1295676785393360896/15143780",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-18T20:04:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1295676785393360896/15143780",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
