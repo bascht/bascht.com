@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1295685554869358592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841614,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e9899453a2468baff9b8d52402805762e6e483aaa9268fd799fe2c1747c897.jpg"
+    },
+    "content": {
+      "html": "Mit Schweißperle auf der Stirn.\n<a class=\"u-mention\" href=\"https://twitter.com/Argorak\"></a>",
+      "text": "Mit Schweißperle auf der Stirn."
+    },
+    "published": "2020-08-18T11:34:43+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295685554869358592",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-18T11:41:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295685554869358592",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
