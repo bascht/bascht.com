@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/halfbyte/status/1295694021420093440",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841619,
+    "author": {
+      "url": "https://twitter.com/halfbyte",
+      "name": "Jan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5f334a7930c38c0fbc26a7c3409c476d8ad6773e9c087d909803a5b4e9a342ce.jpg"
+    },
+    "content": {
+      "html": "Eine Lösung des Problems wird mit Spannung erwartet.\n\nIch bin draußen, falls ihr mich sucht.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Argorak\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Eine Lösung des Problems wird mit Spannung erwartet.\n\nIch bin draußen, falls ihr mich sucht."
+    },
+    "published": "2020-08-18T12:08:22+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295694021420093440",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-18T12:33:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295694021420093440",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
