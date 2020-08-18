@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1295676785393360896#favorited-by-16096865",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841769,
+    "author": {
+      "url": "https://twitter.com/Nyarly",
+      "name": "Jan Schäfer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df53cf6cd4343a8819fcd60ee3aa94b075a3c8dfe047b6e7fdcdfae65b0dba3d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1295676785393360896/16096865",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-18T19:01:59Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1295676785393360896/16096865",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
