@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104708928550196078#reblogged-by-16414",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841692,
+    "author": {
+      "url": "https://pieville.net/@harrison_partch",
+      "name": "Billy Bottlepossum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/3fcbdcfc161c2784739ed34264f52ae40c4152e2947350971a1e3a63b98671a2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104708928550196078/16414",
+    "wm-target": "https://bascht.com/posts/2020/08/18/we-have-joy-we-have-fun-we-run-tiktok/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-08-18T15:13:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104708928550196078/16414",
+  "target": "https://bascht.com/posts/2020/08/18/we-have-joy-we-have-fun-we-run-tiktok/",
+  "private": false
+}
