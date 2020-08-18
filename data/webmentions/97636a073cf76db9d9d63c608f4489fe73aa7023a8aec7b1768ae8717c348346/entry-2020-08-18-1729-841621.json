@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/stilkov/status/1295699704412540928",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841621,
+    "author": {
+      "url": "https://twitter.com/stilkov",
+      "name": "Stefan Tilkov",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99cfc40a0feb779cf1610ab8f45d97bbf22e9ce2860dbba2c4534fe28f0e3754.jpg"
+    },
+    "content": {
+      "html": "Ganz falsch, das ist das Ticket für 0,5 % statt 1 %-Regelung für die Dienstwagenbesteuerung\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ganz falsch, das ist das Ticket für 0,5 % statt 1 %-Regelung für die Dienstwagenbesteuerung"
+    },
+    "published": "2020-08-18T12:30:57+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295699704412540928",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-18T12:33:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295699704412540928",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
