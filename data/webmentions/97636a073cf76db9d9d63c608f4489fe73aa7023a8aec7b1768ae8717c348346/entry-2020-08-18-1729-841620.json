@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Argorak/status/1295694331119099904",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841620,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": "Jan\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/halfbyte\"></a>",
+      "text": "Jan"
+    },
+    "published": "2020-08-18T12:09:36+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295694331119099904",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-18T12:33:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295694331119099904",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
