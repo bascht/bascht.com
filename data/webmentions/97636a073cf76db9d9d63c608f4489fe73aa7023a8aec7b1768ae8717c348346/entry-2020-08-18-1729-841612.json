@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1295681674991161346",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841612,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/862d0df58d6b2c4a947bbad068e38f1c167869f705fca7ff784f129ef1a83077.jpg"
+    },
+    "content": {
+      "html": "Und die E-Auto-Prämie.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Und die E-Auto-Prämie."
+    },
+    "published": "2020-08-18T11:19:18+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295681674991161346",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-18T11:40:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1295676785393360896/1295681674991161346",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
