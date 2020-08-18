@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Argorak/status/1295678873573756928",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841613,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": null,
+      "text": "Als ob jemand die Dinger tatsächlich daheim aufladen würde.\nDiese Steckdose ist doch nur der Freiparkschein für die E-Ladesäulenparkplätze."
+    },
+    "published": "2020-08-18T11:08:10+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1295676785393360896/1295678873573756928",
+    "wm-target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-08-18T11:41:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1295676785393360896/1295678873573756928",
+  "target": "https://bascht.com/posts/2020/08/18/als-ob-jemand-die-dinger-tats%C3%A4chlich-dah/",
+  "private": false
+}
