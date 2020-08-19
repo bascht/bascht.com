@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/misprintedtype/status/1295999299785031680",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841978,
+    "author": {
+      "url": "https://twitter.com/misprintedtype",
+      "name": "rm -rf fascism",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a9658d6f2480d18fc4f4cb2a60d90b40a0bcd66f1af0bc9644ff2008166722d1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Pfannekuhng und Plinsen.\nWe're done here. https://t.c"
+    },
+    "published": "2020-08-19T08:21:26+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1295967920649101312/1295999299785031680",
+    "wm-target": "https://bascht.com/posts/2020/08/19/pfannekuhng-und-plinsen.-were-done-here/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-08-19T14:04:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1295967920649101312/1295999299785031680",
+  "target": "https://bascht.com/posts/2020/08/19/pfannekuhng-und-plinsen.-were-done-here/",
+  "private": false
+}
