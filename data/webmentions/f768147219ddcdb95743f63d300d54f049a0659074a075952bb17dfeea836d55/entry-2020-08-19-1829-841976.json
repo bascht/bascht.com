@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1295967920649101312#favorited-by-15440623",
+    "name": null,
+    "type": "entry",
+    "wm-id": 841976,
+    "author": {
+      "url": "https://twitter.com/marcshark",
+      "name": "Marc Böttler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eee12faf4e8962d52649fb32f5d8c75529283c8fedcab53c8d93032abe684218.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1295967920649101312/15440623",
+    "wm-target": "https://bascht.com/posts/2020/08/19/pfannekuhng-und-plinsen.-were-done-here/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-19T14:03:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1295967920649101312/15440623",
+  "target": "https://bascht.com/posts/2020/08/19/pfannekuhng-und-plinsen.-were-done-here/",
+  "private": false
+}
