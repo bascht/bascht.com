@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104723756207209633#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 842545,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104723756207209633/4585",
+    "wm-target": "https://bascht.com/posts/2020/08/20/bascht-lets-hope-i-can-finish-it-bef/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-21T19:47:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104723756207209633/4585",
+  "target": "https://bascht.com/posts/2020/08/20/bascht-lets-hope-i-can-finish-it-bef/",
+  "private": false
+}
