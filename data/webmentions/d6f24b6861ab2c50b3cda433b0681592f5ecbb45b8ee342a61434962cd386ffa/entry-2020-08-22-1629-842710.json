@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104732725338248641#favorited-by-37188",
+    "name": null,
+    "type": "entry",
+    "wm-id": 842710,
+    "author": {
+      "url": "https://fedi.toniotti.be/users/marsxyz",
+      "name": "Marsxyz 🌹",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/c676e483e59de3de8721189a7f454401d8de0dd537a5becb0a56be7fedcdc9af.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104732725338248641/37188",
+    "wm-target": "https://bascht.com/posts/2020/08/22/its-like-apple-is-purposefully-laying/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-22T12:43:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104732725338248641/37188",
+  "target": "https://bascht.com/posts/2020/08/22/its-like-apple-is-purposefully-laying/",
+  "private": false
+}
