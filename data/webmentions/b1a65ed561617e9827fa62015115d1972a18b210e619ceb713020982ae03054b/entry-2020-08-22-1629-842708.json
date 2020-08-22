@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CD625KUnl-w/#liked-by-38088057943",
+    "name": null,
+    "type": "entry",
+    "wm-id": 842708,
+    "author": {
+      "url": "https://www.instagram.com/nevskiy.live/",
+      "name": "nevskiy.live",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/6e90220f874d6c85de3156f53ec09d75618f8d24957dc906b532e0ec26ccf43c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2376453175996473264_31971527/38088057943",
+    "wm-target": "https://bascht.com/posts/2020/08/15/hunger/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-22T12:39:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2376453175996473264_31971527/38088057943",
+  "target": "https://bascht.com/posts/2020/08/15/hunger/",
+  "private": false
+}
