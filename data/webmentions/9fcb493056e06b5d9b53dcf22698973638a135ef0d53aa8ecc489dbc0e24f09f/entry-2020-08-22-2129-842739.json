@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CEMTKt_noKf/#liked-by-2469384",
+    "name": null,
+    "type": "entry",
+    "wm-id": 842739,
+    "author": {
+      "url": "https://www.instagram.com/bodotasche/",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/39b5a5f5fbabf7c778cc68135708df5e0f4518c00cb2f1aa53ed1d9f6d316e98.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2381362602436362911_31971527/2469384",
+    "wm-target": "https://bascht.com/posts/2020/08/22/18115166146182712/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-22T14:55:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2381362602436362911_31971527/2469384",
+  "target": "https://bascht.com/posts/2020/08/22/18115166146182712/",
+  "private": false
+}
