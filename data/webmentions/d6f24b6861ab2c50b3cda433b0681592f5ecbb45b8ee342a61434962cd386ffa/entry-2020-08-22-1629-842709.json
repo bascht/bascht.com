@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@BlackWinnerYoshi/104732971944812727",
+    "name": null,
+    "type": "entry",
+    "wm-id": 842709,
+    "author": {
+      "url": "https://mastodon.social/@BlackWinnerYoshi",
+      "name": "Black Winner Yoshi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/cbc3f08f9a50f06728e0d77cd6bb81bf6479f688eeebf7996a1620f94b942960.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> that's why I support F-Droid. And partially Google too, because of Android (and Chromium).</p>\n<a class=\"u-mention\" href=\"https://www.osnews.com/story/132250/apple-shakes-down-wordpress-forces-it-to-add-in-app-purchases-so-apple-can-collect-its-30-extortion-fee/\"></a>",
+      "text": "@bascht that's why I support F-Droid. And partially Google too, because of Android (and Chromium)."
+    },
+    "published": "2020-08-22T12:12:06",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104732725338248641/104732971963904363",
+    "wm-target": "https://bascht.com/posts/2020/08/22/its-like-apple-is-purposefully-laying/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/22/its-like-apple-is-purposefully-laying/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-22T12:43:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104732725338248641/104732971963904363",
+  "target": "https://bascht.com/posts/2020/08/22/its-like-apple-is-purposefully-laying/",
+  "private": false
+}
