@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1297189047518015488",
+    "name": null,
+    "type": "entry",
+    "wm-id": 842778,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "‘s schifft. https://t.co/x6R8gQmYOB… • <a href=\"https://bascht.com/posts/2020/08/22/s-schifft.-https/t.co/wpbib89cyl/\">bascht.com/posts/2020/08/…</a>\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/08/22/18115166146182712/\"></a>",
+      "text": "‘s schifft. https://t.co/x6R8gQmYOB… • bascht.com/posts/2020/08/…"
+    },
+    "published": "2020-08-22T15:09:04+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1297189047518015488",
+    "wm-target": "https://bascht.com/posts/2020/08/22/18115166146182712/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-08-22T17:32:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1297189047518015488",
+  "target": "https://bascht.com/posts/2020/08/22/18115166146182712/",
+  "private": false
+}
