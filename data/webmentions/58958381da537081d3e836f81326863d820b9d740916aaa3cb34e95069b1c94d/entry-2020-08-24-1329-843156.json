@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104743105803534388",
+    "name": null,
+    "type": "entry",
+    "wm-id": 843156,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/46b08f705bd929c10f13dd7648e1aca05ba9010d7a36ee70de43a1c7df4a454f.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@moritzheiber\" class=\"u-url\">@<span>moritzheiber</span></a></span> tbh - there was no bar at all. :D I've had the Pixel C. It still hurts.</p>",
+      "text": "@moritzheiber tbh - there was no bar at all. :D I've had the Pixel C. It still hurts."
+    },
+    "published": "2020-08-24T07:09:17",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104742963726282248/104743105803534388",
+    "wm-target": "https://bascht.com/posts/2020/08/24/navigating-ipados-with-an-external-keybo/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/24/navigating-ipados-with-an-external-keybo/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-24T07:28:04Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104742963726282248/104743105803534388",
+  "target": "https://bascht.com/posts/2020/08/24/navigating-ipados-with-an-external-keybo/",
+  "private": false
+}
