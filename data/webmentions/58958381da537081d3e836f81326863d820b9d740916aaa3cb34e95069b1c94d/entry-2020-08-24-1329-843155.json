@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/104743052942004145",
+    "name": null,
+    "type": "entry",
+    "wm-id": 843155,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a17065e2fbcaaefa7ddd5ff8bafe49030c201b608d5cba9f57caec9f4adffec0.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> That's not a very high bar to clear ..</p>",
+      "text": "@bascht That's not a very high bar to clear .."
+    },
+    "published": "2020-08-24T06:55:50",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104742963726282248/104743052967256689",
+    "wm-target": "https://bascht.com/posts/2020/08/24/navigating-ipados-with-an-external-keybo/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/24/navigating-ipados-with-an-external-keybo/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-24T07:28:03Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104742963726282248/104743052967256689",
+  "target": "https://bascht.com/posts/2020/08/24/navigating-ipados-with-an-external-keybo/",
+  "private": false
+}
