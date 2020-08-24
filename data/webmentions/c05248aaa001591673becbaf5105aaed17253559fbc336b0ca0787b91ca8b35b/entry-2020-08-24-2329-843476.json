@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104745939086163429#reblogged-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 843476,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104745939086163429/1375",
+    "wm-target": "https://bascht.com/posts/2020/08/24/im-building-tinyproxy-from-source-since/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-08-24T20:36:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104745939086163429/1375",
+  "target": "https://bascht.com/posts/2020/08/24/im-building-tinyproxy-from-source-since/",
+  "private": false
+}
