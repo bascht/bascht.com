@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.technology/@signaleleven/104752559208723017",
+    "name": null,
+    "type": "entry",
+    "wm-id": 844078,
+    "author": {
+      "url": "https://mastodon.technology/@signaleleven",
+      "name": "Signaleleven",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/f2902cfc4cac9f6dbdb71d69bac9417395a1feea673f280b26e9fcd3a32e71e3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span></p><p>It looks more modern, but on a first look I already miss a feature: 'view page source' is gone.<br />Nevertheless, I set it as default browser, bumping Brave. Let's see if it sticks this time.</p>",
+      "text": "@baschtIt looks more modern, but on a first look I already miss a feature: 'view page source' is gone.\nNevertheless, I set it as default browser, bumping Brave. Let's see if it sticks this time."
+    },
+    "published": "2020-08-25T23:13:24",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104752157947063646/104752559246023492",
+    "wm-target": "https://bascht.com/posts/2020/08/25/bascht-firefox-79-finally-made-it-int/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/25/bascht-firefox-79-finally-made-it-int/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-25T23:16:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104752157947063646/104752559246023492",
+  "target": "https://bascht.com/posts/2020/08/25/bascht-firefox-79-finally-made-it-int/",
+  "private": false
+}
