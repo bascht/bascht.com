@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104761003065924108",
+    "name": null,
+    "type": "entry",
+    "wm-id": 844424,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/46b08f705bd929c10f13dd7648e1aca05ba9010d7a36ee70de43a1c7df4a454f.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@moritzheiber\" class=\"u-url\">@<span>moritzheiber</span></a></span> Yip, exactly! If they've gone straight to a FP4 with a different form factor, the spare parts market would further fragment. How's the FP3 camera holding up in non well-lit scenes? I guess that's only thing that I am still sceptic about. :D</p>\n<a class=\"u-mention\" href=\"https://www.theverge.com/2020/8/27/21375326/fairphone-3-plus-release-date-news-features-cameras-ethical-sustainable\"></a>",
+      "text": "@moritzheiber Yip, exactly! If they've gone straight to a FP4 with a different form factor, the spare parts market would further fragment. How's the FP3 camera holding up in non well-lit scenes? I guess that's only thing that I am still sceptic about. :D"
+    },
+    "published": "2020-08-27T11:00:47",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104760691597816121/104761003065924108",
+    "wm-target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-27T11:13:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104760691597816121/104761003065924108",
+  "target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+  "private": false
+}
