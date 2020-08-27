@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/104761005865048814",
+    "name": null,
+    "type": "entry",
+    "wm-id": 844425,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a17065e2fbcaaefa7ddd5ff8bafe49030c201b608d5cba9f57caec9f4adffec0.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> The new camera is supposed to be much better, according to the Q&amp;A, but the old camera already has a fair quality</p>\n<a class=\"u-mention\" href=\"https://www.theverge.com/2020/8/27/21375326/fairphone-3-plus-release-date-news-features-cameras-ethical-sustainable\"></a>",
+      "text": "@bascht The new camera is supposed to be much better, according to the Q&A, but the old camera already has a fair quality"
+    },
+    "published": "2020-08-27T11:01:30",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104760691597816121/104761005885309612",
+    "wm-target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-27T11:14:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104760691597816121/104761005885309612",
+  "target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+  "private": false
+}
