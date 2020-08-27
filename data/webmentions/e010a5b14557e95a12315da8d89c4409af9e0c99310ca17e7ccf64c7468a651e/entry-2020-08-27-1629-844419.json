@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/104760767927038772",
+    "name": null,
+    "type": "entry",
+    "wm-id": 844419,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a17065e2fbcaaefa7ddd5ff8bafe49030c201b608d5cba9f57caec9f4adffec0.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I’m ready! Although I personally probably won’t need the upgraded camera, but my partner is looking for a replacement and she’s very keen on the cameras and their features.</p><p>Also love that the original FP3 is getting Android 10 and that the model has stayed essentially the same, which means adoption of spare parts and eg cases is easier across model types</p>\n<a class=\"u-mention\" href=\"https://www.theverge.com/2020/8/27/21375326/fairphone-3-plus-release-date-news-features-cameras-ethical-sustainable\"></a>",
+      "text": "@bascht I’m ready! Although I personally probably won’t need the upgraded camera, but my partner is looking for a replacement and she’s very keen on the cameras and their features.Also love that the original FP3 is getting Android 10 and that the model has stayed essentially the same, which means adoption of spare parts and eg cases is easier across model types"
+    },
+    "published": "2020-08-27T10:00:59",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104760691597816121/104760768098040361",
+    "wm-target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-27T10:38:19Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104760691597816121/104760768098040361",
+  "target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+  "private": false
+}
