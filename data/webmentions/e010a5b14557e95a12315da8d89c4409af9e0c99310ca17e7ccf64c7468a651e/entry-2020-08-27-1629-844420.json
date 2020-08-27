@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104760691597816121#favorited-by-752",
+    "name": null,
+    "type": "entry",
+    "wm-id": 844420,
+    "author": {
+      "url": "https://norden.social/@fihu",
+      "name": "fihu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/e97452fd8d2d4a6708eaafbb8dfb5662079f9bac9f8ff8dd14c997821447a8d5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104760691597816121/752",
+    "wm-target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-27T10:38:19Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104760691597816121/752",
+  "target": "https://bascht.com/posts/2020/08/27/i-love-this-https/www.theverge.com/202/",
+  "private": false
+}
