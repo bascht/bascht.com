@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1299259543415816192#favorited-by-15155639",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845002,
+    "author": {
+      "url": "https://twitter.com/larsvegas",
+      "name": "larsvegas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c88aa6abf2ea8a638383ca272a232618f9ca2ff9770c73711864a9f8aad0852.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1299259543415816192/15155639",
+    "wm-target": "https://bascht.com/posts/2020/08/28/babboe-das-waldorf-suv./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-28T09:13:18Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1299259543415816192/15155639",
+  "target": "https://bascht.com/posts/2020/08/28/babboe-das-waldorf-suv./",
+  "private": false
+}
