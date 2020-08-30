@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1300093007346176000",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845690,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e9899453a2468baff9b8d52402805762e6e483aaa9268fd799fe2c1747c897.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "bascht: “Even the trävelling salesman i…… • bascht.com/posts/2020/08/…"
+    },
+    "published": "2020-08-30T15:28:22+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/baschtdotcom/1300080141041831938/1300093007346176000",
+    "wm-target": "https://bascht.com/posts/2020/08/30/bascht-even-the-tr%C3%A4velling-salesman-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-08-30T16:24:33Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/baschtdotcom/1300080141041831938/1300093007346176000",
+  "target": "https://bascht.com/posts/2020/08/30/bascht-even-the-tr%C3%A4velling-salesman-i/",
+  "private": false
+}
