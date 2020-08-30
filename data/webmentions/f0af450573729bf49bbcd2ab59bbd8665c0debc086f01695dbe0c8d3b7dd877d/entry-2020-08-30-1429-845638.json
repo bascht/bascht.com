@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1300040370865213445#favorited-by-18652297",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845638,
+    "author": {
+      "url": "https://twitter.com/Geekfried",
+      "name": "Geekfried™",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ab4ae9900a7fa860109f07a4d684f7de9e34577f299cc622edf1c87339cdf3a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1300040370865213445/18652297",
+    "wm-target": "https://bascht.com/posts/2020/08/30/wenn-diese-leute-ihre-freie-zeit-mal-f%C3%BCr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-30T12:18:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1300040370865213445/18652297",
+  "target": "https://bascht.com/posts/2020/08/30/wenn-diese-leute-ihre-freie-zeit-mal-f%C3%BCr/",
+  "private": false
+}
