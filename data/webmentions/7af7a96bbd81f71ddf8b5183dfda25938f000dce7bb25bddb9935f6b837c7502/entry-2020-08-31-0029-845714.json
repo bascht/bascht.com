@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.cafe/@Coffee/104779897584782910",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845714,
+    "author": {
+      "url": "https://toot.cafe/@Coffee",
+      "name": "Coffee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/05486f8ed8561d3b95b08443e6ffff95e0674313945986a1991a452c6f8f219c.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span><br />But is he actually visiting his destinations in the most optimal order?</p>",
+      "text": "@bascht\nBut is he actually visiting his destinations in the most optimal order?"
+    },
+    "published": "2020-08-30T19:05:55",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104778725181911716/104779897627695035",
+    "wm-target": "https://bascht.com/posts/2020/08/30/bascht-even-the-tr%C3%A4velling-salesman-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/30/bascht-even-the-tr%C3%A4velling-salesman-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-30T19:15:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104778725181911716/104779897627695035",
+  "target": "https://bascht.com/posts/2020/08/30/bascht-even-the-tr%C3%A4velling-salesman-i/",
+  "private": false
+}
