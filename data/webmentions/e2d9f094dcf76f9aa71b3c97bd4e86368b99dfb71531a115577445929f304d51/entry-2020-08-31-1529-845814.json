@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/104783454404944707",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845814,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a17065e2fbcaaefa7ddd5ff8bafe49030c201b608d5cba9f57caec9f4adffec0.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@moonglum\" class=\"u-url\">@<span>moonglum</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span></p>",
+      "text": "@moonglum @bascht"
+    },
+    "published": "2020-08-31T10:10:28",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104783023844831057/104783454810493106",
+    "wm-target": "https://bascht.com/posts/2020/08/31/whoa.https/github.com/ruby/ruby/commit/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/31/whoa.https/github.com/ruby/ruby/commit/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-31T10:50:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104783023844831057/104783454810493106",
+  "target": "https://bascht.com/posts/2020/08/31/whoa.https/github.com/ruby/ruby/commit/",
+  "private": false
+}
