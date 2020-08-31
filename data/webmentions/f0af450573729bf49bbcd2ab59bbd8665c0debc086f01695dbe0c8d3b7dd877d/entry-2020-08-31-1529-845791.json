@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1300040370865213445#favorited-by-15611952",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845791,
+    "author": {
+      "url": "https://twitter.com/zebel",
+      "name": "Sebastian Ziebell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/08381672e71fb3a1f4727473a4b44b88e337dbc99de2d9e69b60021d399efcef.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1300040370865213445/15611952",
+    "wm-target": "https://bascht.com/posts/2020/08/30/wenn-diese-leute-ihre-freie-zeit-mal-f%C3%BCr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-08-31T10:01:44Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1300040370865213445/15611952",
+  "target": "https://bascht.com/posts/2020/08/30/wenn-diese-leute-ihre-freie-zeit-mal-f%C3%BCr/",
+  "private": false
+}
