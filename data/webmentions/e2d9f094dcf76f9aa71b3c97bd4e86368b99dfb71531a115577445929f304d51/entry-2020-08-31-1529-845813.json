@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/104783407776767511",
+    "name": null,
+    "type": "entry",
+    "wm-id": 845813,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> WHOA</p>",
+      "text": "@bascht WHOA"
+    },
+    "published": "2020-08-31T09:58:36",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104783023844831057/104783407776767511",
+    "wm-target": "https://bascht.com/posts/2020/08/31/whoa.https/github.com/ruby/ruby/commit/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/31/whoa.https/github.com/ruby/ruby/commit/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-08-31T10:50:57Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104783023844831057/104783407776767511",
+  "target": "https://bascht.com/posts/2020/08/31/whoa.https/github.com/ruby/ruby/commit/",
+  "private": false
+}
