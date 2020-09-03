@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104797451858302513",
+    "name": null,
+    "type": "entry",
+    "wm-id": 846740,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/46b08f705bd929c10f13dd7648e1aca05ba9010d7a36ee70de43a1c7df4a454f.jpg"
+    },
+    "content": {
+      "html": "<p>Reading progress has been abysmal, so far. I don't want to accidentally skip pages I haven't fully grasped, but it's definitely not a light bedtime read.</p>",
+      "text": "Reading progress has been abysmal, so far. I don't want to accidentally skip pages I haven't fully grasped, but it's definitely not a light bedtime read."
+    },
+    "published": "2020-09-02T21:30:12",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104723756207209633/104797451858302513",
+    "wm-target": "https://bascht.com/posts/2020/08/20/bascht-lets-hope-i-can-finish-it-bef/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/08/20/bascht-lets-hope-i-can-finish-it-bef/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-02T21:39:03Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104723756207209633/104797451858302513",
+  "target": "https://bascht.com/posts/2020/08/20/bascht-lets-hope-i-can-finish-it-bef/",
+  "private": false
+}
