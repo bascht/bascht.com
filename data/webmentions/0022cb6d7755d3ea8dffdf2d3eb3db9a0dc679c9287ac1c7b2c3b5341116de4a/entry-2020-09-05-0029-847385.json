@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://commentpara.de/comment/661.htm",
+    "name": null,
+    "type": "entry",
+    "wm-id": 847385,
+    "author": {
+      "url": null,
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/commentpara.de/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+    },
+    "content": {
+      "html": null,
+      "text": "Let's see whether this works."
+    },
+    "published": null,
+    "wm-source": "https://commentpara.de/comment/661.htm",
+    "wm-target": "https://bascht.com/posts/2020/09/03/rightontime/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/03/rightontime/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-04T21:36:04Z"
+  },
+  "secret": null,
+  "source": "https://commentpara.de/comment/661.htm",
+  "target": "https://bascht.com/posts/2020/09/03/rightontime/",
+  "private": false
+}
