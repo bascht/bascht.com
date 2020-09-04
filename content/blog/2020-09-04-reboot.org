@@ -3,6 +3,7 @@
 #+draft: false
 #+teaser: Über
 #+tags[]: meta bascht indieweb social
+#+images[]: https://img.bascht.com/2020-blog/09-reboot/reboot.png
 
 Irgendwann muss ich mich ja mal dazu überwinden, diese 6-Jahre große Lücke im
 Feed zu schließen. Seit gut 2014 hat sich zumindest unterhalb von =/blog= auf
