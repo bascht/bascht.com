@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1302013047570132998",
+    "name": null,
+    "type": "entry",
+    "wm-id": 847566,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e9899453a2468baff9b8d52402805762e6e483aaa9268fd799fe2c1747c897.jpg"
+    },
+    "content": {
+      "html": "Reboot · <a href=\"https://bascht.com/blog/2020/09/04/reboot/\">bascht.com/blog/2020/09/0…</a>",
+      "text": "Reboot · bascht.com/blog/2020/09/0…"
+    },
+    "published": "2020-09-04T22:37:55+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1302013047570132998",
+    "wm-target": "https://bascht.com/blog/2020/09/04/reboot/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-09-04T22:46:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1302013047570132998",
+  "target": "https://bascht.com/blog/2020/09/04/reboot/",
+  "private": false
+}
