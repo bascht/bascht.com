@@ -12,27 +12,33 @@
 {{ if $likes }}
   <h3>Reaktionen</h3>
   {{ range sort $likes "post.published" "asc" }}
-  <a href="{{ .post.author.url }}"><img style="width: 30px" alt="Avatar von {{ .post.author.name }}" title="Like von {{ .post.author.name }}" src="{{ .post.author.photo }}"></a>
+  <a class="author-photo" href="{{ .post.author.url }}"><img style="width: 30px" alt="Avatar von {{ .post.author.name }}" title="Like von {{ .post.author.name }}" src="{{ .post.author.photo }}"></a>
   {{ end }}
 {{ end }}
 
 {{ if $mentions }}
   <h3>Mentions</h3>
+  <div class="webmentions">
   {{ range $mention := $mentions }}
-  <a href="{{ $mention.post.author.url }}"><img style="width: 30px" src="{{ $mention.post.author.photo }}"></a> auf <a href="{{ $mention.post.url }}">{{ $mention.post.url }}</a>
+  {{ $mentionUrl := urls.Parse $mention.post.url }}
+      <div class="webmention">
+  <a class="author-photo" href="{{ $mention.post.author.url }}"><img style="width: 30px" alt="Avatar von {{ $mention.post.author.name }}" title="Erwähnt von {{$mention.post.author.name}} auf {{ $mentionUrl.Host }}" src="{{ $mention.post.author.photo }}"></a> auf <a href="{{ $mention.post.url }}">{{ $mention.post.url }}</a>
+  </div>
   {{ end }}
+  </div>
 {{ end }}
 
 {{ if $replies }}
 <h3>Antworten</h3>
-<ol style="list-style-type:none" class="webmention-replies">
+<div class="webmention-replies">
 {{ range sort $replies "post.published" "asc" }}
-    <li>
+    <div class="webmention-reply">
         <a href="{{ .post.author.url }}" class="author-photo"><img style="width: 30px" src="{{ .post.author.photo }}"></a>
+        <div class="author-name"><a class="author-url" href="{{.post.author.url}}">{{ .post.author.name }}</a>:</div>
         <div class="message">
-            <p>{{ .post.content.text }}</p>
+            <p><a class="webmention-url" href="{{.post.url}}">{{ .post.content.text }}</a></p>
         </div>
-        <li>
+    </div>
 {{ end }}
-</ol>
+</div>
 {{ end }}
