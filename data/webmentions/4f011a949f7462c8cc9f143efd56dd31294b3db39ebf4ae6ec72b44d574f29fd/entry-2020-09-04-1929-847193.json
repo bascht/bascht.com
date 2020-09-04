@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104797471644777804",
+    "name": null,
+    "type": "entry",
+    "wm-id": 847193,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/46b08f705bd929c10f13dd7648e1aca05ba9010d7a36ee70de43a1c7df4a454f.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@fractumseraph\" class=\"u-url\">@<span>fractumseraph</span></a></span> kind-of. The mobile interface is really hard to use, with tiny buttons and issues when rotating the device.</p>",
+      "text": "@fractumseraph kind-of. The mobile interface is really hard to use, with tiny buttons and issues when rotating the device."
+    },
+    "published": "2020-09-02T21:35:14",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104796979007953757/104797471644777804",
+    "wm-target": "https://bascht.com/posts/2020/09/02/i-wish-there-was-something-like-newpipe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/02/i-wish-there-was-something-like-newpipe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-04T16:00:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104796979007953757/104797471644777804",
+  "target": "https://bascht.com/posts/2020/09/02/i-wish-there-was-something-like-newpipe/",
+  "private": false
+}
