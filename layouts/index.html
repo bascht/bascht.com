@@ -16,6 +16,7 @@
             Musikalisch fühle ich mich irgendwo zwischen Hardcore und Jazz zu Hause, spiele Gitarre und ein
             KORG nanoKEY (letzteres noch mehr schlecht als recht).
             Viel Spaß beim stöbern!
+            <p class="noborder"><img alt="Baschts Unterschrift" src="/images/bascht_unterschrift.gif"></p>
             <div class="social_bar">
                 {{ $array := slice "foursquare_checkin" "instagram_image" "twitter_tweet" }}
                 {{ range $type := $array }}
@@ -25,13 +26,12 @@
                 {{ end }}
             </div>
 
-            <p class="noborder"><img alt="Baschts Unterschrift" src="/images/bascht_unterschrift.gif"></p>
         </div>
     </div>
     <p class="h-card">
         <img class="u-photo" src="https://bascht.com/images/bascht.jpg" alt="Photo of Bascht" />
         <a class="p-name u-url" href="https://bascht.com">Sebastian Schulze</a>
-        <a class="u-email" href="mailto:hello+2020@bascht.com">hello+2020@bascht.com</a>,
+        <a class="u-email" href="mailto:hello+{{ .Date.Format "2006-01" }}@bascht.com">hello+{{ .Date.Format "2006-01" }}@bascht.com</a>,
         <span class="p-nickname">Bascht</span>
         <span class="p-locality">Munich</span>
         <span class="p-country-name">Germany</span>
