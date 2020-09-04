@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://hackers.town/@fractumseraph/104797463491692034",
+    "name": null,
+    "type": "entry",
+    "wm-id": 847195,
+    "author": {
+      "url": "https://hackers.town/@fractumseraph",
+      "name": "FractumSeraph",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/827a7dfe4eaaf23e9e1fc4de5343ad76b0dd2ac6970a664f5bb94614b93ef91f.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> would an invidious instance work on the browser? There are a lot of those.</p>",
+      "text": "@bascht would an invidious instance work on the browser? There are a lot of those."
+    },
+    "published": "2020-09-02T21:33:09",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104796979007953757/104797463540615787",
+    "wm-target": "https://bascht.com/posts/2020/09/02/i-wish-there-was-something-like-newpipe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/02/i-wish-there-was-something-like-newpipe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-04T16:00:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104796979007953757/104797463540615787",
+  "target": "https://bascht.com/posts/2020/09/02/i-wish-there-was-something-like-newpipe/",
+  "private": false
+}
