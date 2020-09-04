@@ -22,3 +22,8 @@ habe, hat sich hier (außerhalb von =/blog=) so einiges getan:
 - Es gibt jeweils einen [[https://social.yakshed.org/@baschtdotcom][Mastodon]] und [[https://twitter.com/baschtdotcom][Twitter]] Bot, der alles sammelt
 - Es ist möglich via Webmentions mit meiner Seite zu interagieren
 - Ein wackeliges Level 3 auf [[https://indiewebify.me][indiewebify.me]] erreicht.
+
+Das ganze Gelöt im Hintergrund werde ich sicherlich bei Gelegenheit auch noch mal genauer beschreiben,
+auf Mastodon [[/posts/2020/07/09/höllenmaschine-v2if-everything-goes-to-p/][gab es ja schon Teaser]].
+
+Also – auf bald (und hoffentlich nicht erst in 6 Jahren).
