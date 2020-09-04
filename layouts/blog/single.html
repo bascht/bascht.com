@@ -8,6 +8,7 @@
             <div class="post-content e-content">{{ .Content }}</div>
             <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
             <a class="p-author h-card hidden" href="https://bascht.com"><img class="u-photo hidden" src="/images/bascht.jpg"/>Bascht</a>
+            {{ partial "webmentions.html" . }}
         </article>
         <aside>
             <h4>Post vom</h4> {{ .Date.Format "02. January 2006" }}

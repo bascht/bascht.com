@@ -147,6 +147,10 @@ div.post-content blockquote.twitter-tweet, div.post-content blockquote.mastodon-
     color: #464646;
 }
 
+div.post-content.e-content code.verbatim {
+    background-color: #f0f0f0;
+}
+
 footer * {
     text-align: center
 }

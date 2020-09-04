@@ -1,0 +1,24 @@
+#+title: Reboot
+#+date: 2020-09-04T23:54:36+02:00
+#+draft: false
+#+teaser: Über
+#+tags[]: meta bascht indieweb social
+
+Irgendwann muss ich mich ja mal dazu überwinden, diese 6-Jahre große Lücke im
+Feed zu schließen. Seit gut 2014 hat sich zumindest unterhalb von =/blog= auf
+dieser Seite nichts mehr verändert.
+
+#+ATTR_HTML: :alt Screenshot of my HTML feed :title My Blog feed showing nothing in the last 6 years
+[[file:https://img.bascht.com/2020-blog/09-reboot/reboot.png]]
+
+Nachdem ich aber über [[https://depone.net][Daniel]] und
+[[https://notiz.blog][Matthias]] vom
+[[https://indieweb.org/Homebrew_Website_Club#.F0.9F.94.BA_Karlsruhe][Homebrew-Webseite-Club
+Karlsruhe]] einen Crashkurs in Sachen [[https://indieweb.org][Indieweb]] belegt
+habe, hat sich hier (außerhalb von =/blog=) so einiges getan:
+
+- Die Startseite hat kein 10 Jahre altes Foto mehr
+- Unter [[/posts]] aggregiere ich jetzt Content aus Twitter, Instagram & co
+- Es gibt jeweils einen [[https://social.yakshed.org/@baschtdotcom][Mastodon]] und [[https://twitter.com/baschtdotcom][Twitter]] Bot, der alles sammelt
+- Es ist möglich via Webmentions mit meiner Seite zu interagieren
+- Ein wackeliges Level 3 auf [[https://indiewebify.me][indiewebify.me]] erreicht.
