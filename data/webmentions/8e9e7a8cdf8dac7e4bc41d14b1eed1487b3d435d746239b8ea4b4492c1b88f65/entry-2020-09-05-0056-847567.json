@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://commentpara.de/comment/663.htm",
+    "name": null,
+    "type": "entry",
+    "wm-id": 847567,
+    "author": {
+      "url": null,
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/s3-us-west-2.amazonaws.com/88e8eb62f288b74a0df12b404c0ff434e2745ba8adde55e5b722bc6ab19bf642.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Und dank https://quill.p3k.io bzw. https://commentpara.de jetzt sogar wieder mit Kommentarmöglichkeit."
+    },
+    "published": null,
+    "wm-source": "https://commentpara.de/comment/663.htm",
+    "wm-target": "https://bascht.com/blog/2020/09/04/reboot/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/blog/2020/09/04/reboot/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-04T22:54:35Z"
+  },
+  "secret": null,
+  "source": "https://commentpara.de/comment/663.htm",
+  "target": "https://bascht.com/blog/2020/09/04/reboot/",
+  "private": false
+}
