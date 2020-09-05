@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104813491107037114",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848590,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>For dessert: ♥️⭐🥨</p>",
+      "text": "For dessert: ♥️⭐🥨"
+    },
+    "published": "2020-09-05T17:29:11",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104813321201892578/104813491107037114",
+    "wm-target": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-05T17:47:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104813321201892578/104813491107037114",
+  "target": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+  "private": false
+}
