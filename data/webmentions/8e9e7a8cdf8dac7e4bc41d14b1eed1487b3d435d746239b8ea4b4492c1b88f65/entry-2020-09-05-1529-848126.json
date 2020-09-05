@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/depone/status/1302161827950977024",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848126,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a06f2de154cc3d426c2989437b76fe610e6fd7020b22ab0a5477275f9d6315ac.jpg"
+    },
+    "content": {
+      "html": "Yeah! Herzlichen Glückwunsch zum Reboot!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Yeah! Herzlichen Glückwunsch zum Reboot!"
+    },
+    "published": "2020-09-05T08:29:07+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1302013047570132998/1302161827950977024",
+    "wm-target": "https://bascht.com/blog/2020/09/04/reboot/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/blog/2020/09/04/reboot/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-05T08:53:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1302013047570132998/1302161827950977024",
+  "target": "https://bascht.com/blog/2020/09/04/reboot/",
+  "private": false
+}
