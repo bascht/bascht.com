@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104813321201892578#favorited-by-366",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848619,
+    "author": {
+      "url": "https://chaos.social/@mkhl",
+      "name": "Martin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/e673344376896a03d970b9abe6b241cbbbdf7764345d1d5d6cedccebf868f9e9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104813321201892578/366",
+    "wm-target": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-05T18:56:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104813321201892578/366",
+  "target": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+  "private": false
+}
