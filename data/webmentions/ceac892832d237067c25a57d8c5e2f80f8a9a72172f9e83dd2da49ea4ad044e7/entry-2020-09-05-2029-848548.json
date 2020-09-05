@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1302213715685769216#favorited-by-1301785939329650688",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848548,
+    "author": {
+      "url": "https://twitter.com/TylorBorgeson",
+      "name": "Tylor Borgeson",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bebf75e907fd6dc04275f18d425e9a8a770f75d68d08a8c27b8e4f943ea3450e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1302213715685769216/1301785939329650688",
+    "wm-target": "https://bascht.com/posts/2020/09/05/shut-the-duck-up.-https/t.co/6fff3vgat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-05T17:09:11Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1302213715685769216/1301785939329650688",
+  "target": "https://bascht.com/posts/2020/09/05/shut-the-duck-up.-https/t.co/6fff3vgat/",
+  "private": false
+}
