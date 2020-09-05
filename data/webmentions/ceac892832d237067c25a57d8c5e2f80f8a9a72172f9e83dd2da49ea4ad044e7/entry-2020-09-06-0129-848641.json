@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/moritzheiber/status/1302261799899877377",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848641,
+    "author": {
+      "url": "https://twitter.com/moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e6864a6f6d418c1e2903db51c47048c2825e37e64058acab8a8a93ef127088b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Shut the duck up."
+    },
+    "published": "2020-09-05T15:06:22+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1302213715685769216/1302261799899877377",
+    "wm-target": "https://bascht.com/posts/2020/09/05/shut-the-duck-up.-https/t.co/6fff3vgat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-09-05T20:21:29Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1302213715685769216/1302261799899877377",
+  "target": "https://bascht.com/posts/2020/09/05/shut-the-duck-up.-https/t.co/6fff3vgat/",
+  "private": false
+}
