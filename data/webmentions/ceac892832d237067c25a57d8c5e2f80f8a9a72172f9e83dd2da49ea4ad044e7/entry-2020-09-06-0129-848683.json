@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1302213715685769216#favorited-by-15440623",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848683,
+    "author": {
+      "url": "https://twitter.com/marcshark",
+      "name": "Marc Böttler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eee12faf4e8962d52649fb32f5d8c75529283c8fedcab53c8d93032abe684218.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1302213715685769216/15440623",
+    "wm-target": "https://bascht.com/posts/2020/09/05/shut-the-duck-up.-https/t.co/6fff3vgat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-05T22:57:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1302213715685769216/15440623",
+  "target": "https://bascht.com/posts/2020/09/05/shut-the-duck-up.-https/t.co/6fff3vgat/",
+  "private": false
+}
