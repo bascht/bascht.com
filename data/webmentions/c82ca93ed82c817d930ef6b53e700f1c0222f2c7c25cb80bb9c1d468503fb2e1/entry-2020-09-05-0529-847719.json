@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1302031547445501952",
+    "name": null,
+    "type": "entry",
+    "wm-id": 847719,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Yak mit Schnurrbart.\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/09/04/bascht-i-like-how-the-git-repo-hostin/\"></a>",
+      "text": "Yak mit Schnurrbart."
+    },
+    "published": "2020-09-04T23:51:26+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1302031547445501952",
+    "wm-target": "https://bascht.com/posts/2020/09/04/bascht-i-like-how-the-git-repo-hostin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-09-04T23:59:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1302031547445501952",
+  "target": "https://bascht.com/posts/2020/09/04/bascht-i-like-how-the-git-repo-hostin/",
+  "private": false
+}
