@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104813321201892578#favorited-by-41075",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848624,
+    "author": {
+      "url": "https://qoto.org/@Josefine",
+      "name": "Josefine",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/b4faa9cd2a0693ed16ddcdf14ccf4aec78f36f0e126dc9b3c7433f3db5321711.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104813321201892578/41075",
+    "wm-target": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-05T18:57:03Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104813321201892578/41075",
+  "target": "https://bascht.com/posts/2020/09/05/bascht-cw-food-sensitive/",
+  "private": false
+}
