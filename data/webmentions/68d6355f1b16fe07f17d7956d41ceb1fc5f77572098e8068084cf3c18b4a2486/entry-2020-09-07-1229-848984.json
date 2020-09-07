@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/seanlilmateus/status/1302879078144503808",
+    "name": null,
+    "type": "entry",
+    "wm-id": 848984,
+    "author": {
+      "url": "https://twitter.com/seanlilmateus",
+      "name": ".mateus🇪🇺",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2f5a21e6cf5bc0c1ac9d454d77360da965caa264ab8b4491057d4ac5e343ffe.jpg"
+    },
+    "content": {
+      "html": "🖐🏾 gerne!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/forCologne\"></a>",
+      "text": "🖐🏾 gerne!"
+    },
+    "published": "2020-09-07T07:59:13+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1302876797055492096/1302879078144503808",
+    "wm-target": "https://bascht.com/posts/2020/09/07/mag-jemand-eine-forcologne-fahne-haben/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/07/mag-jemand-eine-forcologne-fahne-haben/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-07T08:34:50Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1302876797055492096/1302879078144503808",
+  "target": "https://bascht.com/posts/2020/09/07/mag-jemand-eine-forcologne-fahne-haben/",
+  "private": false
+}
