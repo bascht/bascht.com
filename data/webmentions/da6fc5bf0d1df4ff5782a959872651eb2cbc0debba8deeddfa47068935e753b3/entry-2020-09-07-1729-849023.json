@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104822620069033319#reblogged-by-25564",
+    "name": null,
+    "type": "entry",
+    "wm-id": 849023,
+    "author": {
+      "url": "https://mastodon.social/@nawordar",
+      "name": "nawordar@mastodon.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104822620069033319/25564",
+    "wm-target": "https://bascht.com/posts/2020/09/07/bascht-people-leaving-their-ergodox-t/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-09-07T12:50:53Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/104822620069033319/25564",
+  "target": "https://bascht.com/posts/2020/09/07/bascht-people-leaving-their-ergodox-t/",
+  "private": false
+}
