@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1303287853707862018#favorited-by-14147875",
+    "name": null,
+    "type": "entry",
+    "wm-id": 849417,
+    "author": {
+      "url": "https://twitter.com/Hagenburger",
+      "name": "Nico stays at home 🏡🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f76a8d991629c168e6b7ffdf3687dc9d2109ce4ec0b3524bdfa3e95a1113b0d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1303287853707862018/14147875",
+    "wm-target": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-08T13:36:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1303287853707862018/14147875",
+  "target": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+  "private": false
+}
