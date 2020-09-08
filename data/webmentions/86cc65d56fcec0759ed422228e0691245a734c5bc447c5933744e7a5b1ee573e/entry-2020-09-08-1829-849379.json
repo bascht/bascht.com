@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1303287853707862018#favorited-by-15317182",
+    "name": null,
+    "type": "entry",
+    "wm-id": 849379,
+    "author": {
+      "url": "https://twitter.com/svenwin",
+      "name": "Sven ☁ Winkler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d4e38f2f3cdd71db5687d5ed0f82553f9c10a0fbaa6c61f3e3422a5ec5752ed.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1303287853707862018/15317182",
+    "wm-target": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-08T11:42:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1303287853707862018/15317182",
+  "target": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+  "private": false
+}
