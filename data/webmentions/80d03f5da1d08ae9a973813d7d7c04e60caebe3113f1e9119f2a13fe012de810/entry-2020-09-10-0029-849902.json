@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1303779062750609410#favorited-by-7566352",
+    "name": null,
+    "type": "entry",
+    "wm-id": 849902,
+    "author": {
+      "url": "https://twitter.com/julian24",
+      "name": "Julian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6ad91f4de2339a323c32874c62e12f0bd118fb1e0cfe0807cd2226f1776683fe.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1303779062750609410/7566352",
+    "wm-target": "https://bascht.com/posts/2020/09/09/ltkirmes-ansager-mikrofon-stimmegt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-09T22:06:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1303779062750609410/7566352",
+  "target": "https://bascht.com/posts/2020/09/09/ltkirmes-ansager-mikrofon-stimmegt/",
+  "private": false
+}
