@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1303779062750609410#favorited-by-129553128",
+    "name": null,
+    "type": "entry",
+    "wm-id": 849899,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/862d0df58d6b2c4a947bbad068e38f1c167869f705fca7ff784f129ef1a83077.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1303779062750609410/129553128",
+    "wm-target": "https://bascht.com/posts/2020/09/09/ltkirmes-ansager-mikrofon-stimmegt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-09T22:06:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1303779062750609410/129553128",
+  "target": "https://bascht.com/posts/2020/09/09/ltkirmes-ansager-mikrofon-stimmegt/",
+  "private": false
+}
