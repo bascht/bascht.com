@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/104839785771332049",
+    "name": null,
+    "type": "entry",
+    "wm-id": 850029,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> /subscribe</p>",
+      "text": "@bascht /subscribe"
+    },
+    "published": "2020-09-10T08:56:16",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104836649443017472/104839785771332049",
+    "wm-target": "https://bascht.com/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-10T09:30:12Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104836649443017472/104839785771332049",
+  "target": "https://bascht.com/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/",
+  "private": false
+}
