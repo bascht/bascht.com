@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104839314220527958#favorited-by-11279",
+    "name": null,
+    "type": "entry",
+    "wm-id": 850027,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Ingmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104839314220527958/11279",
+    "wm-target": "https://bascht.com/posts/2020/09/10/bascht-at-any-rate.-have-a-great-day/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-10T09:29:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104839314220527958/11279",
+  "target": "https://bascht.com/posts/2020/09/10/bascht-at-any-rate.-have-a-great-day/",
+  "private": false
+}
