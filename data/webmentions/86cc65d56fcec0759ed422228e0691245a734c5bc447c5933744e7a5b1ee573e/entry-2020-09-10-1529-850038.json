@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1304005832514965504",
+    "name": null,
+    "type": "entry",
+    "wm-id": 850038,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": "Das ist aber irreführend. Die misst nicht den Verschleiß, sondern die Längung. Müsste also Kettenlängungsmesslehre heißen.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Das ist aber irreführend. Die misst nicht den Verschleiß, sondern die Längung. Müsste also Kettenlängungsmesslehre heißen."
+    },
+    "published": "2020-09-10T10:36:32+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1303287853707862018/1304005832514965504",
+    "wm-target": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-10T10:46:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1303287853707862018/1304005832514965504",
+  "target": "https://bascht.com/posts/2020/09/08/nicht-nur-habe-ich-erst-heute-erfahren-d/",
+  "private": false
+}
