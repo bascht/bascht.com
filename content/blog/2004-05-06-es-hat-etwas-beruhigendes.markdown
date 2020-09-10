@@ -12,7 +12,7 @@ tags:
     - internet
 ---
 
-![Es hat etwas beruhigendes](2004-05-06-es-hat-etwas-beruhigendes/img_3610.jpg)
+![Es hat etwas beruhigendes](https://img.bascht.com/2004-blog/2004-05-06-es-hat-etwas-beruhigendes/img_3610.jpg)
 
 Nachdem bascht.com jetzt knappe 1,5 Monate Offline war und ich schon
 diverse Zänkigkeiten mit OnkelHerman(n) hatte - bin ich froh, das

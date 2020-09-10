@@ -1,5 +1,5 @@
 <a class="u-url" href="{{.Permalink}}">
-    <h2 class="p-name">{{ partial "social_logo" . }} {{.Params.text}}</h2>
+    <h2 class="p-name">{{ partial "social_logo" . }} {{.Params.text | markdownify }}</h2>
     {{ if .Params.media_url }}<p><img srcset="https://img.bascht.com/proxy/300,webp/{{ .Params.media_url }} 300w, https://img.bascht.com/proxy/850,webp/{{ .Params.media_url }} 850w" sizes=" (min-width: 400px) 300vw, 800vw" src="https://img.bascht.com/proxy/300,webp/{{ .Params.media_url }}" alt="Image attached to Tweet"></p>{{ end }}
     <small>{{ .Date.Format "January, 02th 2006" }}</small>
 </a>

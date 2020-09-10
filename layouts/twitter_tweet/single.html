@@ -6,7 +6,7 @@
     <article>
       <div class="post-content">
           <blockquote class="twitter-tweet">
-              <p lang="de" dir="ltr">{{ .Params.text }}</p>&mdash; Bascht (@bascht)
+              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>&mdash; Bascht (@bascht)
           </blockquote>
       </div>
       {{ if .Params.media_url }}
