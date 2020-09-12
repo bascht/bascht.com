@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104839314220527958#favorited-by-41075",
+    "name": null,
+    "type": "entry",
+    "wm-id": 850765,
+    "author": {
+      "url": "https://qoto.org/@Josefine",
+      "name": "Josefine☕",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/b4faa9cd2a0693ed16ddcdf14ccf4aec78f36f0e126dc9b3c7433f3db5321711.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104839314220527958/41075",
+    "wm-target": "https://bascht.com/posts/2020/09/10/bascht-at-any-rate.-have-a-great-day/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-11T20:45:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104839314220527958/41075",
+  "target": "https://bascht.com/posts/2020/09/10/bascht-at-any-rate.-have-a-great-day/",
+  "private": false
+}
