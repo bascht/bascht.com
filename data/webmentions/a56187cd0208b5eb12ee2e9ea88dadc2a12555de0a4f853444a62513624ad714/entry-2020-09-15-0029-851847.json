@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1305415268273881088#favorited-by-5430",
+    "name": null,
+    "type": "entry",
+    "wm-id": 851847,
+    "author": {
+      "url": "https://twitter.com/benjamin",
+      "name": "Benjamin Reitzammer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/583a6ecc53300996de8584de5a6f4fe4a0740495e8bd37dca43680f8102fa579.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1305415268273881088/5430",
+    "wm-target": "https://bascht.com/posts/2020/09/14/direkt-in-der-spotify-ergebnis-liste-neb/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-14T18:58:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1305415268273881088/5430",
+  "target": "https://bascht.com/posts/2020/09/14/direkt-in-der-spotify-ergebnis-liste-neb/",
+  "private": false
+}
