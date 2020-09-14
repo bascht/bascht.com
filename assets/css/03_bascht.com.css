@@ -209,6 +209,7 @@ nav#main ul li.active a {
     background-color: rgb(34, 34, 34);
 }
 
+img.noborder,
 .noborder * {
     border: 0 !important;
 }
