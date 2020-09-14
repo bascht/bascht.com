@@ -12,5 +12,6 @@ tags: [lustiges, tiere, unterwegs, video, youtube, ziege]
 Falls mir mal wieder jemand nicht glaubt: Ja, wir haben eine Ziege.
 Und: Ja, die ist Halfpipe-Kompatibel!
 Hier mit meiner Schwester:
+{{< youtube V_aC0ovVJPU >}}
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/V_aC0ovVJPU" frameborder="0" allowfullscreen></iframe>
