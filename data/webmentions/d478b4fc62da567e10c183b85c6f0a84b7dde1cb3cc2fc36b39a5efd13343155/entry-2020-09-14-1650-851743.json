@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1305483047719010304#favorited-by-447845138",
+    "name": null,
+    "type": "entry",
+    "wm-id": 851743,
+    "author": {
+      "url": "https://twitter.com/triskweline",
+      "name": "Henning Koch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b77a364369497b5211efefc2fda792112c16ff617c895b61ff723e126895121.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1305483047719010304/447845138",
+    "wm-target": "https://bascht.com/blog/2020/09/14/kamira/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-14T12:36:50Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1305483047719010304/447845138",
+  "target": "https://bascht.com/blog/2020/09/14/kamira/",
+  "private": false
+}
