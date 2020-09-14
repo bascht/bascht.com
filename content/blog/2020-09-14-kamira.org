@@ -1,0 +1,52 @@
+#+title: Kamira
+#+date: 2020-09-14T13:42:00+02:00
+#+draft: false
+#+tags[]: coffee kaffee cooking kitchen
+#+images[]: https://img.bascht.com/2020-blog/09-kamira/kamira-top.jpeg
+
+Neuigkeiten aus der Küche: Eigentlich bin ich
+[[/posts/2019/11/14/kaffeesachencoffeemoccamaster/][sehr glücklicher
+Filterkaffeetrinker]]. Doch ab und an kriegt man doch halt einen kleinen
+Espressodurst.
+
+Die Aussicht auf einen dreistelligen Betrag und gute 40cm weniger Küchenfläche
+permanent zu verlieren, hat die Freude bisher gedämpft.
+
+*** Enter: Kamira.
+
+Durch Marcus bin ich auf die [[https://en.espressokamira.net][Kamira]] gestoßen:
+Eine kleine Maschine die allein durch die Herdplatte betrieben wird.
+
+#+ATTR_HTML: :alt Kamira view from the top :class noborder
+[[file:https://img.bascht.com/2020-blog/09-kamira/kamira-top.jpeg]]
+
+Sie sieht nicht nur sehr rustikal aus, ist auch so verarbeitet. Scheinbar wird
+jede Maschine noch von Hand gebaut & verpackt. Allesamt sehr gutes Stahl bzw.
+Gummi. Auch preislich eine super faire Geschichte:
+
+Die Maschine selbst gab es für 69€ und direkt beim Hersteller gibt es auch
+Verschleißteile (Gummi-Dichtungen bzw. das Überdruckventil) für kleine
+Eurobeträge.
+
+*** Der Kaffee
+    
+Leider sieht die Maschine nicht nur kompliziert aus – es bedarf auch einiger
+Übung [[/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/][bis man damit
+etwas Espresso-artiges]] hinbekommt.
+
+Im ersten Durchlauf wird gespült, danach Wasser eingesogen & der Kaffee befüllt.
+Mit etwas Übung ist das in 3-4 Minuten erledigt.
+
+Die Maschine besitzt keinen Portafilter, sondern nur ein kleines Netz direkt am
+Durchlauf. Einen ganz feinen Espresso-Mahlgrad bekam ich daher nur mit einem
+Abpfiff aus dem Überdruckventil quittiert.
+
+Mit etwas Geduld und mittlerem Mahlgrad ist aber durchaus ein leckerer Espresso
+herstellbar. Ich bin auf das Review von James Hoffmann. Er hat wohl
+[[https://twitter.com/jimseven/status/1280526097965297670][noch eine unverpackte
+Maschine in der Queue]].
+
+#+ATTR_HTML: :alt Kamira view from the top :class noborder
+[[file:https://img.bascht.com/2020-blog/09-kamira/kamira-side.jpeg]]
+
+Cheers.
