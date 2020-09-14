@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104863263647689950",
+    "name": null,
+    "type": "entry",
+    "wm-id": 851758,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Promised Blog Post (in German) <a href=\"https://bascht.com/blog/2020/09/14/kamira/\"><span>https://</span><span>bascht.com/blog/2020/09/14/kam</span><span>ira/</span></a></p>\n<a href=\"https://bascht.com/blog/2020/09/14/kamira/\">Kamira</a>",
+      "text": "Promised Blog Post (in German) https://bascht.com/blog/2020/09/14/kamira/\nKamira"
+    },
+    "published": "2020-09-14T12:27:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104836649443017472/104863263647689950",
+    "wm-target": "https://bascht.com/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-14T12:46:28Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104836649443017472/104863263647689950",
+  "target": "https://bascht.com/posts/2020/09/09/bascht-crema-still-looks-weird-thoug/",
+  "private": false
+}
