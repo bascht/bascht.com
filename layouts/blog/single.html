@@ -9,6 +9,16 @@
             <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
             <a class="p-author h-card hidden" href="https://bascht.com"><img class="u-photo hidden" src="/images/bascht.jpg"/>Bascht</a>
             {{ partial "webmentions.html" . }}
+            <hr/>
+            {{ $related := .Site.RegularPages.Related . | first 5 }}
+            {{ with $related }}
+            <h3>Ähnliche Beiträge</h3>
+            <ul>
+	              {{ range . }}
+	              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	              {{ end }}
+            </ul>
+            {{ end }}
         </article>
         <aside>
             <h4>Post vom</h4> {{ .Date.Format "02. January 2006" }}
