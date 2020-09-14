@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/simkoelsch/status/1305567684986368000",
+    "name": null,
+    "type": "entry",
+    "wm-id": 851843,
+    "author": {
+      "url": "https://twitter.com/simkoelsch",
+      "name": "Simon Kölsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57f5f52db8a9c37dafd3a80da89945fbf31543b18e6e228230e24a310b47bb60.jpg"
+    },
+    "content": {
+      "html": "Das war gerade die schlimmste php-webshop Erfahrung seit ner kleinen Ewigkeit :-P\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Das war gerade die schlimmste php-webshop Erfahrung seit ner kleinen Ewigkeit :-P"
+    },
+    "published": "2020-09-14T18:02:47+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1305483047719010304/1305567684986368000",
+    "wm-target": "https://bascht.com/blog/2020/09/14/kamira/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/blog/2020/09/14/kamira/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-14T18:16:45Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1305483047719010304/1305567684986368000",
+  "target": "https://bascht.com/blog/2020/09/14/kamira/",
+  "private": false
+}
