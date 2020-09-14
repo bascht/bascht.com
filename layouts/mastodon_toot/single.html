@@ -17,6 +17,15 @@
       </div>
       Originally posted to <a href="{{ default .Params.original_url .Params.src }}">{{ default .Params.original_url .Params.src }}</a>
       {{ partial "webmentions.html" . }}
+      {{ $related := .Site.RegularPages.Related . | first 5 }}
+      {{ with $related }}
+      <h3>Ähnliche Beiträge</h3>
+      <ul>
+	        {{ range . }}
+	        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	        {{ end }}
+      </ul>
+      {{ end }}
     </article>
     <aside>
       <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
