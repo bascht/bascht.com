@@ -1,0 +1,90 @@
+#+TITLE: Display current org-mode clock in swaybar
+#+DATE: 2020-09-16
+#+TAGS[]: i3 sway swaybar orgmode emacs lisp
+
+
+I liked [[https://bendersteed.tech/posts/org-mode-clock-in-i3blocks.html][Benderteed's blog post]] on how to display your current org-mode clock in
+i3blocks and since this could be easily ported to the swaybar, I decided to give it a try.
+
+My setup looks a bit different though: I'm just interested in
+the currently clocked in heading, but I liked the chilling glasses, so I kept
+them:
+
+#+begin_src elisp
+(defun sway-org-clock-indicator ()
+  (if (org-clocking-p)
+      (format "%s @ %s"
+              org-clock-heading
+              (format-seconds "%h:%m" (* (org-clock-get-clocked-time) 60)))
+    (format "🕶 chilling")))
+#+end_src
+
+Bendersteeds implementation mostly lives in elisp, with hooks that also reload
+i3blocks, but since I am using =i3status-rs= and don't want any processes to
+block i3status-rust, I buffer the output in a file. This is done with a simple
+script:
+
+#+begin_src bash
+#!/bin/bash
+
+ORGDIR="/run/user/1000/org"
+# Make sure the directory exists
+mkdir -p "${ORGDIR}"
+
+# Trim the resulting quotes from emacs eval response
+em -e "(sway-org-clock-indicator)" | tr -d '"' > "${ORGDIR}/current-task"
+
+#+end_src
+
+that's called by a systemd service
+
+#+begin_src systemd
+[Unit]
+Description=Write latest org-clock to the status file
+
+[Service]
+Type=oneshot
+ExecStart=/home/bascht/bin/org-update-clock-file
+#+end_src
+
+with a timer
+
+#+begin_src systemd
+[Unit]
+Description=Run org-clock timer
+Wants=emacs.service
+
+[Timer]
+OnActiveSec=30s
+OnUnitActiveSec=120m
+Unit=org-clock.service
+
+[Install]
+WantedBy=timers.target
+#+end_src
+
+
+*** i3status-rs
+    
+Now we just need to tell i3status-rs to display the new block. A small script
+will output the file or show a default message.
+
+#+begin_src bash
+#!/bin/sh
+
+cat /run/user/1000/org/current-task 2>/dev/null || echo "no task"
+#+end_src
+
+#+begin_src toml
+[[block]]
+block = "custom"
+command = '/home/bascht/bin/org-get-current-clock-task'
+interval = 10
+on_click = "em -c -e '(org-clock-goto)'"
+#+end_src
+
+And the final result looks like this:
+
+[[file:https://img.bascht.com/2020-blog/09-tech/i3status-rs.png]]
+
+You can find most of the above [[https://git.bascht.space/bascht/dotfiles][in my dotfiles]].
