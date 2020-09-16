@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pleroma.soykaf.com/objects/b0d5a690-7467-4be1-b513-ed3212e3079a",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853020,
+    "author": {
+      "url": "https://pleroma.soykaf.com/users/bendersteed",
+      "name": "wired @ /dev/null",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/dcbe60f131814395f5f404c485b31d24aafe2ba0a9c85399bd5745fa59267f5d.png"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> Nice to see that someone finds my posts helpful! Thanks for the heads-up!<br /><br />Since I've moved to gnome, I also have a half-baked extension that does the same thing, maybe I'll post that later as well.",
+      "text": "@bascht Nice to see that someone finds my posts helpful! Thanks for the heads-up!\n\nSince I've moved to gnome, I also have a half-baked extension that does the same thing, maybe I'll post that later as well."
+    },
+    "published": "2020-09-16T13:39:41",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104874448452900233/104874874087550531",
+    "wm-target": "https://bascht.com/tech/2020/09/16/display-current-org-mode-clock-in-swaybar/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/tech/2020/09/16/display-current-org-mode-clock-in-swaybar/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-16T14:04:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104874448452900233/104874874087550531",
+  "target": "https://bascht.com/tech/2020/09/16/display-current-org-mode-clock-in-swaybar/",
+  "private": false
+}
