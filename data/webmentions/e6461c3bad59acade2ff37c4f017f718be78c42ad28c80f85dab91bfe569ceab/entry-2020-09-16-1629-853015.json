@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1306214308880224259",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853015,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "How to show your current clocked in task… • <a href=\"https://bascht.com/posts/2020/09/16/how-to-show-your-current-clocked-in-task/\">bascht.com/posts/2020/09/…</a>",
+      "text": "How to show your current clocked in task… • bascht.com/posts/2020/09/…"
+    },
+    "published": "2020-09-16T12:52:14+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1306214308880224259",
+    "wm-target": "https://bascht.com/posts/2020/09/16/how-to-show-your-current-clocked-in-task/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-09-16T13:58:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1306214308880224259",
+  "target": "https://bascht.com/posts/2020/09/16/how-to-show-your-current-clocked-in-task/",
+  "private": false
+}
