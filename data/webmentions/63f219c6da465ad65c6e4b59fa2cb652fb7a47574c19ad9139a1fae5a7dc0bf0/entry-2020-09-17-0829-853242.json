@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@pajowu/104876315862230207",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853242,
+    "author": {
+      "url": "https://mastodon.social/@pajowu",
+      "name": "pajowu ✅",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/0f8edfedb8964dc740ae321a01d919f38884eeebc3a3600fd287ee0b53c4db07.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> that's not ios 14</p>",
+      "text": "@bascht that's not ios 14"
+    },
+    "published": "2020-09-16T19:46:21",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104876280940917331/104876315875307828",
+    "wm-target": "https://bascht.com/posts/2020/09/16/bascht-lets-see-if-handwriting-recog/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/16/bascht-lets-see-if-handwriting-recog/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-17T01:30:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104876280940917331/104876315875307828",
+  "target": "https://bascht.com/posts/2020/09/16/bascht-lets-see-if-handwriting-recog/",
+  "private": false
+}
