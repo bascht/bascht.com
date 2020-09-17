@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104876321018385178",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853241,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@pajowu\" class=\"u-url\">@<span>pajowu</span></a></span> 😭 Just noticed that it's \"only\" 13.7 – I saw a lot of 🍎📰  in my timeline, so I assumed it would be the public release.</p>",
+      "text": "@pajowu 😭 Just noticed that it's \"only\" 13.7 – I saw a lot of 🍎📰  in my timeline, so I assumed it would be the public release."
+    },
+    "published": "2020-09-16T19:47:40",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104876280940917331/104876321018385178",
+    "wm-target": "https://bascht.com/posts/2020/09/16/bascht-lets-see-if-handwriting-recog/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/16/bascht-lets-see-if-handwriting-recog/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-17T01:30:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104876280940917331/104876321018385178",
+  "target": "https://bascht.com/posts/2020/09/16/bascht-lets-see-if-handwriting-recog/",
+  "private": false
+}
