@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/104885230864910996",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853529,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> see this in python all the time? Like instead of checking the inputs to a function, incorrect input crashes it somewhere deep in the code..</p><p>To be fair that's what happens when you create an initial version, which is fine, and then later never polish it for some reason.</p>",
+      "text": "@bascht see this in python all the time? Like instead of checking the inputs to a function, incorrect input crashes it somewhere deep in the code..To be fair that's what happens when you create an initial version, which is fine, and then later never polish it for some reason."
+    },
+    "published": "2020-09-18T09:33:33",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104885198360191195/104885230975308641",
+    "wm-target": "https://bascht.com/posts/2020/09/18/bascht-instead-of-displaying-a-proper/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/18/bascht-instead-of-displaying-a-proper/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-18T09:50:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104885198360191195/104885230975308641",
+  "target": "https://bascht.com/posts/2020/09/18/bascht-instead-of-displaying-a-proper/",
+  "private": false
+}
