@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/simkoelsch/status/1307733001330135041",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853944,
+    "author": {
+      "url": "https://twitter.com/simkoelsch",
+      "name": "Simon Kölsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57f5f52db8a9c37dafd3a80da89945fbf31543b18e6e228230e24a310b47bb60.jpg"
+    },
+    "content": {
+      "html": "So... <a href=\"https://twitter.com/bascht\">@bascht</a> talked me into buying a Kamira (ok he blogged <a href=\"https://bascht.com/blog/2020/09/14/kamira/\">bascht.com/blog/2020/09/1…</a> and our preferences seem to match AND the 9barista is to expensive for my use-case) and I‘m quite happy with the result...",
+      "text": "So... @bascht talked me into buying a Kamira (ok he blogged bascht.com/blog/2020/09/1… and our preferences seem to match AND the 9barista is to expensive for my use-case) and I‘m quite happy with the result..."
+    },
+    "published": "2020-09-20T17:26:58+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1307733001330135041",
+    "wm-target": "https://bascht.com/blog/2020/09/14/kamira/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-09-20T17:38:22Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1307733001330135041",
+  "target": "https://bascht.com/blog/2020/09/14/kamira/",
+  "private": false
+}
