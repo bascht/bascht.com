@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://www.instagram.com/p/CFStxbnHbn1/#liked-by-32007169",
+    "name": null,
+    "type": "entry",
+    "wm-id": 853877,
+    "author": {
+      "url": "https://www.instagram.com/cashewkern/",
+      "name": "cashew kernchen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/848688e3bc677bda6dc185c266f983481fc9de0bed4f8bb7a94b3639e3ee1439.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/bascht/2401182860336544245_31971527/32007169",
+    "wm-target": "https://bascht.com/posts/2020/09/18/werksviertel/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-20T05:40:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/instagram/bascht/2401182860336544245_31971527/32007169",
+  "target": "https://bascht.com/posts/2020/09/18/werksviertel/",
+  "private": false
+}
