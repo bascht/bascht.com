@@ -147,8 +147,11 @@ div.post-content blockquote.twitter-tweet, div.post-content blockquote.mastodon-
     color: #464646;
 }
 
-div.post-content.e-content code.verbatim {
+div.post-content code.verbatim {
     background-color: #f0f0f0;
+    border-radius: 3px 3px;
+    padding: 0.15em;
+    margin: -0.15em;
 }
 
 footer * {
