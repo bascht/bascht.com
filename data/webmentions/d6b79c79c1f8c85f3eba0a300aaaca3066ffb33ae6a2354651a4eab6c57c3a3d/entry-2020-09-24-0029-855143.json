@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mstdn.social/@JonathanMBR/104915489678559137",
+    "name": null,
+    "type": "entry",
+    "wm-id": 855143,
+    "author": {
+      "url": "https://mstdn.social/@JonathanMBR",
+      "name": "Jonathan Mburugu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/d651205ceb1e2ba590f435b35a866b608e6a17e8e3aab3f3cf4276ffe0b47819.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <br />Define with few words</p>",
+      "text": "@bascht \nDefine with few words"
+    },
+    "published": "2020-09-23T17:48:46",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104915469263462506/104915489722211220",
+    "wm-target": "https://bascht.com/posts/2020/09/23/bascht-chickpea-roast./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/23/bascht-chickpea-roast./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-23T18:12:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104915469263462506/104915489722211220",
+  "target": "https://bascht.com/posts/2020/09/23/bascht-chickpea-roast./",
+  "private": false
+}
