@@ -1,0 +1,94 @@
+#+TITLE: GNOME Keyring woes with dbus & Sway
+#+DATE: 2020-09-23
+#+TAGS[]: i3 sway dbus gnome keyring linux
+
+Yesterday I somehow® managed to break my computer.
+
+I'm still not a 100% sure how I managed to do this, but it somehow went like
+this: During a regular =dnf update= operation I noticed that I still have
+=fprintd= installed, which I do not use since the notebook is in some kind of
+docking station or my Roost stand most of the time.
+
+So – I went ahead and uninstalled =fprintd=.
+
+Which lead to a new issue: An occasional
+
+#+begin_src bash
+PAM unable to dlopen(/usr/lib64/security/pam_fprintd.so): \
+  /usr/lib64/security/pam_fprintd.so: cannot open shared object file: \
+  No such file or directory
+#+end_src
+
+popping up in the system logs. Not a big deal, but why wouldn't I scratch that itch?
+
+So removed all occurrences of fprintd in my =/etc/pam.d/*= files. Somehow =dnf=
+is supposed to clean up those files after removing a pam package,
+but [[https://bugzilla.redhat.com/show_bug.cgi?id=1203671][there are]] some
+[[https://bugzilla.redhat.com/show_bug.cgi?id=1203671][known bugs]].
+
+While I was cleaning up the =fprintd= residue, I noticed that my pam config
+still has =gnome-keyring-daemon= listed. A leftover from when I was still using
+GNOME full time. Well, I removed those lines as well.
+
+Those changes went unnoticed until the next =dnf update= a few days later when I
+installed a kernel update and had to reboot my machine.
+
+* Then things went south
+
+After rebooting my system felt sluggish. Not in a "high system load" way, more
+like it was constantly running into timeouts when launching apps.
+
+More precisely: /when launching GNOME apps/ like Nautilus, Pavucontrol. They did
+open up eventually, but only after 30-60 second timeouts.
+
+When my Nextcloud client opened up it's "Cannot connect to nextcloud: the
+credentials are missing" window, I at least know where to start my search.
+
+Apparently I managed to break GNOME Keyring. I could still launch =Seahorse=, but I could no longer unlock my login keyring.
+
+#+ATTR_HTML: :class noborder
+[[file:https://img.bascht.com/2020-blog/09-tech/keyring.png]]
+
+Clicking the *Unlock* button would do nothing. and I would see multiple instances of
+
+#+begin_src log
+gnome-keyring-daemon[61407]: couldn't create system prompt: Timeout was reached
+gnome-keyring-daemon[61407]: couldn't initialize prompt: Timeout was reached
+#+end_src
+
+errors in my log.
+
+* The Culprit
+
+It looks like GNOME keyring daemon could no longer be unlocked since it failed
+to open it's password prompt. Up until now I was manually unlocking the GNOME
+Keyring on every login. Weird.
+
+Well, remember how I cleaned up my PAM config earlier?
+Turns out – GNOME keyring was messing with PAM.
+
+Apparently a lot of tiny little cogs - including DBUS, systemd, GNOME Keyring
+Daemon and PAM are turning in the background to give users a neat experience.
+
+Which is fine if you never mess with any config file yourself. But I hate those
+tiny little hidden cogs, since I like to roll my own
+[[https://git.bascht.space/bascht/dotfiles][dotfiles]] and want to bolt down
+every lose config flag.
+
+I ended up with the following fix: Up until this week I ran
+=gnome-keyring-daemon= from the same script that launched =sway=. Which worked –
+yet I still have no clue as to why it worked, since it launched the daemon
+before anything like =$DISPLAY= is set.
+
+Now I've moved the initialisation of =gnome-keyring-daemon= into my regular
+=autostart= file, which fires up graphical programs. 
+
+The lines now look like this:
+
+#+begin_src bash
+dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY > /dev/null
+swaymsg exec -- /usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets
+#+end_src
+
+(I don't need the SSH agent from GNOME Keyring since I am using
+customer-specific SSH agents, but that's a whole other story)
