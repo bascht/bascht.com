@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104915086178364086#favorited-by-2891",
+    "name": null,
+    "type": "entry",
+    "wm-id": 855130,
+    "author": {
+      "url": "https://functional.cafe/@juliobiason",
+      "name": "Biason::Julio::new();",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/cf81a140622adfc45bf5966366cf397e83a0c89c06bd042dd7075840e5513867.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104915086178364086/2891",
+    "wm-target": "https://bascht.com/posts/2020/09/23/tech-post-on-gnome-keyring-daemon-dbus/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-23T16:46:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104915086178364086/2891",
+  "target": "https://bascht.com/posts/2020/09/23/tech-post-on-gnome-keyring-daemon-dbus/",
+  "private": false
+}
