@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104914448953864080#favorited-by-5989",
+    "name": null,
+    "type": "entry",
+    "wm-id": 855129,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/ab225cb8df010572b10da6e4595c87bc421c8654317c6a4e57c7bc7cca43a794.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104914448953864080/5989",
+    "wm-target": "https://bascht.com/posts/2020/09/23/bascht-its-got-that-lovely-steam-en/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-23T16:45:32Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104914448953864080/5989",
+  "target": "https://bascht.com/posts/2020/09/23/bascht-its-got-that-lovely-steam-en/",
+  "private": false
+}
