@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1308698918025388033#favorited-by-13901982",
+    "name": null,
+    "type": "entry",
+    "wm-id": 854990,
+    "author": {
+      "url": "https://twitter.com/MartinOtten",
+      "name": "Martin Otten",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0bc74ce795155436d1a3692b69f589497b85996f753438be1130f22968dc3175.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1308698918025388033/13901982",
+    "wm-target": "https://bascht.com/posts/2020/09/23/lesen-sie-bald-das-sz-feature-warum-w%C3%B6l/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-23T10:16:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1308698918025388033/13901982",
+  "target": "https://bascht.com/posts/2020/09/23/lesen-sie-bald-das-sz-feature-warum-w%C3%B6l/",
+  "private": false
+}
