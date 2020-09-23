@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104914448953864080#favorited-by-44642",
+    "name": null,
+    "type": "entry",
+    "wm-id": 855054,
+    "author": {
+      "url": "https://norden.social/@citizenK4te",
+      "name": "citizenK4te@norden.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/cea184b1ac49597f98d35de90530a8f3038e71a6fb67e3258d27ad78af6e78a2.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104914448953864080/44642",
+    "wm-target": "https://bascht.com/posts/2020/09/23/bascht-its-got-that-lovely-steam-en/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-23T15:59:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104914448953864080/44642",
+  "target": "https://bascht.com/posts/2020/09/23/bascht-its-got-that-lovely-steam-en/",
+  "private": false
+}
