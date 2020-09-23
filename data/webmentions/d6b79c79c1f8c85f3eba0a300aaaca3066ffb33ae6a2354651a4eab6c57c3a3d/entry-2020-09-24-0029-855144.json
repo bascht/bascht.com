@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104915469263462506#favorited-by-39328",
+    "name": null,
+    "type": "entry",
+    "wm-id": 855144,
+    "author": {
+      "url": "https://mastodon.online/@pusteblume",
+      "name": "Pusteblume",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/7ed4cf1a1bb38c31c6dc693d80d2a918aae12d8913e3ea94503b642955098582.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104915469263462506/39328",
+    "wm-target": "https://bascht.com/posts/2020/09/23/bascht-chickpea-roast./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-23T18:12:09Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104915469263462506/39328",
+  "target": "https://bascht.com/posts/2020/09/23/bascht-chickpea-roast./",
+  "private": false
+}
