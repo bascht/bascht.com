@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/signifikanten/status/1309153373069901830",
+    "name": null,
+    "type": "entry",
+    "wm-id": 856985,
+    "author": {
+      "url": "https://twitter.com/signifikanten",
+      "name": "Michael Lindner",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/76a135b47055c19fc0172be12cbce4abbb3e7b2ed8d28e28ec34a129ae3bbb7a.jpg"
+    },
+    "content": {
+      "html": "Ich denke ja, weil auch das Backup schon eine Verarbeitung ist. Die Frage ist ja dann, welcher Rechtsgrund eine langfristige Speicherung notwendig macht(e), und inwiefern das abgelaufen ist.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich denke ja, weil auch das Backup schon eine Verarbeitung ist. Die Frage ist ja dann, welcher Rechtsgrund eine langfristige Speicherung notwendig macht(e), und inwiefern das abgelaufen ist."
+    },
+    "published": "2020-09-24T15:31:01+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309153373069901830",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T15:48:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309153373069901830",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
