@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1309145605562863616",
+    "name": null,
+    "type": "entry",
+    "wm-id": 856962,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Jo. Intuitiv auf jeden Fall. Allerdings geht das halt so gegen jeden Gedanken von Backup-Integrität. :D\n<a class=\"u-mention\" href=\"https://twitter.com/larsvegas\"></a>",
+      "text": "Jo. Intuitiv auf jeden Fall. Allerdings geht das halt so gegen jeden Gedanken von Backup-Integrität. :D"
+    },
+    "published": "2020-09-24T15:00:09+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309145605562863616",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T15:11:44Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309145605562863616",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
