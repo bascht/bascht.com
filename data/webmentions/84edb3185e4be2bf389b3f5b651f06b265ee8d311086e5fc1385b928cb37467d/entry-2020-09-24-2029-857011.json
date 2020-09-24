@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/til/status/1309166408035635201",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857011,
+    "author": {
+      "url": "https://twitter.com/til",
+      "name": "til",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7cc0b0e9ddc1a57061cd7bf1ac91a0b673558d3fc7aea980c3b5ee361ab838b9.jpg"
+    },
+    "content": {
+      "html": "Ich habe von einem Datenschutzbeauftragten gesagt bekommen: Ja, kann aber verzögert stattfinden, bspw. wenn erst nach 14 Tagen alle Backups rotiert sind, dann ist das auch OK. Wichtig nur, dass es dokumentiert ist.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich habe von einem Datenschutzbeauftragten gesagt bekommen: Ja, kann aber verzögert stattfinden, bspw. wenn erst nach 14 Tagen alle Backups rotiert sind, dann ist das auch OK. Wichtig nur, dass es dokumentiert ist."
+    },
+    "published": "2020-09-24T16:22:49+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309166408035635201",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T16:25:03Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309166408035635201",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
