@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1309164659845607436",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857012,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/862d0df58d6b2c4a947bbad068e38f1c167869f705fca7ff784f129ef1a83077.jpg"
+    },
+    "content": {
+      "html": "Damals hat ein Rechtsanwalt mir gesagt: nein wenn der Aufwand unverhältnismäßig hoch ist, wie man bei Bänder argumentieren könnte.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Damals hat ein Rechtsanwalt mir gesagt: nein wenn der Aufwand unverhältnismäßig hoch ist, wie man bei Bänder argumentieren könnte."
+    },
+    "published": "2020-09-24T16:15:52+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309164659845607436",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T16:25:04Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309164659845607436",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
