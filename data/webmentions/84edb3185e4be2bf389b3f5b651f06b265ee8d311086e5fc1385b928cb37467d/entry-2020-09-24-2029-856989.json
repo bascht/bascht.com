@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/grambulf/status/1309149437923659776",
+    "name": null,
+    "type": "entry",
+    "wm-id": 856989,
+    "author": {
+      "url": "https://twitter.com/grambulf",
+      "name": "Matthias",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5ff4f41c0982d2dee480f5cf81c9af12023eed43f715ac6935fdb2846245554.jpg"
+    },
+    "content": {
+      "html": "Der gleich Korinthenkacker wird anmerken, dass man Korinthenkacker mit \"h\" schreibt.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/larsvegas\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/tisba\"></a>",
+      "text": "Der gleich Korinthenkacker wird anmerken, dass man Korinthenkacker mit \"h\" schreibt."
+    },
+    "published": "2020-09-24T15:15:23+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309149437923659776",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T15:48:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309149437923659776",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
