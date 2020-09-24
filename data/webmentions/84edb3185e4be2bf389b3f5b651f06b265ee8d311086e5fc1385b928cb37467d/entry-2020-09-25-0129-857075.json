@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/clemensk/status/1309194580462653442",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857075,
+    "author": {
+      "url": "https://twitter.com/clemensk",
+      "name": "Clemens Kofler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1bd84a044a9edf6e7d691cc515ef1fbc268a84f228ae575114003c31491bd6ea.jpg"
+    },
+    "content": {
+      "html": "Außerdem sind Backups ggf. auch berechtigtes Interesse bzw. sogar höheres Interesse (z.B. Aufbewahrungspflicht für gewisse Dokumente wie Rechnungen).\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Außerdem sind Backups ggf. auch berechtigtes Interesse bzw. sogar höheres Interesse (z.B. Aufbewahrungspflicht für gewisse Dokumente wie Rechnungen)."
+    },
+    "published": "2020-09-24T18:14:46+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309194580462653442",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T18:48:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309194580462653442",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
