@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/clemensk/status/1309194880883855366",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857076,
+    "author": {
+      "url": "https://twitter.com/clemensk",
+      "name": "Clemens Kofler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1bd84a044a9edf6e7d691cc515ef1fbc268a84f228ae575114003c31491bd6ea.jpg"
+    },
+    "content": {
+      "html": "Summa summarum braucht‘s eine ordentliche Daten-, Backup- und Recoverystrategie, die diese Dinge ordentlich abbildet (und eben z.B. Rechnungen aufbewahrt, aber den Rest löscht, wenn du eine Löschung forderst).\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Summa summarum braucht‘s eine ordentliche Daten-, Backup- und Recoverystrategie, die diese Dinge ordentlich abbildet (und eben z.B. Rechnungen aufbewahrt, aber den Rest löscht, wenn du eine Löschung forderst)."
+    },
+    "published": "2020-09-24T18:15:57+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309194880883855366",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T18:49:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309194880883855366",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
