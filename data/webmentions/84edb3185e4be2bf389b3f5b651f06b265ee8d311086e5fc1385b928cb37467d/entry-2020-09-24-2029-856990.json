@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Sunny_93/status/1309150861420044288",
+    "name": null,
+    "type": "entry",
+    "wm-id": 856990,
+    "author": {
+      "url": "https://twitter.com/Sunny_93",
+      "name": "Headbangpikachu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7671fd67366d841c13bcb8643a8b1b098416cf58c2d3b8672eb5310a17c385c0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Liebe §-Follower (gerne RT). Wenn ich eine Antrag auf Lösung nach §17 DSGVO stelle – ist die Firma dann auch verpflichtet, meinen Datensatz"
+    },
+    "published": "2020-09-24T15:21:02+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1309141762863226881/1309150861420044288",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-09-24T15:48:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1309141762863226881/1309150861420044288",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
