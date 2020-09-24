@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhemberger/status/1309151219454271488",
+    "name": null,
+    "type": "entry",
+    "wm-id": 856986,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "Frederic @ Home 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": "Das Verfahren muss dann halt dokumentiert sein, auch dass man nachweisen kann, dass der Key sich im Zweifelsfall nicht \"einfach  so\" wiederherstellen lässt.\n\nDamit sind das keine personenbezogenen Daten mehr sondern Byte-Salat. 😁\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/larsvegas\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/tisba\"></a>",
+      "text": "Das Verfahren muss dann halt dokumentiert sein, auch dass man nachweisen kann, dass der Key sich im Zweifelsfall nicht \"einfach  so\" wiederherstellen lässt.\n\nDamit sind das keine personenbezogenen Daten mehr sondern Byte-Salat. 😁"
+    },
+    "published": "2020-09-24T15:22:28+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309151219454271488",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-24T15:48:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309151219454271488",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
