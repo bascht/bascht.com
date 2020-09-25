@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1309141762863226881#favorited-by-14627332",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857507,
+    "author": {
+      "url": "https://twitter.com/e2b",
+      "name": "Benedict 🥨🕵️‍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eef2c638f383f4e3976830e54fca5a3a2eba7eb714c7cae902c6c174ca12464f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1309141762863226881/14627332",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-25T07:43:41Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1309141762863226881/14627332",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
