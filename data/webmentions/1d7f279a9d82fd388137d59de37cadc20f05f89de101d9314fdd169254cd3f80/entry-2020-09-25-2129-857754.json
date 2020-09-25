@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104926610455266884#favorited-by-2104",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857754,
+    "author": {
+      "url": "https://social.tchncs.de/@tofuwabohu",
+      "name": "tofuwabohu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/84900657a4606dbf898c6038311002adb80b8b5df7bb681510079bd0fba3f479.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104926610455266884/2104",
+    "wm-target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-25T17:34:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104926610455266884/2104",
+  "target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+  "private": false
+}
