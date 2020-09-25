@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1309141762863226881#favorited-by-216333346",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857417,
+    "author": {
+      "url": "https://twitter.com/theologicalDE",
+      "name": "bengoshi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ae629a3cc3e17c1fc5d07c9830b554e54a8e99f17bf6d58d1124b364873292b0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1309141762863226881/216333346",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-25T05:07:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1309141762863226881/216333346",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
