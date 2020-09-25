@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/104926773353729447",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857766,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> omnomnom</p>",
+      "text": "@bascht omnomnom"
+    },
+    "published": "2020-09-25T17:38:21",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104926610455266884/104926773353729447",
+    "wm-target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-25T18:18:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104926610455266884/104926773353729447",
+  "target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+  "private": false
+}
