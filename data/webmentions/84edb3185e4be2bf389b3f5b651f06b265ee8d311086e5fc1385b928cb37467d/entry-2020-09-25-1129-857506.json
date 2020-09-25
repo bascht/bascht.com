@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1309390476819206144",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857506,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Die vorläufige Zusammenfassung der §-Antworten ist wohl: \"Es kommt drauf an.\"\n\nSelbst wenn ich verspreche dass ein Datensatz nach X Wochen aus dem Backup herausrotiert ist, müsste ich darauf achten nach einem Restore die Löschung zu wiederholen.\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/\"></a>",
+      "text": "Die vorläufige Zusammenfassung der §-Antworten ist wohl: \"Es kommt drauf an.\"\n\nSelbst wenn ich verspreche dass ein Datensatz nach X Wochen aus dem Backup herausrotiert ist, müsste ich darauf achten nach einem Restore die Löschung zu wiederholen."
+    },
+    "published": "2020-09-25T07:13:11+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1309390476819206144",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-09-25T07:43:39Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1309390476819206144",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
