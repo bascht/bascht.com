@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1309141762863226881#favorited-by-19773372",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857508,
+    "author": {
+      "url": "https://twitter.com/kinolux",
+      "name": "Wash your brain!",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0ceb2aae71c2854032bceb101194b0b52c4a54d024d13b30204a85289c89ec7.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1309141762863226881/19773372",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-25T07:43:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1309141762863226881/19773372",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
