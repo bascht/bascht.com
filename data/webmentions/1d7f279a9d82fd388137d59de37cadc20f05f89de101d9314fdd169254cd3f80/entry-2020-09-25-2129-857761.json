@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1309542555617497090#favorited-by-86257483",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857761,
+    "author": {
+      "url": "https://twitter.com/arrasz",
+      "name": "Joachim Arrasz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3edbfc64d4043a87c04755f42951f0149d5d2ba780942dd7480d7375a8a1182e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1309542555617497090/86257483",
+    "wm-target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-25T17:55:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1309542555617497090/86257483",
+  "target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+  "private": false
+}
