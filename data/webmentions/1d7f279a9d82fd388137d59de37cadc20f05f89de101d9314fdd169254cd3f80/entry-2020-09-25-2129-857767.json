@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104926908713348770",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857767,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@moonglum\" class=\"u-url\">@<span>moonglum</span></a></span> Edeka Tofu ist gerade der neue Favorit.</p>",
+      "text": "@moonglum Edeka Tofu ist gerade der neue Favorit."
+    },
+    "published": "2020-09-25T18:12:47",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104926610455266884/104926908713348770",
+    "wm-target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-25T18:18:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104926610455266884/104926908713348770",
+  "target": "https://bascht.com/posts/2020/09/25/bascht-baked-glazed-tofu-with-bell-pe/",
+  "private": false
+}
