@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/averell23/status/1309395173852540928",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857509,
+    "author": {
+      "url": "https://twitter.com/averell23",
+      "name": "Daniel Hahn 🇪🇺",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/48059c7e84b842480527c14118fba65a8042d2043d775a4c0db1e850fb93718d.jpg"
+    },
+    "content": {
+      "html": "Wie bereits gesagt: Auch für Backups muss es ein Löschmanagement geben, Backups dürfen nur so lange aufbewahrt werden wie tatsächlich benötigt und der Zugriff muss sehr eingeschränkt sein. Aber: Anspruch auf \"Vorab-Löschung\" einzelner Daten eher nur in extremen Fällen.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Wie bereits gesagt: Auch für Backups muss es ein Löschmanagement geben, Backups dürfen nur so lange aufbewahrt werden wie tatsächlich benötigt und der Zugriff muss sehr eingeschränkt sein. Aber: Anspruch auf \"Vorab-Löschung\" einzelner Daten eher nur in extremen Fällen."
+    },
+    "published": "2020-09-25T07:31:51+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309395173852540928",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-25T07:43:43Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309395173852540928",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
