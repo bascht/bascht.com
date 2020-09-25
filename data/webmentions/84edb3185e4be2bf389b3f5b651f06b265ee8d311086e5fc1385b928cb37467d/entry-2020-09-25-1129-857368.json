@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/niels_k/status/1309338607887450113",
+    "name": null,
+    "type": "entry",
+    "wm-id": 857368,
+    "author": {
+      "url": "https://twitter.com/niels_k",
+      "name": "Niels K.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f366fa4fcd37153beb860b894d607c0f6bc2224ff0a2a52b92c9ab22df80a8aa.jpg"
+    },
+    "content": {
+      "html": "Kommt drauf an. Wenn technisch möglich, dann ja. Ggf. halt auch zeitlich versetzt. \nIch mach Backups u.a. Mit ZFS-Snapshots des Dateisystems und pack die zusätzlich weg. Das ist alles read-only und ich kann nur alles oder gar nichts löschen. Nach 2 Wochen ist dann aber alles weg\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Kommt drauf an. Wenn technisch möglich, dann ja. Ggf. halt auch zeitlich versetzt. \nIch mach Backups u.a. Mit ZFS-Snapshots des Dateisystems und pack die zusätzlich weg. Das ist alles read-only und ich kann nur alles oder gar nichts löschen. Nach 2 Wochen ist dann aber alles weg"
+    },
+    "published": "2020-09-25T03:47:05+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309338607887450113",
+    "wm-target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-25T03:54:22Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1309141762863226881/1309338607887450113",
+  "target": "https://bascht.com/posts/2020/09/24/liebe-follower-gerne-rt.-wenn-ich-ei/",
+  "private": false
+}
