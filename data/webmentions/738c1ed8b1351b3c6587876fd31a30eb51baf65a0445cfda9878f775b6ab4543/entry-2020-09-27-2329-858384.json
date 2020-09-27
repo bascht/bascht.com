@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/104938028945930077#favorited-by-44969",
+    "name": null,
+    "type": "entry",
+    "wm-id": 858384,
+    "author": {
+      "url": "https://social.tchncs.de/@lazyowl",
+      "name": "it_owl",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/6731a8e3603407d0d7d37e1cc26a38418ccb82628602b549ebb90843066451ca.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104938028945930077/44969",
+    "wm-target": "https://bascht.com/posts/2020/09/27/bascht-ketchup-in-the-making/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-27T20:01:46Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/104938028945930077/44969",
+  "target": "https://bascht.com/posts/2020/09/27/bascht-ketchup-in-the-making/",
+  "private": false
+}
