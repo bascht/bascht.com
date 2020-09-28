@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1310624667384901634",
+    "name": null,
+    "type": "entry",
+    "wm-id": 858953,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Crypto-Dinge. … • <a href=\"https://bascht.com/posts/2020/09/28/crypto-dinge.-https/t.co/d9nhqrss5f/\">bascht.com/posts/2020/09/…</a>",
+      "text": "Crypto-Dinge. … • bascht.com/posts/2020/09/…"
+    },
+    "published": "2020-09-28T16:57:25+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1310624667384901634",
+    "wm-target": "https://bascht.com/posts/2020/09/28/crypto-dinge.-https/t.co/d9nhqrss5f/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-09-28T17:00:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1310624667384901634",
+  "target": "https://bascht.com/posts/2020/09/28/crypto-dinge.-https/t.co/d9nhqrss5f/",
+  "private": false
+}
