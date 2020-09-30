@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Argorak/status/1311021327059431426",
+    "name": null,
+    "type": "entry",
+    "wm-id": 861256,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": "Eine Apple Pointe sozusagen.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Eine Apple Pointe sozusagen."
+    },
+    "published": "2020-09-29T19:13:36+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1311019904129216520/1311021327059431426",
+    "wm-target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-30T15:06:18Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1311019904129216520/1311021327059431426",
+  "target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+  "private": false
+}
