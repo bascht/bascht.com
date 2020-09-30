@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/weiterdenken/status/1311043958487822336",
+    "name": null,
+    "type": "entry",
+    "wm-id": 861248,
+    "author": {
+      "url": "https://twitter.com/weiterdenken",
+      "name": "Torsten Lux",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99e48a095b3e959e514934d375c8f4ff2950d46eb4d0386e6afc6912d197d7ac.png"
+    },
+    "content": {
+      "html": null,
+      "text": "Muss mein iPad einmal pro Tag aufladen.\nEs ist wirklich ein iPad Pro.\nDie Pointe war eher flach.\nWie das… ach, egal."
+    },
+    "published": "2020-09-29T20:43:32+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1311019904129216520/1311043958487822336",
+    "wm-target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-09-30T15:06:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1311019904129216520/1311043958487822336",
+  "target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+  "private": false
+}
