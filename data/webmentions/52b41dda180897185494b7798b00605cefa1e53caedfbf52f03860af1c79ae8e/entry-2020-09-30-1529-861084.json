@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://uberspace.social/@hallo/104953326056484810",
+    "name": null,
+    "type": "entry",
+    "wm-id": 861084,
+    "author": {
+      "url": "https://uberspace.social/@hallo",
+      "name": "Uberspace Support",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/storage.spacebear.ee/8ff31525b52426c1bf91be3536f0da899be32feffde58a1b6d9d6bd7dacc786a.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Aktuell noch nicht mit den Tools die wir bereit stellen, du kannst dir analog zu U6 aber eine .qmail-Datei mit mehreren Empfängern anlegen.</p>\n<a class=\"u-mention\" href=\"https://manual.uberspace.de/mail-forwarding.html#configure-forwarding\"></a>",
+      "text": "@bascht Aktuell noch nicht mit den Tools die wir bereit stellen, du kannst dir analog zu U6 aber eine .qmail-Datei mit mehreren Empfängern anlegen."
+    },
+    "published": "2020-09-30T10:11:03",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104944332212737765/104953326083069024",
+    "wm-target": "https://bascht.com/posts/2020/09/28/hallo-huhu-ubernauten-sagt-mal-gibt/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/28/hallo-huhu-ubernauten-sagt-mal-gibt/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-30T10:32:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/104944332212737765/104953326083069024",
+  "target": "https://bascht.com/posts/2020/09/28/hallo-huhu-ubernauten-sagt-mal-gibt/",
+  "private": false
+}
