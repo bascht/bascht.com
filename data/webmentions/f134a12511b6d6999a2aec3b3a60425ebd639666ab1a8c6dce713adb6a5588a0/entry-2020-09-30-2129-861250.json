@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1311019904129216520#favorited-by-149996972",
+    "name": null,
+    "type": "entry",
+    "wm-id": 861250,
+    "author": {
+      "url": "https://twitter.com/CYxChris",
+      "name": "Christian Kühn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ab329b33daee304187192feef55040f019221dd4bd55e4443981f7aaaf369acd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1311019904129216520/149996972",
+    "wm-target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-30T15:06:09Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1311019904129216520/149996972",
+  "target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+  "private": false
+}
