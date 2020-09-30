@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/jnfrd/status/1311025699935924224",
+    "name": null,
+    "type": "entry",
+    "wm-id": 861255,
+    "author": {
+      "url": "https://twitter.com/jnfrd",
+      "name": "Read only",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4348b6dcbb2db81d72b15eec86adf87f9afa6ff8739464abee80bccf7df0bf72.jpg"
+    },
+    "content": {
+      "html": "Flacher als das flachste Apple Produkt.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Argorak\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Flacher als das flachste Apple Produkt."
+    },
+    "published": "2020-09-29T19:30:59+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1311019904129216520/1311025699935924224",
+    "wm-target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-09-30T15:06:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1311019904129216520/1311025699935924224",
+  "target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+  "private": false
+}
