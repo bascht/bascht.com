@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1311019904129216520#favorited-by-19458826",
+    "name": null,
+    "type": "entry",
+    "wm-id": 861249,
+    "author": {
+      "url": "https://twitter.com/m_mack",
+      "name": "Max",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/96069018bbdd02747008b83a2924fa333ec1cc4b9a1a07601b2a5b154c419957.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1311019904129216520/19458826",
+    "wm-target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-09-30T15:06:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1311019904129216520/19458826",
+  "target": "https://bascht.com/posts/2020/09/29/muss-mein-ipad-einmal-pro-tag-aufladen./",
+  "private": false
+}
