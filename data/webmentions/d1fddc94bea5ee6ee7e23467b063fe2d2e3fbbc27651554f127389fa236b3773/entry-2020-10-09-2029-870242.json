@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1314552707810840578#favorited-by-14384558",
+    "name": null,
+    "type": "entry",
+    "wm-id": 870242,
+    "author": {
+      "url": "https://twitter.com/Analyze",
+      "name": "Analyze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eddabb51f49ceb6669ce4087bba9dc1893e1b5674c07d5cc17df23c6adf03866.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1314552707810840578/14384558",
+    "wm-target": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-09T14:51:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1314552707810840578/14384558",
+  "target": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+  "private": false
+}
