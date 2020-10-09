@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1314309872821952512#favorited-by-8329282",
+    "name": null,
+    "type": "entry",
+    "wm-id": 869515,
+    "author": {
+      "url": "https://twitter.com/DJGummikuh",
+      "name": "DJGummikuh",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/474cb8c2d99a41aadec9bd02e51976b52dbf829f5da76a9d39c06a05e33d671c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1314309872821952512/8329282",
+    "wm-target": "https://bascht.com/posts/2020/10/08/oder-vor-den-herbstferien.-oder-nach-den/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-09T00:45:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1314309872821952512/8329282",
+  "target": "https://bascht.com/posts/2020/10/08/oder-vor-den-herbstferien.-oder-nach-den/",
+  "private": false
+}
