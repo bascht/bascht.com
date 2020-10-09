@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/moritzheiber/status/1314557287613239296",
+    "name": null,
+    "type": "entry",
+    "wm-id": 870193,
+    "author": {
+      "url": "https://twitter.com/moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e6864a6f6d418c1e2903db51c47048c2825e37e64058acab8a8a93ef127088b.jpg"
+    },
+    "content": {
+      "html": "Team Lied &gt; Team lead",
+      "text": "Team Lied > Team lead"
+    },
+    "published": "2020-10-09T13:24:15+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1314552707810840578/1314557287613239296",
+    "wm-target": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-10-09T13:43:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1314552707810840578/1314557287613239296",
+  "target": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+  "private": false
+}
