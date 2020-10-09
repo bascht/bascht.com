@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/agentdero/status/1314579416551288832",
+    "name": null,
+    "type": "entry",
+    "wm-id": 870281,
+    "author": {
+      "url": "https://twitter.com/agentdero",
+      "name": "rtyler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa871113fe7b134638c7bf7acf69ebcd6679855e354628acf1e9491020cb27b9.png"
+    },
+    "content": {
+      "html": "Jetzt schreibt Hampelmann ein kleines bisschen Code. Oh du mein Hampelmann mein Hampelmann bist du..\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Jetzt schreibt Hampelmann ein kleines bisschen Code. Oh du mein Hampelmann mein Hampelmann bist du.."
+    },
+    "published": "2020-10-09T14:52:11+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1314552707810840578/1314579416551288832",
+    "wm-target": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-09T16:00:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1314552707810840578/1314579416551288832",
+  "target": "https://bascht.com/posts/2020/10/09/team-lied-gt-team-lead/",
+  "private": false
+}
