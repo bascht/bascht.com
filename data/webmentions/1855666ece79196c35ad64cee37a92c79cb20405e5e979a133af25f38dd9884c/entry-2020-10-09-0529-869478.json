@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://metalhead.club/@mark/105001154313368404",
+    "name": null,
+    "type": "entry",
+    "wm-id": 869478,
+    "author": {
+      "url": "https://metalhead.club/@mark",
+      "name": "mark@metalhead.club",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/e1857f0331c733e25cbca62e221858dcfed7c50b2cd69c9f797f21bc87f6759d.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <br />An F# triad = not cool.<br />It's almost Brutalism - standing there like a towering, ugly concrete construct.</p>\n<a class=\"u-mention\" href=\"http://blog.cretaria.com/posts/bye-bye-apple.html\"></a>",
+      "text": "@bascht \nAn F# triad = not cool.\nIt's almost Brutalism - standing there like a towering, ugly concrete construct."
+    },
+    "published": "2020-10-08T20:54:25",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105001114419550306/105001154338880856",
+    "wm-target": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-08T23:33:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105001114419550306/105001154338880856",
+  "target": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+  "private": false
+}
