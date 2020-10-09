@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105001223700434352",
+    "name": null,
+    "type": "entry",
+    "wm-id": 869480,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://metalhead.club/@mark\" class=\"u-url\">@<span>mark</span></a></span> You talkin to the guy with 4 coffee-table books on Brutalist architecture? :D</p>\n<a class=\"u-mention\" href=\"http://blog.cretaria.com/posts/bye-bye-apple.html\"></a>",
+      "text": "@mark You talkin to the guy with 4 coffee-table books on Brutalist architecture? :D"
+    },
+    "published": "2020-10-08T21:12:03",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105001114419550306/105001223700434352",
+    "wm-target": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-08T23:33:50Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105001114419550306/105001223700434352",
+  "target": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+  "private": false
+}
