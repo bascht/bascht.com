@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105001114419550306#reblogged-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 869481,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105001114419550306/1375",
+    "wm-target": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-10-08T23:33:53Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105001114419550306/1375",
+  "target": "https://bascht.com/posts/2020/10/08/come-on-the-startup-chord-was-coolhttp/",
+  "private": false
+}
