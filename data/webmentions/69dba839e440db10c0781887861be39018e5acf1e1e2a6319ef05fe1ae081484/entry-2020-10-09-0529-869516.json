@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/DasLampe/status/1314312517146021888",
+    "name": null,
+    "type": "entry",
+    "wm-id": 869516,
+    "author": {
+      "url": "https://twitter.com/DasLampe",
+      "name": "André",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1f99ab09ed0883072990472a80fdee44fde3207be06b2c8a50df78d9822925c0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Oder vor den Herbstferien.\nOder nach den Herbstferien. twitter.com/gabonn/status/…"
+    },
+    "published": "2020-10-08T21:11:37+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1314309872821952512/1314312517146021888",
+    "wm-target": "https://bascht.com/posts/2020/10/08/oder-vor-den-herbstferien.-oder-nach-den/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-10-09T00:45:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1314309872821952512/1314312517146021888",
+  "target": "https://bascht.com/posts/2020/10/08/oder-vor-den-herbstferien.-oder-nach-den/",
+  "private": false
+}
