@@ -1,0 +1,24 @@
+{
+  "src": "https://pinboard.in/u:bascht",
+  "date": "2020-10-12T08:55:21.000Z",
+  "slug": null,
+  "tags": [
+    "github",
+    "repo",
+    "bascht’s",
+    "Activity",
+    "pinboard"
+  ],
+  "text": "via bascht’s Activity https://ift.tt/2d0I3y3",
+  "type": "pinboard",
+  "title": "GitHub - authelia/authelia: The Single Sign-On Multi-Factor portal for web apps",
+  "images": [],
+  "category": "posts",
+  "media_url": ", \"\"",
+  "description": null,
+  "preview_url": null,
+  "original_url": "https://github.com/authelia/authelia",
+  "location_latitude": null,
+  "additional_payload": null,
+  "location_longitude": null
+}
