@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1315713226005413893#favorited-by-18973210",
+    "name": null,
+    "type": "entry",
+    "wm-id": 873852,
+    "author": {
+      "url": "https://twitter.com/stilpirat",
+      "name": "Steffen Böttcher",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bb0fe7dc41cf1cc8583594726227dbb99c914bfc89b964e277da6c27848ded51.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1315713226005413893/18973210",
+    "wm-target": "https://bascht.com/posts/2020/10/12/die-nachbarn-haben-scheinbar-ihr-compute/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-13T08:32:53Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1315713226005413893/18973210",
+  "target": "https://bascht.com/posts/2020/10/12/die-nachbarn-haben-scheinbar-ihr-compute/",
+  "private": false
+}
