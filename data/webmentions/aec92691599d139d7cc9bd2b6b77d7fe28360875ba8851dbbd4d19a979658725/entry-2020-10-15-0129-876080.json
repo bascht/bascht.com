@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105034268522671393#favorited-by-766",
+    "name": null,
+    "type": "entry",
+    "wm-id": 876080,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/a17065e2fbcaaefa7ddd5ff8bafe49030c201b608d5cba9f57caec9f4adffec0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105034268522671393/766",
+    "wm-target": "https://bascht.com/posts/2020/10/14/bascht-this-is-how-i-spent-my-afterno/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-14T18:16:59Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105034268522671393/766",
+  "target": "https://bascht.com/posts/2020/10/14/bascht-this-is-how-i-spent-my-afterno/",
+  "private": false
+}
