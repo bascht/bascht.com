@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105038226283735382#favorited-by-28681",
+    "name": null,
+    "type": "entry",
+    "wm-id": 876718,
+    "author": {
+      "url": "https://cuties.social/@x44203",
+      "name": "OwO :flanell:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/e746dcf391e9f097e75ac4439c081d0a25730a7da3b6bfaca9afceb97e697634.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105038226283735382/28681",
+    "wm-target": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-15T11:06:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105038226283735382/28681",
+  "target": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+  "private": false
+}
