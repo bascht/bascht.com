@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105037448377164300",
+    "name": null,
+    "type": "entry",
+    "wm-id": 876568,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@moritzheiber\" class=\"u-url\">@<span>moritzheiber</span></a></span> Even worse: Apparently this is set &lt;per device&gt;, not &lt;per account&gt;</p>",
+      "text": "@moritzheiber Even worse: Apparently this is set <per device>, not <per account>"
+    },
+    "published": "2020-10-15T06:44:28",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105037392444348440/105037448377164300",
+    "wm-target": "https://bascht.com/posts/2020/10/15/bascht-slack-is-getting-way-too-chumm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/15/bascht-slack-is-getting-way-too-chumm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-15T07:10:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105037392444348440/105037448377164300",
+  "target": "https://bascht.com/posts/2020/10/15/bascht-slack-is-getting-way-too-chumm/",
+  "private": false
+}
