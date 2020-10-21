@@ -297,6 +297,7 @@ article.summary a.anchor {
 
 .stream .twitter_tweet img,
 .stream .mastodon_toot img,
+.stream .pixelfed_image img,
 .stream .instagram_video img,
 .stream .instagram_image img {
     width: 90%;
@@ -353,6 +354,7 @@ div.social_bar > a {
     background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 100%);
 }
 
+.social_bar .pixelfed_image img,
 .social_bar .instagram_image img {
     width: 20%;
 }
