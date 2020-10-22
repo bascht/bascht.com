@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bscht/status/1318950130943430657",
+    "name": null,
+    "type": "entry",
+    "wm-id": 883465,
+    "author": {
+      "url": "https://twitter.com/bscht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Oh look, a new Pixelfed instance of yours truly:\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/10/20/\"></a>",
+      "text": "Oh look, a new Pixelfed instance of yours truly:"
+    },
+    "published": "2020-10-21T16:19:50+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1318950130943430657",
+    "wm-target": "https://bascht.com/posts/2020/10/20/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-10-21T20:32:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1318950130943430657",
+  "target": "https://bascht.com/posts/2020/10/20/",
+  "private": false
+}
