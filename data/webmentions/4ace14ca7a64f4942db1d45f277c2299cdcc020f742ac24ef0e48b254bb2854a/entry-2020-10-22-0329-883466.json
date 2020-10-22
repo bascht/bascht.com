@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1318932298285387778#favorited-by-1060944386572369921",
+    "name": null,
+    "type": "entry",
+    "wm-id": 883466,
+    "author": {
+      "url": "https://twitter.com/frohenburg",
+      "name": "Nina Frohenburg❌",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2ce5619a150b860c3c0b14e63a29241d0d0a8692966c990bfea96aec44832145.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1318932298285387778/1060944386572369921",
+    "wm-target": "https://bascht.com/posts/2020/10/20/helloworldnoafdfckafd/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-21T20:32:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1318932298285387778/1060944386572369921",
+  "target": "https://bascht.com/posts/2020/10/20/helloworldnoafdfckafd/",
+  "private": false
+}
