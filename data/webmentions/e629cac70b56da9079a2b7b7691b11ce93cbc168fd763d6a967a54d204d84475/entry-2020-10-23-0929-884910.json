@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105080832532203993#favorited-by-766",
+    "name": null,
+    "type": "entry",
+    "wm-id": 884910,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/a17065e2fbcaaefa7ddd5ff8bafe49030c201b608d5cba9f57caec9f4adffec0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105080832532203993/766",
+    "wm-target": "https://bascht.com/posts/2020/10/22/bascht-i-have-been-shoveling-around-f/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-23T04:51:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105080832532203993/766",
+  "target": "https://bascht.com/posts/2020/10/22/bascht-i-have-been-shoveling-around-f/",
+  "private": false
+}
