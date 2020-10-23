@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105084603483584475#favorited-by-607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 885408,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/12b2766e066a9fc8e0ee70efa4132405f31b4c8f6dd85ad62809359cf164210c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105084603483584475/607",
+    "wm-target": "https://bascht.com/posts/2020/10/23/bascht-kaffee-kaffee-kaffee/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-23T15:20:11Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105084603483584475/607",
+  "target": "https://bascht.com/posts/2020/10/23/bascht-kaffee-kaffee-kaffee/",
+  "private": false
+}
