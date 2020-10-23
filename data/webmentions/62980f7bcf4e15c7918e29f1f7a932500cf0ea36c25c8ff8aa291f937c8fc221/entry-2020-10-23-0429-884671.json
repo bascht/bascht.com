@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105080076358262919#favorited-by-34848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 884671,
+    "author": {
+      "url": "https://post.lurk.org/@praxeology",
+      "name": "Brendan Howell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/180bfb0f40bd4555501f327c800326a95524bc0eec34eac8f47a57cad18abf5a.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105080076358262919/34848",
+    "wm-target": "https://bascht.com/posts/2020/10/22/joy-sob-job/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-23T00:31:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105080076358262919/34848",
+  "target": "https://bascht.com/posts/2020/10/22/joy-sob-job/",
+  "private": false
+}
