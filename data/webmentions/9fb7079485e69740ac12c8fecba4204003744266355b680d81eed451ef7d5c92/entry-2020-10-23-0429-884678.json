@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/105081310189016806",
+    "name": null,
+    "type": "entry",
+    "wm-id": 884678,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> enabled javascript, and can't get it to work?</p><p>Also making a clipboard with a newline, only works in `bash` for me, not `zsh` or `fish`, which just puts the newline in as something still being edited. Just maybe it could work with a \\r character or something, though..</p>\n<a class=\"u-mention\" href=\"https://briantracy.xyz/writing/copy-paste-shell.html\"></a>",
+      "text": "@bascht enabled javascript, and can't get it to work?Also making a clipboard with a newline, only works in `bash` for me, not `zsh` or `fish`, which just puts the newline in as something still being edited. Just maybe it could work with a \\r character or something, though.."
+    },
+    "published": "2020-10-23T00:39:06",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105081273329179375/105081310242288163",
+    "wm-target": "https://bascht.com/posts/2020/10/23/well-at-least-copying-via-middle-mouse/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/23/well-at-least-copying-via-middle-mouse/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-23T00:47:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105081273329179375/105081310242288163",
+  "target": "https://bascht.com/posts/2020/10/23/well-at-least-copying-via-middle-mouse/",
+  "private": false
+}
