@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1319574022624075776#favorited-by-15611952",
+    "name": null,
+    "type": "entry",
+    "wm-id": 885937,
+    "author": {
+      "url": "https://twitter.com/zebel",
+      "name": "Sebastian Ziebell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/08381672e71fb3a1f4727473a4b44b88e337dbc99de2d9e69b60021d399efcef.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1319574022624075776/15611952",
+    "wm-target": "https://bascht.com/posts/2020/10/23/225182318342574080/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-24T07:58:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1319574022624075776/15611952",
+  "target": "https://bascht.com/posts/2020/10/23/225182318342574080/",
+  "private": false
+}
