@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105101101955298596#reblogged-by-4079",
+    "name": null,
+    "type": "entry",
+    "wm-id": 888395,
+    "author": {
+      "url": "https://mstdn.io/@veer66",
+      "name": "वीर 🇹🇭🖥☕️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/2e3c9d70e9947b5ca3489e0f1aa2e2be9a7f1e0bbdc65b4f96e584f571962837.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105101101955298596/4079",
+    "wm-target": "https://bascht.com/posts/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-10-26T17:44:03Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105101101955298596/4079",
+  "target": "https://bascht.com/posts/",
+  "private": false
+}
