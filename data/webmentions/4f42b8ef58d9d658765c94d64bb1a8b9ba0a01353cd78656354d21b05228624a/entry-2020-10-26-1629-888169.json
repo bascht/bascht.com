@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105101101955298596#favorited-by-69",
+    "name": null,
+    "type": "entry",
+    "wm-id": 888169,
+    "author": {
+      "url": "https://chaos.social/@pinkprius",
+      "name": "pinkprius [en]",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/88fb584c045e5d69e44d773a6c47822f913c4826b11415b12f89c06304510960.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105101101955298596/69",
+    "wm-target": "https://bascht.com/posts/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-26T13:04:28Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105101101955298596/69",
+  "target": "https://bascht.com/posts/",
+  "private": false
+}
