@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105100177912769796#favorited-by-41122",
+    "name": null,
+    "type": "entry",
+    "wm-id": 887985,
+    "author": {
+      "url": "https://mastodon.madrid/@felix",
+      "name": "antiimperialist action ☭",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/1140883565cc6ce0f5405229ee5755f926454d46201f2e22bbd8573eac66e9a7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105100177912769796/41122",
+    "wm-target": "https://bascht.com/posts/2020/10/26/bascht-uncluttered-a-few-boxes-in-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-26T09:19:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105100177912769796/41122",
+  "target": "https://bascht.com/posts/2020/10/26/bascht-uncluttered-a-few-boxes-in-the/",
+  "private": false
+}
