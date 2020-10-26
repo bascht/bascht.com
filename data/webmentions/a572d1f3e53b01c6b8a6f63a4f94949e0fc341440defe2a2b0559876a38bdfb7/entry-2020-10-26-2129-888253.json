@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1320706493168103425#favorited-by-5008851",
+    "name": null,
+    "type": "entry",
+    "wm-id": 888253,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a06f2de154cc3d426c2989437b76fe610e6fd7020b22ab0a5477275f9d6315ac.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1320706493168103425/5008851",
+    "wm-target": "https://bascht.com/posts/2020/10/26/dropped-instagram-from-my-homepage-in-fa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-26T15:02:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/baschtdotcom/1320706493168103425/5008851",
+  "target": "https://bascht.com/posts/2020/10/26/dropped-instagram-from-my-homepage-in-fa/",
+  "private": false
+}
