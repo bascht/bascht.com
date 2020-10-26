@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105100177912769796#favorited-by-17764",
+    "name": null,
+    "type": "entry",
+    "wm-id": 888014,
+    "author": {
+      "url": "https://openbiblio.social/@dr0i",
+      "name": "dr0i@openbiblio.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/eff75cf4b09e6803928f04949c57f1775156c4117e88970622ca4dc00f3d6860.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105100177912769796/17764",
+    "wm-target": "https://bascht.com/posts/2020/10/26/bascht-uncluttered-a-few-boxes-in-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-26T09:58:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105100177912769796/17764",
+  "target": "https://bascht.com/posts/2020/10/26/bascht-uncluttered-a-few-boxes-in-the/",
+  "private": false
+}
