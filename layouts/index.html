@@ -18,7 +18,7 @@
             Viel Spaß beim stöbern!
             <p class="noborder"><img alt="Baschts Unterschrift" src="/images/bascht_unterschrift.gif"></p>
             <div class="social_bar">
-                {{ $array := slice "foursquare_checkin" "instagram_image" "twitter_tweet" }}
+                {{ $array := slice "foursquare_checkin" "pixelfed_image" "twitter_tweet" }}
                 {{ range $type := $array }}
                 {{ range first 1 (where site.Pages "Params.type" $type).ByDate.Reverse }}
                 {{ .Render "summary" }}
