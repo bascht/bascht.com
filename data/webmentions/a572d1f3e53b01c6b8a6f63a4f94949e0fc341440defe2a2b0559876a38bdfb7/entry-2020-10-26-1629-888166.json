@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105101101955298596#favorited-by-8937",
+    "name": null,
+    "type": "entry",
+    "wm-id": 888166,
+    "author": {
+      "url": "https://anticapitalist.party/@mooncake",
+      "name": "mooncake",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/df71b29d064407047420f8c4d6394e52f41ba7cf2887104446d21cec879febb9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105101101955298596/8937",
+    "wm-target": "https://bascht.com/posts/2020/10/26/dropped-instagram-from-my-homepage-in-fa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-26T13:04:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105101101955298596/8937",
+  "target": "https://bascht.com/posts/2020/10/26/dropped-instagram-from-my-homepage-in-fa/",
+  "private": false
+}
