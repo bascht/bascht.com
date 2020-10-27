@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105108426529283642",
+    "name": null,
+    "type": "entry",
+    "wm-id": 889453,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>(I lok saying poppadums)</p>",
+      "text": "(I lok saying poppadums)"
+    },
+    "published": "2020-10-27T19:35:09",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105108125724772933/105108426529283642",
+    "wm-target": "https://bascht.com/posts/2020/10/27/bascht-fried-some-poppadums.-if-you-s/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/27/bascht-fried-some-poppadums.-if-you-s/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-27T19:50:12Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105108125724772933/105108426529283642",
+  "target": "https://bascht.com/posts/2020/10/27/bascht-fried-some-poppadums.-if-you-s/",
+  "private": false
+}
