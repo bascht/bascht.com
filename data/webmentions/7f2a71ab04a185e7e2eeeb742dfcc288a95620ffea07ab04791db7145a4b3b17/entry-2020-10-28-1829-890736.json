@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105113115418279163#favorited-by-1301",
+    "name": null,
+    "type": "entry",
+    "wm-id": 890736,
+    "author": {
+      "url": "https://radical.town/@Absolutely_Blakely",
+      "name": "Boo!akely",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.spacebear.ee/5c07c3d1f40e230e15d9213bedba26008cd9ed1a9c578521aa8e4d3878b9b624.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105113115418279163/1301",
+    "wm-target": "https://bascht.com/posts/2020/10/28/bascht-eels-music-fading-in-from-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-10-28T16:13:46Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105113115418279163/1301",
+  "target": "https://bascht.com/posts/2020/10/28/bascht-eels-music-fading-in-from-the/",
+  "private": false
+}
