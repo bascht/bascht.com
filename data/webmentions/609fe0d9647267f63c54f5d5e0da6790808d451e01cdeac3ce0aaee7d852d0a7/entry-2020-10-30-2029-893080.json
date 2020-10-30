@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1322159823509704706",
+    "name": null,
+    "type": "entry",
+    "wm-id": 893080,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "bascht: CW “Food” (sensitive)… • <a href=\"https://bascht.com/posts/2020/10/30/bascht-cw-food-sensitive/\">bascht.com/posts/2020/10/…</a>",
+      "text": "bascht: CW “Food” (sensitive)… • bascht.com/posts/2020/10/…"
+    },
+    "published": "2020-10-30T12:54:01+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1322159823509704706",
+    "wm-target": "https://bascht.com/posts/2020/10/30/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-10-30T14:22:22Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1322159823509704706",
+  "target": "https://bascht.com/posts/2020/10/30/bascht-cw-food-sensitive/",
+  "private": false
+}
