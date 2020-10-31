@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105126213330336446",
+    "name": null,
+    "type": "entry",
+    "wm-id": 893534,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><a href=\"https://www.nytimes.com/2020/10/30/business/retailers-election-protests.html\"><span>https://www.</span><span>nytimes.com/2020/10/30/busines</span><span>s/retailers-election-protests.html</span></a></p>\n<a href=\"https://www.nytimes.com/2020/10/30/business/retailers-election-protests.html\">Boarded-Up Windows and Increased Security: Retailers Brace for the Election</a>",
+      "text": "https://www.nytimes.com/2020/10/30/business/retailers-election-protests.html\nBoarded-Up Windows and Increased Security: Retailers Brace for the Election"
+    },
+    "published": "2020-10-30T22:58:34",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105038226283735382/105126213330336446",
+    "wm-target": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-30T23:48:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105038226283735382/105126213330336446",
+  "target": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+  "private": false
+}
