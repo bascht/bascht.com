@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105043732262141547",
+    "name": null,
+    "type": "entry",
+    "wm-id": 893535,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@moonglum\" class=\"u-url\">@<span>moonglum</span></a></span> 😭</p>",
+      "text": "@moonglum 😭"
+    },
+    "published": "2020-10-16T09:22:32",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105038226283735382/105043732262141547",
+    "wm-target": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-10-30T23:48:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105038226283735382/105043732262141547",
+  "target": "https://bascht.com/posts/2020/10/15/bascht-up-until-a-few-years-ago-this/",
+  "private": false
+}
