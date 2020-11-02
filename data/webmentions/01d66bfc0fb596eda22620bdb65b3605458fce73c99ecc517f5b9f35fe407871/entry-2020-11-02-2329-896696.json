@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@frumble/105142693593126696",
+    "name": null,
+    "type": "entry",
+    "wm-id": 896696,
+    "author": {
+      "url": "https://chaos.social/@frumble",
+      "name": "Knuff von Böhm ☑️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5effb6da59d1b72416a8e0a5ae11bf72321961e29db9306a7eeb52073b99026b.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> »To me, it's another account of unix's pervasive and permanent damage to the computing industry.« WTF</p>\n<a class=\"u-mention\" href=\"http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html\"></a>",
+      "text": "@bascht »To me, it's another account of unix's pervasive and permanent damage to the computing industry.« WTF"
+    },
+    "published": "2020-11-02T20:49:43",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105142650822904072/105142693613799865",
+    "wm-target": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-02T21:26:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105142650822904072/105142693613799865",
+  "target": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+  "private": false
+}
