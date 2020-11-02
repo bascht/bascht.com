@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105136845453730237#reblogged-by-766",
+    "name": null,
+    "type": "entry",
+    "wm-id": 895975,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105136845453730237/766",
+    "wm-target": "https://bascht.com/posts/2020/11/01/so-much-of-what-we-do-what-we-are-is/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-02T06:35:59Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105136845453730237/766",
+  "target": "https://bascht.com/posts/2020/11/01/so-much-of-what-we-do-what-we-are-is/",
+  "private": false
+}
