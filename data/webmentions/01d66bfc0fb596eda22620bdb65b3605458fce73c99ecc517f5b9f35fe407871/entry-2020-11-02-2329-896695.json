@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105142702245447781",
+    "name": null,
+    "type": "entry",
+    "wm-id": 896695,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@frumble\" class=\"u-url\">@<span>frumble</span></a></span> Text kommt von einem Plan9 Hardliner - also nicht wundern. :D</p>\n<a class=\"u-mention\" href=\"http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html\"></a>",
+      "text": "@frumble Text kommt von einem Plan9 Hardliner - also nicht wundern. :D"
+    },
+    "published": "2020-11-02T20:51:55",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105142650822904072/105142702245447781",
+    "wm-target": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-02T21:26:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105142650822904072/105142702245447781",
+  "target": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+  "private": false
+}
