@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105142650822904072#favorited-by-2891",
+    "name": null,
+    "type": "entry",
+    "wm-id": 896756,
+    "author": {
+      "url": "https://functional.cafe/@juliobiason",
+      "name": "Biason::Julio::new();",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/cf81a140622adfc45bf5966366cf397e83a0c89c06bd042dd7075840e5513867.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105142650822904072/2891",
+    "wm-target": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-02T23:45:45Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105142650822904072/2891",
+  "target": "https://bascht.com/posts/2020/11/02/til-dotfiles-werent-supposed-to-be-hid/",
+  "private": false
+}
