@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1324112811178471432#favorited-by-19122208",
+    "name": null,
+    "type": "entry",
+    "wm-id": 899499,
+    "author": {
+      "url": "https://twitter.com/maerys",
+      "name": "Maria Herrmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ab88827021e328dca629c8d159f3852a3c8eb935f8cfcc1e2e597ecf6c707dce.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1324112811178471432/19122208",
+    "wm-target": "https://bascht.com/posts/2020/11/04/wenn-man-die-augen-ein-bisschen-zusammen/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-05T08:07:18Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1324112811178471432/19122208",
+  "target": "https://bascht.com/posts/2020/11/04/wenn-man-die-augen-ein-bisschen-zusammen/",
+  "private": false
+}
