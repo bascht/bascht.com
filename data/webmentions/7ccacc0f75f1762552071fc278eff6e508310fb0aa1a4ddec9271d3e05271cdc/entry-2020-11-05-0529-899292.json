@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105154310917530122",
+    "name": null,
+    "type": "entry",
+    "wm-id": 899292,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Don't @ me. It's the perfect pop song!</p>",
+      "text": "Don't @ me. It's the perfect pop song!"
+    },
+    "published": "2020-11-04T22:04:09",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105154305539951485/105154310917530122",
+    "wm-target": "https://bascht.com/posts/2020/11/04/i-do-have-one-musical-guilty-pleasure-an/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/04/i-do-have-one-musical-guilty-pleasure-an/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-05T03:55:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105154305539951485/105154310917530122",
+  "target": "https://bascht.com/posts/2020/11/04/i-do-have-one-musical-guilty-pleasure-an/",
+  "private": false
+}
