@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1324135332569325568",
+    "name": null,
+    "type": "entry",
+    "wm-id": 899447,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "I do have one musical guilty pleasure an… • <a href=\"https://bascht.com/posts/2020/11/04/i-do-have-one-musical-guilty-pleasure-an/\">bascht.com/posts/2020/11/…</a>",
+      "text": "I do have one musical guilty pleasure an… • bascht.com/posts/2020/11/…"
+    },
+    "published": "2020-11-04T23:43:59+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1324135332569325568",
+    "wm-target": "https://bascht.com/posts/2020/11/04/i-do-have-one-musical-guilty-pleasure-an/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-11-05T07:22:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1324135332569325568",
+  "target": "https://bascht.com/posts/2020/11/04/i-do-have-one-musical-guilty-pleasure-an/",
+  "private": false
+}
