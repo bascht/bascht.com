@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1324035928214691841#favorited-by-71885183",
+    "name": null,
+    "type": "entry",
+    "wm-id": 900643,
+    "author": {
+      "url": "https://twitter.com/_klausi_",
+      "name": "klausi@mastodon.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/099da09b059a4e4c738fd774a949842f3605fc2c8f3f8743c13cf8a1ccfff081.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1324035928214691841/71885183",
+    "wm-target": "https://bascht.com/posts/2020/11/04/softwareentwicklung-nach-agiler-art/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-06T09:00:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1324035928214691841/71885183",
+  "target": "https://bascht.com/posts/2020/11/04/softwareentwicklung-nach-agiler-art/",
+  "private": false
+}
