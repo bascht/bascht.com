@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1320425771287142400#favorited-by-304451277",
+    "name": null,
+    "type": "entry",
+    "wm-id": 900081,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus Rebbert @🏡 🦠 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ef3bb7ebda278e07ab5741cd98aeaf8eca77bfe43ca4c6c3977f3cc966ec56a4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1320425771287142400/304451277",
+    "wm-target": "https://bascht.com/posts/2020/10/25/sch%C3%B6ne-runde-vor-allem-durch-die-d%C3%B6rfer/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-05T20:38:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1320425771287142400/304451277",
+  "target": "https://bascht.com/posts/2020/10/25/sch%C3%B6ne-runde-vor-allem-durch-die-d%C3%B6rfer/",
+  "private": false
+}
