@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/mrebbert/status/1324368275262840835",
+    "name": null,
+    "type": "entry",
+    "wm-id": 900076,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus Rebbert @🏡 🦠 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ef3bb7ebda278e07ab5741cd98aeaf8eca77bfe43ca4c6c3977f3cc966ec56a4.jpg"
+    },
+    "content": {
+      "html": "blesse noblesse\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "blesse noblesse"
+    },
+    "published": "2020-11-05T15:09:37+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1324353066443907073/1324368275262840835",
+    "wm-target": "https://bascht.com/posts/2020/11/05/meine-blesse-https/t.co/7bkjwbde3z/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/05/meine-blesse-https/t.co/7bkjwbde3z/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-05T20:38:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1324353066443907073/1324368275262840835",
+  "target": "https://bascht.com/posts/2020/11/05/meine-blesse-https/t.co/7bkjwbde3z/",
+  "private": false
+}
