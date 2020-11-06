@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1320659354127925250",
+    "name": null,
+    "type": "entry",
+    "wm-id": 900080,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Das Modell »meinen eigenen Schweiß rieche ich am Liebsten« :D\n<a class=\"u-mention\" href=\"https://twitter.com/counterparts905\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/simkoelsch\"></a>",
+      "text": "Das Modell »meinen eigenen Schweiß rieche ich am Liebsten« :D"
+    },
+    "published": "2020-10-26T09:31:41+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1320655510887108608/1320659354127925250",
+    "wm-target": "https://bascht.com/posts/2020/10/26/socially-distanced-hard-core-shows-wird/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/10/26/socially-distanced-hard-core-shows-wird/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-05T20:38:11Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1320655510887108608/1320659354127925250",
+  "target": "https://bascht.com/posts/2020/10/26/socially-distanced-hard-core-shows-wird/",
+  "private": false
+}
