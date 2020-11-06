@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1320655510887108608#favorited-by-24673",
+    "name": null,
+    "type": "entry",
+    "wm-id": 900079,
+    "author": {
+      "url": "https://twitter.com/okiess",
+      "name": "Oliver",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa8ac5402634558a9f2d2a70b92067fe70d78d4cde8bbfb7c8153f3cd30815dd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1320655510887108608/24673",
+    "wm-target": "https://bascht.com/posts/2020/10/26/socially-distanced-hard-core-shows-wird/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-05T20:38:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1320655510887108608/24673",
+  "target": "https://bascht.com/posts/2020/10/26/socially-distanced-hard-core-shows-wird/",
+  "private": false
+}
