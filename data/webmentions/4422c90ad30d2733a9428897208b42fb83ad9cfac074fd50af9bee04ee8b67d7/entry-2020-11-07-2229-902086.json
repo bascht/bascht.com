@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/paardendrummer/status/1325184841168510976",
+    "name": null,
+    "type": "entry",
+    "wm-id": 902086,
+    "author": {
+      "url": "https://twitter.com/paardendrummer",
+      "name": "Barry 'de Paardendrummer ' 🐴 🥁 🧙",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9bf46228a7c69f37f51e5eb2a42eb3e492f81e6eb245d548a1908e9854679692.jpg"
+    },
+    "content": {
+      "html": "This is probably the follow up solution after the whole auto tiling revolution. It's gonna be great ;-)\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/baschtdotcom\"></a>",
+      "text": "This is probably the follow up solution after the whole auto tiling revolution. It's gonna be great ;-)"
+    },
+    "published": "2020-11-07T21:14:21+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/baschtdotcom/1325160839788130304/1325184841168510976",
+    "wm-target": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-07T21:18:12Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/baschtdotcom/1325160839788130304/1325184841168510976",
+  "target": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+  "private": false
+}
