@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pieville.net/@harrison_partch/105171015184029096",
+    "name": null,
+    "type": "entry",
+    "wm-id": 902092,
+    "author": {
+      "url": "https://pieville.net/@harrison_partch",
+      "name": "Billy Bottlepossum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3fcbdcfc161c2784739ed34264f52ae40c4152e2947350971a1e3a63b98671a2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> My object to your window manager is that it is not XMonad.</p>",
+      "text": "@bascht My object to your window manager is that it is not XMonad."
+    },
+    "published": "2020-11-07T20:52:16",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105170642265525275/105171015221905227",
+    "wm-target": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-07T21:36:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105170642265525275/105171015221905227",
+  "target": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+  "private": false
+}
