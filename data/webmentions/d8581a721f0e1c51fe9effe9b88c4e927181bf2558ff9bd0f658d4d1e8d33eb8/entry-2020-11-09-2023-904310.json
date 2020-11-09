@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bknofe/status/1325811639602581504",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904310,
+    "author": {
+      "url": "https://twitter.com/bknofe",
+      "name": "Benjamin Knofe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1cbc869499a4e4fe2afaeedc3fa4a62f822a54ce3cc8963132c1dd4812d908da.jpg"
+    },
+    "content": {
+      "html": "Besser als Dose Red Bull als Betthupferl\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Besser als Dose Red Bull als Betthupferl"
+    },
+    "published": "2020-11-09T14:45:01+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1325767673322598400/1325811639602581504",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-09T15:29:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1325767673322598400/1325811639602581504",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
