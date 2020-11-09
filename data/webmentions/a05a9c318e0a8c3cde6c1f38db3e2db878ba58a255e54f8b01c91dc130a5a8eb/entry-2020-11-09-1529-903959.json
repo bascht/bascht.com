@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105180106887573360#favorited-by-14449",
+    "name": null,
+    "type": "entry",
+    "wm-id": 903959,
+    "author": {
+      "url": "https://radical.town/@Ephaemera",
+      "name": "Vx. Invariant Virable",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7e82a44dcdc14ee6c2e920c6bb8b6db2db3a159013cbf6405f6cd7587a937f12.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105180106887573360/14449",
+    "wm-target": "https://bascht.com/posts/2020/11/09/the-company-now-legally-known-as-that/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T12:05:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105180106887573360/14449",
+  "target": "https://bascht.com/posts/2020/11/09/the-company-now-legally-known-as-that/",
+  "private": false
+}
