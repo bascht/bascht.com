@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1325767673322598400#favorited-by-107749759",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904224,
+    "author": {
+      "url": "https://twitter.com/adrianegger",
+      "name": "arie ▴▴▴",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/089eef4e1fb85f02ec4267d583d040b39475f7bf077869de76bc0cded5f08c31.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/107749759",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T14:40:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/107749759",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
