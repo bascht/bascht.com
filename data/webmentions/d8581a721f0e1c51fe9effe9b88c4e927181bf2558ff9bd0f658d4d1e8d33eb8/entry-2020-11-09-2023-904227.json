@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/depone/status/1325773763624001537",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904227,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a06f2de154cc3d426c2989437b76fe610e6fd7020b22ab0a5477275f9d6315ac.jpg"
+    },
+    "content": {
+      "html": "Tasse Kaffee um 22:30 Uhr?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Tasse Kaffee um 22:30 Uhr?"
+    },
+    "published": "2020-11-09T12:14:31+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1325767673322598400/1325773763624001537",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-09T14:40:24Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1325767673322598400/1325773763624001537",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
