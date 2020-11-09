@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Maggysche/status/1325769290734333953",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904226,
+    "author": {
+      "url": "https://twitter.com/Maggysche",
+      "name": "Maddie @ 🏠",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7194d623cb637382f436136b73498424952eab724052a8b9473167da38bb6116.jpg"
+    },
+    "content": {
+      "html": "Ohai, it me 😂\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ohai, it me 😂"
+    },
+    "published": "2020-11-09T11:56:45+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1325767673322598400/1325769290734333953",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-09T14:40:22Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1325767673322598400/1325769290734333953",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
