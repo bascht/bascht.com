@@ -1,5 +1,3 @@
 {{ if .Params.type }}
-<span class="social_logo">
-    {{ readFile (printf "static/images/posts/%s.svg" .Params.type) | safeHTML }}
-</span>
-{{ end }}
+<span class="social_logo">{{ readFile (printf "static/images/posts/%s.svg" .Params.type) | safeHTML }}</span>
+{{- end -}}

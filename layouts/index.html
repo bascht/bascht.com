@@ -16,15 +16,16 @@
             Musikalisch fühle ich mich irgendwo zwischen Hardcore und Jazz zu Hause, spiele Gitarre und ein
             KORG nanoKEY (letzteres noch mehr schlecht als recht).
             Viel Spaß beim stöbern!
-            <p class="noborder"><img alt="Baschts Unterschrift" src="/images/bascht_unterschrift.gif"></p>
-            <div class="social_bar">
-                {{ $array := slice "foursquare_checkin" "pixelfed_image" "twitter_tweet" }}
+            <h5>Hier die aktuellsten Updates aus <a href="/posts">/posts</a>:</h5>
+            <ul class="social_bar">
+                {{ $array := slice "twitter_tweet" "pixelfed_image" "foursquare_checkin" }}
                 {{ range $type := $array }}
                 {{ range first 1 (where site.Pages "Params.type" $type).ByDate.Reverse }}
-                {{ .Render "summary" }}
+                <li><a href="{{.Permalink}}">{{partial "social_logo" . }}{{ .Title }}</a> <small>{{.Date.Format "2006-01-01" }}</small></li>
                 {{ end }}
                 {{ end }}
-            </div>
+            </ul>
+            <p class="noborder"><img alt="Baschts Unterschrift" src="/images/bascht_unterschrift.gif"></p>
 
         </div>
     </div>

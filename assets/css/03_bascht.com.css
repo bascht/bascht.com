@@ -323,37 +323,19 @@ h2 span.social_logo {
     display: inline-block;
 }
 
-div.social_bar {
-    clear: both;
-    padding-left: 1em;
-    height: 230px;
+ul.social_bar {
+    list-style-type: none;
 }
 
-div.social_bar > a {
-    margin-left: 2em;
+.social_bar span.social_logo {
+    color: #f2f2f2;
+    width: 1.2em;
+    height: 1.2em;
+    margin-right: 0.4em;
+    margin-left: 0.2em;
+    vertical-align: left;
     display: inline-block;
-    /* height: 4em; */
-
-    padding: 1em;
-    box-sizing: border-box;
-    margin: 1em;
-    width: 25%;
-    /* height: 10em; */
-    flex: 1 auto;
-    float: center;
-    height: 100%;
-    border: 1px solid #cdcdcd;
-    border-radius: 5px;
-
-    overflow: hidden;
-    text-decoration: none;
-    color: inherit;
-
-    background: -moz-linear-gradient(top, #f2f2f2 0%, #ffffff 100%);
-    background: -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 100%);
-    background: linear-gradient(to bottom, #f2f2f2 0%,#ffffff 100%);
 }
-
 .social_bar .pixelfed_image img,
 .social_bar .instagram_image img {
     width: 20%;
