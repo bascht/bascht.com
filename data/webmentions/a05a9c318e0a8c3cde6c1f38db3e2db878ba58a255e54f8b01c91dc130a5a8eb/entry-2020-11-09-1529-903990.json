@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105180106887573360#favorited-by-21958",
+    "name": null,
+    "type": "entry",
+    "wm-id": 903990,
+    "author": {
+      "url": "https://mastodon.technology/@JenLA",
+      "name": "JenLA",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6149d81e5259789fb256641d6fc19c0212cdc8104b83dd35ea3f9a19a274a678.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105180106887573360/21958",
+    "wm-target": "https://bascht.com/posts/2020/11/09/the-company-now-legally-known-as-that/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T12:44:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105180106887573360/21958",
+  "target": "https://bascht.com/posts/2020/11/09/the-company-now-legally-known-as-that/",
+  "private": false
+}
