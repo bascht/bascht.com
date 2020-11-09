@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1325767673322598400#favorited-by-18682592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904213,
+    "author": {
+      "url": "https://twitter.com/cmx66",
+      "name": "Stephan Hoyer🚴‍♂️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a1ef21939d3770f8ed74e1d17a8a14804df7f149ab926882cfc18041be40130.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/18682592",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T14:40:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/18682592",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
