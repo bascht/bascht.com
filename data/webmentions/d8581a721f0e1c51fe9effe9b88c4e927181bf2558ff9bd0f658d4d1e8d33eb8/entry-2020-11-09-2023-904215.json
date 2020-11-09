@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1325767673322598400#favorited-by-386650181",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904215,
+    "author": {
+      "url": "https://twitter.com/thealexgodaband",
+      "name": "thealexgodaband",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/019adf807990933d52eb5976499620993e29e4a3d86ea6bf18063fbd9e34eedb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/386650181",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T14:40:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/386650181",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
