@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1325767673322598400#favorited-by-119188470",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904311,
+    "author": {
+      "url": "https://twitter.com/bknofe",
+      "name": "Benjamin Knofe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1cbc869499a4e4fe2afaeedc3fa4a62f822a54ce3cc8963132c1dd4812d908da.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/119188470",
+    "wm-target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T15:29:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1325767673322598400/119188470",
+  "target": "https://bascht.com/posts/2020/11/09/passiert.-https/t.co/sls60d7lfa/",
+  "private": false
+}
