@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105182017673193259#favorited-by-2870",
+    "name": null,
+    "type": "entry",
+    "wm-id": 904551,
+    "author": {
+      "url": "https://social.tchncs.de/@michiel",
+      "name": "michiel@social.tchncs.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/da3664ee37f7fbc4bf8181a20f3303b449b71a5797cc8f57c577b88efe56a59e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105182017673193259/2870",
+    "wm-target": "https://bascht.com/posts/2020/11/09/in-9/10-kubernetes-projects-developer-ha/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-09T21:02:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105182017673193259/2870",
+  "target": "https://bascht.com/posts/2020/11/09/in-9/10-kubernetes-projects-developer-ha/",
+  "private": false
+}
