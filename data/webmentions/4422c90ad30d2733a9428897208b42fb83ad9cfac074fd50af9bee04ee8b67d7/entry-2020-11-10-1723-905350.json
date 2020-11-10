@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://aus.social/@moaxey/105185631534163473",
+    "name": null,
+    "type": "entry",
+    "wm-id": 905350,
+    "author": {
+      "url": "https://aus.social/@moaxey",
+      "name": "moaxey@aus.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span><br />I'd been using popos and never knew about that, excellent!</p>",
+      "text": "@bascht\nI'd been using popos and never knew about that, excellent!"
+    },
+    "published": "2020-11-10T10:49:24",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105170642265525275/105185631590988342",
+    "wm-target": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-10T11:23:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105170642265525275/105185631590988342",
+  "target": "https://bascht.com/posts/2020/11/07/pop-os-gnome-window-stacking-looks-grea/",
+  "private": false
+}
