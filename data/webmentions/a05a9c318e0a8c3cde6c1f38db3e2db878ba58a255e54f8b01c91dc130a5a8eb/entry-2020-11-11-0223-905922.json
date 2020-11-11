@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105180106887573360#reblogged-by-1757",
+    "name": null,
+    "type": "entry",
+    "wm-id": 905922,
+    "author": {
+      "url": "https://mastodon.social/@dheadshot",
+      "name": "Deadly Headshot",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/11f95f00967cf79b5f1287978a8929c47bc8ecc083bc08cfc5eebd3b831ebbe9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105180106887573360/1757",
+    "wm-target": "https://bascht.com/posts/2020/11/09/the-company-now-legally-known-as-that/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-10T23:08:17Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105180106887573360/1757",
+  "target": "https://bascht.com/posts/2020/11/09/the-company-now-legally-known-as-that/",
+  "private": false
+}
