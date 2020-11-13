@@ -1,0 +1,54 @@
+#+title: Instafedup
+#+date: 2020-11-13T20:55:00+02:00
+#+draft: false
+#+tags[]: instagram social indieweb facebook privacy
+#+images[]: https://img.bascht.com/2020-blog/11-instagram/instagram.jpg
+
+Ich bin seit ein paar Wochen Instafrei. Eigentlich frage ich mich warum ich
+überhaupt dort gelandet war. Eine dreiviertel Stunde tägliche Screen-Time im
+Austausch dafür dass ich Facebook eine
+
+#+BEGIN_QUOTE
+ nicht-exklusive, übertragbare, unterlizenzierbare und weltweite Lizenz, meine
+ Inhalte […] zu hosten, zu verwenden, zu verbreiten, zu modifizieren,
+ auszuführen, zu kopieren, öffentlich vorzuführen oder anzuzeigen, zu übersetzen
+ und abgeleitete Werke davon zu erstellen
+#+END_QUOTE
+
+schenke, ist dann doch kein so guter Deal.
+
+[[https://www.calnewport.com/books/digital-minimalism/][Cal Newports Buch]] hat
+mich daran erinnert worauf ich wohl wieder reingefallen war: Es ist eine
+Zeitfressmaschine, die sich nicht ein paar Scrolls am Tag zufrieden gibt,
+sondern immer wieder geöffnet werden möchte und neue tolle Posts & Produkte
+die Schüssel hoch spült. Alles für ein bisschen Dopamin.
+
+#+Attr_HTML: :alt Screenshot meiner Instagram-Seite
+[[file:https://img.bascht.com/2020-blog/11-instagram/instagram.jpg]]
+
+Also habe ich vor ein paar Wochen Instagram erst von meinem Home Screen und
+später ganz von meinem Telefon gelöscht. Nach ein paar Tagen konnte ich keine
+Phantom-Klicks in den Bereich des fehlenden Instagram-Icons mehr verzeichnen –
+Operation geglückt.
+
+Eigentlich ärgerlich - nachdem ich erst kürzlich so viel Zeit investiert hatte,
+meine Bilder [[/posts/instagram][hier zu sammeln und anzuzeigen]]. Aber immerhin
+habe ich so wenigstens einen kurzen Teil meiner Instagram-Zeit hier archiviert.
+In Anbetracht der Halbwertszeit solcher Portale sicherlich keine schlechte Idee.
+
+Den Account selbst werde ich erst mal so stehen lassen, vielleicht importiere
+ich ja irgendwann mal noch die ganzen alten Bilder rüber. 
+
+Im Übrigen gibt es wirklich guten Content auf Instagram. Mein Freund
+[[https://codelater.de/][Dirk]] hat dort zum Beispiel einen großartigen neuen
+[[https://www.instagram.com/p/CHizruNhyDo/][Brettspiel-Account]] begonnen.
+Via [[https://github.com/RSS-Bridge/rss-bridge/][RSS-Bridge]] kann ich ihm 
+auch weiterhin folgen - nur für likes via RSS-Reader habe ich noch keine Lösung.
+
+Fotos werde ich weiterhin posten, aber hübsch eingetuppert in eine
+[[https://pixelfed.org/][Pixelfed]] Instanz auf [[https://pixel.bascht.space]]
+und aggregiert auf [[/posts/pixelfed]].
+
+Dort bekomme ich im Mittel /0 Likes/ pro Foto.
+
+Funkstille ist keine schlechte Sache.
