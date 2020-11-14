@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105208954519830092#favorited-by-3702",
+    "name": null,
+    "type": "entry",
+    "wm-id": 911127,
+    "author": {
+      "url": "https://freespeechextremist.com/users/amerika",
+      "name": "🅴 🅽 🅳 = 🄸 🅃 🅈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1adb37af662cdd40f88cb1716e04219b2ce1bf7c4fcb3b88f9e2bc7761e559b5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105208954519830092/3702",
+    "wm-target": "https://bascht.com/posts/2020/11/14/were-reaching-the-cnet-guide-to-speedi/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-14T15:23:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105208954519830092/3702",
+  "target": "https://bascht.com/posts/2020/11/14/were-reaching-the-cnet-guide-to-speedi/",
+  "private": false
+}
