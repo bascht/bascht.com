@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105215792125976505#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 913953,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105215792125976505/4585",
+    "wm-target": "https://bascht.com/posts/2020/11/15/bascht-from-todays-bike-ride-around/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-16T14:05:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105215792125976505/4585",
+  "target": "https://bascht.com/posts/2020/11/15/bascht-from-todays-bike-ride-around/",
+  "private": false
+}
