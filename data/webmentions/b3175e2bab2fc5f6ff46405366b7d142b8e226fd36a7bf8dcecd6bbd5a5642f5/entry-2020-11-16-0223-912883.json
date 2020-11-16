@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1328048656671518722",
+    "name": null,
+    "type": "entry",
+    "wm-id": 912883,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Masken.\nKlassisches, gutbürgerliches Son… • <a href=\"https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/\">bascht.com/posts/2020/11/…</a>",
+      "text": "Masken.\nKlassisches, gutbürgerliches Son… • bascht.com/posts/2020/11/…"
+    },
+    "published": "2020-11-15T18:54:08+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1328048656671518722",
+    "wm-target": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-11-15T20:37:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1328048656671518722",
+  "target": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+  "private": false
+}
