@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bknofe/status/1328239991982583809",
+    "name": null,
+    "type": "entry",
+    "wm-id": 914260,
+    "author": {
+      "url": "https://twitter.com/bknofe",
+      "name": "Benjamin Knofe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1cbc869499a4e4fe2afaeedc3fa4a62f822a54ce3cc8963132c1dd4812d908da.jpg"
+    },
+    "content": {
+      "html": "Machst du Leberwurst?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Machst du Leberwurst?"
+    },
+    "published": "2020-11-16T07:34:26+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1328041895268917249/1328239991982583809",
+    "wm-target": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-16T19:05:12Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1328041895268917249/1328239991982583809",
+  "target": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+  "private": false
+}
