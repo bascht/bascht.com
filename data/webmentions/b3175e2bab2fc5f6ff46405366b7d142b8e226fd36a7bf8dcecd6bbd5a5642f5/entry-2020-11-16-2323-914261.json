@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ptrwllrt/status/1328046351867895810",
+    "name": null,
+    "type": "entry",
+    "wm-id": 914261,
+    "author": {
+      "url": "https://twitter.com/ptrwllrt",
+      "name": "Peter Willert @ home",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d51b2505238bb36256a16245b027fd77762e9abc2a9607a321f64935759459b.jpg"
+    },
+    "content": {
+      "html": "Nach altem Rezept!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Nach altem Rezept!"
+    },
+    "published": "2020-11-15T18:44:58+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1328041895268917249/1328046351867895810",
+    "wm-target": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-16T19:05:16Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1328041895268917249/1328046351867895810",
+  "target": "https://bascht.com/posts/2020/11/15/masken.-klassisches-gutb%C3%BCrgerliches-son/",
+  "private": false
+}
