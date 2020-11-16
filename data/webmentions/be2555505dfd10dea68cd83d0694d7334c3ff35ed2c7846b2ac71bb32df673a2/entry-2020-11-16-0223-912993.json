@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105215792125976505#favorited-by-1270",
+    "name": null,
+    "type": "entry",
+    "wm-id": 912993,
+    "author": {
+      "url": "https://social.tchncs.de/@lauteshirn",
+      "name": "Augenbrauenmann 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/57a13167e1c28904d4c51cc7c088facee5ee20b41c7893fbf65c90bf55529915.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105215792125976505/1270",
+    "wm-target": "https://bascht.com/posts/2020/11/15/bascht-from-todays-bike-ride-around/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-15T22:31:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105215792125976505/1270",
+  "target": "https://bascht.com/posts/2020/11/15/bascht-from-todays-bike-ride-around/",
+  "private": false
+}
