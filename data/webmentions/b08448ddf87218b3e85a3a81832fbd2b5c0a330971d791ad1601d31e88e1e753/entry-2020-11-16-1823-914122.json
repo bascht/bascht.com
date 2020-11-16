@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105220652826287715#favorited-by-46369",
+    "name": null,
+    "type": "entry",
+    "wm-id": 914122,
+    "author": {
+      "url": "https://kolektiva.social/@inkorrupt",
+      "name": "Subcöm. insur. ret. Midas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/81b30710d189ce50bf5fe34f62cd828dc1037a787d2246770acb9101c74d5651.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105220652826287715/46369",
+    "wm-target": "https://bascht.com/posts/2020/11/16/bascht-me-checking-free-system-memor/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-16T16:10:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105220652826287715/46369",
+  "target": "https://bascht.com/posts/2020/11/16/bascht-me-checking-free-system-memor/",
+  "private": false
+}
