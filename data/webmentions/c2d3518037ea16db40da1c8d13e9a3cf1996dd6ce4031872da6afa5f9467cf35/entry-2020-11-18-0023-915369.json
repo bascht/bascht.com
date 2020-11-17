@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105220537224106623",
+    "name": null,
+    "type": "entry",
+    "wm-id": 915369,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://xoxo.zone/@annika\" class=\"u-url\">@<span>annika</span></a></span> yes absolutely. In the long run I expect way more ARM-ish images coming our way. But I think we're talking years, not months. And I already see arguments coming where developers will want to just use the NodeJS ARM build on their M1 notebooks.</p>",
+      "text": "@annika yes absolutely. In the long run I expect way more ARM-ish images coming our way. But I think we're talking years, not months. And I already see arguments coming where developers will want to just use the NodeJS ARM build on their M1 notebooks."
+    },
+    "published": "2020-11-16T14:46:22",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105220291538307762/105220537224106623",
+    "wm-target": "https://bascht.com/posts/2020/11/16/bascht-why-doesnt-docker-run-on-appl/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/16/bascht-why-doesnt-docker-run-on-appl/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-17T20:10:44Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105220291538307762/105220537224106623",
+  "target": "https://bascht.com/posts/2020/11/16/bascht-why-doesnt-docker-run-on-appl/",
+  "private": false
+}
