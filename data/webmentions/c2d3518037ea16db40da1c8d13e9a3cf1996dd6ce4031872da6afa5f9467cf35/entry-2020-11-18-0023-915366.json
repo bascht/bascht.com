@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/105220458252785767",
+    "name": null,
+    "type": "entry",
+    "wm-id": 915366,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://xoxo.zone/@annika\" class=\"u-url\">@<span>annika</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> On top of that, it's also a question of the ecosystem around you. Just because you want to run ARMv7 doesn't mean anyone or anything around will or wants to, especially for on-prem systems and the laptop of your colleague .. Apple has been on this island before (PowerPC) and I don't see this turning out any other way when it comes to the professional compute market, unless Microsoft &amp; friends are going to push compatibility layers</p>",
+      "text": "@annika @bascht On top of that, it's also a question of the ecosystem around you. Just because you want to run ARMv7 doesn't mean anyone or anything around will or wants to, especially for on-prem systems and the laptop of your colleague .. Apple has been on this island before (PowerPC) and I don't see this turning out any other way when it comes to the professional compute market, unless Microsoft & friends are going to push compatibility layers"
+    },
+    "published": "2020-11-16T14:26:17",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105220291538307762/105220458281767613",
+    "wm-target": "https://bascht.com/posts/2020/11/16/bascht-why-doesnt-docker-run-on-appl/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/16/bascht-why-doesnt-docker-run-on-appl/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-17T20:10:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105220291538307762/105220458281767613",
+  "target": "https://bascht.com/posts/2020/11/16/bascht-why-doesnt-docker-run-on-appl/",
+  "private": false
+}
