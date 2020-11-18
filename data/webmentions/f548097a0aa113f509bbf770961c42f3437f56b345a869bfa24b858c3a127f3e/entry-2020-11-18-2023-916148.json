@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://uberspace.social/@hallo/105231840893254724",
+    "name": null,
+    "type": "entry",
+    "wm-id": 916148,
+    "author": {
+      "url": "https://uberspace.social/@hallo",
+      "name": "Uberspace Support",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8ff31525b52426c1bf91be3536f0da899be32feffde58a1b6d9d6bd7dacc786a.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> nein, leider nicht.</p>\n<a class=\"u-mention\" href=\"https://manual.uberspace.de/en/web-logs.html\"></a>",
+      "text": "@bascht nein, leider nicht."
+    },
+    "published": "2020-11-18T14:41:02",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105231519407559321/105231840922224921",
+    "wm-target": "https://bascht.com/posts/2020/11/18/hallo-hej-gibt-es-in-u7-die-m%C3%B6glichkei/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/18/hallo-hej-gibt-es-in-u7-die-m%C3%B6glichkei/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-18T14:42:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105231519407559321/105231840922224921",
+  "target": "https://bascht.com/posts/2020/11/18/hallo-hej-gibt-es-in-u7-die-m%C3%B6glichkei/",
+  "private": false
+}
