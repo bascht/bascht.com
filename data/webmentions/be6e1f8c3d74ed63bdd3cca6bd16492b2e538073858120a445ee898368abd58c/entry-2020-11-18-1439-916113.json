@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1329024149449306112#favorited-by-291013642",
+    "name": null,
+    "type": "entry",
+    "wm-id": 916113,
+    "author": {
+      "url": "https://twitter.com/sbc_777",
+      "name": "Christian N",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/032facfde92de651595798d6572f4485aa7cacd88272ee684de9c107493da5df.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1329024149449306112/291013642",
+    "wm-target": "https://bascht.com/tech/2020/11/18/better-gitlab-pipeline-ux-with-custom-css/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-18T13:10:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1329024149449306112/291013642",
+  "target": "https://bascht.com/tech/2020/11/18/better-gitlab-pipeline-ux-with-custom-css/",
+  "private": false
+}
