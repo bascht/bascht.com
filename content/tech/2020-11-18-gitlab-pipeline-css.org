@@ -1,0 +1,49 @@
+#+title: Better GitLab Pipeline UX with custom CSS
+#+date: 2020-11-18
+#+tags[]: gitlab css ci firefox stylus
+#+images[]: https://img.bascht.com/2020-blog/11-tech/gitlab-pipeline-css.png
+
+Here's a quick
+[[https://addons.mozilla.org/en-US/firefox/addon/styl-us/][Firefox Stylus]] trick for GitLab CI users:
+
+If you want to highlight certain rollout jobs (think: production or beta
+rollouts), in the pipeline overview you can do so by matching the =id= element.
+Here's my custom CSS I apply to GitLab:
+
+#+begin_src css
+.gl-label { border-radius: 0.35rem }
+
+.pipeline-graph .build { width: auto; }
+
+.pipeline-graph .gl-text-truncate { overflow: visible; }
+
+.pipeline-graph .build .build-content { border-radius: 10px; }
+
+.pipeline-graph li.build[id*="production"] .ci-job-component .menu-item {
+    box-shadow: 0px 0px 5px #f00606;
+}
+
+.pipeline-graph li.build[id*="staging"] .ci-job-component .menu-item {
+    box-shadow: 0px 0px 5px #f09a06;
+}
+#+end_src
+
+
+It does a few things, most importantly:
+
+- Stretches the pipeline graph so I don't have to scroll horizontally.
+- Highlights =staging= and =production= rollouts in orange / red.
+- Un-Rounds the boxes, since I like them a bit chunkier.
+- Stretches the boxes, so I they're not cut off after 180px.
+
+The result looks like this:
+
+[[file:https://img.bascht.com/2020-blog/11-tech/gitlab-pipeline-css.png]]
+
+Oh – and /of course/ I want proper =mono= fonts, so
+
+#+begin_src css
+font-family: "JetBrains Mono" !important;
+#+end_src
+
+is applied to most websites I use on a day-to-day basis.
