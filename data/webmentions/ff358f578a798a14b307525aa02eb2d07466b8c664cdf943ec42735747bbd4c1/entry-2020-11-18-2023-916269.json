@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1329024149449306112#favorited-by-118674790",
+    "name": null,
+    "type": "entry",
+    "wm-id": 916269,
+    "author": {
+      "url": "https://twitter.com/dnsmichi",
+      "name": "Michael \"🍪☕️🇦🇹\" Friedrich 🦊",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27db531c579d4b24ae50668c320928bc21598625f56e21972b13f2db9105e75e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1329024149449306112/118674790",
+    "wm-target": "https://bascht.com/posts/2020/11/18/falls-ihr-mit-gitlab-ci-arbeitet-hier/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-18T17:41:54Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1329024149449306112/118674790",
+  "target": "https://bascht.com/posts/2020/11/18/falls-ihr-mit-gitlab-ci-arbeitet-hier/",
+  "private": false
+}
