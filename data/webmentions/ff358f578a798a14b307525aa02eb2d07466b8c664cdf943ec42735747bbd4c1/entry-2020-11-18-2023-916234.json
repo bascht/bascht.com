@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/sbc_777/status/1329045833547997189",
+    "name": null,
+    "type": "entry",
+    "wm-id": 916234,
+    "author": {
+      "url": "https://twitter.com/sbc_777",
+      "name": "Christian N",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/032facfde92de651595798d6572f4485aa7cacd88272ee684de9c107493da5df.png"
+    },
+    "content": {
+      "html": null,
+      "text": "Falls ihr mit @GitLab CI arbeitet, hier sind ein paar Zeilen CSS welche die Pipeline Übersicht etwas leichter navigierbar machen:\n\nhttps://t"
+    },
+    "published": "2020-11-18T12:56:33+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1329024149449306112/1329045833547997189",
+    "wm-target": "https://bascht.com/posts/2020/11/18/falls-ihr-mit-gitlab-ci-arbeitet-hier/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-18T15:49:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1329024149449306112/1329045833547997189",
+  "target": "https://bascht.com/posts/2020/11/18/falls-ihr-mit-gitlab-ci-arbeitet-hier/",
+  "private": false
+}
