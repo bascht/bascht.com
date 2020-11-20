@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tisba/status/1329773737818861568",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918360,
+    "author": {
+      "url": "https://twitter.com/tisba",
+      "name": "Sebastian Cohnen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ef2663d8174cfe5a7d9e658b0d2218b93dad52bad269aa8129c0773cd23af3dd.jpg"
+    },
+    "content": {
+      "html": "Ist 40Gbits nicht ein bisschen Overkill? 😁\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/AVM_DE\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ist 40Gbits nicht ein bisschen Overkill? 😁"
+    },
+    "published": "2020-11-20T13:08:59+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329773737818861568",
+    "wm-target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-20T19:21:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329773737818861568",
+  "target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+  "private": false
+}
