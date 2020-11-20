@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1329794461690421249",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918355,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "DSL → 7582 (7.13) → Kabel → 7590 (7.21)\nNach Neustart passte alles wieder. Lustigerweise hat sich die FRITZ!Box auch vorher beim WiFi Uplink verrechnet – sogar noch um ein paar Stellen mehr. :D\n<a class=\"u-mention\" href=\"https://twitter.com/AVM_DE\"></a>",
+      "text": "DSL → 7582 (7.13) → Kabel → 7590 (7.21)\nNach Neustart passte alles wieder. Lustigerweise hat sich die FRITZ!Box auch vorher beim WiFi Uplink verrechnet – sogar noch um ein paar Stellen mehr. :D"
+    },
+    "published": "2020-11-20T14:31:20+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329794461690421249",
+    "wm-target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-20T19:21:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329794461690421249",
+  "target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+  "private": false
+}
