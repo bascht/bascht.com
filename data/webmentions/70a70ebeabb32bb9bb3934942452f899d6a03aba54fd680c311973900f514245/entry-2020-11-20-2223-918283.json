@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105238312206463202#favorited-by-813",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918283,
+    "author": {
+      "url": "https://mstdn.io/@Koehr",
+      "name": "koehr",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/438a0be3e16925ec3b67fb73f86a4edcd9d1b9f3edc419ae08738b492a5c98ca.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105238312206463202/813",
+    "wm-target": "https://bascht.com/posts/2020/11/19/bascht-this-is-the-worst-part-of-my-r/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-20T16:30:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105238312206463202/813",
+  "target": "https://bascht.com/posts/2020/11/19/bascht-this-is-the-worst-part-of-my-r/",
+  "private": false
+}
