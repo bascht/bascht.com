@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1329797616058724352",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918356,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": "Du kannst das mit den Zeitreisen auch nicht sein lassen, oder?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/AVM_DE\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Du kannst das mit den Zeitreisen auch nicht sein lassen, oder?"
+    },
+    "published": "2020-11-20T14:43:52+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329797616058724352",
+    "wm-target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-20T19:21:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329797616058724352",
+  "target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+  "private": false
+}
