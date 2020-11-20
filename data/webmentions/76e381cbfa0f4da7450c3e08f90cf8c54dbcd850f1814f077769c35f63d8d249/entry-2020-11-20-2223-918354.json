@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1329772217803169793#favorited-by-304451277",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918354,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus Rebbert @🏡 🦠 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ef3bb7ebda278e07ab5741cd98aeaf8eca77bfe43ca4c6c3977f3cc966ec56a4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1329772217803169793/304451277",
+    "wm-target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-20T19:21:38Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1329772217803169793/304451277",
+  "target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+  "private": false
+}
