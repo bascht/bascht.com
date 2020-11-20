@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1329768127635337217",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918078,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Seien wir mal ehrlich.\nEigentlich hätte ich direkt ein halbes Kilo Mandeln machen können.\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/11/20/thesmells/\"></a>",
+      "text": "Seien wir mal ehrlich.\nEigentlich hätte ich direkt ein halbes Kilo Mandeln machen können."
+    },
+    "published": "2020-11-20T12:46:42+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1329768127635337217",
+    "wm-target": "https://bascht.com/posts/2020/11/20/thesmells/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-11-20T13:15:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1329768127635337217",
+  "target": "https://bascht.com/posts/2020/11/20/thesmells/",
+  "private": false
+}
