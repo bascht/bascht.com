@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/AVM_DE/status/1329790829137948678",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918363,
+    "author": {
+      "url": "https://twitter.com/AVM_DE",
+      "name": "FRITZ!Box",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5b1eb8db0b1260c49a20e8ced975d20fe2c1f6be666c9cbda5b401fba68017fb.png"
+    },
+    "content": {
+      "html": "Das ist zu schön um wahr zu sein 😉 Wird das dauerhaft so angezeigt, auch nach einem Neustart der FRITZ!Boxen? Welche Modelle setzt du ein?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Das ist zu schön um wahr zu sein 😉 Wird das dauerhaft so angezeigt, auch nach einem Neustart der FRITZ!Boxen? Welche Modelle setzt du ein?"
+    },
+    "published": "2020-11-20T14:16:54+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329790829137948678",
+    "wm-target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-20T19:21:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1329772217803169793/1329790829137948678",
+  "target": "https://bascht.com/posts/2020/11/20/okay-avm_de-ich-freu-mich-ja-auch-da/",
+  "private": false
+}
