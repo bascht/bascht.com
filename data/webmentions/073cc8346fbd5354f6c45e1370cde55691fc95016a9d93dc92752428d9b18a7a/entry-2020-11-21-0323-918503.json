@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@bekopharm/105245569031773584",
+    "name": null,
+    "type": "entry",
+    "wm-id": 918503,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dbe9aa52c39f0b0c9c23b79544293bd132e8520563681166fe75ce78eddf0f49.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> it usually is.</p>",
+      "text": "@bascht it usually is."
+    },
+    "published": "2020-11-21T00:52:17",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105245305743952988/105245569058287044",
+    "wm-target": "https://bascht.com/posts/2020/11/20/bascht-well-this-was-a-pleasant-upda/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/20/bascht-well-this-was-a-pleasant-upda/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-21T01:11:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105245305743952988/105245569058287044",
+  "target": "https://bascht.com/posts/2020/11/20/bascht-well-this-was-a-pleasant-upda/",
+  "private": false
+}
