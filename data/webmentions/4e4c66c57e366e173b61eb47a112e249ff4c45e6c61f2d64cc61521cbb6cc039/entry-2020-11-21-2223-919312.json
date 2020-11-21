@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1330152858939961351#favorited-by-16542565",
+    "name": null,
+    "type": "entry",
+    "wm-id": 919312,
+    "author": {
+      "url": "https://twitter.com/deingaraus",
+      "name": "Antifa space program 🍥",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cdcc19d8894ad50bff2619679107a87cf5b4c78988cda12ae5938a9bfb75d74e.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1330152858939961351/16542565",
+    "wm-target": "https://bascht.com/posts/2020/11/21/ein-dorn-im-auge-w%C3%A4re-mir-wirklich-ein-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-21T17:54:54Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1330152858939961351/16542565",
+  "target": "https://bascht.com/posts/2020/11/21/ein-dorn-im-auge-w%C3%A4re-mir-wirklich-ein-d/",
+  "private": false
+}
