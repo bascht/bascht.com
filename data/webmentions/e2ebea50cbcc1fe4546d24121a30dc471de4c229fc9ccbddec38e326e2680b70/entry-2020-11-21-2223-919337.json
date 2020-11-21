@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105249463569563709#favorited-by-5989",
+    "name": null,
+    "type": "entry",
+    "wm-id": 919337,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dbe9aa52c39f0b0c9c23b79544293bd132e8520563681166fe75ce78eddf0f49.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105249463569563709/5989",
+    "wm-target": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-21T18:55:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105249463569563709/5989",
+  "target": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+  "private": false
+}
