@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1329755513983299585#favorited-by-977141931703787521",
+    "name": null,
+    "type": "entry",
+    "wm-id": 919070,
+    "author": {
+      "url": "https://twitter.com/coffeemicha",
+      "name": "Michael Schneider",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99fa41527a0f6e61f15a4cef9a742d31162eb589bb9881202b0e52c7f1590075.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1329755513983299585/977141931703787521",
+    "wm-target": "https://bascht.com/posts/2020/11/20/robert-downey-felsenheimer-jr.-ohne-bril/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-21T11:33:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1329755513983299585/977141931703787521",
+  "target": "https://bascht.com/posts/2020/11/20/robert-downey-felsenheimer-jr.-ohne-bril/",
+  "private": false
+}
