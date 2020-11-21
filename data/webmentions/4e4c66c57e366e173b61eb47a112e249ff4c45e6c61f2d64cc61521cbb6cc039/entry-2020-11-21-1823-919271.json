@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Argorak/status/1330178226187014153",
+    "name": null,
+    "type": "entry",
+    "wm-id": 919271,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": null,
+      "text": "Ein Dorn im Auge wäre mir wirklich ein Dorn im Auge."
+    },
+    "published": "2020-11-21T15:56:17+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1330152858939961351/1330178226187014153",
+    "wm-target": "https://bascht.com/posts/2020/11/21/ein-dorn-im-auge-w%C3%A4re-mir-wirklich-ein-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-21T16:06:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1330152858939961351/1330178226187014153",
+  "target": "https://bascht.com/posts/2020/11/21/ein-dorn-im-auge-w%C3%A4re-mir-wirklich-ein-d/",
+  "private": false
+}
