@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1330553386899529729#favorited-by-17289112",
+    "name": null,
+    "type": "entry",
+    "wm-id": 920461,
+    "author": {
+      "url": "https://twitter.com/moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e6864a6f6d418c1e2903db51c47048c2825e37e64058acab8a8a93ef127088b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1330553386899529729/17289112",
+    "wm-target": "https://bascht.com/posts/2020/11/22/folgt-mir-im-fediverse-f%C3%BCr-hochwertigen/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-22T22:08:12Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1330553386899529729/17289112",
+  "target": "https://bascht.com/posts/2020/11/22/folgt-mir-im-fediverse-f%C3%BCr-hochwertigen/",
+  "private": false
+}
