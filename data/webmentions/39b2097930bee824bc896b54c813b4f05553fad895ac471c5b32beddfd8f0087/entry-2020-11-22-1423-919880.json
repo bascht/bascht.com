@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/105253233975355674",
+    "name": null,
+    "type": "entry",
+    "wm-id": 919880,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I mean, at least it's done in a semi-responsible way 🤷</p>",
+      "text": "@bascht I mean, at least it's done in a semi-responsible way 🤷"
+    },
+    "published": "2020-11-22T09:21:35",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105253225263906761/105253233995540909",
+    "wm-target": "https://bascht.com/posts/2020/11/22/ffs-mozilla.-https/support.mozilla.o/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/22/ffs-mozilla.-https/support.mozilla.o/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-22T09:43:50Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105253225263906761/105253233995540909",
+  "target": "https://bascht.com/posts/2020/11/22/ffs-mozilla.-https/support.mozilla.o/",
+  "private": false
+}
