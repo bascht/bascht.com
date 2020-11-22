@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105253900822357316#favorited-by-333",
+    "name": null,
+    "type": "entry",
+    "wm-id": 920115,
+    "author": {
+      "url": "https://cybre.space/@jollysea",
+      "name": "joël",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/118a7aefdecedff16e38a98c5dbdc0cf9454203275544bf20a0315295786bae0.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105253900822357316/333",
+    "wm-target": "https://bascht.com/posts/2020/11/22/bascht-sunday-is-fryday./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-22T13:05:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105253900822357316/333",
+  "target": "https://bascht.com/posts/2020/11/22/bascht-sunday-is-fryday./",
+  "private": false
+}
