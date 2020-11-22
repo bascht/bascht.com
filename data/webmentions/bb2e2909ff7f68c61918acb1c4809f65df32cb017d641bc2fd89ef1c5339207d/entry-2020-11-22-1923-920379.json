@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1330553386899529729",
+    "name": null,
+    "type": "entry",
+    "wm-id": 920379,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Folgt mir im Fediverse für hochwertigen Koch-Content.\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/11/22/bascht-and-some-peas./\"></a>",
+      "text": "Folgt mir im Fediverse für hochwertigen Koch-Content."
+    },
+    "published": "2020-11-22T16:47:02+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1330553386899529729",
+    "wm-target": "https://bascht.com/posts/2020/11/22/bascht-and-some-peas./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-11-22T16:50:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1330553386899529729",
+  "target": "https://bascht.com/posts/2020/11/22/bascht-and-some-peas./",
+  "private": false
+}
