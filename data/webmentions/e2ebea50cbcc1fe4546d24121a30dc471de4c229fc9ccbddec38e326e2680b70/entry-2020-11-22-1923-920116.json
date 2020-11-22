@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105249463569563709#favorited-by-49376",
+    "name": null,
+    "type": "entry",
+    "wm-id": 920116,
+    "author": {
+      "url": "https://mstdn.social/@skynewz",
+      "name": "𝚂𝚔𝚈𝙽𝚎𝚠𝚉 🐳",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/700550cb6c584dd48a0deebf15e84473673a28d3fdc5e710fb27b1191877b56f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105249463569563709/49376",
+    "wm-target": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-22T13:05:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105249463569563709/49376",
+  "target": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+  "private": false
+}
