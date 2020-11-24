@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1330553386899529729#favorited-by-926658688307298305",
+    "name": null,
+    "type": "entry",
+    "wm-id": 922601,
+    "author": {
+      "url": "https://twitter.com/ItytOdin",
+      "name": "Sergej",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fd49703edb8422a93f35d68367da2ed28b52cb8f0ff818a87e8bbfdae390cbf8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1330553386899529729/926658688307298305",
+    "wm-target": "https://bascht.com/posts/2020/11/22/folgt-mir-im-fediverse-f%C3%BCr-hochwertigen/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-24T11:54:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1330553386899529729/926658688307298305",
+  "target": "https://bascht.com/posts/2020/11/22/folgt-mir-im-fediverse-f%C3%BCr-hochwertigen/",
+  "private": false
+}
