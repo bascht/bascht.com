@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105261472991937228",
+    "name": null,
+    "type": "entry",
+    "wm-id": 921513,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>WHY THO <a href=\"https://github.com/invoiceninja/dockerfiles/wiki/differences-version-4-and-5\"><span>https://</span><span>github.com/invoiceninja/docker</span><span>files/wiki/differences-version-4-and-5</span></a></p>\n<a href=\"https://github.com/invoiceninja/dockerfiles/wiki/differences-version-4-and-5\">invoiceninja/dockerfiles</a>",
+      "text": "WHY THO https://github.com/invoiceninja/dockerfiles/wiki/differences-version-4-and-5\ninvoiceninja/dockerfiles"
+    },
+    "published": "2020-11-23T20:16:52",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105261335480517649/105261472991937228",
+    "wm-target": "https://bascht.com/posts/2020/11/23/once-every-two-years-i-manage-to-break-m/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/23/once-every-two-years-i-manage-to-break-m/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-23T20:47:43Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105261335480517649/105261472991937228",
+  "target": "https://bascht.com/posts/2020/11/23/once-every-two-years-i-manage-to-break-m/",
+  "private": false
+}
