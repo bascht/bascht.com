@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105269574659247991#favorited-by-11730",
+    "name": null,
+    "type": "entry",
+    "wm-id": 923065,
+    "author": {
+      "url": "https://mastodontech.de/@kranfahrer",
+      "name": "Kranfahrer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/9366f5f3d2e1ebafe563e8753f479452eccbc93a9a9d018d845856616bd77138.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105269574659247991/11730",
+    "wm-target": "https://bascht.com/posts/2020/11/25/bascht-0c-on-my-morning-round.-%EF%B8%8F/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-25T07:14:30Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105269574659247991/11730",
+  "target": "https://bascht.com/posts/2020/11/25/bascht-0c-on-my-morning-round.-%EF%B8%8F/",
+  "private": false
+}
