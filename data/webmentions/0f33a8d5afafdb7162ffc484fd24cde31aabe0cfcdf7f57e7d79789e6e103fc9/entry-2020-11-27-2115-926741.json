@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105283572056266498",
+    "name": null,
+    "type": "entry",
+    "wm-id": 926741,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Amidori? 😀</p>",
+      "text": "@bascht Amidori? 😀"
+    },
+    "published": "2020-11-27T17:56:57",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105278256247192818/105283572056266498",
+    "wm-target": "https://bascht.com/posts/2020/11/26/we-went-with-a-plant-based-minced-meat-s/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/26/we-went-with-a-plant-based-minced-meat-s/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-27T18:50:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105278256247192818/105283572056266498",
+  "target": "https://bascht.com/posts/2020/11/26/we-went-with-a-plant-based-minced-meat-s/",
+  "private": false
+}
