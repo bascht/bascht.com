@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105281330263235834#favorited-by-13590",
+    "name": null,
+    "type": "entry",
+    "wm-id": 926504,
+    "author": {
+      "url": "https://mastodon.technology/@signaleleven",
+      "name": "Signaleleven",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f2902cfc4cac9f6dbdb71d69bac9417395a1feea673f280b26e9fcd3a32e71e3.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105281330263235834/13590",
+    "wm-target": "https://bascht.com/posts/2020/11/27/bascht-moin-%EF%B8%8F/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-27T12:13:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105281330263235834/13590",
+  "target": "https://bascht.com/posts/2020/11/27/bascht-moin-%EF%B8%8F/",
+  "private": false
+}
