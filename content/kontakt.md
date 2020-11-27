@@ -39,7 +39,4 @@ Quellcode) dieser Seite unter
 [Creative Commons `CC-BY-SA 4.0`](http://creativecommons.org/licenses/by-sa/4.0/deed.en_GB)
 veröffentlicht.
 
-Die Schrift Fira Mono steht unter der
-[OFL](https://opensource.org/licenses/OFL-1.1).
-
 [![yo](/images/cc.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.en_GB)
