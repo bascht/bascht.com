@@ -10,6 +10,7 @@
 
   <link rel="preload" href="{{ .Site.BaseURL }}fonts/woff/roboto_slab.woff" as="font" type="font/woff2" crossorigin>
   {{ $css := resources.Match "css/**.css" | resources.Concat "combined.css" | minify | fingerprint -}}
+  <link rel="preload" as="style" href="{{ $css.Permalink }}">
   <link rel="stylesheet" href="{{ $css.Permalink }}">
   <link rel="micropub" href="https://pub.bascht.com/micropub">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
