@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332405937399869443#favorited-by-18874107",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927513,
+    "author": {
+      "url": "https://twitter.com/Malax",
+      "name": "Manuel Fuchs",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1f7c52f832a846533c7f862df20a55adcd1cddb168c2f639b3f5329ef4e39de0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332405937399869443/18874107",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-28T10:11:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332405937399869443/18874107",
+  "target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+  "private": false
+}
