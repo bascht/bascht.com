@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/agentdero/status/1332406629396930560",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927335,
+    "author": {
+      "url": "https://twitter.com/agentdero",
+      "name": "stolen nerd valor",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa871113fe7b134638c7bf7acf69ebcd6679855e354628acf1e9491020cb27b9.png"
+    },
+    "content": {
+      "html": "Und auch danach ne bissl länger 😬\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Und auch danach ne bissl länger 😬"
+    },
+    "published": "2020-11-27T19:31:10+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1332405937399869443/1332406629396930560",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-28T07:09:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1332405937399869443/1332406629396930560",
+  "target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+  "private": false
+}
