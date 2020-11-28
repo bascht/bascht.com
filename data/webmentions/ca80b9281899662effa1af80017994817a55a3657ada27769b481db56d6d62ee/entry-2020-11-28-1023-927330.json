@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332439910389833737",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927330,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Du meinst tcpdump? :D\n<a class=\"u-mention\" href=\"https://twitter.com/agentdero\"></a>",
+      "text": "Du meinst tcpdump? :D"
+    },
+    "published": "2020-11-27T21:43:24+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1332405937399869443/1332439910389833737",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-28T07:08:57Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1332405937399869443/1332439910389833737",
+  "target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+  "private": false
+}
