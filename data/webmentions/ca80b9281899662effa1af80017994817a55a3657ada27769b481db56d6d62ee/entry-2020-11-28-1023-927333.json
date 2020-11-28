@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332405937399869443#favorited-by-10823882",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927333,
+    "author": {
+      "url": "https://twitter.com/DeX77",
+      "name": "Multifunktions-Haustier-Spaziergänger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/83d77e43747d2f947717a5869f18a9835a54b61614685bbc1ac209cf382f1210.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332405937399869443/10823882",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-28T07:09:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332405937399869443/10823882",
+  "target": "https://bascht.com/posts/2020/11/27/das-geht-so-lange-bis-einer-straced./",
+  "private": false
+}
