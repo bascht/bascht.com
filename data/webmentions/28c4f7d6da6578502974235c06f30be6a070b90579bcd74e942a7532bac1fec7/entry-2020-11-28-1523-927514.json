@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332467544880504834#favorited-by-15155639",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927514,
+    "author": {
+      "url": "https://twitter.com/larsvegas",
+      "name": "larsvegas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c88aa6abf2ea8a638383ca272a232618f9ca2ff9770c73711864a9f8aad0852.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332467544880504834/15155639",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-war-wirklich-mein-erster-tweet-http/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-28T10:11:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332467544880504834/15155639",
+  "target": "https://bascht.com/posts/2020/11/27/das-war-wirklich-mein-erster-tweet-http/",
+  "private": false
+}
