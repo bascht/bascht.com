@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tc77/status/1332385515560169472",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927340,
+    "author": {
+      "url": "https://twitter.com/tc77",
+      "name": "Christian Schmizz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/050837ba9f182d49ed054d9f29770b9e7a29eeca7911092667c2c47136ddc4d8.jpg"
+    },
+    "content": {
+      "html": "Es gibt Bänke für Schwibbögen? 😳\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Es gibt Bänke für Schwibbögen? 😳"
+    },
+    "published": "2020-11-27T18:07:16+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1332373758368223232/1332385515560169472",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-wort-schwibbogenb%C3%A4nkchen-ist-wunde/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/27/das-wort-schwibbogenb%C3%A4nkchen-ist-wunde/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-28T07:09:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1332373758368223232/1332385515560169472",
+  "target": "https://bascht.com/posts/2020/11/27/das-wort-schwibbogenb%C3%A4nkchen-ist-wunde/",
+  "private": false
+}
