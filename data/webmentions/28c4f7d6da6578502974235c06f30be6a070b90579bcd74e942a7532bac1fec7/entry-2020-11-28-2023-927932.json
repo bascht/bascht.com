@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332467544880504834#favorited-by-15440623",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927932,
+    "author": {
+      "url": "https://twitter.com/marcshark",
+      "name": "Marc Böttler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eee12faf4e8962d52649fb32f5d8c75529283c8fedcab53c8d93032abe684218.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332467544880504834/15440623",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-war-wirklich-mein-erster-tweet-http/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-28T18:18:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332467544880504834/15440623",
+  "target": "https://bascht.com/posts/2020/11/27/das-war-wirklich-mein-erster-tweet-http/",
+  "private": false
+}
