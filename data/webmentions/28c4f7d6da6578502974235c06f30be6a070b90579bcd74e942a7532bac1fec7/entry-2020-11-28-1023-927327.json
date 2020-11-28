@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332467544880504834#favorited-by-10618562",
+    "name": null,
+    "type": "entry",
+    "wm-id": 927327,
+    "author": {
+      "url": "https://twitter.com/OddNina",
+      "name": "Nina | DießelHex",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c4e6c4e9e23845d9673d9374ffa91e1811bfdf0d19d5346141f51caaa57d6143.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332467544880504834/10618562",
+    "wm-target": "https://bascht.com/posts/2020/11/27/das-war-wirklich-mein-erster-tweet-http/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-28T07:08:53Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332467544880504834/10618562",
+  "target": "https://bascht.com/posts/2020/11/27/das-war-wirklich-mein-erster-tweet-http/",
+  "private": false
+}
