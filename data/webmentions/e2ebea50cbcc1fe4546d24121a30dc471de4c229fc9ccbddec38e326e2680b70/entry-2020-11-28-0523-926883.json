@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pleroma.envs.net/objects/05eb7cdd-09bd-4ff2-92f1-fe0f9877a8f9",
+    "name": null,
+    "type": "entry",
+    "wm-id": 926883,
+    "author": {
+      "url": "https://pleroma.envs.net/users/Seirdy",
+      "name": "Seirdy",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/039/678/original/ca2a8912a65a298d.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> thanks, you unintentionally reminded me of the Blender horror game The Shadows Lengthen and that i need to check it out to see how progress has been. Blender Peertube video: <a href=\"https://video.blender.org/videos/watch/81f40b20-4a5b-450e-b68b-cfa02f1b50ea\"></a><a href=\"https://video.blender.org/videos/watch/81f40b20-4a5b-450e-b68b-cfa02f1b50ea\">https://video.blender.org/videos/watch/81f40b20-4a5b-450e-b68b-cfa02f1b50ea</a></p>",
+      "text": "@bascht thanks, you unintentionally reminded me of the Blender horror game The Shadows Lengthen and that i need to check it out to see how progress has been. Blender Peertube video: https://video.blender.org/videos/watch/81f40b20-4a5b-450e-b68b-cfa02f1b50ea"
+    },
+    "published": "2020-11-27T21:53:21",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105249463569563709/105284501660748587",
+    "wm-target": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-27T22:31:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105249463569563709/105284501660748587",
+  "target": "https://bascht.com/posts/2020/11/21/bascht-shadows-are-getting-longer/",
+  "private": false
+}
