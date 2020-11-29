@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332659624810582016#favorited-by-16870492",
+    "name": null,
+    "type": "entry",
+    "wm-id": 928203,
+    "author": {
+      "url": "https://twitter.com/fpieloth",
+      "name": "Franziska Pieloth",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e55ef49da15d100a58d25c2796fdb20bea761b8aae8b1168c9126d7d43922cec.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/16870492",
+    "wm-target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-29T02:37:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/16870492",
+  "target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+  "private": false
+}
