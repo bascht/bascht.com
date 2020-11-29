@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332659624810582016#favorited-by-254476573",
+    "name": null,
+    "type": "entry",
+    "wm-id": 928199,
+    "author": {
+      "url": "https://twitter.com/hoodie_de",
+      "name": "🦉hoooodie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5b626f83011965ba8c3bb82e340a21216e04f38caf21d43504f67375802d439a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/254476573",
+    "wm-target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-29T02:37:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/254476573",
+  "target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+  "private": false
+}
