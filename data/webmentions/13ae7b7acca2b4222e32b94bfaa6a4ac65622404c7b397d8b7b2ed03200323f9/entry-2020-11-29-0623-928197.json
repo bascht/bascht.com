@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332659624810582016#favorited-by-623663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 928197,
+    "author": {
+      "url": "https://twitter.com/ptrwllrt",
+      "name": "Peter Willert @ home",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d51b2505238bb36256a16245b027fd77762e9abc2a9607a321f64935759459b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/623663",
+    "wm-target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-29T02:37:45Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/623663",
+  "target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+  "private": false
+}
