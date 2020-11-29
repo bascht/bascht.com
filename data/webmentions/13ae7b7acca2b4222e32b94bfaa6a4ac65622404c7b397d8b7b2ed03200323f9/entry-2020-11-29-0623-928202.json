@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332659624810582016#favorited-by-14134934",
+    "name": null,
+    "type": "entry",
+    "wm-id": 928202,
+    "author": {
+      "url": "https://twitter.com/danielhepper",
+      "name": "Daniel Hepper",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f49b53ab07f250bfb8b262258ce610eb66a3c90e82cdb4b639d5c9131528e6cf.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/14134934",
+    "wm-target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-29T02:37:50Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/14134934",
+  "target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+  "private": false
+}
