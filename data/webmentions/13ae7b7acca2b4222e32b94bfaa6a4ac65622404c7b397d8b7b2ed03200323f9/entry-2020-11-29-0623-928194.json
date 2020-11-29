@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1332659624810582016#favorited-by-83567168",
+    "name": null,
+    "type": "entry",
+    "wm-id": 928194,
+    "author": {
+      "url": "https://twitter.com/twtomcat",
+      "name": "Markus Leutwyler 🇨🇭",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9d21bf6c8a91ce5f1164e4463ef8fcd01085338d8e9e12cb0f9c8df35ddd1748.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/83567168",
+    "wm-target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-29T02:37:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1332659624810582016/83567168",
+  "target": "https://bascht.com/posts/2020/11/28/telegram-der-freiwild-aufkleber-unte/",
+  "private": false
+}
