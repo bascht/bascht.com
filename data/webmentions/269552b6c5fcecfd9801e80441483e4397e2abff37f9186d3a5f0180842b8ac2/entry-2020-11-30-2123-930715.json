@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@fudgel/105300275216732233",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930715,
+    "author": {
+      "url": "https://mastodon.social/@fudgel",
+      "name": "Fudgel Ultracrepidarian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a059124cced6078d00894aa409e9ce6630b08a48d3213a6c1222b2660e1812e0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> plus leaf blowers can be electric, powered by wind, hydro or residential PV so generalizing against all leaf blowers is also misleading.<br />PS I don’t have a leaf blower and don’t like noisy neighborhood.</p>",
+      "text": "@bascht plus leaf blowers can be electric, powered by wind, hydro or residential PV so generalizing against all leaf blowers is also misleading.\nPS I don’t have a leaf blower and don’t like noisy neighborhood."
+    },
+    "published": "2020-11-30T16:44:47",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300275239057362",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-30T17:07:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300275239057362",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
