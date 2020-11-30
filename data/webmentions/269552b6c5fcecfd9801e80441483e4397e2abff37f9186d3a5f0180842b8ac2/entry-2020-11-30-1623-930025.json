@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105295013439746060#reblogged-by-5035",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930025,
+    "author": {
+      "url": "https://octodon.social/@TQ",
+      "name": "TQ 🎹",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/94fee8f98ffac8cd0b8dc835f0f1c757f4bc204f1db97079eaab2c0b53cfd7bc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105295013439746060/5035",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-30T11:17:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105295013439746060/5035",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
