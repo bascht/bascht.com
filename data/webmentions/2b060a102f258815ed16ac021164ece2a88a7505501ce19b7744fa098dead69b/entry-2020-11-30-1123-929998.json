@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105298467001951965#favorited-by-34848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 929998,
+    "author": {
+      "url": "https://post.lurk.org/@praxeology",
+      "name": "Brendan Howell",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/034/848/original/c8a0402bbdd2b504.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105298467001951965/34848",
+    "wm-target": "https://bascht.com/posts/2020/11/30/just-came-across-openmoji-finally-some/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-30T10:20:18Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105298467001951965/34848",
+  "target": "https://bascht.com/posts/2020/11/30/just-came-across-openmoji-finally-some/",
+  "private": false
+}
