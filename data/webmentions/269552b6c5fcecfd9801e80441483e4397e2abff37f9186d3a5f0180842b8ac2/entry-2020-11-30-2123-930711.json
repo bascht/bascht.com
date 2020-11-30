@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@fudgel/105300314204750995",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930711,
+    "author": {
+      "url": "https://mastodon.social/@fudgel",
+      "name": "Fudgel Ultracrepidarian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a059124cced6078d00894aa409e9ce6630b08a48d3213a6c1222b2660e1812e0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> that’s not the point (linked paper states different thing). The point is that there’s not much about specific claim that ‘running a leafblower for 30 minutes creates more emissions than driving a F-150 pickup truck 3800 miles’. Where’s the source to verify? If that’s science then we must have a source to verify it otherwise it’s not science.</p><p>The fact that the article doesn’t link to sources is big red flag.</p>",
+      "text": "@bascht that’s not the point (linked paper states different thing). The point is that there’s not much about specific claim that ‘running a leafblower for 30 minutes creates more emissions than driving a F-150 pickup truck 3800 miles’. Where’s the source to verify? If that’s science then we must have a source to verify it otherwise it’s not science.The fact that the article doesn’t link to sources is big red flag."
+    },
+    "published": "2020-11-30T16:54:42",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300314241034039",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-30T17:06:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300314241034039",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
