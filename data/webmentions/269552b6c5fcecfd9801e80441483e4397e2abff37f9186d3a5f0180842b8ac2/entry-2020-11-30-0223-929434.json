@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105295013439746060#reblogged-by-8744",
+    "name": null,
+    "type": "entry",
+    "wm-id": 929434,
+    "author": {
+      "url": "https://bidule.menf.in/users/scolobb",
+      "name": "scolobb",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7d7f827237cecf0f065c9779484d68574f29a3eb53220af326489c7a2b6f1fa4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105295013439746060/8744",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-29T23:47:22Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105295013439746060/8744",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
