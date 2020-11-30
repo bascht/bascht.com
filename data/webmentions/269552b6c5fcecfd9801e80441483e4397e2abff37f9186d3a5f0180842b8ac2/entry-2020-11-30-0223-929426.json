@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://retro.social/@Ethancdavenport/105296194195536944",
+    "name": null,
+    "type": "entry",
+    "wm-id": 929426,
+    "author": {
+      "url": "https://retro.social/@Ethancdavenport",
+      "name": "Ethan 🌒",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fb316ddaf8d61d073fe0b1d29e75509366c164cfe01ae9c8568f09d9a00b2eb1.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> ahhhhhhh （╬ಠ益ಠ)</p>",
+      "text": "@bascht ahhhhhhh （╬ಠ益ಠ)"
+    },
+    "published": "2020-11-29T23:26:56",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105296194261489545",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-29T23:47:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105296194261489545",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
