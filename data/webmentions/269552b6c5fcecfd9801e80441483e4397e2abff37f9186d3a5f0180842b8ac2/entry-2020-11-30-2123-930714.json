@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105300271109816628",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930714,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@fudgel\" class=\"u-url\">@<span>fudgel</span></a></span> Not sure how yo u came to that »otherwise we can cherry pick studies« conclusion, but there is plenty research into pollution by two-stroke engines, e.g. <a href=\"https://www.nature.com/articles/ncomms4749\"><span>https://www.</span><span>nature.com/articles/ncomms4749</span><span></span></a></p>",
+      "text": "@fudgel Not sure how yo u came to that »otherwise we can cherry pick studies« conclusion, but there is plenty research into pollution by two-stroke engines, e.g. https://www.nature.com/articles/ncomms4749"
+    },
+    "published": "2020-11-30T16:43:45",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300271109816628",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-30T17:07:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300271109816628",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
