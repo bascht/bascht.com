@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105295013439746060#reblogged-by-3652",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930024,
+    "author": {
+      "url": "https://social.chinwag.org/@mike",
+      "name": "Mike, First of His Name",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2a7b95449fcfc24c1b18a3c5f3e893d23a5ec0433f9be1e8f1305d7ecd829f39.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105295013439746060/3652",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-11-30T11:17:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105295013439746060/3652",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
