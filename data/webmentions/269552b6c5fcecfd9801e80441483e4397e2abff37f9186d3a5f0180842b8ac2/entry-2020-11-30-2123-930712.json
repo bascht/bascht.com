@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105300355191547820",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930712,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@fudgel\" class=\"u-url\">@<span>fudgel</span></a></span> I think the fact that it's the Atlantic and not the New Scientist should give readers enough hint's how my snarky hint about »scientific reasons to hate« should be understood. 🙂</p>",
+      "text": "@fudgel I think the fact that it's the Atlantic and not the New Scientist should give readers enough hint's how my snarky hint about »scientific reasons to hate« should be understood. 🙂"
+    },
+    "published": "2020-11-30T17:05:08",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300355191547820",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-30T17:07:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300355191547820",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
