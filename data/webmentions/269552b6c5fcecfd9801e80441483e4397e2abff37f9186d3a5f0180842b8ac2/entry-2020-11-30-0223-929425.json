@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://cybre.space/@cinebox/105296098517731002",
+    "name": null,
+    "type": "entry",
+    "wm-id": 929425,
+    "author": {
+      "url": "https://cybre.space/@cinebox",
+      "name": "Andrew Cassidy",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/97ec379a476c62459cd6271ca91a5dd51b11665d645b08f2b7024cb5e59f3303.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> If you really need a leaf blower, get one of those electric ones that run off power tool batteries. If you already have power tools you don’t even need new batteries, and they’re way quieter</p>",
+      "text": "@bascht If you really need a leaf blower, get one of those electric ones that run off power tool batteries. If you already have power tools you don’t even need new batteries, and they’re way quieter"
+    },
+    "published": "2020-11-29T23:02:36",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105296098683204358",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-29T23:47:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105296098683204358",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
