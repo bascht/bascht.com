@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105295013439746060#favorited-by-50439",
+    "name": null,
+    "type": "entry",
+    "wm-id": 929519,
+    "author": {
+      "url": "https://kolektiva.social/@flowerfemme",
+      "name": "kay",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7d84b99af49e9afd05055a89ec1556d2b25e91fc805aa0439c424fb4ad65f7e6.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105295013439746060/50439",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-30T01:15:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105295013439746060/50439",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
