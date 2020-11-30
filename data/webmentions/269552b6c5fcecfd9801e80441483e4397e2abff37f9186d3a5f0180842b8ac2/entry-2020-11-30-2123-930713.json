@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@fudgel/105300249929457607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 930713,
+    "author": {
+      "url": "https://mastodon.social/@fudgel",
+      "name": "Fudgel Ultracrepidarian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a059124cced6078d00894aa409e9ce6630b08a48d3213a6c1222b2660e1812e0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> If that’s scientific then you will be able to provide reproducible sources restating that ‘running a leafblower for 30 minutes creates more emissions than driving a F-150 pickup truck 3800 miles.’ otherwise we can cherry pick studies showing that global warming is not man made and claim they are scientific.</p>",
+      "text": "@bascht If that’s scientific then you will be able to provide reproducible sources restating that ‘running a leafblower for 30 minutes creates more emissions than driving a F-150 pickup truck 3800 miles.’ otherwise we can cherry pick studies showing that global warming is not man made and claim they are scientific."
+    },
+    "published": "2020-11-30T16:38:21",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300249998763417",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-11-30T17:07:03Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105300249998763417",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
