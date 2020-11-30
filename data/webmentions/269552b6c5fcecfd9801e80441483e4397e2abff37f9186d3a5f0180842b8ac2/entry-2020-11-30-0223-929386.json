@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105295013439746060#favorited-by-39253",
+    "name": null,
+    "type": "entry",
+    "wm-id": 929386,
+    "author": {
+      "url": "https://vulpine.club/@foxgloved",
+      "name": "Cev",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b50e68192cedef45a6ce2015d4bcd1c2b8cc5e2fa07e134aab2a2d20057dc43d.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105295013439746060/39253",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-11-29T22:48:50Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105295013439746060/39253",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
