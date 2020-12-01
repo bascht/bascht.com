@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/105305180665832101",
+    "name": null,
+    "type": "entry",
+    "wm-id": 931789,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> a pickup truck can't even go 3800miles on a single tank. Of course, they mean particulate exhaust and shit, but i think this is written unclearly for on purpose, to draw clicks.</p>",
+      "text": "@bascht a pickup truck can't even go 3800miles on a single tank. Of course, they mean particulate exhaust and shit, but i think this is written unclearly for on purpose, to draw clicks."
+    },
+    "published": "2020-12-01T13:32:19",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105305180824638129",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-01T13:47:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105305180824638129",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
