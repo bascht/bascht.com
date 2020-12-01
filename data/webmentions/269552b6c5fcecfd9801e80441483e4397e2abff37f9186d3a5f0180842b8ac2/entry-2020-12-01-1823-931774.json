@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.librem.one/@chrichri/105304897068637839",
+    "name": null,
+    "type": "entry",
+    "wm-id": 931774,
+    "author": {
+      "url": "https://social.librem.one/@chrichri",
+      "name": "Chris Vogel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/48231510e6dd80588d898961527b74bcbdcd7f1febcd3382ed4864564cac14eb.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <br />Weil es mir wichtig ist nocheinmal auf Deutsch:</p><p>Wer von den lauten, stinkenden, 2-Takt-Motor-dreckigen, staubigen Laubbläsern genervt ist, ist nicht hilflos:</p><p>Bei der eigenen Hausverwaltung darauf drängen, dass Dienstleister ihre Arbeit ohne <a href=\"https://social.librem.one/tags/Laubbl%C3%A4ser\">#<span>Laubbläser</span></a> verrichten müssen.</p><p>Selbst keine Laubbläser bei der Auftragsvergabe zulassen.</p><p>Bei der eigenen Gemeinde über <a href=\"https://social.librem.one/tags/Laubbl%C3%A4ser\">#<span>Laubbläser</span></a> im öffentlichen Raum und/oder Einsatz von Laubbläsern im öffentlichen Auftrag beschweren.</p>\n<a class=\"p-category\" href=\"https://social.yakshed.org/tags/laubbl%C3%A4ser\">laubbläser</a>",
+      "text": "@bascht \nWeil es mir wichtig ist nocheinmal auf Deutsch:Wer von den lauten, stinkenden, 2-Takt-Motor-dreckigen, staubigen Laubbläsern genervt ist, ist nicht hilflos:Bei der eigenen Hausverwaltung darauf drängen, dass Dienstleister ihre Arbeit ohne #Laubbläser verrichten müssen.Selbst keine Laubbläser bei der Auftragsvergabe zulassen.Bei der eigenen Gemeinde über #Laubbläser im öffentlichen Raum und/oder Einsatz von Laubbläsern im öffentlichen Auftrag beschweren.\nlaubbläser"
+    },
+    "published": "2020-12-01T12:20:11",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105304897126699653",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-01T13:02:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105304897126699653",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
