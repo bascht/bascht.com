@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.librem.one/@chrichri/105304871580157263",
+    "name": null,
+    "type": "entry",
+    "wm-id": 931775,
+    "author": {
+      "url": "https://social.librem.one/@chrichri",
+      "name": "Chris Vogel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/48231510e6dd80588d898961527b74bcbdcd7f1febcd3382ed4864564cac14eb.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> To follow up on this one: People are free to give contracts to remove leafs with the obligation to not use this kind of equipment.</p><p>Yes, they need to be banned by law. But also, we have to show that we don't want to pay for this kind of work.</p><p>Step up against what companies caring for the property you live in do.</p><p>Don't pay companies to do this to the environment we live in.</p>",
+      "text": "@bascht To follow up on this one: People are free to give contracts to remove leafs with the obligation to not use this kind of equipment.Yes, they need to be banned by law. But also, we have to show that we don't want to pay for this kind of work.Step up against what companies caring for the property you live in do.Don't pay companies to do this to the environment we live in."
+    },
+    "published": "2020-12-01T12:13:42",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105304871631245161",
+    "wm-target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-01T13:02:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105295013439746060/105304871631245161",
+  "target": "https://bascht.com/posts/2020/11/29/if-you-needed-scientific-reasons-to-hate/",
+  "private": false
+}
