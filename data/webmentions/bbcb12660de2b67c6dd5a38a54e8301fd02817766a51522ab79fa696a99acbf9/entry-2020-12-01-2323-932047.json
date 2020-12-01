@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/105305896750343799",
+    "name": null,
+    "type": "entry",
+    "wm-id": 932047,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I feel like Kubernetes Ingress controllers and proxies are multiplying like JavaScript frameworks these days 🙈</p>",
+      "text": "@bascht I feel like Kubernetes Ingress controllers and proxies are multiplying like JavaScript frameworks these days 🙈"
+    },
+    "published": "2020-12-01T16:34:25",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105305835888586241/105305896766996966",
+    "wm-target": "https://bascht.com/posts/2020/12/01/quite-the-low-hanging-fruit-but-i-got-m/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/01/quite-the-low-hanging-fruit-but-i-got-m/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-01T17:18:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105305835888586241/105305896766996966",
+  "target": "https://bascht.com/posts/2020/12/01/quite-the-low-hanging-fruit-but-i-got-m/",
+  "private": false
+}
