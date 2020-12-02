@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105310346097182833",
+    "name": null,
+    "type": "entry",
+    "wm-id": 932923,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <span class=\"h-card\"><a href=\"https://pixel.bascht.space/bascht\" class=\"u-url\">@<span>bascht</span></a></span> <a href=\"https://social.yakshed.org/tags/worksforme\">#<span>worksforme</span></a></p>\n<a class=\"p-category\" href=\"https://social.yakshed.org/tags/worksforme\">worksforme</a>",
+      "text": "@bascht @bascht #worksforme\nworksforme"
+    },
+    "published": "2020-12-02T11:25:57",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105306853653946018/105310346097182833",
+    "wm-target": "https://bascht.com/posts/2020/12/01/bascht-still-seeing-some-glitches-her/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/01/bascht-still-seeing-some-glitches-her/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-02T11:50:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105306853653946018/105310346097182833",
+  "target": "https://bascht.com/posts/2020/12/01/bascht-still-seeing-some-glitches-her/",
+  "private": false
+}
