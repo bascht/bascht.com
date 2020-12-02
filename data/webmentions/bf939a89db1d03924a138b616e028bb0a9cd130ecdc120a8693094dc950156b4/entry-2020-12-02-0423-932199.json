@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105306853653946018#favorited-by-46886",
+    "name": null,
+    "type": "entry",
+    "wm-id": 932199,
+    "author": {
+      "url": "https://pixel.bascht.space/bascht",
+      "name": "bascht",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/046/886/original/b593e1c0de029dfa.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105306853653946018/46886",
+    "wm-target": "https://bascht.com/posts/2020/12/01/bascht-still-seeing-some-glitches-her/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-01T21:49:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105306853653946018/46886",
+  "target": "https://bascht.com/posts/2020/12/01/bascht-still-seeing-some-glitches-her/",
+  "private": false
+}
