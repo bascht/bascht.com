@@ -1,5 +1,5 @@
 ---
-date: '2020-12-02T09:15:00.000Z'
+date: '2020-12-02T09:16:00.000Z'
 title: Katze mit Maske während der Spanischen Grippe?
 mf-like-of:
   - >-
