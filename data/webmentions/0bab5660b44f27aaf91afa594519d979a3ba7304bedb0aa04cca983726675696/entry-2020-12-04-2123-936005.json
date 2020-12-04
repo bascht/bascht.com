@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.ar.al/@aral/105323009152699827",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936005,
+    "author": {
+      "url": "https://mastodon.ar.al/@aral",
+      "name": "Aral Balkan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/63056ad6c5e898d25b2d965e785de4206c1a011cc41098d1e9ccd26ae9d6e9b1.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 💕</p>",
+      "text": "@bascht 💕"
+    },
+    "published": "2020-12-04T17:06:20",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105322878135514745/105323009163590409",
+    "wm-target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-04T18:20:45Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105322878135514745/105323009163590409",
+  "target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+  "private": false
+}
