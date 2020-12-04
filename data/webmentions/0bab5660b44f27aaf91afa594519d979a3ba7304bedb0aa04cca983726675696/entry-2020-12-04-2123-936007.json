@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.ar.al/@aral/105323020312776613",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936007,
+    "author": {
+      "url": "https://mastodon.ar.al/@aral",
+      "name": "Aral Balkan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/63056ad6c5e898d25b2d965e785de4206c1a011cc41098d1e9ccd26ae9d6e9b1.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@moonglum\" class=\"u-url\">@<span>moonglum</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Here you go :) <a href=\"https://small-tech.org/videos/towards-a-small-web-howest-2020/\"><span>https://</span><span>small-tech.org/videos/towards-</span><span>a-small-web-howest-2020/</span></a></p><p>(Skip the first two minutes if you don’t want to hear me rant about a Vimeo glitch that had me scrambling with 5 minutes to air.) :)</p>\n<a href=\"https://small-tech.org/videos/towards-a-small-web-howest-2020/\">Towards a Small Web – Howest 2020</a>",
+      "text": "@moonglum @bascht Here you go :) https://small-tech.org/videos/towards-a-small-web-howest-2020/(Skip the first two minutes if you don’t want to hear me rant about a Vimeo glitch that had me scrambling with 5 minutes to air.) :)\nTowards a Small Web – Howest 2020"
+    },
+    "published": "2020-12-04T17:09:10",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105322878135514745/105323026091166897",
+    "wm-target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-04T18:20:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105322878135514745/105323026091166897",
+  "target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+  "private": false
+}
