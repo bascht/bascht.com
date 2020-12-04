@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105322878135514745#favorited-by-26969",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936013,
+    "author": {
+      "url": "https://freeradical.zone/@absor70",
+      "name": "absorto",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/31f8e33381b50a5bd64c92b1c717d948ef00a97ead9295b19e6ddf834f7463eb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105322878135514745/26969",
+    "wm-target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-04T18:20:59Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105322878135514745/26969",
+  "target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+  "private": false
+}
