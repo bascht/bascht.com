@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105329261893850663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 937553,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>And frying up some Tofu.</p>",
+      "text": "And frying up some Tofu."
+    },
+    "published": "2020-12-05T19:36:29",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105328827860734959/105329261893850663",
+    "wm-target": "https://bascht.com/posts/2020/12/05/bascht-if-you-see-those-bottles-in-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/05/bascht-if-you-see-those-bottles-in-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-05T19:55:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105328827860734959/105329261893850663",
+  "target": "https://bascht.com/posts/2020/12/05/bascht-if-you-see-those-bottles-in-a/",
+  "private": false
+}
