@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1334845864049856521#favorited-by-1070713808312852480",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936406,
+    "author": {
+      "url": "https://twitter.com/AlekaFenty",
+      "name": "AlekaFenty",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8dbec0ac79eeeecb4162d5ee9ced0732d8b1336184970f95a7eac67fe2e13b87.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1334845864049856521/1070713808312852480",
+    "wm-target": "https://bascht.com/posts/2020/12/04/detectorists.-lt3-https/t.co/qdkt1df/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-05T02:01:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1334845864049856521/1070713808312852480",
+  "target": "https://bascht.com/posts/2020/12/04/detectorists.-lt3-https/t.co/qdkt1df/",
+  "private": false
+}
