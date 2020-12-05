@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@JoshuaFolly/105329118642923219",
+    "name": null,
+    "type": "entry",
+    "wm-id": 937557,
+    "author": {
+      "url": "https://fosstodon.org/@JoshuaFolly",
+      "name": "Joshua",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/039/486/original/61d35b3d8818c74e.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url\">@<span>aral</span></a></span> </p><p>Interesting comparison between brain surgeons and expert programmers.</p>",
+      "text": "@bascht @aral Interesting comparison between brain surgeons and expert programmers."
+    },
+    "published": "2020-12-05T19:00:03",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105322878135514745/105329118671082145",
+    "wm-target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-05T19:55:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105322878135514745/105329118671082145",
+  "target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+  "private": false
+}
