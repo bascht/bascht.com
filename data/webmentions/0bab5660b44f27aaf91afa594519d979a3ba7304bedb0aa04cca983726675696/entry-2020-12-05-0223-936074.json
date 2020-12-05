@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105322878135514745#favorited-by-11037",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936074,
+    "author": {
+      "url": "https://fosstodon.org/@datenteiler",
+      "name": "Christian Imhorst :opensuse:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7ea5578ba7ba905658a11e784cc5fb94a2a110ac112f82835bb59b2f0275bf04.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105322878135514745/11037",
+    "wm-target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-04T20:16:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105322878135514745/11037",
+  "target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+  "private": false
+}
