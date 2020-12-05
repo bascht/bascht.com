@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105322878135514745#favorited-by-1028",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936061,
+    "author": {
+      "url": "https://mastodon.social/@FiXato",
+      "name": "FiXato",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/9708be24b4a0bbe70e1c21f88df117b45a49241a48724d865afa7467e69e3f1a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105322878135514745/1028",
+    "wm-target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-04T19:34:18Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105322878135514745/1028",
+  "target": "https://bascht.com/posts/2020/12/04/bascht-tuned-into-aralmastodon.ar.a/",
+  "private": false
+}
