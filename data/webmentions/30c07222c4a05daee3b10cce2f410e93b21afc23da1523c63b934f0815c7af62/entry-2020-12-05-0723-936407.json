@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/zebel/status/1334850448189218818",
+    "name": null,
+    "type": "entry",
+    "wm-id": 936407,
+    "author": {
+      "url": "https://twitter.com/zebel",
+      "name": "Sebastian Ziebell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6107941a49c69dcab9a666776f00d43e4e35fc180be31ac8d92243a570047182.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": "2020-12-04T13:22:01+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1334845864049856521/1334850448189218818",
+    "wm-target": "https://bascht.com/posts/2020/12/04/detectorists.-lt3-https/t.co/qdkt1df/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/04/detectorists.-lt3-https/t.co/qdkt1df/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-05T02:01:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1334845864049856521/1334850448189218818",
+  "target": "https://bascht.com/posts/2020/12/04/detectorists.-lt3-https/t.co/qdkt1df/",
+  "private": false
+}
