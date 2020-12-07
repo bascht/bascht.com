@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105340345764195362#favorited-by-1528",
+    "name": null,
+    "type": "entry",
+    "wm-id": 940332,
+    "author": {
+      "url": "https://chaos.social/@frumble",
+      "name": "Maxi von Böhmen ☑️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5effb6da59d1b72416a8e0a5ae11bf72321961e29db9306a7eeb52073b99026b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105340345764195362/1528",
+    "wm-target": "https://bascht.com/posts/2020/12/07/it-is-a-modern-apple-computer-on-a-chip/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-07T19:56:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105340345764195362/1528",
+  "target": "https://bascht.com/posts/2020/12/07/it-is-a-modern-apple-computer-on-a-chip/",
+  "private": false
+}
