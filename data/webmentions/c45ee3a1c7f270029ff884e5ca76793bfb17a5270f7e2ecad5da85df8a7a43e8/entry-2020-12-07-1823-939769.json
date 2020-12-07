@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105339174726393258",
+    "name": null,
+    "type": "entry",
+    "wm-id": 939769,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://toot.cat/@lislis\" class=\"u-url\">@<span>lislis</span></a></span> the first thing is actually kind of boring - I have about 6 Osram Lightify Power Sockets scattered around the flat that will soon lose support by the manufacturer - so I'll integrate them into <span class=\"h-card\"><a href=\"https://mastodon.social/@homeassistant\" class=\"u-url\">@<span>homeassistant</span></a></span> right away. From thereon I'll see what comes next. :D</p>",
+      "text": "@lislis the first thing is actually kind of boring - I have about 6 Osram Lightify Power Sockets scattered around the flat that will soon lose support by the manufacturer - so I'll integrate them into @homeassistant right away. From thereon I'll see what comes next. :D"
+    },
+    "published": "2020-12-07T13:37:27",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105339039510388731/105339174726393258",
+    "wm-target": "https://bascht.com/posts/2020/12/07/bascht-look-what-came-in-the-mail/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/07/bascht-look-what-came-in-the-mail/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-07T14:03:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105339039510388731/105339174726393258",
+  "target": "https://bascht.com/posts/2020/12/07/bascht-look-what-came-in-the-mail/",
+  "private": false
+}
