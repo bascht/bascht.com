@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105339039510388731#favorited-by-7310",
+    "name": null,
+    "type": "entry",
+    "wm-id": 939768,
+    "author": {
+      "url": "https://mastodon.social/@gotomars",
+      "name": "GOTO MARS",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/99f385037ef0853d558d0c0f186b0043b8cbeac6b21b75ec1a0b10edaadd6f76.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105339039510388731/7310",
+    "wm-target": "https://bascht.com/posts/2020/12/07/bascht-look-what-came-in-the-mail/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-07T14:03:35Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105339039510388731/7310",
+  "target": "https://bascht.com/posts/2020/12/07/bascht-look-what-came-in-the-mail/",
+  "private": false
+}
