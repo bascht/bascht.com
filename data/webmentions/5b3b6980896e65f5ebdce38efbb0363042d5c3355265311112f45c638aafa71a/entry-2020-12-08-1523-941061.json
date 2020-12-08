@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336211852666212357#favorited-by-475271251",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941061,
+    "author": {
+      "url": "https://twitter.com/fredbrancz",
+      "name": "Frederic Branczyk",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2c3a9e9b570e106f11444a58331a493870c4bb63cad9c9c6bc9fd4161eae458d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/475271251",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T08:26:30Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/475271251",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
