@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336211852666212357#favorited-by-2751938252",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941056,
+    "author": {
+      "url": "https://twitter.com/NautBio",
+      "name": "Peter Kohl",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2fa228e4940bb5df25fd98ab994a9a51bd7761dee6ee911cca6ef0b574e6e7bc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/2751938252",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T08:26:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/2751938252",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
