@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336211852666212357#favorited-by-48014477",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941062,
+    "author": {
+      "url": "https://twitter.com/cpetschnig",
+      "name": "Vulpes vulpes",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a0381dd4725617f81ddd02a575bb799ce6b6e3d051679c1a365be5cef45b78a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/48014477",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T08:26:31Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/48014477",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
