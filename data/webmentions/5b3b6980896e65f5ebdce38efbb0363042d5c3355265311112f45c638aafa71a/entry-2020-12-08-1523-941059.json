@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336211852666212357#favorited-by-99082188",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941059,
+    "author": {
+      "url": "https://twitter.com/hesral",
+      "name": "Lars",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/99082188",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T08:26:28Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/99082188",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
