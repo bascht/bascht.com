@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bestie/status/1336357665027526657",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941919,
+    "author": {
+      "url": "https://twitter.com/bestie",
+      "name": "bestie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea1d6dc9f5e829227d3f3a815780e762d68f40e9768cbbebce0bf6dc73b9f30e.jpg"
+    },
+    "content": {
+      "html": "Ich versteh es immer noch nicht 😂\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich versteh es immer noch nicht 😂"
+    },
+    "published": "2020-12-08T17:11:10+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336211852666212357/1336357665027526657",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-08T17:26:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336211852666212357/1336357665027526657",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
