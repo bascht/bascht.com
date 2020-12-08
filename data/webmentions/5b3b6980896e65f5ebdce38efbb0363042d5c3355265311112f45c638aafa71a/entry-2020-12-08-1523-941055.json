@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/CYxChris/status/1336212026847322112",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941055,
+    "author": {
+      "url": "https://twitter.com/CYxChris",
+      "name": "Christian Kühn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b7b899b10249f31b01dccea031457c809703dd5fc294f07cbde129db14e5ab6.jpg"
+    },
+    "content": {
+      "html": "bester mann! bin zu deiner moralischen Unterstützung mit dem Rad aufm Rollentrainer ins homeoffice gefahren!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "bester mann! bin zu deiner moralischen Unterstützung mit dem Rad aufm Rollentrainer ins homeoffice gefahren!"
+    },
+    "published": "2020-12-08T07:32:27+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336211852666212357/1336212026847322112",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-08T08:26:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336211852666212357/1336212026847322112",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
