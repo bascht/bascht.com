@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336211852666212357#favorited-by-15317182",
+    "name": null,
+    "type": "entry",
+    "wm-id": 941057,
+    "author": {
+      "url": "https://twitter.com/svenwin",
+      "name": "Sven ☁ Winkler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d4e38f2f3cdd71db5687d5ed0f82553f9c10a0fbaa6c61f3e3422a5ec5752ed.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/15317182",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T08:26:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/15317182",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
