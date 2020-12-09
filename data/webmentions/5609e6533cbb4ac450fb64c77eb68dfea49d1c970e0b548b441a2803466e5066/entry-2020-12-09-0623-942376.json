@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/HardyLoppmann/status/1336405692358471682",
+    "name": null,
+    "type": "entry",
+    "wm-id": 942376,
+    "author": {
+      "url": "https://twitter.com/HardyLoppmann",
+      "name": "Andre Kemper",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/595842b9c1bf0eb3925e96dedb5c6bd1c68c322b51e541b20df1b33d609011aa.jpg"
+    },
+    "content": {
+      "html": "Wie kommt denn jetzt hier die Schärfe rein?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Wie kommt denn jetzt hier die Schärfe rein?"
+    },
+    "published": "2020-12-08T20:22:00+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336352794262040577/1336405692358471682",
+    "wm-target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-09T02:33:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336352794262040577/1336405692358471682",
+  "target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+  "private": false
+}
