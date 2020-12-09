@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1335982053402284034#favorited-by-15611952",
+    "name": null,
+    "type": "entry",
+    "wm-id": 942010,
+    "author": {
+      "url": "https://twitter.com/zebel",
+      "name": "Sebastian Ziebell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6107941a49c69dcab9a666776f00d43e4e35fc180be31ac8d92243a570047182.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1335982053402284034/15611952",
+    "wm-target": "https://bascht.com/posts/2020/12/07/nachbarin-fragt-ob-wir-auch-diesen-bran/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T18:42:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1335982053402284034/15611952",
+  "target": "https://bascht.com/posts/2020/12/07/nachbarin-fragt-ob-wir-auch-diesen-bran/",
+  "private": false
+}
