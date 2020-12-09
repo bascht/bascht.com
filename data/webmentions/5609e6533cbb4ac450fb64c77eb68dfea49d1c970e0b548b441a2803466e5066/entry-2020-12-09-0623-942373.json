@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336414523943751688",
+    "name": null,
+    "type": "entry",
+    "wm-id": 942373,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "XD\n\nJetzt hätte ich gerne so einen schönen lauten 🎶Gong vor jedem meiner Sätze in der Videokonferenz.\n<a class=\"u-mention\" href=\"https://twitter.com/ptrwllrt\"></a>",
+      "text": "XD\n\nJetzt hätte ich gerne so einen schönen lauten 🎶Gong vor jedem meiner Sätze in der Videokonferenz."
+    },
+    "published": "2020-12-08T20:57:06+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336352794262040577/1336414523943751688",
+    "wm-target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-09T02:33:39Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1336352794262040577/1336414523943751688",
+  "target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+  "private": false
+}
