@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336352794262040577#favorited-by-13901982",
+    "name": null,
+    "type": "entry",
+    "wm-id": 942604,
+    "author": {
+      "url": "https://twitter.com/MartinOtten",
+      "name": "Martin Otten",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0bc74ce795155436d1a3692b69f589497b85996f753438be1130f22968dc3175.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336352794262040577/13901982",
+    "wm-target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-09T07:15:32Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336352794262040577/13901982",
+  "target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+  "private": false
+}
