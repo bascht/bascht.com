@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336211852666212357#favorited-by-8489592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 942105,
+    "author": {
+      "url": "https://twitter.com/annismckenzie",
+      "name": "Daniel Lohse",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea9851a358351daec7cc4b97cd70f496c22323f39805d87e3e31ce8ce2e0350b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/8489592",
+    "wm-target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-08T21:46:54Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1336211852666212357/8489592",
+  "target": "https://bascht.com/posts/2020/12/08/kratzt-ihr-mal.-ich-fahr-schon-los.-%EF%B8%8F-h/",
+  "private": false
+}
