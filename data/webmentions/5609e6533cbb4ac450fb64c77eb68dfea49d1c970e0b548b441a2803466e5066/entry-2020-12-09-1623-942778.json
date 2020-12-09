@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1336596417440264199",
+    "name": null,
+    "type": "entry",
+    "wm-id": 942778,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Das Apple-Disneyland in zwei Bildern. https://t.co/7xDJ7xmwfV\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/\"></a>",
+      "text": "Das Apple-Disneyland in zwei Bildern. https://t.co/7xDJ7xmwfV"
+    },
+    "published": "2020-12-09T08:59:53+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/bascht/1336596417440264199",
+    "wm-target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2020-12-09T09:25:43Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/bascht/1336596417440264199",
+  "target": "https://bascht.com/posts/2020/12/08/apple-airpods-max-insider-trick-f%C3%BCr-nur/",
+  "private": false
+}
