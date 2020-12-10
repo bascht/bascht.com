@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105351982468134651#favorited-by-41075",
+    "name": null,
+    "type": "entry",
+    "wm-id": 944005,
+    "author": {
+      "url": "https://qoto.org/@Josefine",
+      "name": "Josefine☕📸📚",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/92393715606933bbefec6aaeb8d9363e4bc2c288aca583b860dfbdb126445dd5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105351982468134651/41075",
+    "wm-target": "https://bascht.com/posts/2020/12/09/bascht-bon-appetit./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-10T02:49:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105351982468134651/41075",
+  "target": "https://bascht.com/posts/2020/12/09/bascht-bon-appetit./",
+  "private": false
+}
