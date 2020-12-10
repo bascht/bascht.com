@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105351957508985654#favorited-by-48524",
+    "name": null,
+    "type": "entry",
+    "wm-id": 943586,
+    "author": {
+      "url": "https://kolektiva.social/@Alan_Smithee69",
+      "name": "Alan_Smithee69@kolektiva.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2e59559ccc7a201b8bb67849d41dbe314771885ad659191ae100e0c5a8d14851.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105351957508985654/48524",
+    "wm-target": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-09T20:13:38Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105351957508985654/48524",
+  "target": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+  "private": false
+}
