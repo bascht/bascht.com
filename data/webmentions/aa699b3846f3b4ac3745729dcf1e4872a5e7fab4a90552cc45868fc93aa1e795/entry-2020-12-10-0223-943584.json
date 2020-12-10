@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105351975052778142",
+    "name": null,
+    "type": "entry",
+    "wm-id": 943584,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>That's after a good 2h of simmering. I'd normally restock and go on for about 5 hours, but I still have that good beef stock in storage.  😁</p>",
+      "text": "That's after a good 2h of simmering. I'd normally restock and go on for about 5 hours, but I still have that good beef stock in storage.  😁"
+    },
+    "published": "2020-12-09T19:52:44",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105351957508985654/105351975052778142",
+    "wm-target": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-09T20:13:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105351957508985654/105351975052778142",
+  "target": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+  "private": false
+}
