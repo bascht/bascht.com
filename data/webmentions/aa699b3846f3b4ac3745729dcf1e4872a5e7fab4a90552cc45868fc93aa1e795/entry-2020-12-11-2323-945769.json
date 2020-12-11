@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pieville.net/@harrison_partch/105362717063675052",
+    "name": null,
+    "type": "entry",
+    "wm-id": 945769,
+    "author": {
+      "url": "https://pieville.net/@harrison_partch",
+      "name": "Billy Bottlepossum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3fcbdcfc161c2784739ed34264f52ae40c4152e2947350971a1e3a63b98671a2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> </p><p>a non-faux Phở?</p>",
+      "text": "@bascht a non-faux Phở?"
+    },
+    "published": "2020-12-11T17:24:34",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105351957508985654/105362717107872942",
+    "wm-target": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-11T17:37:52Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105351957508985654/105362717107872942",
+  "target": "https://bascht.com/posts/2020/12/09/bascht-one-upside-of-the-perpetual-st/",
+  "private": false
+}
