@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhemberger/status/1337386931571879939",
+    "name": null,
+    "type": "entry",
+    "wm-id": 945599,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "/home/frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": "Wow, eine Web-Suchmaschine, die es nur als App gibt und nicht … im Web. 👍\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/XaynHQ\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Wow, eine Web-Suchmaschine, die es nur als App gibt und nicht … im Web. 👍"
+    },
+    "published": "2020-12-11T13:21:06+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1337058292984647683/1337386931571879939",
+    "wm-target": "https://bascht.com/posts/2020/12/10/hej-xaynhq-die-paar-kilobyte-k%C3%B6nntet/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/10/hej-xaynhq-die-paar-kilobyte-k%C3%B6nntet/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-11T13:26:26Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1337058292984647683/1337386931571879939",
+  "target": "https://bascht.com/posts/2020/12/10/hej-xaynhq-die-paar-kilobyte-k%C3%B6nntet/",
+  "private": false
+}
