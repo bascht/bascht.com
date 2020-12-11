@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105358092132692939#favorited-by-29517",
+    "name": null,
+    "type": "entry",
+    "wm-id": 945358,
+    "author": {
+      "url": "https://mastodon.social/@jeeger",
+      "name": "jeeger@mastodon.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6bc3f682caf1acc769a3de578a33c31b0371c8ff0441452acd8a819fcd64beb6.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105358092132692939/29517",
+    "wm-target": "https://bascht.com/posts/2020/12/10/bascht-tbh-most-of-us-would-be./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-11T08:56:41Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105358092132692939/29517",
+  "target": "https://bascht.com/posts/2020/12/10/bascht-tbh-most-of-us-would-be./",
+  "private": false
+}
