@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105363069262185609#reblogged-by-726",
+    "name": null,
+    "type": "entry",
+    "wm-id": 945892,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105363069262185609/726",
+    "wm-target": "https://bascht.com/posts/2020/12/11/you-should-do-yourself-the-favour-and-lo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-12T00:59:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105363069262185609/726",
+  "target": "https://bascht.com/posts/2020/12/11/you-should-do-yourself-the-favour-and-lo/",
+  "private": false
+}
