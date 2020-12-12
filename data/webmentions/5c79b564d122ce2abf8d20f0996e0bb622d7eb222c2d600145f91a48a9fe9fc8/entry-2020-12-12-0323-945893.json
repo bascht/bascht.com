@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105363069262185609#reblogged-by-12574",
+    "name": null,
+    "type": "entry",
+    "wm-id": 945893,
+    "author": {
+      "url": "https://mainburg.hallertau.social/@sthaydn",
+      "name": "Stefanosaurus Haydn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e7c285285f657fdfec8f2496b06b8a18f94bc62d6a26a088d2087e61dfe7ad8e.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105363069262185609/12574",
+    "wm-target": "https://bascht.com/posts/2020/12/11/you-should-do-yourself-the-favour-and-lo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-12T00:59:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105363069262185609/12574",
+  "target": "https://bascht.com/posts/2020/12/11/you-should-do-yourself-the-favour-and-lo/",
+  "private": false
+}
