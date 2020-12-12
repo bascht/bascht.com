@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105363069262185609#favorited-by-41188",
+    "name": null,
+    "type": "entry",
+    "wm-id": 945894,
+    "author": {
+      "url": "https://toot.snowgoons.ro/@tim",
+      "name": "Tim",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8e49da85de7cf7e6e7d2c9c1a83fcd0acda0df23364affb46392da2b0c0b90fc.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105363069262185609/41188",
+    "wm-target": "https://bascht.com/posts/2020/12/11/you-should-do-yourself-the-favour-and-lo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-12T00:59:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105363069262185609/41188",
+  "target": "https://bascht.com/posts/2020/12/11/you-should-do-yourself-the-favour-and-lo/",
+  "private": false
+}
