@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1338065754994851842#favorited-by-10331802",
+    "name": null,
+    "type": "entry",
+    "wm-id": 947838,
+    "author": {
+      "url": "https://twitter.com/ujh",
+      "name": "Urban Hafner",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8e126faa1cf668b4e9b457af03421e2cc9c2788bb378e2cfd79c5f32e7bcd63.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1338065754994851842/10331802",
+    "wm-target": "https://bascht.com/posts/2020/12/13/habe-die-letzten-wochen-so-selektiv-geli/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-14T04:55:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1338065754994851842/10331802",
+  "target": "https://bascht.com/posts/2020/12/13/habe-die-letzten-wochen-so-selektiv-geli/",
+  "private": false
+}
