@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1338065754994851842#favorited-by-308069084",
+    "name": null,
+    "type": "entry",
+    "wm-id": 947837,
+    "author": {
+      "url": "https://twitter.com/memysqlandi",
+      "name": "Mr. Ronald",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b373b33affb5a962030c000f4064239dbce76336041ce284247cf53c5709bbc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1338065754994851842/308069084",
+    "wm-target": "https://bascht.com/posts/2020/12/13/habe-die-letzten-wochen-so-selektiv-geli/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-14T04:55:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1338065754994851842/308069084",
+  "target": "https://bascht.com/posts/2020/12/13/habe-die-letzten-wochen-so-selektiv-geli/",
+  "private": false
+}
