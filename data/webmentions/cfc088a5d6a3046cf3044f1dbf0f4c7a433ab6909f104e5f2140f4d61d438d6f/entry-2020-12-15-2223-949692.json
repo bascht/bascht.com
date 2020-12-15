@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mstdn.io/@Koehr/105383490702319440",
+    "name": null,
+    "type": "entry",
+    "wm-id": 949692,
+    "author": {
+      "url": "https://mstdn.io/@Koehr",
+      "name": "koehr",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/426d49b5c78c9634268afaeae10c0320644af9d2a9778543e30535d359f68792.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> That I didn't have yet... 😭</p>",
+      "text": "@bascht That I didn't have yet... 😭"
+    },
+    "published": "2020-12-15T09:27:35",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105383430005546823/105383490745069753",
+    "wm-target": "https://bascht.com/posts/2020/12/15/dat-first-sip-of-in-the-morning./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/15/dat-first-sip-of-in-the-morning./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-15T16:25:15Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105383430005546823/105383490745069753",
+  "target": "https://bascht.com/posts/2020/12/15/dat-first-sip-of-in-the-morning./",
+  "private": false
+}
