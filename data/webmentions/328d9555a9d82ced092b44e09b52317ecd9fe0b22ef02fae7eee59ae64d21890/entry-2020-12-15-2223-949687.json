@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@bekopharm/105383635658390847",
+    "name": null,
+    "type": "entry",
+    "wm-id": 949687,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dbe9aa52c39f0b0c9c23b79544293bd132e8520563681166fe75ce78eddf0f49.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> this is iirc from a comic drawn with Krita. Think I've seen it's author on the Fediverse before.</p>",
+      "text": "@bascht this is iirc from a comic drawn with Krita. Think I've seen it's author on the Fediverse before."
+    },
+    "published": "2020-12-15T10:04:27",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105383496256402038/105383635680031524",
+    "wm-target": "https://bascht.com/posts/2020/12/15/bascht-awwww.-kritamastodon.art-has/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/15/bascht-awwww.-kritamastodon.art-has/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-15T16:25:06Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105383496256402038/105383635680031524",
+  "target": "https://bascht.com/posts/2020/12/15/bascht-awwww.-kritamastodon.art-has/",
+  "private": false
+}
