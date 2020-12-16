@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105389054510553417#favorited-by-48503",
+    "name": null,
+    "type": "entry",
+    "wm-id": 950984,
+    "author": {
+      "url": "https://merveilles.town/@tjwds",
+      "name": "Joe Woods",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ab8167afe7e481efcabcc95585e61305d67eff1c73c65325275691d282bafa9b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105389054510553417/48503",
+    "wm-target": "https://bascht.com/posts/2020/12/16/bascht-winter-fog-a-few-filters-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-16T15:32:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105389054510553417/48503",
+  "target": "https://bascht.com/posts/2020/12/16/bascht-winter-fog-a-few-filters-d/",
+  "private": false
+}
