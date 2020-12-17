@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/gurkendoktor/status/1339509236368175107",
+    "name": null,
+    "type": "entry",
+    "wm-id": 951706,
+    "author": {
+      "url": "https://twitter.com/gurkendoktor",
+      "name": "matthias haak",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66365f13e478444bb22c7ac76856762bf4814b1e9bf3aa7bd0afba6aa60386d9.jpg"
+    },
+    "content": {
+      "html": "ist das der untere teil? 😱 nicht wiederzuerkennen\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "ist das der untere teil? 😱 nicht wiederzuerkennen"
+    },
+    "published": "2020-12-17T09:54:23+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1339270122389860352/1339509236368175107",
+    "wm-target": "https://bascht.com/posts/2020/12/16/merke-gerade-dass-ich-die-gieszerstra%C3%9Fe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/16/merke-gerade-dass-ich-die-gieszerstra%C3%9Fe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-17T10:08:00Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1339270122389860352/1339509236368175107",
+  "target": "https://bascht.com/posts/2020/12/16/merke-gerade-dass-ich-die-gieszerstra%C3%9Fe/",
+  "private": false
+}
