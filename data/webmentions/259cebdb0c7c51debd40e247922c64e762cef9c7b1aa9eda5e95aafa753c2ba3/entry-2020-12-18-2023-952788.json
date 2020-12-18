@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105401524177836809#favorited-by-1501",
+    "name": null,
+    "type": "entry",
+    "wm-id": 952788,
+    "author": {
+      "url": "https://social.wxcafe.net/@wxcafe",
+      "name": "[UNCREDITED INEBRIATED CRUSTACEAN] ‮✨💻☕",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0fb27e809ad355ae00bebdecaf5d021d4632b3fffe6e56af24e55fd44a762287.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105401524177836809/1501",
+    "wm-target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-18T14:44:46Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105401524177836809/1501",
+  "target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+  "private": false
+}
