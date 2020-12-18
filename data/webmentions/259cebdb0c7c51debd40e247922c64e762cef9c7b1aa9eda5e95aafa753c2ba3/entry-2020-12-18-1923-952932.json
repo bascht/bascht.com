@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pieville.net/@harrison_partch/105402222752635576",
+    "name": null,
+    "type": "entry",
+    "wm-id": 952932,
+    "author": {
+      "url": "https://pieville.net/@harrison_partch",
+      "name": "Billy Bottlepossum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3fcbdcfc161c2784739ed34264f52ae40c4152e2947350971a1e3a63b98671a2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> if I renounced XMonad i would have to adopt another tiling WM</p><p>it would be a hassle.</p><p>haskell or hassle? that is the question</p>",
+      "text": "@bascht if I renounced XMonad i would have to adopt another tiling WMit would be a hassle.haskell or hassle? that is the question"
+    },
+    "published": "2020-12-18T16:51:23",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105402222801450587",
+    "wm-target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-18T17:32:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105402222801450587",
+  "target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+  "private": false
+}
