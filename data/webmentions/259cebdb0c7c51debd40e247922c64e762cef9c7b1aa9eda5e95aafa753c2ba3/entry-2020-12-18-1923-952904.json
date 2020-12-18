@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.ppmx.org/objects/7597db40-0e22-464d-9f14-401a24e31a79",
+    "name": null,
+    "type": "entry",
+    "wm-id": 952904,
+    "author": {
+      "url": "https://social.ppmx.org/users/daniel",
+      "name": "sankakujin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/16a71a851125c5f1a0412c62b7869eeb262f81d9b976e31fbf8b59ab48951ba9.jpg"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> where?",
+      "text": "@bascht where?"
+    },
+    "published": "2020-12-18T15:48:58",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105401977335202081",
+    "wm-target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-18T16:21:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105401977335202081",
+  "target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+  "private": false
+}
