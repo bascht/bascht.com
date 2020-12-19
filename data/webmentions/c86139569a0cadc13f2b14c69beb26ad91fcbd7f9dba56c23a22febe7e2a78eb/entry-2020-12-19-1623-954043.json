@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105406257717381108#favorited-by-51710",
+    "name": null,
+    "type": "entry",
+    "wm-id": 954043,
+    "author": {
+      "url": "https://anticapitalist.party/@mimzy",
+      "name": "Mimzy",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c37b620bdcb71f36c6b107a58b1475449bb82150b8facef38292481f70c49c60.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105406257717381108/51710",
+    "wm-target": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-19T12:45:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105406257717381108/51710",
+  "target": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+  "private": false
+}
