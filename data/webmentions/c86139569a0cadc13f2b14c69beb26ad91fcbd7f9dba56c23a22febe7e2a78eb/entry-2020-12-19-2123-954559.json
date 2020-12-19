@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105408427799004067",
+    "name": null,
+    "type": "entry",
+    "wm-id": 954559,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Woha!</p>",
+      "text": "@bascht Woha!"
+    },
+    "published": "2020-12-19T19:09:25",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105406257717381108/105408427799004067",
+    "wm-target": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-19T19:11:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105406257717381108/105408427799004067",
+  "target": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+  "private": false
+}
