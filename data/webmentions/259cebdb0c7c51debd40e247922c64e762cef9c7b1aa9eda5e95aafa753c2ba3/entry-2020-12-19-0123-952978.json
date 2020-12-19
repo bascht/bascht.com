@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.coop/@neil/105402880399062242",
+    "name": null,
+    "type": "entry",
+    "wm-id": 952978,
+    "author": {
+      "url": "https://social.coop/@neil",
+      "name": "neil@social.coop",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d0f996714de090623c3c60f008c9e2eb94715153414639ac3c300076ea302689.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> probably this <a href=\"https://stackoverflow.blog/2009/12/19/free-vote-based-advertising-for-open-source-projects/\"><span>https://</span><span>stackoverflow.blog/2009/12/19/</span><span>free-vote-based-advertising-for-open-source-projects/</span></a></p>\n<a href=\"https://stackoverflow.blog/2009/12/19/free-vote-based-advertising-for-open-source-projects/\">Free Vote-Based Advertising for Open Source Projects - Stack Overflow Blog</a>",
+      "text": "@bascht probably this https://stackoverflow.blog/2009/12/19/free-vote-based-advertising-for-open-source-projects/\nFree Vote-Based Advertising for Open Source Projects - Stack Overflow Blog"
+    },
+    "published": "2020-12-18T19:38:38",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105402880418912068",
+    "wm-target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-18T20:14:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105402880418912068",
+  "target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+  "private": false
+}
