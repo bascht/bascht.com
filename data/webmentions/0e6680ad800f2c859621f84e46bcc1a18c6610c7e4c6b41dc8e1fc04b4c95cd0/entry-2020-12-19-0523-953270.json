@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1338775303552987137#favorited-by-125162693",
+    "name": null,
+    "type": "entry",
+    "wm-id": 953270,
+    "author": {
+      "url": "https://twitter.com/PauleHeyman",
+      "name": "Harry Krischner",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/62c83f6f82e2c1a40b2b812a9b1b687c26594c4e34cb6d4a2db32b539d206753.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1338775303552987137/125162693",
+    "wm-target": "https://bascht.com/posts/2020/12/15/jetzt-gehts-ans-hack.-https/t.co/w4y/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-19T03:21:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1338775303552987137/125162693",
+  "target": "https://bascht.com/posts/2020/12/15/jetzt-gehts-ans-hack.-https/t.co/w4y/",
+  "private": false
+}
