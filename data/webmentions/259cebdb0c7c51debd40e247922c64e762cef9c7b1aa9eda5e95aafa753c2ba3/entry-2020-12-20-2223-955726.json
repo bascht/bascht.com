@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105401524177836809#reblogged-by-49911",
+    "name": null,
+    "type": "entry",
+    "wm-id": 955726,
+    "author": {
+      "url": "https://social.doma.dev/@jonn",
+      "name": "Jonn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ed63db38c1e986857457f71f20622395fb03abd763b6b06892673dbe67c87057.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105401524177836809/49911",
+    "wm-target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-20T19:03:20Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105401524177836809/49911",
+  "target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+  "private": false
+}
