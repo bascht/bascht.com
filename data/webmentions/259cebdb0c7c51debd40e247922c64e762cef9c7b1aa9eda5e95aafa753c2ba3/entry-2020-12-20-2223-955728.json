@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105414032910465100",
+    "name": null,
+    "type": "entry",
+    "wm-id": 955728,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.doma.dev/@jonn\" class=\"u-url\">@<span>jonn</span></a></span> absolutely. I was happy but not sure whether I should click on it, to not waste anyone's ad Budget :D</p>",
+      "text": "@jonn absolutely. I was happy but not sure whether I should click on it, to not waste anyone's ad Budget :D"
+    },
+    "published": "2020-12-20T18:54:52",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105414032910465100",
+    "wm-target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-20T19:03:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105401524177836809/105414032910465100",
+  "target": "https://bascht.com/posts/2020/12/18/bascht-wth-is-the-i3-window-manager-r/",
+  "private": false
+}
