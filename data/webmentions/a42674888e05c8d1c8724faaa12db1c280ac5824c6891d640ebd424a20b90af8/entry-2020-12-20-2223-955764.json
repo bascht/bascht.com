@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105414028679988255#favorited-by-22591",
+    "name": null,
+    "type": "entry",
+    "wm-id": 955764,
+    "author": {
+      "url": "https://social.tchncs.de/@Kajo",
+      "name": "Kajo :Anoxinon:📸👻:mastolove:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8f035472c76e5fbec0dd1f0e66118120be6554499904ed1bd74b55c0a1bd2f42.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105414028679988255/22591",
+    "wm-target": "https://bascht.com/posts/2020/12/20/bascht-phew./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-20T20:00:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105414028679988255/22591",
+  "target": "https://bascht.com/posts/2020/12/20/bascht-phew./",
+  "private": false
+}
