@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105412947075104971#favorited-by-607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 955740,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/12b2766e066a9fc8e0ee70efa4132405f31b4c8f6dd85ad62809359cf164210c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105412947075104971/607",
+    "wm-target": "https://bascht.com/posts/2020/12/20/bascht-the-peppermint-lime-ginger-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-20T19:13:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105412947075104971/607",
+  "target": "https://bascht.com/posts/2020/12/20/bascht-the-peppermint-lime-ginger-a/",
+  "private": false
+}
