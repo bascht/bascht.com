@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105414028679988255#favorited-by-1270",
+    "name": null,
+    "type": "entry",
+    "wm-id": 955763,
+    "author": {
+      "url": "https://social.tchncs.de/@lauteshirn",
+      "name": "Augenbrauenmann 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8f8456bfcb74942789d16184a2a81c058314ca38a2ef78605d343575eb7a233f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105414028679988255/1270",
+    "wm-target": "https://bascht.com/posts/2020/12/20/bascht-phew./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-20T20:00:14Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105414028679988255/1270",
+  "target": "https://bascht.com/posts/2020/12/20/bascht-phew./",
+  "private": false
+}
