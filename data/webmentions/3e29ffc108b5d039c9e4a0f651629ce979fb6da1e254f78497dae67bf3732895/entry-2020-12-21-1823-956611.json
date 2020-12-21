@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105418082501389528#favorited-by-432",
+    "name": null,
+    "type": "entry",
+    "wm-id": 956611,
+    "author": {
+      "url": "https://mastodon.social/@rysiek",
+      "name": "Rysiekúr Memesson",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/233f0fcbb056df2f2fa72319a1e4b2b70f2417a97fa35ac20df68a7fa737637a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105418082501389528/432",
+    "wm-target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-21T14:37:57Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105418082501389528/432",
+  "target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+  "private": false
+}
