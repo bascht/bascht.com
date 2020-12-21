@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105418082501389528#favorited-by-39308",
+    "name": null,
+    "type": "entry",
+    "wm-id": 956610,
+    "author": {
+      "url": "https://freespeechextremist.com/users/gopiandcode",
+      "name": "Kiran Gopinathan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4ab4dc76493747aeb45a754566f0524b159a56ade40adc3d759750aa2fcdf34e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105418082501389528/39308",
+    "wm-target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-21T14:37:57Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105418082501389528/39308",
+  "target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+  "private": false
+}
