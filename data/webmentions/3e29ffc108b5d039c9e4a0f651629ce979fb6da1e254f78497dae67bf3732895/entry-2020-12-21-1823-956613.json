@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105418082501389528#favorited-by-526",
+    "name": null,
+    "type": "entry",
+    "wm-id": 956613,
+    "author": {
+      "url": "https://chaos.social/@kde",
+      "name": "Simon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/024a43881ac9c6ad43cbb0e8e915a481c09c5c05b552840a1270cb4c3e7135b7.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105418082501389528/526",
+    "wm-target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-21T14:38:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105418082501389528/526",
+  "target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+  "private": false
+}
