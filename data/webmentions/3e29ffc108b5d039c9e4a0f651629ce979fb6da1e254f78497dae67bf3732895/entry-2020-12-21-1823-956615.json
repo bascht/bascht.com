@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://subversive.zone/@tofuwabohu/105418127275896795",
+    "name": null,
+    "type": "entry",
+    "wm-id": 956615,
+    "author": {
+      "url": "https://subversive.zone/@tofuwabohu",
+      "name": "tofuwabohu@subversive.zone",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8cce92abbdc6da611154c8d7ac7f51ed3ee756c34e3af99e241f44fdf96a57c4.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Kein SEO im Angebot? Gibt's ja nicht.</p>",
+      "text": "@bascht Kein SEO im Angebot? Gibt's ja nicht."
+    },
+    "published": "2020-12-21T12:16:07",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105418082501389528/105418127310384238",
+    "wm-target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-21T14:38:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105418082501389528/105418127310384238",
+  "target": "https://bascht.com/posts/2020/12/21/bascht-sure./",
+  "private": false
+}
