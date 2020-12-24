@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/zero_0ne/status/1341421514231603203",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962187,
+    "author": {
+      "url": "https://twitter.com/zero_0ne",
+      "name": "ゼ ロ ワ ン",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/44f61eea6ee24919e4742be19010573a96cda7723935b845851f1a9fad6a1076.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Hmmmm."
+    },
+    "published": "2020-12-22T16:33:06+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1341411459797020674/1341421514231603203",
+    "wm-target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-24T16:49:46Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1341411459797020674/1341421514231603203",
+  "target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+  "private": false
+}
