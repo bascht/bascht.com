@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341322471941820417#favorited-by-1511433062",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962200,
+    "author": {
+      "url": "https://twitter.com/lauralindal",
+      "name": "Laura Linda Laugwitz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3a3662bebdc6f0c50e9eb09876454c152a9c7df96521541a7fe00b813cbf1132.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/1511433062",
+    "wm-target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-24T16:49:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/1511433062",
+  "target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+  "private": false
+}
