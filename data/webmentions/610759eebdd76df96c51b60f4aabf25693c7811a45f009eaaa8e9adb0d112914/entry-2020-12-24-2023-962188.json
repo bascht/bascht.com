@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341411459797020674#favorited-by-18652297",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962188,
+    "author": {
+      "url": "https://twitter.com/Geekfried",
+      "name": "Geekfried™",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ab4ae9900a7fa860109f07a4d684f7de9e34577f299cc622edf1c87339cdf3a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341411459797020674/18652297",
+    "wm-target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-24T16:49:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341411459797020674/18652297",
+  "target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+  "private": false
+}
