@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341411459797020674#favorited-by-13901982",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962184,
+    "author": {
+      "url": "https://twitter.com/MartinOtten",
+      "name": "Martin Otten",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0bc74ce795155436d1a3692b69f589497b85996f753438be1130f22968dc3175.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341411459797020674/13901982",
+    "wm-target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-24T16:49:44Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341411459797020674/13901982",
+  "target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+  "private": false
+}
