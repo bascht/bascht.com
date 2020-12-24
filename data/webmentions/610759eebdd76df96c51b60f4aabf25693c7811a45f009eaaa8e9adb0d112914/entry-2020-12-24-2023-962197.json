@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/zero_0ne/status/1341421709757456384",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962197,
+    "author": {
+      "url": "https://twitter.com/zero_0ne",
+      "name": "ゼ ロ ワ ン",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/44f61eea6ee24919e4742be19010573a96cda7723935b845851f1a9fad6a1076.jpg"
+    },
+    "content": {
+      "html": "also eher shorten und auf explosiv fallende Kurse setzen? :D\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "also eher shorten und auf explosiv fallende Kurse setzen? :D"
+    },
+    "published": "2020-12-22T16:33:52+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1341411459797020674/1341421709757456384",
+    "wm-target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-24T16:49:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1341411459797020674/1341421709757456384",
+  "target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+  "private": false
+}
