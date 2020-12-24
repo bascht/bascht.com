@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341322471941820417#favorited-by-50669908",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962199,
+    "author": {
+      "url": "https://twitter.com/mariposa_linda7",
+      "name": "Simone Achim",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2f50c3a7310a9c7137fb013cb634c31d305b5120480a4fc486da8da054ac1ff1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/50669908",
+    "wm-target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-24T16:49:57Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/50669908",
+  "target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+  "private": false
+}
