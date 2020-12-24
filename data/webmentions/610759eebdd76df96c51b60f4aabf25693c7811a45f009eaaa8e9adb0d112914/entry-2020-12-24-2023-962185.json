@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341411459797020674#favorited-by-623663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 962185,
+    "author": {
+      "url": "https://twitter.com/ptrwllrt",
+      "name": "Peter Willert @ home",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d51b2505238bb36256a16245b027fd77762e9abc2a9607a321f64935759459b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341411459797020674/623663",
+    "wm-target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-24T16:49:44Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341411459797020674/623663",
+  "target": "https://bascht.com/posts/2020/12/22/hmmmm.-https/t.co/tbc5dywfk9/",
+  "private": false
+}
