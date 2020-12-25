@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Traumwanderer/status/1342542840765812736",
+    "name": null,
+    "type": "entry",
+    "wm-id": 963886,
+    "author": {
+      "url": "https://twitter.com/Traumwanderer",
+      "name": "Traumwanderer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d311224104279e76b40af72ce4ed5202f903022444f73569170a57364a09e318.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Sauba is nimma."
+    },
+    "published": "2020-12-25T18:48:51+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1341322471941820417/1342542840765812736",
+    "wm-target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-25T19:33:43Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1341322471941820417/1342542840765812736",
+  "target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+  "private": false
+}
