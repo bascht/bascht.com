@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341322471941820417#favorited-by-1160888186874343425",
+    "name": null,
+    "type": "entry",
+    "wm-id": 963905,
+    "author": {
+      "url": "https://twitter.com/rari_tat",
+      "name": "Rari 🌸",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4be023fe01829d0faf952ffd5d0f555010bb48be74174c111df778a529824bd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/1160888186874343425",
+    "wm-target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-25T20:13:47Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/1160888186874343425",
+  "target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+  "private": false
+}
