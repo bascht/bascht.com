@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1341322471941820417#favorited-by-2181366052",
+    "name": null,
+    "type": "entry",
+    "wm-id": 964326,
+    "author": {
+      "url": "https://twitter.com/red_brat",
+      "name": "bleede Henne",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cb169f7bbf2ab876ae9d44904ab464ef7951606ba688bfa60fb19ba81ddfbc0e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/2181366052",
+    "wm-target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-26T04:16:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1341322471941820417/2181366052",
+  "target": "https://bascht.com/posts/2020/12/22/sauba-is-nimma.-https/t.co/kk9r2gnfzq/",
+  "private": false
+}
