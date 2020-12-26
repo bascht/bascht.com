@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@lauteshirn/105448171915986900",
+    "name": null,
+    "type": "entry",
+    "wm-id": 965002,
+    "author": {
+      "url": "https://social.tchncs.de/@lauteshirn",
+      "name": "Augenbrauenmann 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8f8456bfcb74942789d16184a2a81c058314ca38a2ef78605d343575eb7a233f.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span><br />Do you use it?</p>",
+      "text": "@bascht\nDo you use it?"
+    },
+    "published": "2020-12-26T19:36:52",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105448070871392309/105448171937780055",
+    "wm-target": "https://bascht.com/posts/2020/12/26/this-readme-video-is-art-https/youtu./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/26/this-readme-video-is-art-https/youtu./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-26T20:04:38Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105448070871392309/105448171937780055",
+  "target": "https://bascht.com/posts/2020/12/26/this-readme-video-is-art-https/youtu./",
+  "private": false
+}
