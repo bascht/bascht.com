@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105452487265590116#favorited-by-40694",
+    "name": null,
+    "type": "entry",
+    "wm-id": 965913,
+    "author": {
+      "url": "https://mastodon.social/@ohhelloana",
+      "name": "Ana Rodrigues",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2340a90d4b00aede6f9590dda948cd6eb75609a44dcd3abf9efc651540c629d9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105452487265590116/40694",
+    "wm-target": "https://bascht.com/posts/2020/12/27/bascht-went-for-a-brisk-45-minute-str/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-27T17:50:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105452487265590116/40694",
+  "target": "https://bascht.com/posts/2020/12/27/bascht-went-for-a-brisk-45-minute-str/",
+  "private": false
+}
