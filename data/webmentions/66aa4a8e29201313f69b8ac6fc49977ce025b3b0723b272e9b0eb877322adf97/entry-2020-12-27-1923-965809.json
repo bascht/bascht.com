@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105452487265590116#favorited-by-1951",
+    "name": null,
+    "type": "entry",
+    "wm-id": 965809,
+    "author": {
+      "url": "https://cybt.de/@intux",
+      "name": ":intux: intux",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/82587d31673a6f7b05cab84734933cc9b1cfe34f6e4c20740caedb7cc6bfaa2b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105452487265590116/1951",
+    "wm-target": "https://bascht.com/posts/2020/12/27/bascht-went-for-a-brisk-45-minute-str/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-27T16:14:27Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105452487265590116/1951",
+  "target": "https://bascht.com/posts/2020/12/27/bascht-went-for-a-brisk-45-minute-str/",
+  "private": false
+}
