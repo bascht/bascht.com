@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1343908046020501504#favorited-by-2585768480",
+    "name": null,
+    "type": "entry",
+    "wm-id": 968234,
+    "author": {
+      "url": "https://twitter.com/Photoshop_Bob",
+      "name": "Photoshop.Bob",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/64c76e40d51c1c58d2900f1af865f6178c0958fe3a5e234ddaa09b393bb1bd5c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1343908046020501504/2585768480",
+    "wm-target": "https://bascht.com/posts/2020/12/29/facebook-accounts-zu-pflugscharen./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-29T18:58:23Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1343908046020501504/2585768480",
+  "target": "https://bascht.com/posts/2020/12/29/facebook-accounts-zu-pflugscharen./",
+  "private": false
+}
