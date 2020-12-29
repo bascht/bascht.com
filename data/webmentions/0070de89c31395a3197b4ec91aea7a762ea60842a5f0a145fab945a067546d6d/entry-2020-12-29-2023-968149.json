@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/LeahNeukirchen/status/1343920440822145025",
+    "name": null,
+    "type": "entry",
+    "wm-id": 968149,
+    "author": {
+      "url": "https://twitter.com/LeahNeukirchen",
+      "name": "Leah Neukirchen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f75ea8f65413c54f6cd1ae1c4d0da5d45809967150000c7925feaf3ff40ff6d8.jpg"
+    },
+    "content": {
+      "html": "\"Software geht nicht kaputt, sie ist schon kaputt.\"\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "\"Software geht nicht kaputt, sie ist schon kaputt.\""
+    },
+    "published": "2020-12-29T14:02:56+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1343918611526725632/1343920440822145025",
+    "wm-target": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-29T16:34:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1343918611526725632/1343920440822145025",
+  "target": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+  "private": false
+}
