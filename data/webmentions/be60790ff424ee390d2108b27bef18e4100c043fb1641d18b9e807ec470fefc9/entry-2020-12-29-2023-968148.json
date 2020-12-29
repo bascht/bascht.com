@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/hoffmnt/status/1343908145664565248",
+    "name": null,
+    "type": "entry",
+    "wm-id": 968148,
+    "author": {
+      "url": "https://twitter.com/hoffmnt",
+      "name": "Nils Hoffmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/04425c51f3ce9141c3c921e92493827d514e320b5b468f0117f35759058e822c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Facebook-Accounts zu Pflugscharen."
+    },
+    "published": "2020-12-29T13:14:05+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1343908046020501504/1343908145664565248",
+    "wm-target": "https://bascht.com/posts/2020/12/29/facebook-accounts-zu-pflugscharen./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-29T16:34:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1343908046020501504/1343908145664565248",
+  "target": "https://bascht.com/posts/2020/12/29/facebook-accounts-zu-pflugscharen./",
+  "private": false
+}
