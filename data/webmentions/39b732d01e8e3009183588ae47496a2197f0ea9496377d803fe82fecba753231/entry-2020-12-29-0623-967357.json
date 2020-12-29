@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105460172464175152",
+    "name": null,
+    "type": "entry",
+    "wm-id": 967357,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>(Detail from the picture in the above Toot: there is now even a select box to change the suspend mode to \"Linux\" - somehow even Lenovo seems to acknowledge that people will run Non-Windows stuff on it) :D</p>",
+      "text": "(Detail from the picture in the above Toot: there is now even a select box to change the suspend mode to \"Linux\" - somehow even Lenovo seems to acknowledge that people will run Non-Windows stuff on it) :D"
+    },
+    "published": "2020-12-28T22:28:46",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105460110475978743/105460172464175152",
+    "wm-target": "https://bascht.com/posts/2020/12/28/bascht-ive-set-up-my-new-work-comput/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/28/bascht-ive-set-up-my-new-work-comput/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-28T23:57:21Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105460110475978743/105460172464175152",
+  "target": "https://bascht.com/posts/2020/12/28/bascht-ive-set-up-my-new-work-comput/",
+  "private": false
+}
