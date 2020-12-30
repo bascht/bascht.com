@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1343918611526725632#favorited-by-43408155",
+    "name": null,
+    "type": "entry",
+    "wm-id": 968363,
+    "author": {
+      "url": "https://twitter.com/schmones",
+      "name": "@kde@chaos.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7988cbb7c6d20e0c3b12457cb76c611703ed9be15b512eb0d5830366bae71f76.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1343918611526725632/43408155",
+    "wm-target": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-30T01:04:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1343918611526725632/43408155",
+  "target": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+  "private": false
+}
