@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/der_kronn/status/1344069541043838978",
+    "name": null,
+    "type": "entry",
+    "wm-id": 968335,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Softwaresollbruchstellenerzeuger."
+    },
+    "published": "2020-12-29T23:55:24+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1343918611526725632/1344069541043838978",
+    "wm-target": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-30T00:23:11Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1343918611526725632/1344069541043838978",
+  "target": "https://bascht.com/posts/2020/12/29/softwaresollbruchstellenerzeuger./",
+  "private": false
+}
