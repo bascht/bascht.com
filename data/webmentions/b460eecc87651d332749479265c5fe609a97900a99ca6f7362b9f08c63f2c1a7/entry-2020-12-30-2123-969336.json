@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/sbc_777/status/1344368402299822081",
+    "name": null,
+    "type": "entry",
+    "wm-id": 969336,
+    "author": {
+      "url": "https://twitter.com/sbc_777",
+      "name": "Christian N",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/032facfde92de651595798d6572f4485aa7cacd88272ee684de9c107493da5df.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": "2020-12-30T19:42:58+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1344249045024440321/1344368402299822081",
+    "wm-target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2020-12-30T19:49:08Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1344249045024440321/1344368402299822081",
+  "target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+  "private": false
+}
