@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1344266931403157504",
+    "name": null,
+    "type": "entry",
+    "wm-id": 969248,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Hmmmm."
+    },
+    "published": "2020-12-30T12:59:46+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1344249045024440321/1344266931403157504",
+    "wm-target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2020-12-30T17:39:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1344249045024440321/1344266931403157504",
+  "target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+  "private": false
+}
