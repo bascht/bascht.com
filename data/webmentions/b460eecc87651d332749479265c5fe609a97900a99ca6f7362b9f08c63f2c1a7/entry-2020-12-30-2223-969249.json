@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1344249045024440321#favorited-by-254476573",
+    "name": null,
+    "type": "entry",
+    "wm-id": 969249,
+    "author": {
+      "url": "https://twitter.com/hoodie_de",
+      "name": "ho ho hoodie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b49ec7dc880bfa4f8be5df00495490c0207ec000c9709f12594176ada575c18a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1344249045024440321/254476573",
+    "wm-target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-30T17:39:36Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1344249045024440321/254476573",
+  "target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+  "private": false
+}
