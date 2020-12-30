@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1344249045024440321#favorited-by-381969021",
+    "name": null,
+    "type": "entry",
+    "wm-id": 969253,
+    "author": {
+      "url": "https://twitter.com/lesekaffee",
+      "name": "lesekaffee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0ba7322f19b48fab4e8f6df3ae042b1374fcba1d9004032cb2ca267c5c032e2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1344249045024440321/381969021",
+    "wm-target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-30T17:39:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1344249045024440321/381969021",
+  "target": "https://bascht.com/posts/2020/12/30/hmmmm.-https/t.co/l4klbqdimu/",
+  "private": false
+}
