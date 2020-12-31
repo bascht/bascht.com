@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105452487265590116#favorited-by-48807",
+    "name": null,
+    "type": "entry",
+    "wm-id": 969378,
+    "author": {
+      "url": "https://toot.berlin/@holger",
+      "name": "Holger Just",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/82133da2de0171e0e433457097964d3737a3fb9c1f7bbbde07a0f03010b60b25.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105452487265590116/48807",
+    "wm-target": "https://bascht.com/posts/2020/12/27/bascht-went-for-a-brisk-45-minute-str/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2020-12-30T21:35:41Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105452487265590116/48807",
+  "target": "https://bascht.com/posts/2020/12/27/bascht-went-for-a-brisk-45-minute-str/",
+  "private": false
+}
