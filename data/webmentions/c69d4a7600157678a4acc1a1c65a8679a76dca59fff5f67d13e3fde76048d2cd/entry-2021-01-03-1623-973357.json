@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1345463028175802371",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973357,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Ja, oder? „Nötigenfalls“, „Zwenga“, „warads“ - die haben so schöne Wörter. 🤩\n<a class=\"u-mention\" href=\"https://twitter.com/acid23\"></a>",
+      "text": "Ja, oder? „Nötigenfalls“, „Zwenga“, „warads“ - die haben so schöne Wörter. 🤩"
+    },
+    "published": "2021-01-02T20:12:38+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345461613248315398/1345463028175802371",
+    "wm-target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:49:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345461613248315398/1345463028175802371",
+  "target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+  "private": false
+}
