@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/acid23/status/1345462215902691328",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973358,
+    "author": {
+      "url": "https://twitter.com/acid23",
+      "name": "acid",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ad3364d6c11438257ddac4648d1e6817bcc1ec762322c85893d887749732d1e.jpg"
+    },
+    "content": {
+      "html": "Ich glaub das war die Intention :D\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich glaub das war die Intention :D"
+    },
+    "published": "2021-01-02T20:09:24+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345461613248315398/1345462215902691328",
+    "wm-target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:49:55Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345461613248315398/1345462215902691328",
+  "target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+  "private": false
+}
