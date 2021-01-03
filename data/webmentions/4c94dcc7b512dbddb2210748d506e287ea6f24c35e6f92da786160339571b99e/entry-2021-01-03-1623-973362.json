@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/songsofyong/status/1345425979670491144",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973362,
+    "author": {
+      "url": "https://twitter.com/songsofyong",
+      "name": "Songs of Yong",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e938ba9aca7c574e822836c0543ef8b00623eb874c21503acd1d5625d5c03087.jpg"
+    },
+    "content": {
+      "html": "Holstermöbel.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Holstermöbel."
+    },
+    "published": "2021-01-02T17:45:25+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345425979670491144",
+    "wm-target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:49:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345425979670491144",
+  "target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+  "private": false
+}
