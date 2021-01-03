@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/annismckenzie/status/1345419398312579073",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973360,
+    "author": {
+      "url": "https://twitter.com/annismckenzie",
+      "name": "Daniel Lohse",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea9851a358351daec7cc4b97cd70f496c22323f39805d87e3e31ce8ce2e0350b.png"
+    },
+    "content": {
+      "html": "Großartigst. 😂\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Großartigst. 😂"
+    },
+    "published": "2021-01-02T17:19:15+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345419398312579073",
+    "wm-target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:49:56Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345419398312579073",
+  "target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+  "private": false
+}
