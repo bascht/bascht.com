@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1345378898486452229#favorited-by-15355135",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973366,
+    "author": {
+      "url": "https://twitter.com/quafzi",
+      "name": "quafzi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b99f0ed7728518c161a6cf58b4e9456155aa7a95dfd34c8d70c941932eebbb06.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1345378898486452229/15355135",
+    "wm-target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-03T10:50:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1345378898486452229/15355135",
+  "target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+  "private": false
+}
