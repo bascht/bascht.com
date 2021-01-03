@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1345432443587862533",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973361,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": ":D\n<a class=\"u-mention\" href=\"https://twitter.com/songsofyong\"></a>",
+      "text": ":D"
+    },
+    "published": "2021-01-02T18:11:06+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345432443587862533",
+    "wm-target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:49:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345432443587862533",
+  "target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+  "private": false
+}
