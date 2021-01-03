@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/zero_0ne/status/1345398077688078337",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973364,
+    "author": {
+      "url": "https://twitter.com/zero_0ne",
+      "name": "ゼ ロ ワ ン",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/44f61eea6ee24919e4742be19010573a96cda7723935b845851f1a9fad6a1076.jpg"
+    },
+    "content": {
+      "html": "Hände hoch! Möbel kaufen! Dies ist ein Online-Überfall!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Hände hoch! Möbel kaufen! Dies ist ein Online-Überfall!"
+    },
+    "published": "2021-01-02T15:54:32+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345398077688078337",
+    "wm-target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:50:01Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345398077688078337",
+  "target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+  "private": false
+}
