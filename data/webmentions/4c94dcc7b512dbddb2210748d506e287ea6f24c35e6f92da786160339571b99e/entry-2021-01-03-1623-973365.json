@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/depone/status/1345398548549033984",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973365,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a06f2de154cc3d426c2989437b76fe610e6fd7020b22ab0a5477275f9d6315ac.jpg"
+    },
+    "content": {
+      "html": "… based on your browser history 😬\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "… based on your browser history 😬"
+    },
+    "published": "2021-01-02T15:56:24+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345398548549033984",
+    "wm-target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-03T10:50:02Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1345378898486452229/1345398548549033984",
+  "target": "https://bascht.com/posts/2021/01/02/was-https/t.co/nxd0q9vapy/",
+  "private": false
+}
