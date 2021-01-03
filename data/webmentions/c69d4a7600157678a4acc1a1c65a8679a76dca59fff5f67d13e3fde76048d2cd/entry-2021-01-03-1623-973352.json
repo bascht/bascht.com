@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1345461613248315398#favorited-by-280151510",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973352,
+    "author": {
+      "url": "https://twitter.com/SherlockH85",
+      "name": "Thiemaginary Friend",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6da8a163f196e7db836f0f5bb26a23bf780cd926481caadd754b019a56273ea7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1345461613248315398/280151510",
+    "wm-target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-03T10:49:48Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1345461613248315398/280151510",
+  "target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+  "private": false
+}
