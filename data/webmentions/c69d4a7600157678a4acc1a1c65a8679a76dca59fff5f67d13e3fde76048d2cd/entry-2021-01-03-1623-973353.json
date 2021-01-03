@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1345461613248315398#favorited-by-35535998",
+    "name": null,
+    "type": "entry",
+    "wm-id": 973353,
+    "author": {
+      "url": "https://twitter.com/acid23",
+      "name": "acid",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ad3364d6c11438257ddac4648d1e6817bcc1ec762322c85893d887749732d1e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1345461613248315398/35535998",
+    "wm-target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-03T10:49:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1345461613248315398/35535998",
+  "target": "https://bascht.com/posts/2021/01/02/meine-innere-stimme-kann-gar-nicht-ander/",
+  "private": false
+}
