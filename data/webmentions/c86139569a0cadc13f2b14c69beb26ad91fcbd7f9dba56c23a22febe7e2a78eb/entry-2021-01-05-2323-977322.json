@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105406257717381108#favorited-by-51514",
+    "name": null,
+    "type": "entry",
+    "wm-id": 977322,
+    "author": {
+      "url": "https://mastodon.online/@Zoidtes",
+      "name": "Zoidtes",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/bef95e4afba4d1f32088d11247fc72458f8bb66510924d8de4f7a9d20d836b22.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105406257717381108/51514",
+    "wm-target": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-05T18:44:37Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105406257717381108/51514",
+  "target": "https://bascht.com/posts/2020/12/19/bascht-breakfast-escalated./",
+  "private": false
+}
