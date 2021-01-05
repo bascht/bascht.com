@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105504434479652876#favorited-by-12051",
+    "name": null,
+    "type": "entry",
+    "wm-id": 977320,
+    "author": {
+      "url": "https://merveilles.town/@icco",
+      "name": "icco",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/affaad30dd4113a292912d7aa2fd54b5b954c5aa695dd80e15e2e7d13bbcc4d5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105504434479652876/12051",
+    "wm-target": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-05T18:44:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105504434479652876/12051",
+  "target": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+  "private": false
+}
