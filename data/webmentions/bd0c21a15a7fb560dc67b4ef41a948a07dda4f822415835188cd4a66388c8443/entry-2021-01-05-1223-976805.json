@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105498586404225354#favorited-by-6990",
+    "name": null,
+    "type": "entry",
+    "wm-id": 976805,
+    "author": {
+      "url": "https://chaos.social/@wmd",
+      "name": "webbie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62c1c5469742e2050a656d545b3d6ef2544306035efceee678f123e9b234f7d8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105498586404225354/6990",
+    "wm-target": "https://bascht.com/posts/2021/01/04/bascht-i-haz-quarkbrot./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-05T08:59:58Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105498586404225354/6990",
+  "target": "https://bascht.com/posts/2021/01/04/bascht-i-haz-quarkbrot./",
+  "private": false
+}
