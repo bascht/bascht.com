@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://ifwo.eu/@sozialwelten/105504454409398750",
+    "name": null,
+    "type": "entry",
+    "wm-id": 977321,
+    "author": {
+      "url": "https://ifwo.eu/@sozialwelten",
+      "name": "@sozialwelten@ifwo.eu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7c09671946f6cd378d32ea39baaaba6fcbd3fa0fcdb1c0dcdfff541eb8fc8e2d.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Is it a printer for film negative?</p>",
+      "text": "@bascht Is it a printer for film negative?"
+    },
+    "published": "2021-01-05T18:10:15",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105504434479652876/105504454423248649",
+    "wm-target": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-05T18:44:34Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105504434479652876/105504454423248649",
+  "target": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+  "private": false
+}
