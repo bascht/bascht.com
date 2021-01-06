@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105505082199591035",
+    "name": null,
+    "type": "entry",
+    "wm-id": 977408,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> What tiny thing will you print first?</p>",
+      "text": "@bascht What tiny thing will you print first?"
+    },
+    "published": "2021-01-05T20:49:54",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105504434479652876/105505082199591035",
+    "wm-target": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-05T21:44:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105504434479652876/105505082199591035",
+  "target": "https://bascht.com/posts/2021/01/05/bascht-sometimes-i-forget-about-stuff/",
+  "private": false
+}
