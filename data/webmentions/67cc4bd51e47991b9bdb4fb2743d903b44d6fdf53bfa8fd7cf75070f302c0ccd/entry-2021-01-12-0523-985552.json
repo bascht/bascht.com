@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105539303079865803",
+    "name": null,
+    "type": "entry",
+    "wm-id": 985552,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@moonglum\" class=\"u-url\">@<span>moonglum</span></a></span> :(</p>",
+      "text": "@moonglum :("
+    },
+    "published": "2021-01-11T21:52:43",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105538734147297020/105539303079865803",
+    "wm-target": "https://bascht.com/posts/2021/01/11/it-bothers-me-that-firefox-switches-back/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/11/it-bothers-me-that-firefox-switches-back/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-11T22:29:32Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105538734147297020/105539303079865803",
+  "target": "https://bascht.com/posts/2021/01/11/it-bothers-me-that-firefox-switches-back/",
+  "private": false
+}
