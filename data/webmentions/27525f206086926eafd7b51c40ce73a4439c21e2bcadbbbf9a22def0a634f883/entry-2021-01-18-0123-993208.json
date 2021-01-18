@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@lauteshirn/105572445792161947",
+    "name": null,
+    "type": "entry",
+    "wm-id": 993208,
+    "author": {
+      "url": "https://social.tchncs.de/@lauteshirn",
+      "name": "Augenbrauenmann 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/35e99b8a3586930408ff37c88e532b053c71c8686b64e7840d88f6bb30fac6c4.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Cooles Foto!</p>",
+      "text": "@bascht Cooles Foto!"
+    },
+    "published": "2021-01-17T18:21:21",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105572344465105226/105572445801075600",
+    "wm-target": "https://bascht.com/posts/2021/01/17/bascht-glad-i-waterproofed-my-running/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/17/bascht-glad-i-waterproofed-my-running/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-17T19:06:39Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105572344465105226/105572445801075600",
+  "target": "https://bascht.com/posts/2021/01/17/bascht-glad-i-waterproofed-my-running/",
+  "private": false
+}
