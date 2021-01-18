@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105572470542398688",
+    "name": null,
+    "type": "entry",
+    "wm-id": 993205,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@lauteshirn\" class=\"u-url\">@<span>lauteshirn</span></a></span> die Stirnlampe macht immer gute Effekte :D</p>",
+      "text": "@lauteshirn die Stirnlampe macht immer gute Effekte :D"
+    },
+    "published": "2021-01-17T18:27:38",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105572344465105226/105572470542398688",
+    "wm-target": "https://bascht.com/posts/2021/01/17/bascht-glad-i-waterproofed-my-running/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/17/bascht-glad-i-waterproofed-my-running/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-17T19:06:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105572344465105226/105572470542398688",
+  "target": "https://bascht.com/posts/2021/01/17/bascht-glad-i-waterproofed-my-running/",
+  "private": false
+}
