@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1351617667631886338",
+    "name": null,
+    "type": "entry",
+    "wm-id": 995739,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Blog Post – Neuer Yubikey: <a href=\"https://bascht.com/blog/2021/01/18/neuer-yubikey/\">bascht.com/blog/2021/01/1…</a>",
+      "text": "Blog Post – Neuer Yubikey: bascht.com/blog/2021/01/1…"
+    },
+    "published": "2021-01-19T19:48:58+00:00",
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1351617667631886338",
+    "wm-target": "https://bascht.com/blog/2021/01/18/neuer-yubikey/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-01-19T20:21:11Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/post/twitter/baschtdotcom/1351617667631886338",
+  "target": "https://bascht.com/blog/2021/01/18/neuer-yubikey/",
+  "private": false
+}
