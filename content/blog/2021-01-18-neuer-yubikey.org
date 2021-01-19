@@ -1,0 +1,56 @@
+#+title: Neuer Yubikey
+#+date: 2021-01-18 16:55:00+02:00
+#+draft: false
+#+tags[]: gpg yubikey linux crypto cryptoscheiss
+#+images[]: https://img.bascht.com/2021-blog/01-yubikey/yubi.jpg
+
+#+Attr_HTML: :alt Mein alter Yubikey, in Schwarz-Weiss
+[[file:https://img.bascht.com/2021-blog/01-yubikey/yubi.jpg]]
+
+Ich habe mir nun endlich® mal einen getrennten Yubikey für die Arbeit und
+Kundenprojekte zugelegt. Der neue Formfaktor in USB-C ist sehr angenehm und
+damit passen nun auch zwei Stück ohne Probleme an den Schlüsselbund.
+
+Die NFC-Funktionalität ist leider auf der Strecke geblieben – das war mit
+OpenKeychain für Android eigentlich immer eine ganz nette Angelegenheit. Lässt
+sich aber auch nun auch per USB-C ganz okay benutzen. Für's iPad gibt es was das
+angeht leider noch keine vernünftigen Apps.
+
+Für freche 5€ gab es bei Yubico noch kleine Aufkleberchen damit ich beide Keys
+auseinander halten kann:
+#+Attr_HTML: :alt Mein neuer Yubikey, in Farbe mit einem roten Aufkleber
+[[file:https://img.bascht.com/2021-blog/01-yubikey/yubi-usb-c.jpg]]
+
+* Das Setup
+
+Für meinen neuen Yubikey wollte ich dieses Mal unbedingt alles richtig® machen,
+d.h. den Key offline generieren und dann auch nur die Unterschlüssel auf den
+Yubikey kopieren die dort auch gebraucht werden.
+
+Dafür habe mich an [[https://github.com/drduh/YubiKey-Guide][drduh's]] Guide zum Yubikey entlang gehangelt – als Endergebnis
+habe ich einen USB Stick mit meinem GPG =C= Key und dem Yubikey mit den
+Schlüsseln für =E=, =S= und =A=.
+
+Den Yubikey nutze ich mittlerweile nur noch für =gopass=, =ssh= und 2FA, das
+Zertifikat für meine E-Mail-Adresse ist noch bis nächstes Jahr gültig.
+  
+* Für E-Mails?
+
+Falls ihr wirklich im Jahr 2021 noch vorhabt GPG für E-Mails zu verwenden: Der
+Key ist nicht mehr für meine =mail <at> bascht <dot> com= ausgestellt, sondern
+für eine Adresse die immer das aktuelle Jahr dran hat:
+   
+#+BEGIN_SRC bash
+pub   rsa4096/0x08B8010450B2C877 2021-01-11 [C]
+      Key fingerprint = 5CA0 ACBD D4FC 6346 C916  A2BB 08B8 0104 50B2 C877
+uid   [ultimate] Sebastian Schulze (Bascht – https://bascht.com) <gpg@bascht.com>
+uid   [ultimate] Sebastian Schulze (Bless your heart if you still use GPG) <mail+2021@bascht.com>
+#+END_SRC
+
+Importieren könnt ihr den Key einfach via
+
+#+BEGIN_SRC bash
+curl -s https://bascht.com/key.asc | gpg --import
+#+END_SRC
+
+oder direkt [[https://bascht.com/key.asc][von hier]] herunterladen.
