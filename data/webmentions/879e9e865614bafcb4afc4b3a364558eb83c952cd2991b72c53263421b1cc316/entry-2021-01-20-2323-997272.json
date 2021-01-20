@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1351617667631886338#favorited-by-118674790",
+    "name": null,
+    "type": "entry",
+    "wm-id": 997272,
+    "author": {
+      "url": "https://twitter.com/dnsmichi",
+      "name": "Michael Friedrich, a taste of austria 🇦🇹",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0565586f7d81f0e2c4629dbf6b4b113644dad27c4c51ee9ffb9830dfb2de57cf.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1351617667631886338/118674790",
+    "wm-target": "https://bascht.com/posts/2021/01/19/blog-post-neuer-yubikey-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-20T18:17:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1351617667631886338/118674790",
+  "target": "https://bascht.com/posts/2021/01/19/blog-post-neuer-yubikey-https/t.co/",
+  "private": false
+}
