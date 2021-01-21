@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105590356522966874#reblogged-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 997584,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105590356522966874/1375",
+    "wm-target": "https://bascht.com/posts/2021/01/20/so-you-think-your-job-is-stressful-http/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-01-21T01:31:25Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/mastodon/@bascht@social.yakshed.org/105590356522966874/1375",
+  "target": "https://bascht.com/posts/2021/01/20/so-you-think-your-job-is-stressful-http/",
+  "private": false
+}
