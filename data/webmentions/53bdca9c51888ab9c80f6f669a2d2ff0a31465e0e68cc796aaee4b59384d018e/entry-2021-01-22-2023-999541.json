@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1351242808980615168#favorited-by-6087532",
+    "name": null,
+    "type": "entry",
+    "wm-id": 999541,
+    "author": {
+      "url": "https://twitter.com/mkhl",
+      "name": "Martin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0aec1d71eaed8886dabaaf9a015f9d5d24ae06a45c37af695b46a9267b9ccfb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1351242808980615168/6087532",
+    "wm-target": "https://bascht.com/posts/2021/01/18/la-dispute-such-small-hands-https/t./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-22T15:58:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1351242808980615168/6087532",
+  "target": "https://bascht.com/posts/2021/01/18/la-dispute-such-small-hands-https/t./",
+  "private": false
+}
