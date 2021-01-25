@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105617959405916272#favorited-by-11427",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1002980,
+    "author": {
+      "url": "https://bananachips.club/@generika",
+      "name": "generika@bananachips.club",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1d1876d0dacdd48c5a10473d30b2070fac90f90a2e49165be6b6e7f72f5ca171.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/11427",
+    "wm-target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-25T20:16:13Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/11427",
+  "target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+  "private": false
+}
