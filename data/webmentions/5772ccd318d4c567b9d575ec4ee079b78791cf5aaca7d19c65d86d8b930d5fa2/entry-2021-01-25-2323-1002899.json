@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://osna.social/@UnknownUser/105617383026007438",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1002899,
+    "author": {
+      "url": "https://osna.social/@UnknownUser",
+      "name": "Human_2.0",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d8ae6338d6e1ba85c9bfc3e288fcc9e7043158138e71f3bd6e366363a7f652b7.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 2100 wohl keine Utopie mehr wenn es so weitergeht wie in der letzten Dekade ...</p>\n<a class=\"u-mention\" href=\"https://lesetagebu.ch/eintrag/40159\"></a>",
+      "text": "@bascht 2100 wohl keine Utopie mehr wenn es so weitergeht wie in der letzten Dekade ..."
+    },
+    "published": "2021-01-25T16:49:28",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105616768597087126/105617383066361423",
+    "wm-target": "https://bascht.com/posts/2021/01/25/ich-habe-qualityland-von-marc-uwe-klin/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/25/ich-habe-qualityland-von-marc-uwe-klin/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-25T17:58:11Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105616768597087126/105617383066361423",
+  "target": "https://bascht.com/posts/2021/01/25/ich-habe-qualityland-von-marc-uwe-klin/",
+  "private": false
+}
