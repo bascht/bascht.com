@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105617959405916272#favorited-by-8175",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1002978,
+    "author": {
+      "url": "https://toot.kif.rocks/@uniporn",
+      "name": "uniporn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/49638ff790399881c03c2f6f1d63e45354f072b5a5169add0b1132df331304be.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/8175",
+    "wm-target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-25T20:16:10Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/8175",
+  "target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+  "private": false
+}
