@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105617959405916272#favorited-by-40437",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1002977,
+    "author": {
+      "url": "https://dresden.network/@moji",
+      "name": "moji",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/47627cf8d0f7447ad24a5eacc2dc3db09c86c4c57cd755c0cd17e9e617426423.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/40437",
+    "wm-target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-25T20:16:05Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/40437",
+  "target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+  "private": false
+}
