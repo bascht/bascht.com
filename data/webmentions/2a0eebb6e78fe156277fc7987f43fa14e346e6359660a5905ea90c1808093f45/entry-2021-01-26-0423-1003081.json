@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/deb_vortex/status/1353775435927216129",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003081,
+    "author": {
+      "url": "https://twitter.com/deb_vortex",
+      "name": "Max Brauer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8c26840bc4a8545c51cb0a6ef343700a4ea174834dda21174a0288da22cde948.jpg"
+    },
+    "content": {
+      "html": "Was ist das denn für ein Getränk?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Was ist das denn für ein Getränk?"
+    },
+    "published": "2021-01-25T18:43:10+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1353762722777858048/1353775435927216129",
+    "wm-target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-25T22:51:49Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1353762722777858048/1353775435927216129",
+  "target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+  "private": false
+}
