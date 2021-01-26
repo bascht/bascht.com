@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1353762722777858048#favorited-by-59878265",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003074,
+    "author": {
+      "url": "https://twitter.com/FrauTete",
+      "name": "geborene Rehbier 🃏",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a1943145ec195ba6a15452dabf699b75ba140a4cceaf3224baa79cf8475f7be.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1353762722777858048/59878265",
+    "wm-target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-25T22:51:43Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1353762722777858048/59878265",
+  "target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+  "private": false
+}
