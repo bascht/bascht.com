@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1353762722777858048#favorited-by-1030392180",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003077,
+    "author": {
+      "url": "https://twitter.com/weblaie",
+      "name": "Willie W.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268489c8070fdaf9118821ee07667c71f468ac9af3c1639a9f12e9a173bf380c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/bascht/1353762722777858048/1030392180",
+    "wm-target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-25T22:51:45Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/twitter/bascht/1353762722777858048/1030392180",
+  "target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+  "private": false
+}
