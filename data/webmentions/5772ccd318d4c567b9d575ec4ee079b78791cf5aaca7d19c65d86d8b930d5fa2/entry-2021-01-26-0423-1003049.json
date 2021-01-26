@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105618379869246816",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003049,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Du liest aber fix 🤔</p>\n<a class=\"u-mention\" href=\"https://lesetagebu.ch/eintrag/40159\"></a>",
+      "text": "@bascht Du liest aber fix 🤔"
+    },
+    "published": "2021-01-25T21:02:59",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105616768597087126/105618379869246816",
+    "wm-target": "https://bascht.com/posts/2021/01/25/ich-habe-qualityland-von-marc-uwe-klin/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/25/ich-habe-qualityland-von-marc-uwe-klin/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-25T22:01:40Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105616768597087126/105618379869246816",
+  "target": "https://bascht.com/posts/2021/01/25/ich-habe-qualityland-von-marc-uwe-klin/",
+  "private": false
+}
