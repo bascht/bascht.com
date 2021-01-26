@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105618378213328258",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003038,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> ...und? Wie war es? 😀</p>\n<a class=\"u-mention\" href=\"https://lesetagebu.ch/eintrag/40150\"></a>",
+      "text": "@bascht ...und? Wie war es? 😀"
+    },
+    "published": "2021-01-25T21:02:34",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105616685774857118/105618378213328258",
+    "wm-target": "https://bascht.com/posts/2021/01/25/ich-habe-little-brother-von-cory-docto/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/25/ich-habe-little-brother-von-cory-docto/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-25T21:46:19Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/mastodon/@bascht@social.yakshed.org/105616685774857118/105618378213328258",
+  "target": "https://bascht.com/posts/2021/01/25/ich-habe-little-brother-von-cory-docto/",
+  "private": false
+}
