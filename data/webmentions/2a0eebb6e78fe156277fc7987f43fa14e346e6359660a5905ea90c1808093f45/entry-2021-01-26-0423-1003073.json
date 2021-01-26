@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/chsiedentop/status/1353790486197137408",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003073,
+    "author": {
+      "url": "https://twitter.com/chsiedentop",
+      "name": "Christoph Siedentop",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a21df8a71397ca88827b17fdc7e1073effbccc2500a73687345c35de1769c75.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Diese englischsprachigen Bergamottensafttrinker vertragen einfach nix."
+    },
+    "published": "2021-01-25T19:42:58+00:00",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/bascht/1353762722777858048/1353790486197137408",
+    "wm-target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-01-25T22:51:42Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/repost/twitter/bascht/1353762722777858048/1353790486197137408",
+  "target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+  "private": false
+}
