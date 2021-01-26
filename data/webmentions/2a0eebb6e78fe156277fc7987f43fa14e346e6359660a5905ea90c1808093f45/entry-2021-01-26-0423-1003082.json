@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/deb_vortex/status/1353776261139746818",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003082,
+    "author": {
+      "url": "https://twitter.com/deb_vortex",
+      "name": "Max Brauer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8c26840bc4a8545c51cb0a6ef343700a4ea174834dda21174a0288da22cde948.jpg"
+    },
+    "content": {
+      "html": "Witzig. Fehlt nur noch das sie empfehlen es mit schwarzem Tee zu verdünnen <a href=\"https://twitter.com/search?q=%23earlGrey\">#earlGrey</a>\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Witzig. Fehlt nur noch das sie empfehlen es mit schwarzem Tee zu verdünnen #earlGrey"
+    },
+    "published": "2021-01-25T18:46:27+00:00",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/bascht/1353762722777858048/1353776261139746818",
+    "wm-target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-01-25T22:51:51Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/comment/twitter/bascht/1353762722777858048/1353776261139746818",
+  "target": "https://bascht.com/posts/2021/01/25/diese-englischsprachigen-bergamottensaft/",
+  "private": false
+}
