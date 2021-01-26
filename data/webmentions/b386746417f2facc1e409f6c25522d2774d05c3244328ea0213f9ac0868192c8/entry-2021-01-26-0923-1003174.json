@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105617959405916272#favorited-by-56711",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1003174,
+    "author": {
+      "url": "https://leftist.network/@clearhorizontal",
+      "name": "clearhorizontal@leftist.network",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/56711",
+    "wm-target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-01-26T02:25:07Z"
+  },
+  "secret": null,
+  "source": "https://brid-gy.appspot.com/like/mastodon/@bascht@social.yakshed.org/105617959405916272/56711",
+  "target": "https://bascht.com/posts/2021/01/25/bascht-i-like-big-flakes-and-i-cannot/",
+  "private": false
+}
