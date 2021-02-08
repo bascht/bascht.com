@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/gerdoblaster/status/1358810690555965447",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1022973,
+    "author": {
+      "url": "https://twitter.com/gerdoblaster",
+      "name": "Gerd Böttler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c4a764f02017b572ad112b5a236f4c6285da474c084a93df52e44380bebda4ae.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Links das Feuer-Symbol und rechts das Ausrufezeichen-Symbol«\n\n»Und was kommt unten hin?«\n\n»Kein Symbol«"
+    },
+    "published": "2021-02-08T16:11:28+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1358700260093272064/1358810690555965447",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-02-08T16:22:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1358700260093272064/1358810690555965447",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
