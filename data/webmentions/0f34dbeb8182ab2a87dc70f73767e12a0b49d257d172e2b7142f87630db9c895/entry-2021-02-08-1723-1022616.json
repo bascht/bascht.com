@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1358764227788439553",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1022616,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Links das Feuer-Symbol und rechts das Ausrufezeichen-Symbol«\n\n»Und was kommt unten hin?«\n\n»Kein Symbol«"
+    },
+    "published": "2021-02-08T13:06:51+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1358700260093272064/1358764227788439553",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-02-08T13:24:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1358700260093272064/1358764227788439553",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
