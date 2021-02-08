@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/thegcat/status/1358705361776173056",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1022124,
+    "author": {
+      "url": "https://twitter.com/thegcat",
+      "name": "Felix (@thegcat@kif.rocks)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98d229bde69df18b684166306bfb966a5952bdcceea7144691592e359cc73059.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Links das Feuer-Symbol und rechts das Ausrufezeichen-Symbol«\n\n»Und was kommt unten hin?«\n\n»Kein Symbol«"
+    },
+    "published": "2021-02-08T09:12:56+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1358700260093272064/1358705361776173056",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-02-08T09:45:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1358700260093272064/1358705361776173056",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
