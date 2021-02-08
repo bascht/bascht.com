@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1358700260093272064#favorited-by-5008851",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1022297,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0c3f98f55978a9fe7cbfd60b2b53a4b02c0d44844a84b93ac5b0831d20da3a7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1358700260093272064/5008851",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-08T10:43:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1358700260093272064/5008851",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
