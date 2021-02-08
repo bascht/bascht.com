@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1358700260093272064#favorited-by-37947503",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1022299,
+    "author": {
+      "url": "https://twitter.com/einsiedlerkeks",
+      "name": "Laura",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6627d8c0122608397d944230e0483403ac061a8b5dd386b0e2ea184980aeb134.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1358700260093272064/37947503",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-08T10:43:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1358700260093272064/37947503",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
