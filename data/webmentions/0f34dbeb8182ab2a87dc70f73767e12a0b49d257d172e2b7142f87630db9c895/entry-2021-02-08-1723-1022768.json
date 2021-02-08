@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1358700260093272064#favorited-by-14339524",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1022768,
+    "author": {
+      "url": "https://twitter.com/phoet",
+      "name": "Peter Schröder",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/368a6c8c685e324273efa001e891e6e2524ab0596366c0c1813f79b5d5fe4a15.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1358700260093272064/14339524",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-08T14:14:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1358700260093272064/14339524",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
