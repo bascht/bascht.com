@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1358700260093272064#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1023435,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "Christos Alexiou",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2f7f36500f9356de4e5d61577cbb8d072ab9e0db08a281dc95d418268de79a46.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1358700260093272064/1844342406",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-08T22:31:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1358700260093272064/1844342406",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
