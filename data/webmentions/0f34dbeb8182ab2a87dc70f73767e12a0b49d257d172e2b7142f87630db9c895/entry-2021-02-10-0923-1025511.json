@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/gurkendoktor/status/1359381048979722244",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1025511,
+    "author": {
+      "url": "https://twitter.com/gurkendoktor",
+      "name": "matthias haak",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66365f13e478444bb22c7ac76856762bf4814b1e9bf3aa7bd0afba6aa60386d9.jpg"
+    },
+    "content": {
+      "html": "erinnert mich an das\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "erinnert mich an das"
+    },
+    "published": "2021-02-10T05:57:52+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1358700260093272064/1359381048979722244",
+    "wm-target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-10T06:11:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1358700260093272064/1359381048979722244",
+  "target": "https://bascht.com/posts/2021/02/08/links-das-feuer-symbol-und-rechts-das-a/",
+  "private": false
+}
