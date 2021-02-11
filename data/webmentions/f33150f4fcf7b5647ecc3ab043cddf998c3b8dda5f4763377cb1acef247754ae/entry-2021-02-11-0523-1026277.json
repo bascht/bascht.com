@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://todon.nl/@dgold/105708897749044614",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1026277,
+    "author": {
+      "url": "https://todon.nl/@dgold",
+      "name": "Genuinely Chibs.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/aa4d2697bf1abf3641b0964e8589002304eb682231730b12702740bf3d13ee7e.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> because that's the mathematical symbol for XOR?</p>",
+      "text": "@bascht because that's the mathematical symbol for XOR?"
+    },
+    "published": "2021-02-10T20:42:53",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105708886057548475/105708897842817475",
+    "wm-target": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-10T22:41:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105708886057548475/105708897842817475",
+  "target": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+  "private": false
+}
