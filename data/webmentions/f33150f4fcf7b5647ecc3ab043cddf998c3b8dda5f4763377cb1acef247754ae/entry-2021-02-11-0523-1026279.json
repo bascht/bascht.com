@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105708886057548475#reblogged-by-607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1026279,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/85f26b2bdf8f7dc6eb97140f4397aca7dec49210de5b98e7b2a2b1430306b2de.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/105708886057548475/607",
+    "wm-target": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-02-10T22:41:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/105708886057548475/607",
+  "target": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+  "private": false
+}
