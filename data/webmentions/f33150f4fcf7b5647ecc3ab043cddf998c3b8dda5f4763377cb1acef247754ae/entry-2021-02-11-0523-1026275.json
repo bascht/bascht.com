@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105709037560811739",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1026275,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://todon.nl/@dgold\" class=\"u-url\">@<span>dgold</span></a></span> Yip, those overlap perfectly. Background of my question: I need to fill out checkboxes in a form and </p><p>⦻ Yes<br />〇 No </p><p>bothers me. :D</p>",
+      "text": "@dgold Yip, those overlap perfectly. Background of my question: I need to fill out checkboxes in a form and ⦻ Yes\n〇 No bothers me. :D"
+    },
+    "published": "2021-02-10T21:18:26",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105708886057548475/105709037560811739",
+    "wm-target": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-10T22:41:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105708886057548475/105709037560811739",
+  "target": "https://bascht.com/posts/2021/02/10/unicode-folk-why-is-there-circle-wit/",
+  "private": false
+}
