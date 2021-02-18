@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105751204212132905",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1036286,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>320 GB in 4 hours. I &lt;3 MNet.</p>",
+      "text": "320 GB in 4 hours. I <3 MNet."
+    },
+    "published": "2021-02-18T08:01:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105748524636002962/105751204212132905",
+    "wm-target": "https://bascht.com/posts/2021/02/17/bascht-backup-time/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/17/bascht-backup-time/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-18T08:42:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105748524636002962/105751204212132905",
+  "target": "https://bascht.com/posts/2021/02/17/bascht-backup-time/",
+  "private": false
+}
