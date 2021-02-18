@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/105751283443836365",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1036287,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> What happened? Just too cold?</p>",
+      "text": "@bascht What happened? Just too cold?"
+    },
+    "published": "2021-02-18T08:22:07",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105751147044780718/105751283460617104",
+    "wm-target": "https://bascht.com/posts/2021/02/18/bascht-second-run-this-week-after-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/18/bascht-second-run-this-week-after-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-18T08:42:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105751147044780718/105751283460617104",
+  "target": "https://bascht.com/posts/2021/02/18/bascht-second-run-this-week-after-a/",
+  "private": false
+}
