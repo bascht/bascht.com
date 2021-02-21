@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105768933910374944#favorited-by-52907",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1040501,
+    "author": {
+      "url": "https://mastodon.online/@kr1s000",
+      "name": "kr1s000@mastodon.online",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4a5620d5f37cce2bbc065027b87d3e5cc2621a689f6bb5bd75f7e18769051658.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105768933910374944/52907",
+    "wm-target": "https://bascht.com/posts/2021/02/21/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-21T11:26:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105768933910374944/52907",
+  "target": "https://bascht.com/posts/2021/02/21/bascht-cw-food-sensitive/",
+  "private": false
+}
