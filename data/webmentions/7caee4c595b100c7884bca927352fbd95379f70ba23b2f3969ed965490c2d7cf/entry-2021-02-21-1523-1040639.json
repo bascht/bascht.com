@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105768933910374944#favorited-by-1270",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1040639,
+    "author": {
+      "url": "https://social.tchncs.de/@lauteshirn",
+      "name": "Augenbrauenmann 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4b3d1a65b3858aeed42d6b0cc0a7326234fea66d07f473d8cb1d27cac0b73ac9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105768933910374944/1270",
+    "wm-target": "https://bascht.com/posts/2021/02/21/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-21T12:52:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105768933910374944/1270",
+  "target": "https://bascht.com/posts/2021/02/21/bascht-cw-food-sensitive/",
+  "private": false
+}
