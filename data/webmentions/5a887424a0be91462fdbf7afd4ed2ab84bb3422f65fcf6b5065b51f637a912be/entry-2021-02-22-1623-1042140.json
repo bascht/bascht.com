@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pleroma.labrat.space/objects/4a31f829-fd34-4ed1-8476-588edb836ea2",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1042140,
+    "author": {
+      "url": "https://pleroma.labrat.space/users/reto",
+      "name": "Reto",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c72e09fdbac0f3955990afc64b37b0a2b0d72b74e13ac36e0c90e7ed472c252b.jpg"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> primo victoria!",
+      "text": "@bascht primo victoria!"
+    },
+    "published": "2021-02-22T10:03:50",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105774158857885837/105774332723254083",
+    "wm-target": "https://bascht.com/posts/2021/02/22/one-of-those-sabaton-mornings./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/22/one-of-those-sabaton-mornings./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-22T10:47:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105774158857885837/105774332723254083",
+  "target": "https://bascht.com/posts/2021/02/22/one-of-those-sabaton-mornings./",
+  "private": false
+}
