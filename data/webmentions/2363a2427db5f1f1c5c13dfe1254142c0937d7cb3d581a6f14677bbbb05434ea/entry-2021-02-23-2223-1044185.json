@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/105782208818382433",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1044185,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> that‘s way more than one month for our household 😂😂😂</p>",
+      "text": "@bascht that‘s way more than one month for our household 😂😂😂"
+    },
+    "published": "2021-02-23T19:26:50",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105751204212132905/105782208818382433",
+    "wm-target": "https://bascht.com/posts/2021/02/18/320-gb-in-4-hours.-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/18/320-gb-in-4-hours.-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-23T20:20:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105751204212132905/105782208818382433",
+  "target": "https://bascht.com/posts/2021/02/18/320-gb-in-4-hours.-i/",
+  "private": false
+}
