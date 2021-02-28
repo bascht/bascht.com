@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105810192673846525#favorited-by-5039",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1050679,
+    "author": {
+      "url": "https://toot.cafe/@moopet",
+      "name": "Badly-optimised primate",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b1020090918c26ee7016a3dfd5ad017ebfaac3adfac7146cdb817ad845e49cda.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105810192673846525/5039",
+    "wm-target": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-28T19:19:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105810192673846525/5039",
+  "target": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+  "private": false
+}
