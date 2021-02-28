@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105810268963019389",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1050647,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@LittleJoeMuc\" class=\"u-url\">@<span>LittleJoeMuc</span></a></span> :D you're right! :D</p>",
+      "text": "@LittleJoeMuc :D you're right! :D"
+    },
+    "published": "2021-02-28T18:22:54",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105810192673846525/105810268963019389",
+    "wm-target": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-02-28T18:25:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105810192673846525/105810268963019389",
+  "target": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+  "private": false
+}
