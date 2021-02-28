@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105810192673846525#favorited-by-4978",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1050678,
+    "author": {
+      "url": "https://mastodonten.de/@hoernchen72",
+      "name": "Oberflächenspannung",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/9099266b6deb9b29318f6c0fe5627b0ed62afac4a75ef2656d3794a14dcddd25.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105810192673846525/4978",
+    "wm-target": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-02-28T19:18:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105810192673846525/4978",
+  "target": "https://bascht.com/posts/2021/02/28/bascht-cw-food-sensitive/",
+  "private": false
+}
