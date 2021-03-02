@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1366325337899081734#favorited-by-43104012",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1054204,
+    "author": {
+      "url": "https://twitter.com/codePrincess",
+      "name": "manu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/15699878a884f0559e131d917f1dabf265f0ae77107802ff8c132be0da654851.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1366325337899081734/43104012",
+    "wm-target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-02T17:08:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1366325337899081734/43104012",
+  "target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+  "private": false
+}
