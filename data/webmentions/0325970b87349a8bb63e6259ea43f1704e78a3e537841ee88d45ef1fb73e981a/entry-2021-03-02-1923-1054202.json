@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1366325337899081734#favorited-by-381969021",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1054202,
+    "author": {
+      "url": "https://twitter.com/lesekaffee",
+      "name": "lesekaffee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0ba7322f19b48fab4e8f6df3ae042b1374fcba1d9004032cb2ca267c5c032e2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1366325337899081734/381969021",
+    "wm-target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-02T17:08:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1366325337899081734/381969021",
+  "target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+  "private": false
+}
