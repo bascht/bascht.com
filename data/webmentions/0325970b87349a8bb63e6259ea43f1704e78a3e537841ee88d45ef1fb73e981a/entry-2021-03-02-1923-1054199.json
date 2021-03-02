@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tom_duessel/status/1366372348627210240",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1054199,
+    "author": {
+      "url": "https://twitter.com/tom_duessel",
+      "name": "Tomtom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad3c3857212d229476790e8607448618ffa41e3f02a0496d32a8db0e38634a8a.jpg"
+    },
+    "content": {
+      "html": "☝️ Definition of Done.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "☝️ Definition of Done."
+    },
+    "published": "2021-03-01T12:58:48+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1366325337899081734/1366372348627210240",
+    "wm-target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-03-02T17:08:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1366325337899081734/1366372348627210240",
+  "target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+  "private": false
+}
