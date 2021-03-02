@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/der_kronn/status/1366544154961076224",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1054195,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": "ist das jetzt der Schlussakkord zu \"Techniker ist informiert\"?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "ist das jetzt der Schlussakkord zu \"Techniker ist informiert\"?"
+    },
+    "published": "2021-03-02T00:21:30+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1366325337899081734/1366544154961076224",
+    "wm-target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-03-02T17:07:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1366325337899081734/1366544154961076224",
+  "target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+  "private": false
+}
