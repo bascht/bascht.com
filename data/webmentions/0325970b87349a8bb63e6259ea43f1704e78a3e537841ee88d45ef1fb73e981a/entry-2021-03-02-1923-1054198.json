@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1366325337899081734#favorited-by-5008851",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1054198,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8982d65e9e234468f2ba48ef7a8a28e459e9ce87cd25c8a10eec4c1e0548e55e.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1366325337899081734/5008851",
+    "wm-target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-02T17:08:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1366325337899081734/5008851",
+  "target": "https://bascht.com/posts/2021/03/01/armer-kerl.-https/t.co/tt3tlnnk2z/",
+  "private": false
+}
