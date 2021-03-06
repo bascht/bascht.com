@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1366520318060359684#favorited-by-15440623",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1059570,
+    "author": {
+      "url": "https://twitter.com/marcshark",
+      "name": "Marc Böttler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eee12faf4e8962d52649fb32f5d8c75529283c8fedcab53c8d93032abe684218.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1366520318060359684/15440623",
+    "wm-target": "https://bascht.com/posts/2021/03/01/the-small-web-is-beautiful/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-06T13:06:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1366520318060359684/15440623",
+  "target": "https://bascht.com/posts/2021/03/01/the-small-web-is-beautiful/",
+  "private": false
+}
