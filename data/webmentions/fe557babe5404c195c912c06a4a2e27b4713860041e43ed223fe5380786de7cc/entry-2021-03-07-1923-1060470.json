@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1367696825583550464#favorited-by-1934345738",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1060470,
+    "author": {
+      "url": "https://twitter.com/charkost",
+      "name": "Mpampis Kostas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1aca0b540989a21ace0761f2cab8912cfd82ea7ba5d8d105683261039e7b6d78.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1367696825583550464/1934345738",
+    "wm-target": "https://bascht.com/posts/2021/03/04/github-charkost/prosopite-rails-n-1-queries-auto-detection-with-zero-false-positives-/-false-negatives/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-07T13:07:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1367696825583550464/1934345738",
+  "target": "https://bascht.com/posts/2021/03/04/github-charkost/prosopite-rails-n-1-queries-auto-detection-with-zero-false-positives-/-false-negatives/",
+  "private": false
+}
