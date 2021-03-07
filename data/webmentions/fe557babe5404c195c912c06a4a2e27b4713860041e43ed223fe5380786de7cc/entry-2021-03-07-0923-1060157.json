@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1367696825583550464",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1060157,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "GitHub - charkost/prosopite: Rails N+1 queries auto-detection with zero false positives / false nega • <a href=\"https://bascht.com/posts/2021/03/04/github-charkost/prosopite-rails-n-1-queries-auto-detection-with-zero-false-positives-/-false-negatives/\">bascht.com/posts/2021/03/…</a>",
+      "text": "GitHub - charkost/prosopite: Rails N+1 queries auto-detection with zero false positives / false nega • bascht.com/posts/2021/03/…"
+    },
+    "published": "2021-03-05T04:41:48+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1367696825583550464",
+    "wm-target": "https://bascht.com/posts/2021/03/04/github-charkost/prosopite-rails-n-1-queries-auto-detection-with-zero-false-positives-/-false-negatives/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-03-07T05:59:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1367696825583550464",
+  "target": "https://bascht.com/posts/2021/03/04/github-charkost/prosopite-rails-n-1-queries-auto-detection-with-zero-false-positives-/-false-negatives/",
+  "private": false
+}
