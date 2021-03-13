@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105881728957920340#favorited-by-6565",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1070257,
+    "author": {
+      "url": "https://mastodon.social/@lauraritchie",
+      "name": "Laura Ritchie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e37666eb0c29e521c43f115b1bc6078e18f3602d91d0d13ab705693b00709e5d.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105881728957920340/6565",
+    "wm-target": "https://bascht.com/posts/2021/03/13/bascht-cw-food-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-13T12:20:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105881728957920340/6565",
+  "target": "https://bascht.com/posts/2021/03/13/bascht-cw-food-sensitive/",
+  "private": false
+}
