@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105884160466535156#favorited-by-55301",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1070678,
+    "author": {
+      "url": "https://social.anoxinon.de/@zlop",
+      "name": "zlop",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/56d384a41b52a4edaa0b652e62e14d5cb278f9bec8198fbd7dfcbb30ce3f7b35.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105884160466535156/55301",
+    "wm-target": "https://bascht.com/posts/2021/03/13/bascht-dont-need-no-filters-with-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-13T20:30:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105884160466535156/55301",
+  "target": "https://bascht.com/posts/2021/03/13/bascht-dont-need-no-filters-with-the/",
+  "private": false
+}
