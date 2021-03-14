@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105888990147287843#favorited-by-53402",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1072009,
+    "author": {
+      "url": "https://post.lurk.org/@pixouls",
+      "name": "Pixel Oliver",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1d55ef27a104d9c3a84f4888b9c637595c8a166ac5523596ebb78ec61b5c748d.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105888990147287843/53402",
+    "wm-target": "https://bascht.com/posts/2021/03/14/bascht-ohail/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-14T16:39:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105888990147287843/53402",
+  "target": "https://bascht.com/posts/2021/03/14/bascht-ohail/",
+  "private": false
+}
