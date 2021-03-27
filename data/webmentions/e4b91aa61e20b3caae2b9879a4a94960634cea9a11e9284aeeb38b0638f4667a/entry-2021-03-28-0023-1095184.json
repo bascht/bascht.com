@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://subversive.zone/@tofuwabohu/105962204012880249",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1095184,
+    "author": {
+      "url": "https://subversive.zone/@tofuwabohu",
+      "name": "tofuwabohu@subversive.zone",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8cce92abbdc6da611154c8d7ac7f51ed3ee756c34e3af99e241f44fdf96a57c4.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Bin von Anhänger auf Gepäckträger umgestiegen beim Abholen. Und mach was drüber, sonst werden die kalt 😅</p>",
+      "text": "@bascht Bin von Anhänger auf Gepäckträger umgestiegen beim Abholen. Und mach was drüber, sonst werden die kalt 😅"
+    },
+    "published": "2021-03-27T14:21:59",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105962159017867683/105962204037762778",
+    "wm-target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-03-27T18:20:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105962159017867683/105962204037762778",
+  "target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+  "private": false
+}
