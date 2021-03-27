@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105962159017867683#favorited-by-730",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1095188,
+    "author": {
+      "url": "https://social.tchncs.de/@tiefpunkt",
+      "name": "Severin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0694f42a2ab3ed787c3a155a9abf1db85940d207c94a057e6df6d9861efc83a5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105962159017867683/730",
+    "wm-target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-27T18:21:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/105962159017867683/730",
+  "target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+  "private": false
+}
