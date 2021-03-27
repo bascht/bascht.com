@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/105963045432799630",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1095187,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://troet.cafe/@Phil_pioneer\" class=\"u-url\">@<span>Phil_pioneer</span></a></span> kommt drauf an ob die Verkehrspolizei fragt 😬</p>",
+      "text": "@Phil_pioneer kommt drauf an ob die Verkehrspolizei fragt 😬"
+    },
+    "published": "2021-03-27T17:55:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105962159017867683/105963045432799630",
+    "wm-target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-03-27T18:20:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105962159017867683/105963045432799630",
+  "target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+  "private": false
+}
