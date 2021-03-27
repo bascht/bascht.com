@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@svenbrier/105962166606539499",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1095182,
+    "author": {
+      "url": "https://chaos.social/@svenbrier",
+      "name": "Sven Brier",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/21bcad5083c31d51ac0c6948044a04a0e706d1fea6435bbdee221511d73e3356.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 😋 <a href=\"https://chaos.social/tags/nomnomnom\">#<span>nomnomnom</span></a></p>\n<a class=\"p-category\" href=\"https://social.yakshed.org/tags/nomnomnom\">nomnomnom</a>",
+      "text": "@bascht 😋 #nomnomnom\nnomnomnom"
+    },
+    "published": "2021-03-27T14:12:28",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105962159017867683/105962166663317690",
+    "wm-target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-03-27T18:20:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/105962159017867683/105962166663317690",
+  "target": "https://bascht.com/posts/2021/03/27/bascht-fries-express/",
+  "private": false
+}
