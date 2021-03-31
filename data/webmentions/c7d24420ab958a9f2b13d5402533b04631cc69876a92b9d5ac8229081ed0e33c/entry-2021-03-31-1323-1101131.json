@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1372091903785758724#favorited-by-519731458",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1101131,
+    "author": {
+      "url": "https://twitter.com/renecalles",
+      "name": "r8s",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/95a719470b068c99df047de54bbc14328b010dcee96e8132ee0ae5333991f144.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1372091903785758724/519731458",
+    "wm-target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-31T07:14:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1372091903785758724/519731458",
+  "target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+  "private": false
+}
