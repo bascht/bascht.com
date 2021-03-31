@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1372091903785758724#favorited-by-26465695",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1101130,
+    "author": {
+      "url": "https://twitter.com/polarblau",
+      "name": "Florian Plank",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/73d1f798110996c5a0fc9aa64f5ae7bbe0f91a9f0eecc2f940111c0038e2e53c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1372091903785758724/26465695",
+    "wm-target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-03-31T07:14:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1372091903785758724/26465695",
+  "target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+  "private": false
+}
