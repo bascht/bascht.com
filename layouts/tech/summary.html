@@ -1,7 +1,3 @@
-<a href="{{.Permalink}}">
-  <h2>{{.Title}}</h2>
-</a>
-<small>{{ .Date.Format "January, 02th 2006" }}</small>
-<hr/>
-{{ .Summary | truncate 200 "" }}
-<a href="{{.Permalink}}">…</a>
+<div class="h-entry">
+<h3><a href="{{.Permalink}}">{{.Title}}</a> (<small>{{ .Date.Format "January, 02th 2006" }}</small>)</h3>
+</div>
