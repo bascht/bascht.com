@@ -1,0 +1,63 @@
+#+title: Kubernetes Docker dind MTU issues on Hetzner (Cloud)
+#+date: 2021-04-08
+#+tags[]: docker dind mtu kubernetes gitlab runner ci
+#+images[]: https://img.bascht.com/2021-blog/04-tech/docker-mtu.png
+
+/(angrily-typed-after-a-wasted-night-of-debugging)/
+
+
+Recently we used Hetzners new [[https://docs.hetzner.com/cloud/networks/connect-dedi-vswitch/][vSwitch subnets]] to start adding dedicated servers
+to one of our Kubernetes Clusters. Especially for CI workloads where we don't
+need persistent storage, this is really cost-effective, as we could basically
+replace 4 other worker nodes with a single cheaper node.
+
+Upon spawning the first GitLab runner pods on the new node things went south:
+We saw random build failures bubbling up in jobs that didn't fail for ages:
+
+#+BEGIN_SRC log
+#17 44.43 Downloading binary from https://github.com/sass/node-sass/releases/download/v4.13.1/linux-x64-67_binding.node
+#17 164.6 Cannot download "https://github.com/sass/node-sass/releases/download/v4.13.1/linux-x64-67_binding.node":
+#17 164.6
+#17 164.6 ESOCKETTIMEDOUT
+#+END_SRC
+
+I already wasted a considerable amount of hours to this issue when we spawned
+our first Cluster at Hetzner cloud a few years ago, so I assumed this wouldn't
+be MTU issues again.
+
+Well, turns out: I was wrong.
+
+Up until now we where running homogenous clusters of hcloud nodes connected via
+a private subnet:
+
+=enp7s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1450=
+
+A factor that I worked around already by reducing the Docker in Docker MTU
+to 1450. So now let's have a look at the new dedicated node:
+
+=enp7s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1400=
+
+See that pesky 50 byte difference? Only a few hours of debugging later…
+
+[[file:https://img.bascht.com/2021-blog/04-tech/docker-mtu.png]]
+
+…I can assure you that it made all the difference.
+
+Since the GitLab Kubernetes runner needs to connect the =build= and =svc-0=
+container via the CNI (Canal in our case) we have to make sure the MTUs match
+up.
+
+*** tl;dr reduce the MTU even further
+
+To account for the double-wrapped packages of Hetzners vSwitches, the Kubernetes
+CNI has to adapt to the lowest common denominator - in this case =1400= - which
+means that Calico will set it's MTU to =1380=.
+
+
+
+
+
+*** Additional reading
+
+- Matthias Lohr with a bit of background on the whole Docker MTU issue: https://mlohr.com/docker-mtu/
+- The ITNext benchmarks of different CNI plugins https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-updated-august-2020-6e1b757b9e49
