@@ -1,0 +1,12 @@
+#+title: Geburtstag
+#+date: 2021-04-08 20:00:00+02:00
+#+draft: false
+#+tags[]: geburtstag geschenk tasse mimikama
+#+images[]: https://img.bascht.com/2021-blog/04-geburtstag/chemtrails.gif
+
+36 geworden. Tolles Geschenk geschenkt bekommen:
+
+#+Attr_HTML: :alt Animiertes GIF meiner Mimikama Tasse
+[[file:https://img.bascht.com/2021-blog/04-geburtstag/chemtrails.gif]]
+
+<3
