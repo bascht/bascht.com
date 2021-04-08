@@ -8,6 +8,8 @@ RewriteRule (.*) https://bascht.com/$1 [R=301,L]
 
 ErrorDocument 404 /404.html
 
+AddType 'text/xml; charset=UTF-8' xml
+
 # -- redirects (see https://github.com/gohugoio/hugo/issues/6007)
 
 Redirect 301 /blog/2014/05/28/einstieg-in-mutt-notmuch--offlineimap/ /blog/2014/05/28/einstieg-in-mutt-notmuch-offlineimap
