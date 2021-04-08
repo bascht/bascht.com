@@ -3,7 +3,17 @@
     {{ partial "navbar.html" . }}
     {{ $paginator := .Paginate ( (where .Site.Pages "Params.type" "in" .Params.types).GroupByDate "2006-01")  30}}
     <div class="main wrapper clearfix">
-        {{ $paginator.TotalNumberOfElements}} Posts in {{ .Title }} verteilt auf {{ range .Params.types }} <a href="{{.}}">{{.}}</a> {{end}}.
+
+
+        <div class="account-list-infobox">
+
+        {{ $paginator.TotalNumberOfElements}} Posts in {{ .Title }} {{ if gt (len .Params.types) 1 }} vom Typ {{ range .Params.types }} <a href="{{.}}">{{.}}</a> {{end}}{{ end -}}.
+
+        <p>{{ with .OutputFormats.Get "rss" -}}<a href="{{.Permalink}}"> 🔗 Abonnieren via RSS</a>{{ end -}}</p>
+
+        <p><a href="../">⤴ Zurück zur Übersicht</a></p>
+
+        </div>
         <div class="h-feed">
             {{ range $paginator.PageGroups }}
             <h2>{{ .Key }}</h2>

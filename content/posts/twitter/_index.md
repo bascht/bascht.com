@@ -1,4 +1,5 @@
 ---
-layout: account-stream
+title: "Tweets"
+layout: account-list
 types: ["twitter_tweet"]
 ---
