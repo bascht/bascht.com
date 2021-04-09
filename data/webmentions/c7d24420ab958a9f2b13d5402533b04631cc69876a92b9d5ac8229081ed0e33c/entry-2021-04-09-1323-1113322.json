@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1372091903785758724#favorited-by-304451277",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1113322,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus Rebbert @🏡 🦠 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9e11410f90bbd3aa6f9188b707954cce8abdae6528c3dc7b6defe1b40af3d04d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1372091903785758724/304451277",
+    "wm-target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-09T07:52:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1372091903785758724/304451277",
+  "target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+  "private": false
+}
