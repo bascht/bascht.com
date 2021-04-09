@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1380290123938598921#favorited-by-5008851",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1113028,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1718b8c684b2ba888f89e08713239d710a378d6db7226a00e7f107c8a3cd81c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1380290123938598921/5008851",
+    "wm-target": "https://bascht.com/posts/pixelfed/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-09T02:35:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1380290123938598921/5008851",
+  "target": "https://bascht.com/posts/pixelfed/",
+  "private": false
+}
