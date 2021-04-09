@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106032196785143782#favorited-by-40694",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1113380,
+    "author": {
+      "url": "https://mastodon.social/@ohhelloana",
+      "name": "Ana Rodrigues",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2340a90d4b00aede6f9590dda948cd6eb75609a44dcd3abf9efc651540c629d9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106032196785143782/40694",
+    "wm-target": "https://bascht.com/posts/2021/04/08/finally-got-around-to-clean-up-the-rss-f/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-09T09:52:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106032196785143782/40694",
+  "target": "https://bascht.com/posts/2021/04/08/finally-got-around-to-clean-up-the-rss-f/",
+  "private": false
+}
