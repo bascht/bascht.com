@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Argorak/status/1380297680543440898",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1113026,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": "Gestern im Cafe um die Ecke: \"Das sind ja mal ulkige Zimtschnecken\" Verkäufer: \"Ja, nennen sich Baklava, aus der Heimat.\"\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://bit.ly/38RB3kK\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://www.sueddeutsche.de/panorama/kriminalitaet-bonn-einbrecher-nascht-suesswaren-bevor-er-mit-beute-verschwindet-dpa.urn-newsml-dpa-com-20090101-210317-99-855038\"></a>",
+      "text": "Gestern im Cafe um die Ecke: \"Das sind ja mal ulkige Zimtschnecken\" Verkäufer: \"Ja, nennen sich Baklava, aus der Heimat.\""
+    },
+    "published": "2021-04-08T23:13:06+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1372091903785758724/1380297680543440898",
+    "wm-target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-09T02:35:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1372091903785758724/1380297680543440898",
+  "target": "https://bascht.com/posts/2021/03/17/niemand-geht-einfach-so-an-baklava-vorbe/",
+  "private": false
+}
