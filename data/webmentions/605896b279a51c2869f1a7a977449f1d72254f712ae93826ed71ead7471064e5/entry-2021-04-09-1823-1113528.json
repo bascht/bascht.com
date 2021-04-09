@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106032196785143782#favorited-by-37893",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1113528,
+    "author": {
+      "url": "https://mstdn.social/@rmdes",
+      "name": "Ricardo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0b62d687fcaaaad187406103f9ccd562ddfd82d4ebcfb3926d75c61dc535db45.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106032196785143782/37893",
+    "wm-target": "https://bascht.com/posts/2021/04/08/finally-got-around-to-clean-up-the-rss-f/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-09T12:42:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106032196785143782/37893",
+  "target": "https://bascht.com/posts/2021/04/08/finally-got-around-to-clean-up-the-rss-f/",
+  "private": false
+}
