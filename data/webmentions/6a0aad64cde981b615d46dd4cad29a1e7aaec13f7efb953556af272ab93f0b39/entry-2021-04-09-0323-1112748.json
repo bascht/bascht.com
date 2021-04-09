@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106031788066181325",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1112748,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Follow up blog post re the Hetzner MTU woes: <a href=\"https://bascht.com/tech/2021/04/08/kubernetes-docker-dind-mtu-issues-on-hetzner-cloud/\"><span>https://</span><span>bascht.com/tech/2021/04/08/kub</span><span>ernetes-docker-dind-mtu-issues-on-hetzner-cloud/</span></a></p>\n<a href=\"https://bascht.com/tech/2021/04/08/kubernetes-docker-dind-mtu-issues-on-hetzner-cloud/\">Kubernetes Docker dind MTU issues on Hetzner (Cloud)</a>",
+      "text": "Follow up blog post re the Hetzner MTU woes: https://bascht.com/tech/2021/04/08/kubernetes-docker-dind-mtu-issues-on-hetzner-cloud/\nKubernetes Docker dind MTU issues on Hetzner (Cloud)"
+    },
+    "published": "2021-04-08T21:18:08",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106027226531679235/106031788066181325",
+    "wm-target": "https://bascht.com/posts/2021/04/08/fricking-mtu./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/08/fricking-mtu./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-08T21:20:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106027226531679235/106031788066181325",
+  "target": "https://bascht.com/posts/2021/04/08/fricking-mtu./",
+  "private": false
+}
