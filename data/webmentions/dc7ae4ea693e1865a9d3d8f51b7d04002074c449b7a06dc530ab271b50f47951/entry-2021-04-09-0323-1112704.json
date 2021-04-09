@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106031081715072229#favorited-by-61384",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1112704,
+    "author": {
+      "url": "https://troet.cafe/@Phil_pioneer",
+      "name": "Phil_pioneer@troet.cafe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/cba30ace58a9aa577246dba9c611f33b0f682278c3597c9c8069c2e121364cd9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106031081715072229/61384",
+    "wm-target": "https://bascht.com/posts/2021/04/08/i-would-also-recommend-that-this-protoc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-08T20:21:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106031081715072229/61384",
+  "target": "https://bascht.com/posts/2021/04/08/i-would-also-recommend-that-this-protoc/",
+  "private": false
+}
