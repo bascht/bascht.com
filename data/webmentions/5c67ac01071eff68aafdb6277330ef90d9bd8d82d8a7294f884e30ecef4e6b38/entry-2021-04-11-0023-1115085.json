@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/106042572972885350",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1115085,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> when someone says something costs nothing, i always say the whole world costs nothing.</p><p>It's abundant and does not  resist our abuse of it.</p>\n<a class=\"u-mention\" href=\"https://lemmy.ml/post/60067\"></a>",
+      "text": "@bascht when someone says something costs nothing, i always say the whole world costs nothing.It's abundant and does not  resist our abuse of it."
+    },
+    "published": "2021-04-10T19:00:52",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106042153140444656/106042573151662113",
+    "wm-target": "https://bascht.com/posts/2021/04/10/food-is-free-https/lemmy.ml/post/600/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/10/food-is-free-https/lemmy.ml/post/600/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-10T19:03:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106042153140444656/106042573151662113",
+  "target": "https://bascht.com/posts/2021/04/10/food-is-free-https/lemmy.ml/post/600/",
+  "private": false
+}
