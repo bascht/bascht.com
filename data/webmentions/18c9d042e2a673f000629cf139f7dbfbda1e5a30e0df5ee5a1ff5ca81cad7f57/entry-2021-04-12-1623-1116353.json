@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/106052065738732518",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1116353,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Cannot wait for this to never happen in Germany 🙃</p>",
+      "text": "@bascht Cannot wait for this to never happen in Germany 🙃"
+    },
+    "published": "2021-04-12T11:15:00",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106051919441494934/106052065816024211",
+    "wm-target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-12T11:21:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106051919441494934/106052065816024211",
+  "target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+  "private": false
+}
