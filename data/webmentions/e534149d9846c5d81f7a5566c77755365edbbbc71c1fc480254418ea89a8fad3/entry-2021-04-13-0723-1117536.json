@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/DonSchado/status/1381651718874787842",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1117536,
+    "author": {
+      "url": "https://twitter.com/DonSchado",
+      "name": "Marco",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e34df7ae07e9d7fbaa5b0d79af177d59010afc55778b241f57aa9544d7f1f4c.jpg"
+    },
+    "content": {
+      "html": "Hey! Moment! Das kann ich so nicht akzeptieren, lass uns drüber diskutieren...\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Hey! Moment! Das kann ich so nicht akzeptieren, lass uns drüber diskutieren..."
+    },
+    "published": "2021-04-12T16:53:34+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1381514285860454400/1381651718874787842",
+    "wm-target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-13T01:58:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1381514285860454400/1381651718874787842",
+  "target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+  "private": false
+}
