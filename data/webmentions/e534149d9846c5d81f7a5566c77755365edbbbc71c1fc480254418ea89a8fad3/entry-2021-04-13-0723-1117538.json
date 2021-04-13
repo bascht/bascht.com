@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1381514285860454400#favorited-by-385939139",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1117538,
+    "author": {
+      "url": "https://twitter.com/agrebea",
+      "name": "Anna Grebe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac748282d0c03d30758fb57fd9474ddd2b5f4eed2a6859e3f4da981ad2f6f6cb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1381514285860454400/385939139",
+    "wm-target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-13T01:58:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1381514285860454400/385939139",
+  "target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+  "private": false
+}
