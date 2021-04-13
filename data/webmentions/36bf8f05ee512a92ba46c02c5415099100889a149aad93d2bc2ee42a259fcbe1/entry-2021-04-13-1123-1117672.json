@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106056648651314978",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1117672,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@garritfra\" class=\"u-url\">@<span>garritfra</span></a></span> Depending on your use case: absolutely. I'm getting a lot out of it since I also use it GPG, SSH and two factor. If you're only using it for second factor auth there are probably cheaper &amp; easier options. 🙂</p>",
+      "text": "@garritfra Depending on your use case: absolutely. I'm getting a lot out of it since I also use it GPG, SSH and two factor. If you're only using it for second factor auth there are probably cheaper & easier options. 🙂"
+    },
+    "published": "2021-04-13T06:40:30",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106056603196664646/106056648651314978",
+    "wm-target": "https://bascht.com/posts/2021/04/13/since-upgrading-to-the-teensy-tiny-yubik/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/13/since-upgrading-to-the-teensy-tiny-yubik/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-13T07:15:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106056603196664646/106056648651314978",
+  "target": "https://bascht.com/posts/2021/04/13/since-upgrading-to-the-teensy-tiny-yubik/",
+  "private": false
+}
