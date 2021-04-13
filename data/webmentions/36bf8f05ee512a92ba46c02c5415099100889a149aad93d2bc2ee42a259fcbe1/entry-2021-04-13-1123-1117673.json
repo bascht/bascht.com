@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@garritfra/106056612147243961",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1117673,
+    "author": {
+      "url": "https://fosstodon.org/@garritfra",
+      "name": "Garrit :rust:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/92b6df6883465a9a8e34667d3f49b904605965ff5d06b013eaa5b3710524deca.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I was thinking about getting a Yubikey as well, but is it really worth the money?</p>",
+      "text": "@bascht I was thinking about getting a Yubikey as well, but is it really worth the money?"
+    },
+    "published": "2021-04-13T06:31:13",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106056603196664646/106056612174748625",
+    "wm-target": "https://bascht.com/posts/2021/04/13/since-upgrading-to-the-teensy-tiny-yubik/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/13/since-upgrading-to-the-teensy-tiny-yubik/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-13T07:15:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106056603196664646/106056612174748625",
+  "target": "https://bascht.com/posts/2021/04/13/since-upgrading-to-the-teensy-tiny-yubik/",
+  "private": false
+}
