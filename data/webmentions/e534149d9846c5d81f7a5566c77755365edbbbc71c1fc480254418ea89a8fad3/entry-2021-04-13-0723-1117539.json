@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/maerys/status/1381514769816031233",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1117539,
+    "author": {
+      "url": "https://twitter.com/maerys",
+      "name": "Maria Herrmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6b2e897ab0d61a18e530617498f356e0e1a561a68977e6f512dd3754042eec79.jpg"
+    },
+    "content": {
+      "html": "Oh no... <a href=\"https://twitter.com/search?q=%23ohrwurmausderh%C3%B6lle\">#ohrwurmausderhölle</a>\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Oh no... #ohrwurmausderhölle"
+    },
+    "published": "2021-04-12T07:49:23+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1381514285860454400/1381514769816031233",
+    "wm-target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-13T01:58:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1381514285860454400/1381514769816031233",
+  "target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+  "private": false
+}
