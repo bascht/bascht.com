@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1381514285860454400#favorited-by-19122208",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1117537,
+    "author": {
+      "url": "https://twitter.com/maerys",
+      "name": "Maria Herrmann",
+      "type": "card",
+      "photo": "https://pbs.twimg.com/profile_images/1152991916335738886/pPJ_vCHy.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1381514285860454400/19122208",
+    "wm-target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-13T01:58:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1381514285860454400/19122208",
+  "target": "https://bascht.com/posts/2021/04/12/die-hex-farbe-in-menschengestalt.-fa/",
+  "private": false
+}
