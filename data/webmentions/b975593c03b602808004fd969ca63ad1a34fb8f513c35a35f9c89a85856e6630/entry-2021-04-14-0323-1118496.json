@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106059724596666705#reblogged-by-62569",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1118496,
+    "author": {
+      "url": "https://toot.cat/@cadadr",
+      "name": "Göktuğ Kayaalp",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f25f07f544c6099222efefea388df02666853d7daa9643ba2a88e0182c14266b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106059724596666705/62569",
+    "wm-target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-04-13T20:35:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106059724596666705/62569",
+  "target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+  "private": false
+}
