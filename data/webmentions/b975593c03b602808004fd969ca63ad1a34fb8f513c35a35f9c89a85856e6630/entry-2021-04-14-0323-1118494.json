@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106059724596666705#favorited-by-48125",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1118494,
+    "author": {
+      "url": "https://chaos.social/@kubikpixel",
+      "name": "KubikPixel ✓",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07c4dc51dbbf2aa3f9cd44b8a934e5928296c300a71e911f3a6ba61c9036bc62.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106059724596666705/48125",
+    "wm-target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-13T20:35:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106059724596666705/48125",
+  "target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+  "private": false
+}
