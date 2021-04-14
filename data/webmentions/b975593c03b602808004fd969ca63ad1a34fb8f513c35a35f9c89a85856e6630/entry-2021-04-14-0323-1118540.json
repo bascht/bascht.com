@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106059994741510312",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1118540,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@moritzheiber\" class=\"u-url\">@<span>moritzheiber</span></a></span> or (even worse): Using the same log as the home page in the same spot, but keep linking it to `/docs` :D</p>",
+      "text": "@moritzheiber or (even worse): Using the same log as the home page in the same spot, but keep linking it to `/docs` :D"
+    },
+    "published": "2021-04-13T20:51:27",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106059724596666705/106059994741510312",
+    "wm-target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-13T21:28:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106059724596666705/106059994741510312",
+  "target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+  "private": false
+}
