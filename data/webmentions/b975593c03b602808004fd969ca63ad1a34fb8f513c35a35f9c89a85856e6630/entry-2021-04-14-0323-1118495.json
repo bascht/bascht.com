@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106059724596666705#favorited-by-1528",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1118495,
+    "author": {
+      "url": "https://chaos.social/@frumble",
+      "name": "Maxi ☑️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5effb6da59d1b72416a8e0a5ae11bf72321961e29db9306a7eeb52073b99026b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106059724596666705/1528",
+    "wm-target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-13T20:35:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106059724596666705/1528",
+  "target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+  "private": false
+}
