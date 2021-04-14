@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@moritzheiber/106059987096995735",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1118541,
+    "author": {
+      "url": "https://mastodon.social/@moritzheiber",
+      "name": "Moritz Heiber",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d471df7a32f66f2da70a3826c9e83a63ba085e58cd15bbe7ffbedb1fceff5f2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> or blog!</p>",
+      "text": "@bascht or blog!"
+    },
+    "published": "2021-04-13T20:49:31",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106059724596666705/106059987105697516",
+    "wm-target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-13T21:28:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106059724596666705/106059987105697516",
+  "target": "https://bascht.com/posts/2021/04/13/if-your-user-documentation-or-api-docs-d/",
+  "private": false
+}
