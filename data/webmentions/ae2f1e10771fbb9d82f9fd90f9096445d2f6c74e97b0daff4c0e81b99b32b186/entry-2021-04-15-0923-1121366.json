@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106066418428689748#favorited-by-57440",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1121366,
+    "author": {
+      "url": "https://lhub.social/@przemek",
+      "name": "przemek",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/44c364934eca4cc9ed745df3b61d865407ec058167920cf8a063c2d1637889e7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106066418428689748/57440",
+    "wm-target": "https://bascht.com/posts/2021/04/15/france-is-on-a-roll-giving-citizens-3/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-15T05:24:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106066418428689748/57440",
+  "target": "https://bascht.com/posts/2021/04/15/france-is-on-a-roll-giving-citizens-3/",
+  "private": false
+}
