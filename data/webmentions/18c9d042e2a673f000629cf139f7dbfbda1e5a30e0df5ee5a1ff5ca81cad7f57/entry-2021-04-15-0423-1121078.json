@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106051919441494934#favorited-by-47693",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1121078,
+    "author": {
+      "url": "https://is.badat.dev/users/thornAvery",
+      "name": "terminallyAwake",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/047/693/original/2a7bae732bdc973c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106051919441494934/47693",
+    "wm-target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-15T01:05:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106051919441494934/47693",
+  "target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+  "private": false
+}
