@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://soc.luciferi.st/objects/9afabd09-c6fa-4eb6-8db7-6f534f1f29d7",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1122327,
+    "author": {
+      "url": "https://soc.luciferi.st/users/aearil",
+      "name": "Aearil",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8103e23b54bdcab4da997c7666d5587f9d3d89c3ba9ecdb2bfe4dcf73be654f3.png"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> Too bad the lobbyists cut it down from an initial 4 hours in the proposal :/",
+      "text": "@bascht Too bad the lobbyists cut it down from an initial 4 hours in the proposal :/"
+    },
+    "published": "2021-04-15T17:14:47",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106051919441494934/106070467592410893",
+    "wm-target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-15T17:39:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106051919441494934/106070467592410893",
+  "target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+  "private": false
+}
