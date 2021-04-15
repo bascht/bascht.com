@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106066418428689748",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1120987,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>France is on a roll – giving citizens $3,000 to get rid of their car and get an ebike - <a href=\"https://thenextweb.com/news/france-cash-for-clunkers-subsidy-ebikes-ev\"><span>https://</span><span>thenextweb.com/news/france-cas</span><span>h-for-clunkers-subsidy-ebikes-ev</span></a></p>\n<a href=\"https://thenextweb.com/news/france-cash-for-clunkers-subsidy-ebikes-ev\">France is giving citizens $3,000 to get rid of their car and get an ebike</a>",
+      "text": "France is on a roll – giving citizens $3,000 to get rid of their car and get an ebike - https://thenextweb.com/news/france-cash-for-clunkers-subsidy-ebikes-ev\nFrance is giving citizens $3,000 to get rid of their car and get an ebike"
+    },
+    "published": "2021-04-15T00:05:05",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106051919441494934/106066418428689748",
+    "wm-target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-15T00:18:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106051919441494934/106066418428689748",
+  "target": "https://bascht.com/posts/2021/04/12/french-mps-have-voted-to-suspend-domesti/",
+  "private": false
+}
