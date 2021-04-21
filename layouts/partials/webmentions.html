@@ -32,13 +32,11 @@
 <h3>Antworten</h3>
 <div class="webmention-replies">
 {{ range sort $replies "post.published" "asc" }}
-    <div class="webmention-reply">
         <a href="{{ .post.author.url }}" class="author-photo"><img style="width: 30px" src="{{ .post.author.photo }}"></a>
         <div class="author-name"><a class="author-url" href="{{.post.author.url}}">{{ .post.author.name }}</a>:</div>
         <div class="message">
             <p><a class="webmention-url" href="{{.post.url}}">{{ .post.content.text }}</a></p>
         </div>
-    </div>
 {{ end }}
 </div>
 {{ end }}
