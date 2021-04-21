@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1384105102173106192#favorited-by-17602106",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128002,
+    "author": {
+      "url": "https://twitter.com/Gewaesch",
+      "name": "Kim",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e67810c22b7d30acaf472b4d1df5a9d73bda11b9f8aed748b9ee3a4f500d6211.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1384105102173106192/17602106",
+    "wm-target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-20T23:53:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1384105102173106192/17602106",
+  "target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+  "private": false
+}
