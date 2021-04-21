@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1384105102173106192#favorited-by-170259048",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128007,
+    "author": {
+      "url": "https://twitter.com/gerdoblaster",
+      "name": "Gerd Böttler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/993abbc45d7b38d47cafc5c91cb4e4a471e37031f5837435ae4e04f2583cd301.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1384105102173106192/170259048",
+    "wm-target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-20T23:53:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1384105102173106192/170259048",
+  "target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+  "private": false
+}
