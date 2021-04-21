@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1384877937833529344",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128720,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "FICK DAƧ DEUTSCHE SCHULSYSTEM • <a href=\"https://bascht.com/posts/2021/04/21/fickdadeutscheschulsystem/\">bascht.com/posts/2021/04/…</a>",
+      "text": "FICK DAƧ DEUTSCHE SCHULSYSTEM • bascht.com/posts/2021/04/…"
+    },
+    "published": "2021-04-21T14:33:24+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1384877937833529344",
+    "wm-target": "https://bascht.com/posts/2021/04/21/fickdadeutscheschulsystem/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-04-21T18:52:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1384877937833529344",
+  "target": "https://bascht.com/posts/2021/04/21/fickdadeutscheschulsystem/",
+  "private": false
+}
