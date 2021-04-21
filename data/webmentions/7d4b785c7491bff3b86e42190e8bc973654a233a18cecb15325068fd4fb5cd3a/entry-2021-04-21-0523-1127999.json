@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1384172760016900103#favorited-by-6087532",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1127999,
+    "author": {
+      "url": "https://twitter.com/mkhl",
+      "name": "Martin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/009394bd0352fdb462e4eebe33d3c5aaeb3559b9be4e5a19a7f2134a15f6612b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1384172760016900103/6087532",
+    "wm-target": "https://bascht.com/posts/2021/04/19/bevor-die-fdp-selbst-den-vorschlag-macht/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-20T23:53:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1384172760016900103/6087532",
+  "target": "https://bascht.com/posts/2021/04/19/bevor-die-fdp-selbst-den-vorschlag-macht/",
+  "private": false
+}
