@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/DajanaGuenther/status/1384115903483183115",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128010,
+    "author": {
+      "url": "https://twitter.com/DajanaGuenther",
+      "name": "Dajana",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/96082fd12a722619fac37469c820d34ef207c70577559d26900313bd85de5f35.jpg"
+    },
+    "content": {
+      "html": "Nennen die das echt Paketl oder hat da wer geschlampt?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Nennen die das echt Paketl oder hat da wer geschlampt?"
+    },
+    "published": "2021-04-19T12:05:21+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1384105102173106192/1384115903483183115",
+    "wm-target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-20T23:53:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1384105102173106192/1384115903483183115",
+  "target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+  "private": false
+}
