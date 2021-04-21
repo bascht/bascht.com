@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106104792856579056",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128719,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Which is also a great occasion to finally catch up with <span class=\"h-card\"><a href=\"https://troet.cafe/@Phil_pioneer\" class=\"u-url\">@<span>Phil_pioneer</span></a></span>'s podcast. 🎧</p>",
+      "text": "Which is also a great occasion to finally catch up with @Phil_pioneer's podcast. 🎧"
+    },
+    "published": "2021-04-21T18:44:12",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106104619687320269/106104792856579056",
+    "wm-target": "https://bascht.com/posts/2021/04/21/time-to-im-suspicious-this-weathe/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/21/time-to-im-suspicious-this-weathe/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-21T18:52:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106104619687320269/106104792856579056",
+  "target": "https://bascht.com/posts/2021/04/21/time-to-im-suspicious-this-weathe/",
+  "private": false
+}
