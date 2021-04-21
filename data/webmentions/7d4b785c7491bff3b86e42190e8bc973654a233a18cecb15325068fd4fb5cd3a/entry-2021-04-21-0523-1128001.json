@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1384172760016900103#favorited-by-3364804197",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128001,
+    "author": {
+      "url": "https://twitter.com/AlizeNero",
+      "name": "kaja nö",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b4399569f80de8d6b63f6133fe8257d476e7bed8ab0da02e27e8c1de8584828.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1384172760016900103/3364804197",
+    "wm-target": "https://bascht.com/posts/2021/04/19/bevor-die-fdp-selbst-den-vorschlag-macht/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-20T23:53:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1384172760016900103/3364804197",
+  "target": "https://bascht.com/posts/2021/04/19/bevor-die-fdp-selbst-den-vorschlag-macht/",
+  "private": false
+}
