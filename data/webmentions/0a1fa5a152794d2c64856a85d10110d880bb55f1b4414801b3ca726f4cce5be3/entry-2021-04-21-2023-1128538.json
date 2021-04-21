@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/106103751215248006",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128538,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Doesn't look like footprint, looks like dirty conveyor belt. The pattern is from the bubblewrap in the padded envelope.</p>",
+      "text": "@bascht Doesn't look like footprint, looks like dirty conveyor belt. The pattern is from the bubblewrap in the padded envelope."
+    },
+    "published": "2021-04-21T14:19:18",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106103685554569156/106103751230853932",
+    "wm-target": "https://bascht.com/posts/2021/04/21/bascht-how-in-the-fuck-does-dpd-manag/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/21/bascht-how-in-the-fuck-does-dpd-manag/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-21T15:03:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106103685554569156/106103751230853932",
+  "target": "https://bascht.com/posts/2021/04/21/bascht-how-in-the-fuck-does-dpd-manag/",
+  "private": false
+}
