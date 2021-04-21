@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/beanieboi/status/1384154286116859908",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1128003,
+    "author": {
+      "url": "https://twitter.com/beanieboi",
+      "name": "Ben Fritsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71afd2f58c5a0ef1ae0c502feeb6b9347abceae66e8732b819c934b7a10bf14b.jpg"
+    },
+    "content": {
+      "html": "Echte bayrische Lokalisierung :)\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/DajanaGuenther\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Echte bayrische Lokalisierung :)"
+    },
+    "published": "2021-04-19T14:37:52+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1384105102173106192/1384154286116859908",
+    "wm-target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-20T23:53:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1384105102173106192/1384154286116859908",
+  "target": "https://bascht.com/posts/2021/04/19/same-energy.-https/t.co/3gjeqlaxob/",
+  "private": false
+}
