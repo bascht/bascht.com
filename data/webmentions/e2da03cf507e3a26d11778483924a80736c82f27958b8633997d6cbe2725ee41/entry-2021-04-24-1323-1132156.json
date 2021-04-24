@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106118920339914672#favorited-by-62708",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132156,
+    "author": {
+      "url": "https://metalhead.club/@treuss",
+      "name": "Thomas R.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fdd9ef3cc3b2bb3ae3a5dba4e0707192582f3bd80dad0001e17b7b1566ecd173.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106118920339914672/62708",
+    "wm-target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-24T08:54:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106118920339914672/62708",
+  "target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+  "private": false
+}
