@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106119377166048565",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132154,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Really put my own »Ugh, I'm so exhausted after a full 6 hours of work« into perspective.</p>\n<a class=\"u-mention\" href=\"https://www.rbb-online.de/doku/c-d/charite-intensiv-station-43/charite-intensiv-station-43.html\"></a>",
+      "text": "Really put my own »Ugh, I'm so exhausted after a full 6 hours of work« into perspective."
+    },
+    "published": "2021-04-24T08:33:11",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106118920339914672/106119377166048565",
+    "wm-target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-24T08:53:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106118920339914672/106119377166048565",
+  "target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+  "private": false
+}
