@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106118920339914672#favorited-by-48054",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132259,
+    "author": {
+      "url": "https://lediver.se/@Senfglas",
+      "name": "Ein Löffel Senf",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5d7c0b2fa0dfc4544a28301594fa3a604019c9eaa110c2d68cf003ed3e6d8d6e.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106118920339914672/48054",
+    "wm-target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-24T14:14:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106118920339914672/48054",
+  "target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+  "private": false
+}
