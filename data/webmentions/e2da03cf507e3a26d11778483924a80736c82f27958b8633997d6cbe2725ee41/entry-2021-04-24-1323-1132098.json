@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106118920339914672#reblogged-by-5764",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132098,
+    "author": {
+      "url": "https://social.tchncs.de/@koetpi",
+      "name": "koetpi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ce367f6c1a48c7a3aa3660e21f8e3bae8472990506df5f2349093c77d97b4eb5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106118920339914672/5764",
+    "wm-target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-04-24T08:01:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106118920339914672/5764",
+  "target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+  "private": false
+}
