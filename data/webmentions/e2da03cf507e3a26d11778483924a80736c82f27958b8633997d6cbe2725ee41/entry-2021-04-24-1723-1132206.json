@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106118920339914672#favorited-by-11037",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132206,
+    "author": {
+      "url": "https://fosstodon.org/@datenteiler",
+      "name": "Christian Imhorst :opensuse:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7ea5578ba7ba905658a11e784cc5fb94a2a110ac112f82835bb59b2f0275bf04.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106118920339914672/11037",
+    "wm-target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-24T11:28:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106118920339914672/11037",
+  "target": "https://bascht.com/posts/2021/04/24/bascht-finally-found-some-time-to-wat/",
+  "private": false
+}
