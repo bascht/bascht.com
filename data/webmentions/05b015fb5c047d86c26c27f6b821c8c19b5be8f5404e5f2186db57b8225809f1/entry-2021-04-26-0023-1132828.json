@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106127170843715240#reblogged-by-50324",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132828,
+    "author": {
+      "url": "https://polyglot.city/@joyfuluselessness",
+      "name": "Ein Hajhaj in distress",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/176cd6634214e58ad1d836673fc16cfc6c1e094df5047488ec64aa883d483df7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106127170843715240/50324",
+    "wm-target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-04-25T17:52:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106127170843715240/50324",
+  "target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+  "private": false
+}
