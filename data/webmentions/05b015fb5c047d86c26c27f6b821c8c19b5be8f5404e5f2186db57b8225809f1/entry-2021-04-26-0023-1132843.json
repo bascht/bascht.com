@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106127170843715240#favorited-by-36779",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132843,
+    "author": {
+      "url": "https://social.tchncs.de/@opili",
+      "name": "Opili :fedora: :mastodon:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7869b75263802e7bf518a3e52aea6039348bcbf1901781fbd03e603b4ece2e74.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106127170843715240/36779",
+    "wm-target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-25T18:51:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106127170843715240/36779",
+  "target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+  "private": false
+}
