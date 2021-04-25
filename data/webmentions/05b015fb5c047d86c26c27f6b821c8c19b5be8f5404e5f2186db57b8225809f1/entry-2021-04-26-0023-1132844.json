@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/106127407896695229",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1132844,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer@social.tchncs.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Edel! Das sollte man immer so essen</p>",
+      "text": "@bascht Edel! Das sollte man immer so essen"
+    },
+    "published": "2021-04-25T18:35:30",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106127170843715240/106127407910044241",
+    "wm-target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-25T18:51:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106127170843715240/106127407910044241",
+  "target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+  "private": false
+}
