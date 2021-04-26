@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106127495424445453",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1133224,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@philhoefer\" class=\"u-url\">@<span>philhoefer</span></a></span> ich befürchte dass ich das wieder mal so kochen muss 😬</p>",
+      "text": "@philhoefer ich befürchte dass ich das wieder mal so kochen muss 😬"
+    },
+    "published": "2021-04-25T18:57:46",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106127170843715240/106127495424445453",
+    "wm-target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-04-26T13:34:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106127170843715240/106127495424445453",
+  "target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+  "private": false
+}
