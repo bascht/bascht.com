@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106127170843715240#favorited-by-63531",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1133628,
+    "author": {
+      "url": "https://soundcafe.nl/@oerknor",
+      "name": "erwin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5c6afefb29da0abdf0102b801afbf556a29a8daacea20caa56442b33d46ed982.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106127170843715240/63531",
+    "wm-target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-04-26T17:14:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106127170843715240/63531",
+  "target": "https://bascht.com/posts/2021/04/25/bascht-ran-out-of-tortillas-during-ta/",
+  "private": false
+}
