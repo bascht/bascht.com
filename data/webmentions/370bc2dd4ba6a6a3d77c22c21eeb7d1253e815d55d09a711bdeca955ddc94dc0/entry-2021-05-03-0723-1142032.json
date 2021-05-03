@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1388502822870831105#favorited-by-14087552",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1142032,
+    "author": {
+      "url": "https://twitter.com/Doomas",
+      "name": "Doomas (hält Abstand, wäscht Hände, trägt Maske)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0c33b03aa682bba3dc7aa6903608ca3b71f5c5a2545f805221c4bda16a60f4d9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1388502822870831105/14087552",
+    "wm-target": "https://bascht.com/posts/2021/05/01/wie-awesome-es-f%C3%BCr-einen-vogel-sein-muss/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-03T01:04:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1388502822870831105/14087552",
+  "target": "https://bascht.com/posts/2021/05/01/wie-awesome-es-f%C3%BCr-einen-vogel-sein-muss/",
+  "private": false
+}
