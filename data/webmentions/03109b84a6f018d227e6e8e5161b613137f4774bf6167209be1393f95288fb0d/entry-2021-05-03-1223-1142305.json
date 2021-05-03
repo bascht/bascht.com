@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1389107154905354242#favorited-by-5008851",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1142305,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf377df99ee622799ac23a2c6713683dd40425da88498fa9a53768ac86300b24.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1389107154905354242/5008851",
+    "wm-target": "https://bascht.com/posts/2021/05/03/autofahrer-wenn-ihnen-in-der-fahrradstra/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-03T07:26:16Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1389107154905354242/5008851",
+  "target": "https://bascht.com/posts/2021/05/03/autofahrer-wenn-ihnen-in-der-fahrradstra/",
+  "private": false
+}
