@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1389107609974755328#favorited-by-18542490",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1142374,
+    "author": {
+      "url": "https://twitter.com/bovensiepen",
+      "name": "Daniel Bovensiepen Li",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e2805a2aa88a0a9666b51707877a1297476d7d9965680ca5e94617aae0b52c0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1389107609974755328/18542490",
+    "wm-target": "https://bascht.com/posts/2021/05/03/%C3%BCberhaupt.-fahrradstra%C3%9Fe./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-03T08:23:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1389107609974755328/18542490",
+  "target": "https://bascht.com/posts/2021/05/03/%C3%BCberhaupt.-fahrradstra%C3%9Fe./",
+  "private": false
+}
