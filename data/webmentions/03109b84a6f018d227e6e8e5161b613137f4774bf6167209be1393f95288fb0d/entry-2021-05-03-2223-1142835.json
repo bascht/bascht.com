@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1389107154905354242#favorited-by-1204370402224615429",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1142835,
+    "author": {
+      "url": "https://twitter.com/spreelula",
+      "name": "spreelula",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1389107154905354242/1204370402224615429",
+    "wm-target": "https://bascht.com/posts/2021/05/03/autofahrer-wenn-ihnen-in-der-fahrradstra/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-03T15:53:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1389107154905354242/1204370402224615429",
+  "target": "https://bascht.com/posts/2021/05/03/autofahrer-wenn-ihnen-in-der-fahrradstra/",
+  "private": false
+}
