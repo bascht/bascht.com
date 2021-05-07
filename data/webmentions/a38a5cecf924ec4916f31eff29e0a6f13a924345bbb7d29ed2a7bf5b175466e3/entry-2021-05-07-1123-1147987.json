@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1390414202750357505#favorited-by-4653159368",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1147987,
+    "author": {
+      "url": "https://twitter.com/johnnydecimal",
+      "name": "Johnny “Decimal” Noble",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f1373a28f48f8b20267fb04bedc73739416cebb4aa4aa12e56ce5857a16b0370.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1390414202750357505/4653159368",
+    "wm-target": "https://bascht.com/posts/2021/05/06/inclined-to-give-https/johnnydecimal.c/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-07T07:49:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1390414202750357505/4653159368",
+  "target": "https://bascht.com/posts/2021/05/06/inclined-to-give-https/johnnydecimal.c/",
+  "private": false
+}
