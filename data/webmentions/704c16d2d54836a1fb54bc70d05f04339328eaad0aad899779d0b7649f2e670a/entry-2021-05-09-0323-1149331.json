@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/106201914119259192",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1149331,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Brake fluid change. Can be tricky to bleed all the air out. Mine worked okay once I laid the bike on the side when doing it 😃</p>",
+      "text": "@bascht Brake fluid change. Can be tricky to bleed all the air out. Mine worked okay once I laid the bike on the side when doing it 😃"
+    },
+    "published": "2021-05-08T22:23:25",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106201128824621973/106201914134392088",
+    "wm-target": "https://bascht.com/posts/2021/05/08/bascht-i-dont-know-what-i-am-doing./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/08/bascht-i-dont-know-what-i-am-doing./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-05-08T22:46:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106201128824621973/106201914134392088",
+  "target": "https://bascht.com/posts/2021/05/08/bascht-i-dont-know-what-i-am-doing./",
+  "private": false
+}
