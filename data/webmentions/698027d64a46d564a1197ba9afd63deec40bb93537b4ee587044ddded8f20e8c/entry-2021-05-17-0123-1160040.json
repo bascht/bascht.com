@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106244063759574023#reblogged-by-60334",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1160040,
+    "author": {
+      "url": "https://indieweb.social/@johanbove",
+      "name": "Johan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/51ac389f1f0ed5c05464a7923e288ff425ee270e4c65ffbdc6b504238da49bfb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106244063759574023/60334",
+    "wm-target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-05-16T20:26:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106244063759574023/60334",
+  "target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+  "private": false
+}
