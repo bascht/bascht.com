@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106244063759574023#reblogged-by-34848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1159808,
+    "author": {
+      "url": "https://post.lurk.org/@praxeology",
+      "name": "Brendan Howell",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/034/848/original/c8a0402bbdd2b504.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106244063759574023/34848",
+    "wm-target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-05-16T14:08:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106244063759574023/34848",
+  "target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+  "private": false
+}
