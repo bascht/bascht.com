@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106244063759574023#favorited-by-5519",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1159806,
+    "author": {
+      "url": "https://jawns.club/@skyfaller",
+      "name": "Nelson Pavlosky",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1bc0b538d24b95f3772f9014e4367aaea1d3f039203acf4ebe24993d5ca88025.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106244063759574023/5519",
+    "wm-target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-16T14:08:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106244063759574023/5519",
+  "target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+  "private": false
+}
