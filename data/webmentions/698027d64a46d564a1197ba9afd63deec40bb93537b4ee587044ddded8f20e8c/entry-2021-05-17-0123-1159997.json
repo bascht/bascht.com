@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106244063759574023#favorited-by-3853",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1159997,
+    "author": {
+      "url": "https://mastodon.social/@remaster",
+      "name": "Daniel Neuman",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/92025ef4a7658630289c7b66fb48dc53ef52c24672cbabf3f33fd65783e869d6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106244063759574023/3853",
+    "wm-target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-16T18:53:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106244063759574023/3853",
+  "target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+  "private": false
+}
