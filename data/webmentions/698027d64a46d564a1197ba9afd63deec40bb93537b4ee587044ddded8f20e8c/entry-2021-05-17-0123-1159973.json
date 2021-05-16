@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106244063759574023#reblogged-by-18086",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1159973,
+    "author": {
+      "url": "https://geekcompass.com/@jan",
+      "name": "Jan Boddez",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c3449541092e5e42eb04bdd32233885f923b472b4dc2029f838069d58f0efdc6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106244063759574023/18086",
+    "wm-target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-05-16T17:58:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106244063759574023/18086",
+  "target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+  "private": false
+}
