@@ -1,0 +1,22 @@
+#+title: Freenode
+#+date: 2021-05-26 21:00:00+02:00
+#+draft: false
+#+tags[]: freenode oss software
+
+Gerade in einem der vielen [[https://blog.qutebrowser.org/qutebrowser-moving-to-libera-chat.html][bye bye Freenode]] blog posts /»I spent literally more than half my life on Freenode«/ gelesen.
+Gedacht: /Krass, ist das lang/.
+
+Geguckt.
+
+#+begin_src bash
+NickServ: Information on bascht (account bascht):
+NickServ: Registered : Jan 11 17:40:45 2005 (16y 19w 6d ago)
+NickServ: Last addr  : ~bascht@93-104-65-144.dynamic.mnet-online.de
+NickServ: Last seen  : now
+NickServ: Logins from: bascht
+NickServ: Nicks      : bascht
+NickServ: Email      : freenode.org@bascht.com
+NickServ: *** End of Info ***
+#+end_src
+
+/Krass, das ist echt schon lange her/.
