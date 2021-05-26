@@ -2,7 +2,13 @@
 <body>
     {{ partial "navbar.html" . }}
     <div class="main wrapper clearfix">
+<details>
+<summary>ℹ Diese Posts werden aus verschiedenen Quellen zusammengetragen <small>[hier klicken um mehr zu erfahren]</small></summary>
+<p>
         {{ .Content }}
+</p>
+</details>
+
         {{ $paginator := .Paginate ( (where (where .Site.Pages "Section" "posts") ".Type" "!=" "posts").GroupByDate "2 Jan 2006")  30}}
         <div class="h-feed">
         {{ range $paginator.PageGroups }}
