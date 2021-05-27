@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1397724876136398848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1171973,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "''Freenode • <a href=\"https://bascht.com/posts/2021/05/26/freenode/\">bascht.com/posts/2021/05/…</a>",
+      "text": "''Freenode • bascht.com/posts/2021/05/…"
+    },
+    "published": "2021-05-27T01:22:33+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1397724876136398848",
+    "wm-target": "https://bascht.com/posts/2021/05/26/freenode/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-05-27T03:23:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1397724876136398848",
+  "target": "https://bascht.com/posts/2021/05/26/freenode/",
+  "private": false
+}
