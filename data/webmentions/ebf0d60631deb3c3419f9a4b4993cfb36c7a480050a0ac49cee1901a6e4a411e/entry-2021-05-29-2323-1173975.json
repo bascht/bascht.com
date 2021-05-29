@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319254306825291#reblogged-by-8102",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1173975,
+    "author": {
+      "url": "https://mastodon.social/@jartigag",
+      "name": "jartigag",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6add673b8ea596f91d655d7430000eb85161f6acb226f90391f481ff5fec47a6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106319254306825291/8102",
+    "wm-target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-05-29T16:22:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106319254306825291/8102",
+  "target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+  "private": false
+}
