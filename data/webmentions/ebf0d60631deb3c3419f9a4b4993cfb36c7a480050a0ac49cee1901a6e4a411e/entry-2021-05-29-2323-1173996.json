@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319254306825291#favorited-by-24610",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1173996,
+    "author": {
+      "url": "https://weirder.earth/@menziesii",
+      "name": "menziesii",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/74bc092676dd302631dbd1e3149932bd75c112c4b8290ba5a995e6634010de29.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319254306825291/24610",
+    "wm-target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-29T18:06:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319254306825291/24610",
+  "target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+  "private": false
+}
