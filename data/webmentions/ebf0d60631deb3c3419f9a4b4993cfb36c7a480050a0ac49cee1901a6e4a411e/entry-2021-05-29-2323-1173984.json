@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319254306825291#favorited-by-46682",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1173984,
+    "author": {
+      "url": "https://eattherich.club/@specter",
+      "name": "talon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/33600d922161bad18585583c0d5c14f8fa5081a7c14fb91f679311579b17dca5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319254306825291/46682",
+    "wm-target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-29T17:12:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319254306825291/46682",
+  "target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+  "private": false
+}
