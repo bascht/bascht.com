@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319281930489241",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1173974,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>For real - I really want to love Notion, but it's so sluggish and unreliable, even with paid accounts. :-(</p>",
+      "text": "For real - I really want to love Notion, but it's so sluggish and unreliable, even with paid accounts. :-("
+    },
+    "published": "2021-05-29T15:51:36",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319254306825291/106319281930489241",
+    "wm-target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-05-29T16:22:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319254306825291/106319281930489241",
+  "target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+  "private": false
+}
