@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319281930489241#favorited-by-55288",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174026,
+    "author": {
+      "url": "https://distrotoot.com/@JerryRiggs",
+      "name": "Virtual Friend",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0ed264f8e6e67d73c79acbafa52e6e6517f135d91fbd01acbb48513877147e75.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319281930489241/55288",
+    "wm-target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-29T21:13:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319281930489241/55288",
+  "target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+  "private": false
+}
