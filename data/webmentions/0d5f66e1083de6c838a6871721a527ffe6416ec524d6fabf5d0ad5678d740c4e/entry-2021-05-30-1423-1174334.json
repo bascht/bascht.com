@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319867895703382#favorited-by-386",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174334,
+    "author": {
+      "url": "https://kosmos.social/@bumi",
+      "name": "bumi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f36a1d9af48c72c4b8a9d3f6429a275fa227d0f4c8e54a71afece474b2155530.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319867895703382/386",
+    "wm-target": "https://bascht.com/posts/2021/05/29/fwiw-it-looks-like-the-mattermost-folk/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-30T10:06:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319867895703382/386",
+  "target": "https://bascht.com/posts/2021/05/29/fwiw-it-looks-like-the-mattermost-folk/",
+  "private": false
+}
