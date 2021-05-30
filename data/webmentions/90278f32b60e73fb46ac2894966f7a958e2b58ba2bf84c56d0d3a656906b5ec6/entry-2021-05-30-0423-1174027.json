@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319867895703382",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174027,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Fwiw - it looks like the Mattermost folks are building an OSS version <a href=\"https://www.focalboard.com/guide/user/\"><span>https://www.</span><span>focalboard.com/guide/user/</span><span></span></a></p>\n<a href=\"https://www.focalboard.com/guide/user/\"> User's Guide</a>",
+      "text": "Fwiw - it looks like the Mattermost folks are building an OSS version https://www.focalboard.com/guide/user/\n User's Guide"
+    },
+    "published": "2021-05-29T18:20:37",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319281930489241/106319867895703382",
+    "wm-target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-05-29T21:13:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319281930489241/106319867895703382",
+  "target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+  "private": false
+}
