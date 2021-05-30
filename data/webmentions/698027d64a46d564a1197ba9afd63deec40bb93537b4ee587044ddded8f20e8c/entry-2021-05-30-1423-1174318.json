@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106244063759574023#favorited-by-22944",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174318,
+    "author": {
+      "url": "https://social.coop/@neil",
+      "name": "neil@social.coop",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d0f996714de090623c3c60f008c9e2eb94715153414639ac3c300076ea302689.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106244063759574023/22944",
+    "wm-target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-30T09:10:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106244063759574023/22944",
+  "target": "https://bascht.com/posts/2021/05/16/webmentions-for-static-websites-via-ngin/",
+  "private": false
+}
