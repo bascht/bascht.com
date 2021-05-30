@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.madrid/@pabs/106324000512903681",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174354,
+    "author": {
+      "url": "https://mastodon.madrid/@pabs",
+      "name": "pabs",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/034/538/original/236e231bda9cecbd.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> this sounds great!</p>\n<a class=\"u-mention\" href=\"https://www.focalboard.com/guide/user/\"></a>",
+      "text": "@bascht this sounds great!"
+    },
+    "published": "2021-05-30T11:51:36",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319867895703382/106323998048392114",
+    "wm-target": "https://bascht.com/posts/2021/05/29/fwiw-it-looks-like-the-mattermost-folk/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/29/fwiw-it-looks-like-the-mattermost-folk/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-05-30T12:29:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319867895703382/106323998048392114",
+  "target": "https://bascht.com/posts/2021/05/29/fwiw-it-looks-like-the-mattermost-folk/",
+  "private": false
+}
