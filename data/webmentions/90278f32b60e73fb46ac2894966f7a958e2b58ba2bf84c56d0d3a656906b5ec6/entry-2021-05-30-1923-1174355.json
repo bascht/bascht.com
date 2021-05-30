@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319281930489241#favorited-by-34538",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174355,
+    "author": {
+      "url": "https://mastodon.madrid/@pabs",
+      "name": "pabs",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/cache/accounts/avatars/000/034/538/original/236e231bda9cecbd.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319281930489241/34538",
+    "wm-target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-05-30T12:29:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319281930489241/34538",
+  "target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+  "private": false
+}
