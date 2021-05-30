@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/106320809459796494",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1174045,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Yes :(</p>",
+      "text": "@bascht Yes :("
+    },
+    "published": "2021-05-29T22:20:04",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319281930489241/106320809459796494",
+    "wm-target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-05-29T22:56:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106319281930489241/106320809459796494",
+  "target": "https://bascht.com/posts/2021/05/29/for-real-i-really-want-to-love-notion/",
+  "private": false
+}
