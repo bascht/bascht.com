@@ -6,7 +6,10 @@
             <h1 class="p-name"><a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a></h1>
             <div class="post-content e-content">
                 <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
-                Originally posted to <a class="u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
+                {{ if .Params.text }}
+                <p>{{ .Params.text | markdownify }}</p>
+                {{ end }}
+                <small>Originally posted to <a class="u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a></small>
             </div>
             <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
             <a class="p-author h-card hidden" href="https://bascht.com"><img class="u-photo hidden" src="/images/bascht.jpg"/>Bascht</a>
