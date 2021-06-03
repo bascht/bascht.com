@@ -20,6 +20,6 @@ sync:
 	rsync -avz --delete --checksum --progress public/ uberspace-bascht:/var/www/virtual/bascht/bascht.com/
 push:
 	git push origin bascht.com
-	git push shrt bascht.com
+	git push srht bascht.com
 	git push space bascht.com
 	git push gitlab bascht.com
