@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@kubikpixel/106364196801783521",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1181601,
+    "author": {
+      "url": "https://chaos.social/@kubikpixel",
+      "name": "KubikPixel ✓",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07c4dc51dbbf2aa3f9cd44b8a934e5928296c300a71e911f3a6ba61c9036bc62.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> stimmt, das kann man so sich nicht schön saufen ;)</p>",
+      "text": "@bascht stimmt, das kann man so sich nicht schön saufen ;)"
+    },
+    "published": "2021-06-06T14:14:02",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106364184806025646/106364197061195969",
+    "wm-target": "https://bascht.com/posts/2021/06/06/bascht-oktoberfest-without-oktoberfes/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/06/06/bascht-oktoberfest-without-oktoberfes/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-06-06T14:57:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106364184806025646/106364197061195969",
+  "target": "https://bascht.com/posts/2021/06/06/bascht-oktoberfest-without-oktoberfes/",
+  "private": false
+}
