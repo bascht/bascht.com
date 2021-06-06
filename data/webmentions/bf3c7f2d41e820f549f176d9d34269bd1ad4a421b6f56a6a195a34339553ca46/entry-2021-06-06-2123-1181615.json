@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106364184806025646#favorited-by-189",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1181615,
+    "author": {
+      "url": "https://social.tchncs.de/@imageschaden",
+      "name": "™🐢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3abd2d9aef002d9b41eddf907dede5537a3a48c6bbe43caf191587dbc5c7b505.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106364184806025646/189",
+    "wm-target": "https://bascht.com/posts/2021/06/06/bascht-oktoberfest-without-oktoberfes/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-06T15:55:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106364184806025646/189",
+  "target": "https://bascht.com/posts/2021/06/06/bascht-oktoberfest-without-oktoberfes/",
+  "private": false
+}
