@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106319254306825291#favorited-by-18054",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1185246,
+    "author": {
+      "url": "https://troet.cafe/@sny",
+      "name": "▫️ 𝘀𝗡𝘆🦎▫️🔸▫️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/da20ef91f178992b320fd8352312f375b614b2715d14174d98cd205d75728195.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319254306825291/18054",
+    "wm-target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-09T17:57:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106319254306825291/18054",
+  "target": "https://bascht.com/posts/2021/05/29/bascht-love-the-new-notion-logo./",
+  "private": false
+}
