@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/larsr_h/status/1403398926095597570",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1187570,
+    "author": {
+      "url": "https://twitter.com/larsr_h",
+      "name": "Lars Hupel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f648360ebfb40bf7e052a35285620704bfb832544c74b87adb37e338fc75884d.jpg"
+    },
+    "content": {
+      "html": "Looks relevant, although I'd like to do it with the archives instead of live. I guess I'll have to write some Ruby now 😉\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/moonbeamlabs\"></a>",
+      "text": "Looks relevant, although I'd like to do it with the archives instead of live. I guess I'll have to write some Ruby now 😉"
+    },
+    "published": "2021-06-11T17:09:12+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1403335730970124296/1403398926095597570",
+    "wm-target": "https://bascht.com/posts/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-06-11T17:43:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1403335730970124296/1403398926095597570",
+  "target": "https://bascht.com/posts/",
+  "private": false
+}
