@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/106408908611704506",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1189197,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer@social.tchncs.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> sehr beruhigend.</p>",
+      "text": "@bascht sehr beruhigend."
+    },
+    "published": "2021-06-14T11:44:50",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106408326109661488/106408908618849324",
+    "wm-target": "https://bascht.com/posts/2021/06/14/paging-philhoefer-https/www.youtube.c/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/06/14/paging-philhoefer-https/www.youtube.c/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-06-14T12:05:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106408326109661488/106408908618849324",
+  "target": "https://bascht.com/posts/2021/06/14/paging-philhoefer-https/www.youtube.c/",
+  "private": false
+}
