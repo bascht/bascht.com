@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1407058510991577097",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1197993,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Bestimmt, Xing. … • <a href=\"https://bascht.com/posts/2021/06/16/bestimmt-xing.-https/t.co/axsbjki5x8/\">bascht.com/posts/2021/06/…</a>",
+      "text": "Bestimmt, Xing. … • bascht.com/posts/2021/06/…"
+    },
+    "published": "2021-06-21T19:31:05+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1407058510991577097",
+    "wm-target": "https://bascht.com/posts/2021/06/16/bestimmt-xing.-https/t.co/axsbjki5x8/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-06-21T20:26:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1407058510991577097",
+  "target": "https://bascht.com/posts/2021/06/16/bestimmt-xing.-https/t.co/axsbjki5x8/",
+  "private": false
+}
