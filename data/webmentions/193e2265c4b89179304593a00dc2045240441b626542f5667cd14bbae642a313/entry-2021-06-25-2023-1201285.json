@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1408455568080134148",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1201285,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Die \"Wahl\". … • <a href=\"https://bascht.com/posts/2021/06/25/die-wahl.-https/t.co/t1k6vvnzcb/\">bascht.com/posts/2021/06/…</a>",
+      "text": "Die \"Wahl\". … • bascht.com/posts/2021/06/…"
+    },
+    "published": "2021-06-25T16:02:29+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1408455568080134148",
+    "wm-target": "https://bascht.com/posts/2021/06/25/die-wahl.-https/t.co/t1k6vvnzcb/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-06-25T16:04:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1408455568080134148",
+  "target": "https://bascht.com/posts/2021/06/25/die-wahl.-https/t.co/t1k6vvnzcb/",
+  "private": false
+}
