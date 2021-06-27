@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106481634051500158#favorited-by-42494",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1202609,
+    "author": {
+      "url": "https://fosstodon.org/@garritfra",
+      "name": "Garrit 🌱",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/92b6df6883465a9a8e34667d3f49b904605965ff5d06b013eaa5b3710524deca.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106481634051500158/42494",
+    "wm-target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-27T08:34:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106481634051500158/42494",
+  "target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+  "private": false
+}
