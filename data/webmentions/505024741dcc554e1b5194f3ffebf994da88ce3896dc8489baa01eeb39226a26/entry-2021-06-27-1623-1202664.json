@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106481634051500158#favorited-by-66164",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1202664,
+    "author": {
+      "url": "https://kosmos.social/@przemek",
+      "name": "Przemek",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5e655230d6524460f4705a44feba7139e97a9b5fba65bb74d240bfa32ec0e2cd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106481634051500158/66164",
+    "wm-target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-27T11:47:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106481634051500158/66164",
+  "target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+  "private": false
+}
