@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1409062327341756422",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1202655,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "bascht: “Colours for breakfast.”… • <a href=\"https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./\">bascht.com/posts/2021/06/…</a>",
+      "text": "bascht: “Colours for breakfast.”… • bascht.com/posts/2021/06/…"
+    },
+    "published": "2021-06-27T08:13:32+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1409062327341756422",
+    "wm-target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-06-27T11:18:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1409062327341756422",
+  "target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+  "private": false
+}
