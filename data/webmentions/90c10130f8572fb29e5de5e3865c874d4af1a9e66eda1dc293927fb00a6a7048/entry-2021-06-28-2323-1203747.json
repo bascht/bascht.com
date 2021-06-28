@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-8489592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203747,
+    "author": {
+      "url": "https://twitter.com/annismckenzie",
+      "name": "Daniel Lohse",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea9851a358351daec7cc4b97cd70f496c22323f39805d87e3e31ce8ce2e0350b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/8489592",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T19:36:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/8489592",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
