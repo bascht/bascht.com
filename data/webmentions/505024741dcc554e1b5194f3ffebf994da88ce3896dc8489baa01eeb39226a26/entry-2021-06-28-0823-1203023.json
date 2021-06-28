@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1409062327341756422#favorited-by-15317182",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203023,
+    "author": {
+      "url": "https://twitter.com/svenwin",
+      "name": "Sven Winkler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0742057b01b116ea428d0b5ccbe5d8385de8fb72c7bb59c1995e56d4ab2ebc35.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1409062327341756422/15317182",
+    "wm-target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T03:23:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1409062327341756422/15317182",
+  "target": "https://bascht.com/posts/2021/06/27/bascht-colours-for-breakfast./",
+  "private": false
+}
