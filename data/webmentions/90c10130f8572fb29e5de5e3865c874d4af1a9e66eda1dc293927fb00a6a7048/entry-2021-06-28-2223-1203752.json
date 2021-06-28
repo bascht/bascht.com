@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/moritzheiber/status/1409586749911621635",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203752,
+    "author": {
+      "url": "https://twitter.com/moritzheiber",
+      "name": "Moritz Heiber (moritzheiber@mastodon.social)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e6864a6f6d418c1e2903db51c47048c2825e37e64058acab8a8a93ef127088b.jpg"
+    },
+    "content": {
+      "html": "Fehlt noch ein “Powered by T-Systems” Sticker irgendwo\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Fehlt noch ein “Powered by T-Systems” Sticker irgendwo"
+    },
+    "published": "2021-06-28T18:57:24+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1409576815086211073/1409586749911621635",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-06-28T19:36:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1409576815086211073/1409586749911621635",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
