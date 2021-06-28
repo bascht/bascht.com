@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-1075053560",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203739,
+    "author": {
+      "url": "https://twitter.com/fwartner",
+      "name": "Florian Wartner",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc926a523a5df216a35aaddbe52ecee574212bee454e466f837713fb52760432.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/1075053560",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T19:36:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/1075053560",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
