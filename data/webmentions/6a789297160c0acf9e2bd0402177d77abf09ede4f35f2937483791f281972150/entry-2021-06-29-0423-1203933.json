@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106490450447449898#favorited-by-6563",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203933,
+    "author": {
+      "url": "https://toot.site/@namtari",
+      "name": ":babaNams: printer slut :sparklesBi:​:sparklesEnby:​",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b07a7416378b534ae90bf552ea1e26af59479728cbba7152af8f6a32855823c7.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106490450447449898/6563",
+    "wm-target": "https://bascht.com/posts/2021/06/28/bascht-new-inkscapemastodon.art-who/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T22:18:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106490450447449898/6563",
+  "target": "https://bascht.com/posts/2021/06/28/bascht-new-inkscapemastodon.art-who/",
+  "private": false
+}
