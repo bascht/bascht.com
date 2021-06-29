@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-1125047898",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204397,
+    "author": {
+      "url": "https://twitter.com/sleah_cim",
+      "name": "Michael Schober",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d785e175f07a4c0aefc9ce52b6ff2f979ce0c8378fa3530e8ae791847b98683d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/1125047898",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-29T06:11:16Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/1125047898",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
