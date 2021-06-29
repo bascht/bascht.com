@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106490450447449898#favorited-by-3874",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204058,
+    "author": {
+      "url": "https://social.gould.cx/@ted",
+      "name": "Ted Gould",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/76cbd9030544bc05b6c700e63c42815e033e7528ab2bf38a0dfe6c2950fc0867.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106490450447449898/3874",
+    "wm-target": "https://bascht.com/posts/2021/06/28/bascht-new-inkscapemastodon.art-who/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-29T00:45:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106490450447449898/3874",
+  "target": "https://bascht.com/posts/2021/06/28/bascht-new-inkscapemastodon.art-who/",
+  "private": false
+}
