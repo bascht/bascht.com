@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/grambulf/status/1397180897598885894",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204518,
+    "author": {
+      "url": "https://twitter.com/grambulf",
+      "name": "Matthias",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5ff4f41c0982d2dee480f5cf81c9af12023eed43f715ac6935fdb2846245554.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Bei Biodeutschen sind das keine Terroranschläge, sondern »explosive Post«.\n\nbit.ly/3oKQ0vC"
+    },
+    "published": "2021-05-25T13:20:59+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1397178580749144068/1397180897598885894",
+    "wm-target": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-06-29T07:48:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1397178580749144068/1397180897598885894",
+  "target": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+  "private": false
+}
