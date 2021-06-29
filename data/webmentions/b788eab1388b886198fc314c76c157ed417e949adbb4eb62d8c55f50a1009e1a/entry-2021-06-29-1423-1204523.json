@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1394333092920406025#favorited-by-304451277",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204523,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus Rebbert @🏡 🦠 😷",
+      "type": "card",
+      "photo": "https://pbs.twimg.com/profile_images/1330893838370672643/NgCkSSbZ.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1394333092920406025/304451277",
+    "wm-target": "https://bascht.com/posts/2021/05/17/gta-v-porz-https/t.co/gdaxv22nxa/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-29T07:48:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1394333092920406025/304451277",
+  "target": "https://bascht.com/posts/2021/05/17/gta-v-porz-https/t.co/gdaxv22nxa/",
+  "private": false
+}
