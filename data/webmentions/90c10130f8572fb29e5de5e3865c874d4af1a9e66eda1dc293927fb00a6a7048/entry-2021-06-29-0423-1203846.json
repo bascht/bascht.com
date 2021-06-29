@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-17346242",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203846,
+    "author": {
+      "url": "https://twitter.com/casheeew",
+      "name": "Essy",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/221ef6119ff8ef23f3d92ad5ae4aadb8a4ecc819150416631b8c580c5a230338.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/17346242",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T21:02:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/17346242",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
