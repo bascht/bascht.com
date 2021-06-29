@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tom_duessel/status/1394532225597812737",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204522,
+    "author": {
+      "url": "https://twitter.com/tom_duessel",
+      "name": "Tomtom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad3c3857212d229476790e8607448618ffa41e3f02a0496d32a8db0e38634a8a.jpg"
+    },
+    "content": {
+      "html": "Coming soon: Köln Kalk Verbot als AddOn\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://bit.ly/3yeHjho\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Ffotorealismus-intel-rendert-gta-5-auf-basis-von-koeln-und-stuttgart-2105-156543.html\"></a>",
+      "text": "Coming soon: Köln Kalk Verbot als AddOn"
+    },
+    "published": "2021-05-18T05:56:06+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1394333092920406025/1394532225597812737",
+    "wm-target": "https://bascht.com/posts/2021/05/17/gta-v-porz-https/t.co/gdaxv22nxa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/17/gta-v-porz-https/t.co/gdaxv22nxa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-06-29T07:48:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1394333092920406025/1394532225597812737",
+  "target": "https://bascht.com/posts/2021/05/17/gta-v-porz-https/t.co/gdaxv22nxa/",
+  "private": false
+}
