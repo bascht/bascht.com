@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1397178580749144068#favorited-by-15355135",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204519,
+    "author": {
+      "url": "https://twitter.com/quafzi",
+      "name": "quafzi",
+      "type": "card",
+      "photo": "https://pbs.twimg.com/profile_images/509357132186005504/FMsshWJ5.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1397178580749144068/15355135",
+    "wm-target": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-29T07:48:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1397178580749144068/15355135",
+  "target": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+  "private": false
+}
