@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106490450447449898#favorited-by-20710",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203934,
+    "author": {
+      "url": "https://hackers.town/@erosdiscordia",
+      "name": "Mystery Babylon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b97593f3a3c2f57e237b4dde7b1c1f9fe22f7b5062f0056ac49389c77d427b2d.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106490450447449898/20710",
+    "wm-target": "https://bascht.com/posts/2021/06/28/bascht-new-inkscapemastodon.art-who/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T22:18:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106490450447449898/20710",
+  "target": "https://bascht.com/posts/2021/06/28/bascht-new-inkscapemastodon.art-who/",
+  "private": false
+}
