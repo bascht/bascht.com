@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/grambulf/status/1397182312538857476",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1204516,
+    "author": {
+      "url": "https://twitter.com/grambulf",
+      "name": "Matthias",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5ff4f41c0982d2dee480f5cf81c9af12023eed43f715ac6935fdb2846245554.jpg"
+    },
+    "content": {
+      "html": "Keine Sorge, Einzeltäter, war nur kurz verwirrt\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://bit.ly/3oKQ0vC\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://www.sueddeutsche.de/panorama/explosionen-ulm-sprengstoff-anschlaege-auf-firmen-elektriker-angeklagt-dpa.urn-newsml-dpa-com-20090101-210525-99-735354\"></a>",
+      "text": "Keine Sorge, Einzeltäter, war nur kurz verwirrt"
+    },
+    "published": "2021-05-25T13:26:36+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1397178580749144068/1397182312538857476",
+    "wm-target": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-06-29T07:48:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1397178580749144068/1397182312538857476",
+  "target": "https://bascht.com/posts/2021/05/25/bei-biodeutschen-sind-das-keine-terroran/",
+  "private": false
+}
