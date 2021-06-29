@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-5618832",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203848,
+    "author": {
+      "url": "https://twitter.com/moeffju",
+      "name": "a fucking neurodiverse they/them catgirl hacker",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea9a53aa16019d386e2886b8694fdb9682b69273f79542aa8c01e44491e6fddf.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/5618832",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-28T21:02:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/5618832",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
