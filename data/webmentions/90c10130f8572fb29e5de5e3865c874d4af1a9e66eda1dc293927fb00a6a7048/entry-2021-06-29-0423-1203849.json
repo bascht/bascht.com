@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bafh666/status/1409605937766281222",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1203849,
+    "author": {
+      "url": "https://twitter.com/bafh666",
+      "name": "Patrick Hempel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b58722c62ece269632ad4fbc6f00fd54569e1a1e4bdb2d39ec984dbdb58acf18.png"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-06-28T20:13:39+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1409605937766281222",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-06-28T21:02:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1409605937766281222",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
