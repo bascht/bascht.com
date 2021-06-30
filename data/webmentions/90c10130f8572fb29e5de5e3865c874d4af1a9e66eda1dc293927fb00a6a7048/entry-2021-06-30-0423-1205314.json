@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-63939801",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1205314,
+    "author": {
+      "url": "https://twitter.com/nitrat7",
+      "name": "Martin Grohme",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/252e9d22f55bde61ed04b3b8a29b5ee809f7b7cca92c10a40e4f5c62fd01f0cc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/63939801",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-06-30T02:13:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/63939801",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
