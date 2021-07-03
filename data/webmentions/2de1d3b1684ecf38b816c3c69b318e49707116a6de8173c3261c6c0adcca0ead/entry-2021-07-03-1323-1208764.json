@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106493332156120643#favorited-by-31890",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1208764,
+    "author": {
+      "url": "https://uberspace.social/@ops",
+      "name": "Uberspace Operations",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f9cad35cdc3942840c728795f8f541dc4631551011a281a76249404da37d8afa.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106493332156120643/31890",
+    "wm-target": "https://bascht.com/posts/2021/06/29/ops-hugs-to-ops-https/is.uberspace.on/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-03T08:19:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106493332156120643/31890",
+  "target": "https://bascht.com/posts/2021/06/29/ops-hugs-to-ops-https/is.uberspace.on/",
+  "private": false
+}
