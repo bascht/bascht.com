@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106529029659515440#favorited-by-4521",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1210361,
+    "author": {
+      "url": "https://chaos.social/@Bobo_PK",
+      "name": "Bobo_PK 🦄",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ea24931090e108e0a9feb171d5fd87ea3c96506a670c595dd8b71b574efad2b9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106529029659515440/4521",
+    "wm-target": "https://bascht.com/posts/2021/07/05/scan-session-done.bascht-1-paper-0/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-05T18:13:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106529029659515440/4521",
+  "target": "https://bascht.com/posts/2021/07/05/scan-session-done.bascht-1-paper-0/",
+  "private": false
+}
