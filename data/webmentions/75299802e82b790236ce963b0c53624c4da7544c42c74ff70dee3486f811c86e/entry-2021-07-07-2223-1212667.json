@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1412133219152052226#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1212667,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "Christos Alexiou",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/906b035d315d853f9d8ba9e29a94f6146ef5d3c5498f92c5669a57c3fe903115.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1412133219152052226/1844342406",
+    "wm-target": "https://bascht.com/posts/2021/07/05/abendlicher-reitschusteraufkleberabkratz/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-07T16:38:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1412133219152052226/1844342406",
+  "target": "https://bascht.com/posts/2021/07/05/abendlicher-reitschusteraufkleberabkratz/",
+  "private": false
+}
