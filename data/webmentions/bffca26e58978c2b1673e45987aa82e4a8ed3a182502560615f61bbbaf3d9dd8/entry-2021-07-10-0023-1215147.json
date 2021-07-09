@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@lauraritchie/106552294885304940",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215147,
+    "author": {
+      "url": "https://mastodon.social/@lauraritchie",
+      "name": "Laura Ritchie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e37666eb0c29e521c43f115b1bc6078e18f3602d91d0d13ab705693b00709e5d.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> that looks amazing !</p>",
+      "text": "@bascht that looks amazing !"
+    },
+    "published": "2021-07-09T19:29:51",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106550852609597465/106552294968669317",
+    "wm-target": "https://bascht.com/posts/2021/07/09/bascht-turned-out-well/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/07/09/bascht-turned-out-well/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-07-09T20:00:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106550852609597465/106552294968669317",
+  "target": "https://bascht.com/posts/2021/07/09/bascht-turned-out-well/",
+  "private": false
+}
