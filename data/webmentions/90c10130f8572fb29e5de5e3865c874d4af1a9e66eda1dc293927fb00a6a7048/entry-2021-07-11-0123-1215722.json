@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/NoclipPirat/status/1413970711471874051",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215722,
+    "author": {
+      "url": "https://twitter.com/NoclipPirat",
+      "name": "noclip@social.baconx.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ef576cb07148c62c8e2d55ad559651041a57b2d38ea5f9b2f1dcb8553f5b7de.png"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-10T21:17:42+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413970711471874051",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-10T21:22:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413970711471874051",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
