@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/DE_escalate/status/1413969693816336394",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215721,
+    "author": {
+      "url": "https://twitter.com/DE_escalate",
+      "name": "Tobias escaP",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/828cc3efb2112dc9e9b7fedb405082cf4eb64b691429e3ef7cdffd86906deda2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-10T21:13:39+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413969693816336394",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-10T21:22:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413969693816336394",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
