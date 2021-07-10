@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Ekynos/status/1413979227905474566",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215740,
+    "author": {
+      "url": "https://twitter.com/Ekynos",
+      "name": "Heiko Müller",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bea9b1ef4f2edefd30992ad4343d3fd9874c29b74e8e92e8f505133c281fcf79.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-10T21:51:33+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413979227905474566",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-10T21:54:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413979227905474566",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
