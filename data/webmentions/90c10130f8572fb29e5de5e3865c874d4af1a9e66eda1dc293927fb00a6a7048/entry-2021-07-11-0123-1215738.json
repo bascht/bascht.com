@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-800258030",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215738,
+    "author": {
+      "url": "https://twitter.com/lupinix91",
+      "name": "Christian Dersch 🏴‍☠️ 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480720c5d06931c8e63882550137f0497269874b96aedd6267b3d42351179967.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/800258030",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-10T21:54:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/800258030",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
