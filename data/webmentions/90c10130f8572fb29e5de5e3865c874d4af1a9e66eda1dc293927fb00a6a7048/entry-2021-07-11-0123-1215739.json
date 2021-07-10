@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-173389076",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215739,
+    "author": {
+      "url": "https://twitter.com/Ekynos",
+      "name": "Heiko Müller",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bea9b1ef4f2edefd30992ad4343d3fd9874c29b74e8e92e8f505133c281fcf79.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/173389076",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-10T21:54:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/173389076",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
