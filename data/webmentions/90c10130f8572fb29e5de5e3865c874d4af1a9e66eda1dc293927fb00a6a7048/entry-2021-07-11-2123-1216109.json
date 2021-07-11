@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/sascha242/status/1414236222797631494",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1216109,
+    "author": {
+      "url": "https://twitter.com/sascha242",
+      "name": "Sascha Möllering 🇮🇱",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7ac343b4aa99cf272b015754f2ae6278dda9d347f4fcdab507af853af24335e0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-11T14:52:45+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1414236222797631494",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-11T15:23:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1414236222797631494",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
