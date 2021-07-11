@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1409576815086211073#favorited-by-14882705",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1216119,
+    "author": {
+      "url": "https://twitter.com/antitree",
+      "name": "Mark Manning",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff43c1142430f66a70c7b8a02192b6cda311f2a50b4846185ed78406974ae7cb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1409576815086211073/14882705",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-11T16:19:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1409576815086211073/14882705",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
