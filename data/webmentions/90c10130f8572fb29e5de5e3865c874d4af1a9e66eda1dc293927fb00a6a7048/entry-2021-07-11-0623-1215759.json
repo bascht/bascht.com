@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Nordhessische/status/1413981126499127301",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215759,
+    "author": {
+      "url": "https://twitter.com/Nordhessische",
+      "name": "Der Ex-Nordhessische",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/446b096b4183d949ec6147ff8ac1c6415ea19bc95e349ed44cb5774e5880c24e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-10T21:59:05+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413981126499127301",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-10T22:54:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413981126499127301",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
