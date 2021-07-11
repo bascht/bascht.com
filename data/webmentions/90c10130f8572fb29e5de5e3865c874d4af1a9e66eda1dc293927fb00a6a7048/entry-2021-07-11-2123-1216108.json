@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ddorfMueller/status/1414236762742874113",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1216108,
+    "author": {
+      "url": "https://twitter.com/ddorfMueller",
+      "name": "Dirk",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f2e66e8d3aa95354ded6a7fefc279794c0b1702e624d2281f2112268fca586f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-11T14:54:54+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1414236762742874113",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-11T15:23:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1414236762742874113",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
