@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/UlfPanten/status/1413982174550835202",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215758,
+    "author": {
+      "url": "https://twitter.com/UlfPanten",
+      "name": "Ulf Panten",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d5e794a0b6b0fb9ae80ba6faa2e8c5b5ee72be02be4cba9b07976f34210cab5b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "»Mami, können wir Kubernetes haben?«\n\n»Wir haben Kubernetes zu Hause!«\n\nKubernetes zu Hause:"
+    },
+    "published": "2021-07-10T22:03:15+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413982174550835202",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-07-10T22:54:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1409576815086211073/1413982174550835202",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
