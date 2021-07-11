@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Fnargoy/status/1414004092196773893",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1215769,
+    "author": {
+      "url": "https://twitter.com/Fnargoy",
+      "name": "Fnargoy",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f3c11d7885e954bdefb41be9ca9dbc67f13fde676713dc2348c9cf3d4466cea.jpg"
+    },
+    "content": {
+      "html": "gibbet sogar mit USB:\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "gibbet sogar mit USB:"
+    },
+    "published": "2021-07-10T23:30:21+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1409576815086211073/1414004092196773893",
+    "wm-target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-07-10T23:41:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1409576815086211073/1414004092196773893",
+  "target": "https://bascht.com/posts/2021/06/28/mami-k%C3%B6nnen-wir-kubernetes-haben-w/",
+  "private": false
+}
