@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106574994543270290#favorited-by-486",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1218191,
+    "author": {
+      "url": "https://floss.social/@vinzv",
+      "name": "vinzv",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/782ea41e4c387e0b0bd9d4288217d6dbb186a5f691be3ea50f6f00e99940d794.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106574994543270290/486",
+    "wm-target": "https://bascht.com/posts/2021/07/13/bascht-good-job-breaking-those-umlaut/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-13T21:06:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106574994543270290/486",
+  "target": "https://bascht.com/posts/2021/07/13/bascht-good-job-breaking-those-umlaut/",
+  "private": false
+}
