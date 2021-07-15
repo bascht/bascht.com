@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1415339023401422851#favorited-by-21851603",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1219835,
+    "author": {
+      "url": "https://twitter.com/udosson",
+      "name": "jens_p",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7ca9cdb343d3381397844c557ca66782496cfeedb3b0594b4b25fa93be44695e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1415339023401422851/21851603",
+    "wm-target": "https://bascht.com/posts/2021/07/14/die-so-genannte-spd-strategie.-https/t/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-15T07:00:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1415339023401422851/21851603",
+  "target": "https://bascht.com/posts/2021/07/14/die-so-genannte-spd-strategie.-https/t/",
+  "private": false
+}
