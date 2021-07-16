@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106590841494943961#favorited-by-51014",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1221304,
+    "author": {
+      "url": "https://chaos.social/@chayrag",
+      "name": "jakob",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c2a65b96e34e4f3e86492bc9ff1e8d1bc1ea1f50e11de7ac9b4ff3f856041a89.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106590841494943961/51014",
+    "wm-target": "https://bascht.com/posts/2021/07/16/bascht-this-sucks./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-16T15:42:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106590841494943961/51014",
+  "target": "https://bascht.com/posts/2021/07/16/bascht-this-sucks./",
+  "private": false
+}
