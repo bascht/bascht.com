@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106590841494943961#favorited-by-67834",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1221299,
+    "author": {
+      "url": "https://mastodon.technology/@rysiek",
+      "name": "Rysiekúr Memesson",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07d217b69f2a3726d79e959961adadf2c8d03150c3651e901654b46d27b909e0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106590841494943961/67834",
+    "wm-target": "https://bascht.com/posts/2021/07/16/bascht-this-sucks./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-07-16T15:42:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106590841494943961/67834",
+  "target": "https://bascht.com/posts/2021/07/16/bascht-this-sucks./",
+  "private": false
+}
