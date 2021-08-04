@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106697083864238865#reblogged-by-189",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1237022,
+    "author": {
+      "url": "https://social.tchncs.de/@imageschaden",
+      "name": "™🐢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3abd2d9aef002d9b41eddf907dede5537a3a48c6bbe43caf191587dbc5c7b505.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106697083864238865/189",
+    "wm-target": "https://bascht.com/posts/2021/08/04/bascht-i-am-an-animal/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-08-04T09:43:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106697083864238865/189",
+  "target": "https://bascht.com/posts/2021/08/04/bascht-i-am-an-animal/",
+  "private": false
+}
