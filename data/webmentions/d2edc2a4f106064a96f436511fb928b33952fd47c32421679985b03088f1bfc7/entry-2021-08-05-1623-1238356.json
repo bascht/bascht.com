@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106561076273688527#favorited-by-10162",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1238356,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "🏳️‍🌈 totoroot 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106561076273688527/10162",
+    "wm-target": "https://bascht.com/posts/2021/07/11/bascht-sushi-tray-now-serves-as-a-squ/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-08-05T13:20:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106561076273688527/10162",
+  "target": "https://bascht.com/posts/2021/07/11/bascht-sushi-tray-now-serves-as-a-squ/",
+  "private": false
+}
