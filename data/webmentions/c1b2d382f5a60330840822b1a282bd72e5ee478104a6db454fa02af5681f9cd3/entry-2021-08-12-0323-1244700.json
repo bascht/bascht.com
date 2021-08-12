@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106739493656146805#favorited-by-69150",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1244700,
+    "author": {
+      "url": "https://mastodon.social/@welsper90",
+      "name": "Daniel Hoffmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a2e0d7f1f7b1606efd051f3c7fdddc0de97f1a299dac44d47ce6e078561c12fe.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106739493656146805/69150",
+    "wm-target": "https://bascht.com/posts/2021/08/11/ich-habe-die-schwerkraft-ist-kein-bauch/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-08-11T22:52:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106739493656146805/69150",
+  "target": "https://bascht.com/posts/2021/08/11/ich-habe-die-schwerkraft-ist-kein-bauch/",
+  "private": false
+}
