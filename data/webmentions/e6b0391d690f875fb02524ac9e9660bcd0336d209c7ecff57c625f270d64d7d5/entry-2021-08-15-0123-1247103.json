@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@finster/106756616914652022",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1247103,
+    "author": {
+      "url": "https://chaos.social/@finster",
+      "name": "finster",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0116c8363179956c450bfa56b50f1460060018e46e6bea41bb2ef9c6c65a552c.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span><br />Good luck!</p>",
+      "text": "@bascht\nGood luck!"
+    },
+    "published": "2021-08-14T21:31:38",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106756588361248316/106756616928210373",
+    "wm-target": "https://bascht.com/posts/2021/08/14/bascht-and-in-other-firsts-i-managed/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/08/14/bascht-and-in-other-firsts-i-managed/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-14T21:58:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106756588361248316/106756616928210373",
+  "target": "https://bascht.com/posts/2021/08/14/bascht-and-in-other-firsts-i-managed/",
+  "private": false
+}
