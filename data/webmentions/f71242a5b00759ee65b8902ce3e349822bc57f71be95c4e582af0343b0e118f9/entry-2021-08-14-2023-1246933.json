@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@sofia/106755156706452642",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1246933,
+    "author": {
+      "url": "https://chaos.social/@sofia",
+      "name": "sofia",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/acbaa1eaf31acc9caebd25b709924a16a1009ffb13f7030401e0bd7469fd349b.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> the chips stopped laying around and started walking 🤔?</p>",
+      "text": "@bascht the chips stopped laying around and started walking 🤔?"
+    },
+    "published": "2021-08-14T15:20:17",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106754838017520968/106755156816616935",
+    "wm-target": "https://bascht.com/posts/2021/08/14/bascht-we-have-joy-we-have-fun-we-h/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/08/14/bascht-we-have-joy-we-have-fun-we-h/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-14T15:52:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106754838017520968/106755156816616935",
+  "target": "https://bascht.com/posts/2021/08/14/bascht-we-have-joy-we-have-fun-we-h/",
+  "private": false
+}
