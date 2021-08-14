@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106755253789454841#favorited-by-607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1246951,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8b7bc8d97a6e93394ee8e8ca9a5c3da8d6d8b4262fffe0c931d55ceb9203e182.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106755253789454841/607",
+    "wm-target": "https://bascht.com/posts/2021/08/14/bascht-well-thats-a-first./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-08-14T17:10:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106755253789454841/607",
+  "target": "https://bascht.com/posts/2021/08/14/bascht-well-thats-a-first./",
+  "private": false
+}
