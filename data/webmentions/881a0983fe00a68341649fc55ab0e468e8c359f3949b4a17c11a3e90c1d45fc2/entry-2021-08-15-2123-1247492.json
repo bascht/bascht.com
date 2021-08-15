@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106756798432314604#favorited-by-26032",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1247492,
+    "author": {
+      "url": "https://chaos.social/@finster",
+      "name": "finster",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0116c8363179956c450bfa56b50f1460060018e46e6bea41bb2ef9c6c65a552c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106756798432314604/26032",
+    "wm-target": "https://bascht.com/posts/2021/08/14/fuse-update-a-german-shop-lists-them-fo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-08-15T15:20:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106756798432314604/26032",
+  "target": "https://bascht.com/posts/2021/08/14/fuse-update-a-german-shop-lists-them-fo/",
+  "private": false
+}
