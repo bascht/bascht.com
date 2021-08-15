@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106756798432314604",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1247185,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Fuse update: a German shop lists them for 40 (WTF?!) Euros:  <a href=\"https://fixpart.de/de/product/view/0005549198?apl=2601804\"><span>https://</span><span>fixpart.de/de/product/view/000</span><span>5549198?apl=2601804</span></a></p><p>A Finnish dealer for about 10: <a href=\"https://www.huoltopalvelu.com/epages/huoltopalvelu.mobile/en_GB/?ObjectPath=/Shops/Huolto/Products/46260&amp;Locale=en_GB\"><span>https://www.</span><span>huoltopalvelu.com/epages/huolt</span><span>opalvelu.mobile/en_GB/?ObjectPath=/Shops/Huolto/Products/46260&amp;Locale=en_GB</span></a></p>\n<a href=\"https://fixpart.de/de/product/view/0005549198?apl=2601804\">FixPart - Moccamaster Temperaturbegrenzer - Überhitzungsschutz / doppelthermostat</a>",
+      "text": "Fuse update: a German shop lists them for 40 (WTF?!) Euros:  https://fixpart.de/de/product/view/0005549198?apl=2601804A Finnish dealer for about 10: https://www.huoltopalvelu.com/epages/huoltopalvelu.mobile/en_GB/?ObjectPath=/Shops/Huolto/Products/46260&Locale=en_GB\nFixPart - Moccamaster Temperaturbegrenzer - Überhitzungsschutz / doppelthermostat"
+    },
+    "published": "2021-08-14T22:17:48",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106756588361248316/106756798432314604",
+    "wm-target": "https://bascht.com/posts/2021/08/14/bascht-and-in-other-firsts-i-managed/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/08/14/bascht-and-in-other-firsts-i-managed/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-14T22:59:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106756588361248316/106756798432314604",
+  "target": "https://bascht.com/posts/2021/08/14/bascht-and-in-other-firsts-i-managed/",
+  "private": false
+}
