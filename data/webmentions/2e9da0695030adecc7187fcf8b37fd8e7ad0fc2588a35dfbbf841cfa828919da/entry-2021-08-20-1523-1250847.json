@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106787802760623733",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1250847,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@totoroot\" class=\"u-url\">@<span>totoroot</span></a></span> :D Yip, Kamira. Bought it straight from their web shop and it took ~ 1 week to deliver from IT to DE. <a href=\"https://bascht.com/blog/2020/09/14/kamira/\"><span>https://</span><span>bascht.com/blog/2020/09/14/kam</span><span>ira/</span></a> 🙂</p>\n<a href=\"https://bascht.com/blog/2020/09/14/kamira/\">Kamira</a>",
+      "text": "@totoroot :D Yip, Kamira. Bought it straight from their web shop and it took ~ 1 week to deliver from IT to DE. https://bascht.com/blog/2020/09/14/kamira/ 🙂\nKamira"
+    },
+    "published": "2021-08-20T09:42:36",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787255252118411/106787802760623733",
+    "wm-target": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-20T10:09:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787255252118411/106787802760623733",
+  "target": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+  "private": false
+}
