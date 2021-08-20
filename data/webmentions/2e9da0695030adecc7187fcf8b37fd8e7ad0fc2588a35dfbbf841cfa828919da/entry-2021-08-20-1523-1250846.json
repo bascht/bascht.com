@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/106787872702524295",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1250846,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> wie gut !</p>",
+      "text": "@bascht wie gut !"
+    },
+    "published": "2021-08-20T10:00:24",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787255252118411/106787872710382223",
+    "wm-target": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-20T10:09:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787255252118411/106787872710382223",
+  "target": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+  "private": false
+}
