@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@totoroot/106787651917514726",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1250845,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "🏳️‍🌈 totoroot 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> What wonderful marvel of sophisticated coffee technology am I looking at here? <img alt=\"blobfoxfloofcofe\" src=\"https://sb-yakshed.b-cdn.net/cache/custom_emojis/images/000/042/636/original/11d75637e45ce303.png\" /><br />Nevermind, just looked it up and it seems like you can order from their website...where did you get yours?</p>",
+      "text": "@bascht What wonderful marvel of sophisticated coffee technology am I looking at here? \nNevermind, just looked it up and it seems like you can order from their website...where did you get yours?"
+    },
+    "published": "2021-08-20T09:04:15",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787255252118411/106787652016143807",
+    "wm-target": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-20T10:09:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787255252118411/106787652016143807",
+  "target": "https://bascht.com/posts/2021/08/20/bascht-kamiraaaaaaaaa/",
+  "private": false
+}
