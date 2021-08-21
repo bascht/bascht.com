@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@totoroot/106790289656705990",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1251309,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "🏳️‍🌈 totoroot 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Nice, thanks for the info! I might have found my christmas gift <img alt=\"blobfoxaww\" src=\"https://sb-yakshed.b-cdn.net/cache/custom_emojis/images/000/042/324/original/dd7e2dd4d00fa133.png\" /><br />Are the espressi as delicious as they look? Can you recommend getting one, seeing you've had it for a couple months now?</p>",
+      "text": "@bascht Nice, thanks for the info! I might have found my christmas gift \nAre the espressi as delicious as they look? Can you recommend getting one, seeing you've had it for a couple months now?"
+    },
+    "published": "2021-08-20T20:15:03",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787802760623733/106790289804212576",
+    "wm-target": "https://bascht.com/blog/2020/09/14/kamira/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/blog/2020/09/14/kamira/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-08-20T21:16:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106787802760623733/106790289804212576",
+  "target": "https://bascht.com/blog/2020/09/14/kamira/",
+  "private": false
+}
