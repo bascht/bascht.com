@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106795460621280359#reblogged-by-159",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1252311,
+    "author": {
+      "url": "https://linuxrocks.online/@TheFake_VIP",
+      "name": "Michael Connor Buchan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/690eb2ce8974bac2980b542a7b86db1c215cd50a756a2cea6e24f7fde743a8d3.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106795460621280359/159",
+    "wm-target": "https://bascht.com/posts/2021/08/21/writing-is-thinking.-to-write-well-is-t/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-08-22T19:15:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/106795460621280359/159",
+  "target": "https://bascht.com/posts/2021/08/21/writing-is-thinking.-to-write-well-is-t/",
+  "private": false
+}
