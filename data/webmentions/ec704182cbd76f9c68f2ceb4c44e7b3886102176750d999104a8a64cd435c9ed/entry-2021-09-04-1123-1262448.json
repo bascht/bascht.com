@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1432365740238192640#favorited-by-635353",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1262448,
+    "author": {
+      "url": "https://twitter.com/ddfreyne",
+      "name": "Denis (just Denis)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e7eee0971a647250395bcbc16bd86c13de89bafbb60571683a856cbff3067b0e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1432365740238192640/635353",
+    "wm-target": "https://bascht.com/posts/2021/08/30/hey-siri.-unsplash-suche-nach-krankenha/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-04T05:51:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1432365740238192640/635353",
+  "target": "https://bascht.com/posts/2021/08/30/hey-siri.-unsplash-suche-nach-krankenha/",
+  "private": false
+}
