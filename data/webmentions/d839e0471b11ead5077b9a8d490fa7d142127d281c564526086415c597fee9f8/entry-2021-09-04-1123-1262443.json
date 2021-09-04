@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1433422801948471299#favorited-by-2514475838",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1262443,
+    "author": {
+      "url": "https://twitter.com/crepels",
+      "name": "Sebastian Jambor",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e6606bc7cb9fadc5d2b2756cb31580bf7ee962d144f66a463ffd1e15480ccd4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1433422801948471299/2514475838",
+    "wm-target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-04T05:51:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1433422801948471299/2514475838",
+  "target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+  "private": false
+}
