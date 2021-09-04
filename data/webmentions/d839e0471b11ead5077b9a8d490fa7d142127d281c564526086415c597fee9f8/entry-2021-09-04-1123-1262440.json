@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/freddyb/status/1433427690812370946",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1262440,
+    "author": {
+      "url": "https://twitter.com/freddyb",
+      "name": "Frederik Braun �",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/557b6b399752f6926988bccd1e1a3c1a416ca4ae47310629f1832a5497de852c.png"
+    },
+    "content": {
+      "html": "Find ich ne schöne Idee. Vielleicht finden das andere nicht so. Daher solltest du vielleicht so 'nen nervigen Disclaimer hinzufügen, dass du Vandalismus an Aufklabern und Vandalismus im Allgemeinen eher nicht sooo gut findest? 😕 (IANAL :))\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://bit.ly/2WNPzXQ\"></a>\n<a class=\"u-mention\" href=\"https://reibschuster.de/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/badboy_\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Find ich ne schöne Idee. Vielleicht finden das andere nicht so. Daher solltest du vielleicht so 'nen nervigen Disclaimer hinzufügen, dass du Vandalismus an Aufklabern und Vandalismus im Allgemeinen eher nicht sooo gut findest? 😕 (IANAL :))"
+    },
+    "published": "2021-09-02T13:52:47+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1433422801948471299/1433427690812370946",
+    "wm-target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-04T05:51:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1433422801948471299/1433427690812370946",
+  "target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+  "private": false
+}
