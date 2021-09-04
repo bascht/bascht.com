@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/k3rvyn/status/1433431566814887938",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1262435,
+    "author": {
+      "url": "https://twitter.com/k3rvyn",
+      "name": "Boris",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/276554784eaf226899337f29621e121ac9605ced6ec1e2ef20a9bab02ecd11a8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Angenommen ihr hättet in eurer Nachbarschaft so hässliche Aufkleber oder Schmierereien die sich auf \"Reib\" und \"Schuster\" reimen.\n\nDann hätte ich jetzt eventuell eine Domain für euch registriert um diese Aufkleber auszubessern:\n\nbit.ly/2WNPzXQ"
+    },
+    "published": "2021-09-02T14:08:12+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1433422801948471299/1433431566814887938",
+    "wm-target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-09-04T05:51:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1433422801948471299/1433431566814887938",
+  "target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+  "private": false
+}
