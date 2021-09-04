@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1433428657100378121",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1262438,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Hmm, hatte ich auch schon überlegt. Ich glaube (IANAL) dass z.B. \"überkleben\" anders bewertet wird als zum Beispiel \"übermalen\". D.h. dann müsste man einfach mit \"b\" Aufklebern hantieren. ^^\n<a class=\"u-mention\" href=\"https://bit.ly/2WNPzXQ\"></a>\n<a class=\"u-mention\" href=\"https://reibschuster.de/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/badboy_\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freddyb\"></a>",
+      "text": "Hmm, hatte ich auch schon überlegt. Ich glaube (IANAL) dass z.B. \"überkleben\" anders bewertet wird als zum Beispiel \"übermalen\". D.h. dann müsste man einfach mit \"b\" Aufklebern hantieren. ^^"
+    },
+    "published": "2021-09-02T13:56:38+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1433422801948471299/1433428657100378121",
+    "wm-target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-04T05:51:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1433422801948471299/1433428657100378121",
+  "target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+  "private": false
+}
