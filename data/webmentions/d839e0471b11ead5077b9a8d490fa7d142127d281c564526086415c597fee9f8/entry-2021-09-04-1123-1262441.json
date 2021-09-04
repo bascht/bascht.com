@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1433422801948471299#favorited-by-54056715",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1262441,
+    "author": {
+      "url": "https://twitter.com/k3rvyn",
+      "name": "Boris",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/276554784eaf226899337f29621e121ac9605ced6ec1e2ef20a9bab02ecd11a8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1433422801948471299/54056715",
+    "wm-target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-04T05:51:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1433422801948471299/54056715",
+  "target": "https://bascht.com/posts/2021/09/02/angenommen-ihr-h%C3%A4ttet-in-eurer-nachbarsc/",
+  "private": false
+}
