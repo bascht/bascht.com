@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106880399557751872#favorited-by-4556",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1263054,
+    "author": {
+      "url": "https://diaspodon.fr/@Phipe",
+      "name": "Phipe 🖖🏼, Bourgeois ✊🏼",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2873d51fdc54911e0101d51f182fe9e3e3275a519338f80ac6e606cbf3ef7b5e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106880399557751872/4556",
+    "wm-target": "https://bascht.com/posts/2021/09/05/bascht-imma-put-franzbr%C3%B6tchencreme-o/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-05T19:26:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106880399557751872/4556",
+  "target": "https://bascht.com/posts/2021/09/05/bascht-imma-put-franzbr%C3%B6tchencreme-o/",
+  "private": false
+}
