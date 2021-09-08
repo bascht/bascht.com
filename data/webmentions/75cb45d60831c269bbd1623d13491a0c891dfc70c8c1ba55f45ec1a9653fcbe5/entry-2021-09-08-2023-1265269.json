@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/106896076217031254",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1265269,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0bbb75ff74ab3f2dfe9c2e215e52f994e3c726a99f3d897ffc740a306105dc78.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> a legendary OrgMode, right?</p>\n<a class=\"u-mention\" href=\"https://legendapp.com/\"></a>",
+      "text": "@bascht a legendary OrgMode, right?"
+    },
+    "published": "2021-09-08T12:37:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106891688690165776/106896076217031254",
+    "wm-target": "https://bascht.com/posts/2021/09/07/this-looks-like-a-fancy-kind-of-orgmode/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/07/this-looks-like-a-fancy-kind-of-orgmode/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-08T14:35:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/106891688690165776/106896076217031254",
+  "target": "https://bascht.com/posts/2021/09/07/this-looks-like-a-fancy-kind-of-orgmode/",
+  "private": false
+}
