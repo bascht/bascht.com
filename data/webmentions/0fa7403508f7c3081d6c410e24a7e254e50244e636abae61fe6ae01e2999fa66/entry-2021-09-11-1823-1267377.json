@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436347636991287320#favorited-by-45153045",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267377,
+    "author": {
+      "url": "https://twitter.com/e_phi",
+      "name": "eviii 🐰 - ⚛️🚴‍♀️👩‍💻🌳🎉",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/483b72c39593d67e0d988af49e80fab70fded1026b9e5dc2cc9f87c6eb3f1273.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436347636991287320/45153045",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436347636991287320/45153045",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
