@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436347636991287320#favorited-by-78352829",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267370,
+    "author": {
+      "url": "https://twitter.com/miiiezekatze",
+      "name": "traumflauschmuschi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2c908b9bb9ec6a8787a82f9022ee13cbe5ba86e0ac10be47977c33c082aef145.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436347636991287320/78352829",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436347636991287320/78352829",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
