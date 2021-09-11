@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436356179693813763#favorited-by-381969021",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267381,
+    "author": {
+      "url": "https://twitter.com/lesekaffee",
+      "name": "lesekaffee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0ba7322f19b48fab4e8f6df3ae042b1374fcba1d9004032cb2ca267c5c032e2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436356179693813763/381969021",
+    "wm-target": "https://bascht.com/posts/2021/09/10/tempolimit-je-nach-auslastung-der-rettun/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436356179693813763/381969021",
+  "target": "https://bascht.com/posts/2021/09/10/tempolimit-je-nach-auslastung-der-rettun/",
+  "private": false
+}
