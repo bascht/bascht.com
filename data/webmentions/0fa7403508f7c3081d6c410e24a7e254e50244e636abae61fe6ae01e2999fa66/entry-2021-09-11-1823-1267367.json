@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436347636991287320#favorited-by-18652297",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267367,
+    "author": {
+      "url": "https://twitter.com/Geekfried",
+      "name": "Geekfried™",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6ecbec0692be840fc110195b0c29f93544ec720a252645cbbff850e5505b91c5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436347636991287320/18652297",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436347636991287320/18652297",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
