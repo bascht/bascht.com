@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/Geekfried/status/1436470811192397839",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267366,
+    "author": {
+      "url": "https://twitter.com/Geekfried",
+      "name": "Geekfried™",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6ecbec0692be840fc110195b0c29f93544ec720a252645cbbff850e5505b91c5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Eingang durch DEN W A S ?"
+    },
+    "published": "2021-09-10T23:25:04+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1436347636991287320/1436470811192397839",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-09-11T12:59:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1436347636991287320/1436470811192397839",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
