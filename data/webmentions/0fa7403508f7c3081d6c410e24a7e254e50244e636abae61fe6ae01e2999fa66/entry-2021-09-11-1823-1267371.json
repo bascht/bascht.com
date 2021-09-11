@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436347636991287320#favorited-by-1601505552",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267371,
+    "author": {
+      "url": "https://twitter.com/SchlaMasselToff",
+      "name": "Massel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/80bd22bd24104ef6d6a948a74f38a0113bb92c9f06bb773f841ed54ce9dd3b8a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436347636991287320/1601505552",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436347636991287320/1601505552",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
