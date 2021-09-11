@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436347636991287320#favorited-by-13485262",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267376,
+    "author": {
+      "url": "https://twitter.com/badboy_",
+      "name": "jan-erik",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617e5e3369bd75806bdcfcc86fbfeebbc620cff337048b079b678efad76da957.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436347636991287320/13485262",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436347636991287320/13485262",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
