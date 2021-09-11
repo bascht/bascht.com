@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhemberger/status/1436354985726550016",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267380,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": "Da lang:\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Da lang:"
+    },
+    "published": "2021-09-10T15:44:49+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1436347636991287320/1436354985726550016",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-11T12:59:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1436347636991287320/1436354985726550016",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
