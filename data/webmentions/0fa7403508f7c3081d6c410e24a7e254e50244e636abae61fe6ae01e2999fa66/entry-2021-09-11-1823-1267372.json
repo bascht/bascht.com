@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1436347636991287320#favorited-by-3364804197",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267372,
+    "author": {
+      "url": "https://twitter.com/AlizeNero",
+      "name": "kaja nö",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1d4b46d958f562277ff51f689c7207185ecd6fee2790213d79c75cbda5c8573c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1436347636991287320/3364804197",
+    "wm-target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-11T12:59:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1436347636991287320/3364804197",
+  "target": "https://bascht.com/posts/2021/09/10/eingang-durch-den-w-a-s-https/t.co/k/",
+  "private": false
+}
