@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/CYxChris/status/1436358409952153607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1267384,
+    "author": {
+      "url": "https://twitter.com/CYxChris",
+      "name": "Christian Kühn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0388282a3ba906ef4a1e6adeca7037215625b59215dc7a477d6c665e5550c7ad.jpg"
+    },
+    "content": {
+      "html": "Aktive Mitglieder von freiwilliger Feuerwehr und Rettungsdienst dürfen privat schneller fahren\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Aktive Mitglieder von freiwilliger Feuerwehr und Rettungsdienst dürfen privat schneller fahren"
+    },
+    "published": "2021-09-10T15:58:25+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1436356179693813763/1436358409952153607",
+    "wm-target": "https://bascht.com/posts/2021/09/10/tempolimit-je-nach-auslastung-der-rettun/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/10/tempolimit-je-nach-auslastung-der-rettun/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-11T12:59:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1436356179693813763/1436358409952153607",
+  "target": "https://bascht.com/posts/2021/09/10/tempolimit-je-nach-auslastung-der-rettun/",
+  "private": false
+}
