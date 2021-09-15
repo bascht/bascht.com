@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhemberger/status/1437334690961272835",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1269172,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": "Könnte auch ein Konvektomat sein, wenn man die Katze lieber knusprig möchte … 🤔\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://bit.ly/3hrYfKz\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://www.aliexpress.com/item/1005002198815012.html\"></a>",
+      "text": "Könnte auch ein Konvektomat sein, wenn man die Katze lieber knusprig möchte … 🤔"
+    },
+    "published": "2021-09-13T08:37:49+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1437330296765091840/1437334690961272835",
+    "wm-target": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-14T18:29:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1437330296765091840/1437334690961272835",
+  "target": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+  "private": false
+}
