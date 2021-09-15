@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ho1ger/status/1437343999380033543",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1269171,
+    "author": {
+      "url": "https://twitter.com/ho1ger",
+      "name": "Holger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6961c197766ecda06dcabfd6e28deb3e52fb14a6c5a31a297c16a58817bdb85f.jpg"
+    },
+    "content": {
+      "html": "50 Grad Umluft sollte doch auch funktionieren?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://bit.ly/3hrYfKz\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://www.aliexpress.com/item/1005002198815012.html\"></a>",
+      "text": "50 Grad Umluft sollte doch auch funktionieren?"
+    },
+    "published": "2021-09-13T09:14:48+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1437330296765091840/1437343999380033543",
+    "wm-target": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-09-14T18:29:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1437330296765091840/1437343999380033543",
+  "target": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+  "private": false
+}
