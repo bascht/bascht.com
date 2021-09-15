@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1437330296765091840#favorited-by-129553128",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1269173,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c41c58014ea0ab9ed73d92c4ae7b32b53154eeec9c6df527241064815940d96a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1437330296765091840/129553128",
+    "wm-target": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-14T18:29:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1437330296765091840/129553128",
+  "target": "https://bascht.com/posts/2021/09/13/aliexpress-fund-des-tages-ein-katzentro/",
+  "private": false
+}
