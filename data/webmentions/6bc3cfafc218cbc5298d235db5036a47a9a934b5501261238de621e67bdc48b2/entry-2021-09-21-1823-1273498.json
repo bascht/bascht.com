@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/106968779111484316#favorited-by-37933",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1273498,
+    "author": {
+      "url": "https://todon.nl/@schratze",
+      "name": "Schratze :nb_crossbow:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7cf31dfd12bda75a1523167accbb6fc3e0b09c2f2c3582a2175855c21195b486.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106968779111484316/37933",
+    "wm-target": "https://bascht.com/posts/2021/09/21/bascht-huh/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-09-21T10:49:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/106968779111484316/37933",
+  "target": "https://bascht.com/posts/2021/09/21/bascht-huh/",
+  "private": false
+}
