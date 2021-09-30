@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://depone.net/infos/links/",
+    "name": "Links\nIn guter Gesellschaft entwickelt mensch sich weiter. Um auf Personen, Unternehmen und Magazine aufmerksam zu machen, die mich inspirieren und von denen ich lerne, habe ich diese Liste angelegt. Sie erhebt nicht den Anspruch auf Vollständigkeit, ist aber ein Anfang. Mit einigen in der Liste arbeite ich gerne und regelmäßig zusammen, von anderen lese ich Blogs und Bücher oder schaue mir regelmäßig an was sie wie machen. A List Apart Alla Kholmatova Andy Bell Brad Frost Cassie Evans CSS Tricks Chris Ferdinandi Clearleft Daniel Wiegand Dirk Breuer Eric Meyer Filament Group Heydon Pickering iA Jeffrey Zeldman Jen Simmons Jens Strobel Jeremy Keith Johannes Kleske Joschi Kuphal Laura Kalbag Lea Verou Matthias Pfefferle Marc Böttler Marc Thiele Markus Angermeier Michael Gibis Mike Riethmuller Rachel Andrew Remy Sharp Sarah Drasner Sara Soueidan Scott Jehl Sebastian Schulze Smashing Magazine Sven Schwyn Tantek Çelik Third Wave Berlin Zach Leatherman",
+    "type": "entry",
+    "wm-id": 1278983,
+    "author": {
+      "url": "https://depone.net/",
+      "name": "DEPONE Netzgestaltung",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/depone.net/06e0d5405a8b722a151961c0a16bb564616f7c2adfc780d499591ca97077f175.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://depone.net/infos/links/",
+    "wm-target": "https://bascht.com",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "bookmark-of",
+    "wm-received": "2021-09-30T12:29:29Z"
+  },
+  "secret": null,
+  "source": "https://depone.net/infos/links/",
+  "target": "https://bascht.com",
+  "private": false
+}
