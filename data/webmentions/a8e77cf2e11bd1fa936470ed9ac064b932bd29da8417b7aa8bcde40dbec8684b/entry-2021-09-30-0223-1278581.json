@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107016852016510733#reblogged-by-1330",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1278581,
+    "author": {
+      "url": "https://social.tchncs.de/@vfrmedia",
+      "name": "Alex@rtnVFRmedia Suffolk UK",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0c0e93d5e036d2854acb90670b0d23362b971361d4b64394d9a265a3970ac216.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107016852016510733/1330",
+    "wm-target": "https://bascht.com/posts/2021/09/29/bascht-better-make-sure-youre-batter/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-09-29T21:28:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107016852016510733/1330",
+  "target": "https://bascht.com/posts/2021/09/29/bascht-better-make-sure-youre-batter/",
+  "private": false
+}
