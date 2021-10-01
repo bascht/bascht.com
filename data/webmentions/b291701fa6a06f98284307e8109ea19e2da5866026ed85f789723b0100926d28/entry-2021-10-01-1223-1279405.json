@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107024952955038838#favorited-by-42494",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1279405,
+    "author": {
+      "url": "https://fosstodon.org/@garritfra",
+      "name": "Garrit :react: :graphql:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/92b6df6883465a9a8e34667d3f49b904605965ff5d06b013eaa5b3710524deca.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107024952955038838/42494",
+    "wm-target": "https://bascht.com/posts/2021/10/01/bascht-simit-kahve/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-01T08:38:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107024952955038838/42494",
+  "target": "https://bascht.com/posts/2021/10/01/bascht-simit-kahve/",
+  "private": false
+}
