@@ -21,7 +21,7 @@ Folgende Buzzwords habe ich dafür in der Werkzeugkiste:
 
 Wer gerne den offiziellen Weg geht, findet [hier](https://www.xing.com/profile/Sebastian_Schulze10) mein Xing-Profil.
 Ansonsten freue ich mich viel mehr über eine gut signierte & verschlüsselte E-Mail.
-Meine Kontakt-Daten gibt es [hier](/impressum).
+Meine Kontakt-Daten gibt es [hier](/kontakt/).
 
 ---
 <small>
