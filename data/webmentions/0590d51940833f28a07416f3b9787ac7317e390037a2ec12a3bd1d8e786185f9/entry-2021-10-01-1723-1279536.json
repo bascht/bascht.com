@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107026345224126985#favorited-by-70775",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1279536,
+    "author": {
+      "url": "https://mstdn.social/@ern",
+      "name": "ern@mstdn.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b96a0b61e501c1d583ac8b71e89c8da6c99231280f02f877a5df30cbf0d29947.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107026345224126985/70775",
+    "wm-target": "https://bascht.com/posts/2021/10/01/fyi-/-ffs-docker-for-mac-apparently-alr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-01T14:34:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107026345224126985/70775",
+  "target": "https://bascht.com/posts/2021/10/01/fyi-/-ffs-docker-for-mac-apparently-alr/",
+  "private": false
+}
