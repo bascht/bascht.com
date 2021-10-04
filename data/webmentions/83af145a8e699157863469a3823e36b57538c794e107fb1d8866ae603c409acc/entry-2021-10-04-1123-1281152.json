@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107041986709063761#favorited-by-37933",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1281152,
+    "author": {
+      "url": "https://todon.nl/@schratze",
+      "name": "Schratz-o'-Lantern",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/591cc7e4fb065c32e1efbc5907d6dfc631d30410a79f2a3adfa267252916b78b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107041986709063761/37933",
+    "wm-target": "https://bascht.com/posts/2021/10/04/bascht-cw-spider-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-04T08:18:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107041986709063761/37933",
+  "target": "https://bascht.com/posts/2021/10/04/bascht-cw-spider-sensitive/",
+  "private": false
+}
