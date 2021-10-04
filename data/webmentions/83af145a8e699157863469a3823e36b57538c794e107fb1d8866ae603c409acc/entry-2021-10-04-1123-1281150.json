@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107041986709063761#favorited-by-72546",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1281150,
+    "author": {
+      "url": "https://freespeechextremist.com/users/PinhasLavon",
+      "name": "Aussie Pureblood Jazú",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d3288abfb9e578088d1a29e458134da2a847e47bd2c97a9bd9670bc8ddb3374.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107041986709063761/72546",
+    "wm-target": "https://bascht.com/posts/2021/10/04/bascht-cw-spider-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-04T08:18:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107041986709063761/72546",
+  "target": "https://bascht.com/posts/2021/10/04/bascht-cw-spider-sensitive/",
+  "private": false
+}
