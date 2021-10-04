@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107041986709063761#favorited-by-10162",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1281231,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "🏳️‍🌈 totoroot 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107041986709063761/10162",
+    "wm-target": "https://bascht.com/posts/2021/10/04/bascht-cw-spider-sensitive/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-04T09:26:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107041986709063761/10162",
+  "target": "https://bascht.com/posts/2021/10/04/bascht-cw-spider-sensitive/",
+  "private": false
+}
