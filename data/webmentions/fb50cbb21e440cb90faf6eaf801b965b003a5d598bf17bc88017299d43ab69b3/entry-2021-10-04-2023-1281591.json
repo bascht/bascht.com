@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107042509400211263#favorited-by-7193",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1281591,
+    "author": {
+      "url": "https://ifwo.eu/@sozialwelten",
+      "name": "@sozialwelten@ifwo.eu",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7c09671946f6cd378d32ea39baaaba6fcbd3fa0fcdb1c0dcdfff541eb8fc8e2d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107042509400211263/7193",
+    "wm-target": "https://bascht.com/posts/2021/10/04/the-amount-of-seo-spamming-github-scrapi/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-04T17:32:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107042509400211263/7193",
+  "target": "https://bascht.com/posts/2021/10/04/the-amount-of-seo-spamming-github-scrapi/",
+  "private": false
+}
