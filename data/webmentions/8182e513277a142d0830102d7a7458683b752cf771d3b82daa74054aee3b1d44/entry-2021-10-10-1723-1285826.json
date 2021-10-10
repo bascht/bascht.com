@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/107077068535733198",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285826,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> machste auch nur mit Kindern oder?</p>",
+      "text": "@bascht machste auch nur mit Kindern oder?"
+    },
+    "published": "2021-10-10T11:46:42",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107077045653798856/107077068544401827",
+    "wm-target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-10T12:31:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107077045653798856/107077068544401827",
+  "target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+  "private": false
+}
