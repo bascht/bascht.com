@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107077045653798856#favorited-by-4433",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285876,
+    "author": {
+      "url": "https://mastodon.social/@ifixcoinops",
+      "name": "Dan Fixes HAUNTED Coin-Ops",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fb08333795e498626b6e24592a41f83c70b701abb9ace31feef3fc631f4f00e5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107077045653798856/4433",
+    "wm-target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-10T15:29:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107077045653798856/4433",
+  "target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+  "private": false
+}
