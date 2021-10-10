@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107078319435689738#favorited-by-1339",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285933,
+    "author": {
+      "url": "https://toot.koeln/@troetschubser",
+      "name": "Frank",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7d9e21b254f7bb8ed9d4b7fcf6254075d8240eabd090c00d9e8dafe84f6726ce.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107078319435689738/1339",
+    "wm-target": "https://bascht.com/posts/2021/10/10/rievkooche/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-10T18:48:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107078319435689738/1339",
+  "target": "https://bascht.com/posts/2021/10/10/rievkooche/",
+  "private": false
+}
