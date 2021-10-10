@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@ifixcoinops/107077940351137788",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285874,
+    "author": {
+      "url": "https://mastodon.social/@ifixcoinops",
+      "name": "Dan Fixes HAUNTED Coin-Ops",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fb08333795e498626b6e24592a41f83c70b701abb9ace31feef3fc631f4f00e5.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I went about twenty years without that lovely little hourly bibip and never realised how much I missed it :)</p>",
+      "text": "@bascht I went about twenty years without that lovely little hourly bibip and never realised how much I missed it :)"
+    },
+    "published": "2021-10-10T15:28:25",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107077045653798856/107077940779526302",
+    "wm-target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-10T15:29:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107077045653798856/107077940779526302",
+  "target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+  "private": false
+}
