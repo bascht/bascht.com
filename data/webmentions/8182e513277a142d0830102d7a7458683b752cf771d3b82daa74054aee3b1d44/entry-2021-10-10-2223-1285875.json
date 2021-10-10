@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107077371394800471",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285875,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@philhoefer\" class=\"u-url\">@<span>philhoefer</span></a></span> :D nee, wollte tatsächlich nen Alarm stellen.</p>",
+      "text": "@philhoefer :D nee, wollte tatsächlich nen Alarm stellen."
+    },
+    "published": "2021-10-10T13:03:43",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107077045653798856/107077371394800471",
+    "wm-target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-10T15:29:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107077045653798856/107077371394800471",
+  "target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+  "private": false
+}
