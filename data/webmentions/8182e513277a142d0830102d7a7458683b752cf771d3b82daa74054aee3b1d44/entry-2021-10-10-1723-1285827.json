@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107077045653798856#favorited-by-32781",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285827,
+    "author": {
+      "url": "https://mastodon.sdf.org/@claudiom",
+      "name": "ClaudioM",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1cbedb9682e5c2a372600693e6f4b092439f7d799fe932d4843a439994be1afd.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107077045653798856/32781",
+    "wm-target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-10T12:31:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107077045653798856/32781",
+  "target": "https://bascht.com/posts/2021/10/10/accidently-turned-on-the-hourly-beep-on/",
+  "private": false
+}
