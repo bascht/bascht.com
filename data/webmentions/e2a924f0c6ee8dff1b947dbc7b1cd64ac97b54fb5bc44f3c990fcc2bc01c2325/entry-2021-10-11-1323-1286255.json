@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107081583431037585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286255,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://ruby.social/@andy_twosticks\" class=\"u-url\">@<span>andy_twosticks</span></a></span> Something like <a href=\"https://www.hillcroftsupplies.com/userfiles/products/o_2859-1.jpg\"><span>https://www.</span><span>hillcroftsupplies.com/userfile</span><span>s/products/o_2859-1.jpg</span></a> ?</p>",
+      "text": "@andy_twosticks Something like https://www.hillcroftsupplies.com/userfiles/products/o_2859-1.jpg ?"
+    },
+    "published": "2021-10-11T06:54:54",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081583431037585",
+    "wm-target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-11T07:45:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081583431037585",
+  "target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+  "private": false
+}
