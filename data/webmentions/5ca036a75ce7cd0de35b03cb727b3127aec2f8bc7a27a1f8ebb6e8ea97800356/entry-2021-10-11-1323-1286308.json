@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1447461183313879042#favorited-by-27227212",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286308,
+    "author": {
+      "url": "https://twitter.com/Argorak",
+      "name": "Florian Gilcher ∠(・.-)―〉 →◎",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acdb70ae080d353922c7e9ce1969949b436b02b5a09b57644a298649629f3d7a.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1447461183313879042/27227212",
+    "wm-target": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-11T10:00:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1447461183313879042/27227212",
+  "target": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+  "private": false
+}
