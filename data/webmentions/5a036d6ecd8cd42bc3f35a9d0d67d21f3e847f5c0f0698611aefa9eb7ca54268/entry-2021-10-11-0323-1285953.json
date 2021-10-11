@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107078980067600184#favorited-by-333",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285953,
+    "author": {
+      "url": "https://cybre.space/@jollysea",
+      "name": "joël",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2970bf4677aacce5dd8ff5fa3b1ea36430e3d15e07adb22c25914a4283261048.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107078980067600184/333",
+    "wm-target": "https://bascht.com/posts/2021/10/10/bascht-forgot-the-photo-%EF%BE%890%EF%BE%89/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-10T20:28:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107078980067600184/333",
+  "target": "https://bascht.com/posts/2021/10/10/bascht-forgot-the-photo-%EF%BE%890%EF%BE%89/",
+  "private": false
+}
