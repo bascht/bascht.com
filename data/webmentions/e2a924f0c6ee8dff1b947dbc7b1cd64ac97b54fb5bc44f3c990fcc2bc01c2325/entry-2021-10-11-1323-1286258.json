@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://ruby.social/@andy_twosticks/107081519252686356",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286258,
+    "author": {
+      "url": "https://ruby.social/@andy_twosticks",
+      "name": "Andy Jones",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d976aafefc38369441397f08d84e8dc2fb360acab9ca461a6e145a5c2370966.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Sterilising solution.  In the UK you can buy this wherever you'd buy home brewing stuff.</p>",
+      "text": "@bascht Sterilising solution.  In the UK you can buy this wherever you'd buy home brewing stuff."
+    },
+    "published": "2021-10-11T06:38:34",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081519261165733",
+    "wm-target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-11T07:45:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081519261165733",
+  "target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+  "private": false
+}
