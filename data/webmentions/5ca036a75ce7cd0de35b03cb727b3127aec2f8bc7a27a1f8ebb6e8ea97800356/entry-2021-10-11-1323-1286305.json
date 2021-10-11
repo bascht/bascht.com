@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/HagenSchendel/status/1447465181429252100",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286305,
+    "author": {
+      "url": "https://twitter.com/HagenSchendel",
+      "name": "Hagen Schendel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/016242f9c8bc98159d9e27a0cab5fda35f89000ad9b7366f3f9337c249bf1e39.jpg"
+    },
+    "content": {
+      "html": "Das Standardverfahren sieht glaube ich vor, dass er selbst Lobbyist wird und im Telefonbuch des Nachfolgers ganz oben steht.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Das Standardverfahren sieht glaube ich vor, dass er selbst Lobbyist wird und im Telefonbuch des Nachfolgers ganz oben steht."
+    },
+    "published": "2021-10-11T07:32:46+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1447461183313879042/1447465181429252100",
+    "wm-target": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-11T10:00:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1447461183313879042/1447465181429252100",
+  "target": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+  "private": false
+}
