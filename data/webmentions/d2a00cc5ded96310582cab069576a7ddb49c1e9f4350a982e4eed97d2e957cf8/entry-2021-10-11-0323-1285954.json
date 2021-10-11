@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107078980067600184",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285954,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Forgot the photo (ﾉ*0*)ﾉ</p>",
+      "text": "Forgot the photo (ﾉ*0*)ﾉ"
+    },
+    "published": "2021-10-10T19:52:49",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107078319435689738/107078980067600184",
+    "wm-target": "https://bascht.com/posts/2021/10/10/rievkooche/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/10/rievkooche/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-10T20:28:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107078319435689738/107078980067600184",
+  "target": "https://bascht.com/posts/2021/10/10/rievkooche/",
+  "private": false
+}
