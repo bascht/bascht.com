@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://distrotoot.com/@JerryRiggs/107081611858048908",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286256,
+    "author": {
+      "url": "https://distrotoot.com/@JerryRiggs",
+      "name": "Virtual Friend",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0ed264f8e6e67d73c79acbafa52e6e6517f135d91fbd01acbb48513877147e75.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> they make special chemicals, but if you wanna go more natural use lemon and salt, and a little boiling hott water and swish it around</p>",
+      "text": "@bascht they make special chemicals, but if you wanna go more natural use lemon and salt, and a little boiling hott water and swish it around"
+    },
+    "published": "2021-10-11T07:02:07",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081611913847818",
+    "wm-target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-11T07:45:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081611913847818",
+  "target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+  "private": false
+}
