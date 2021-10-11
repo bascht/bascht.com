@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107078980067600184#favorited-by-7025",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1285980,
+    "author": {
+      "url": "https://norden.social/@Ed_auf_Crack",
+      "name": "Ed auf Crack",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/bd881962c7231aedcba02e49ad40589f61aa7fd90e988c5e1385a5a340610fa5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107078980067600184/7025",
+    "wm-target": "https://bascht.com/posts/2021/10/10/bascht-forgot-the-photo-%EF%BE%890%EF%BE%89/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-10T22:31:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107078980067600184/7025",
+  "target": "https://bascht.com/posts/2021/10/10/bascht-forgot-the-photo-%EF%BE%890%EF%BE%89/",
+  "private": false
+}
