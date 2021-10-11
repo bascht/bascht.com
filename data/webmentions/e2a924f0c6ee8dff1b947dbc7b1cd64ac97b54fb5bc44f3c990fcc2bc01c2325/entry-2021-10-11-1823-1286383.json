@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pieville.net/@harrison_partch/107083298419243106",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286383,
+    "author": {
+      "url": "https://pieville.net/@harrison_partch",
+      "name": "Billy Bottlepossum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3fcbdcfc161c2784739ed34264f52ae40c4152e2947350971a1e3a63b98671a2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Like the stain of sin, these can never be washed away by human toil.</p>",
+      "text": "@bascht Like the stain of sin, these can never be washed away by human toil."
+    },
+    "published": "2021-10-11T14:11:02",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107083298451452282",
+    "wm-target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-11T14:33:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107083298451452282",
+  "target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+  "private": false
+}
