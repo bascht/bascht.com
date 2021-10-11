@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@TauAs/107081514077456371",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286259,
+    "author": {
+      "url": "https://mastodon.social/@TauAs",
+      "name": "Žygimantas \"RGB\" Tauras",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/19a7420929ae80d5359f5e5fefd8a7541a1160222afb7d115b13a493abaa765c.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> with sponge and soup I guess</p>",
+      "text": "@bascht with sponge and soup I guess"
+    },
+    "published": "2021-10-11T06:37:15",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081514092873722",
+    "wm-target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-11T07:46:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107081494240486846/107081514092873722",
+  "target": "https://bascht.com/posts/2021/10/11/how-do-you-get-rid-of-coffee-stains-in-a/",
+  "private": false
+}
