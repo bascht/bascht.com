@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tom_duessel/status/1447792822162165764",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1286768,
+    "author": {
+      "url": "https://twitter.com/tom_duessel",
+      "name": "Tomtom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad3c3857212d229476790e8607448618ffa41e3f02a0496d32a8db0e38634a8a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn so ein CDU-ler sein Mandat abgibt, wer kriegt dann seine Lobbyisten?"
+    },
+    "published": "2021-10-12T05:14:42+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1447461183313879042/1447792822162165764",
+    "wm-target": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-10-12T05:50:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1447461183313879042/1447792822162165764",
+  "target": "https://bascht.com/posts/2021/10/11/wenn-so-ein-cdu-ler-sein-mandat-abgibt/",
+  "private": false
+}
