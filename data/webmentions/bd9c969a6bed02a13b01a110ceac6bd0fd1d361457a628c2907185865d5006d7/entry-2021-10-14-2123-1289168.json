@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107099797462072932#favorited-by-70775",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1289168,
+    "author": {
+      "url": "https://mstdn.social/@ern",
+      "name": "ern@mstdn.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b96a0b61e501c1d583ac8b71e89c8da6c99231280f02f877a5df30cbf0d29947.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107099797462072932/70775",
+    "wm-target": "https://bascht.com/posts/2021/10/14/bascht-the-new-android-clock-app-look/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-14T13:30:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107099797462072932/70775",
+  "target": "https://bascht.com/posts/2021/10/14/bascht-the-new-android-clock-app-look/",
+  "private": false
+}
