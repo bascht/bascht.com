@@ -1,7 +1,6 @@
 ---
 title: "Vermietung"
 permalink: 'rent-a-bascht.html'
-menu: main
 weight: -120
 ---
 Mich kann man zwar nicht kaufen, aber wenn ihr an spannenden Projekten rund

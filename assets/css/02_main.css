@@ -181,7 +181,7 @@ nav a:hover {
         float: left;
         /* width: 15%; */
         margin: 0 0.7%;
-        padding: 5px 1%;
+        padding: 5px 5%;
         margin-bottom: 0;
     }
 
@@ -229,7 +229,7 @@ nav a:hover {
 
     nav {
         float: right;
-        min-width: 370px;
+        min-width: 350px;
         margin-top: 4em;
     }
 
