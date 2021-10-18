@@ -9,7 +9,9 @@
       <li>Xing: <a href="https://www.xing.com/profile/Sebastian_Schulze10/N52.057a44">Sebastian Schulze</a></li>
     </ul>
     <div class="view-source">
-        <a href="https://github.com/bascht/bascht.com/tree/bascht.com/content/{{.Page.File.Path}}">Source-Code</a> und <a href="https://github.com/bascht/bascht.com/commits/bascht.com/content/{{.Page.File.Path}}">History</a> dieser Seite
+      {{ with .Page.File }}
+        <a href="https://github.com/bascht/bascht.com/tree/bascht.com/content/{{.Path}}">Source-Code</a> und <a href="https://github.com/bascht/bascht.com/commits/bascht.com/content/{{.Path}}">History</a> dieser Seite
+      {{ end }}
     </div>
   </footer>
 </div>
