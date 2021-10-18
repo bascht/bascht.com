@@ -10,6 +10,10 @@ PygmentsCodeFences = true
 SectionPagesMenu = "main"
 
 
+[languages]
+[languages.de]
+[languages.en]
+
 [params]
 locale = "de-DE"
 description = "Baschts home on the interwebs."
