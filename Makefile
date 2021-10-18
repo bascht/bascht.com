@@ -4,12 +4,16 @@ HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hu
 
 default: hugo clean public
 
-hugo_is_installed:
 
-hugo: hugo_is_installed
+hugo:
+	TMPDIR := $(shell mktemp -d)
+	pushd $TMPDIR
 	curl -L $(HUGO_URL) > ./hugo.tar.gz
 	tar -xvf hugo.tar.gz
-	rm -f LICENSE.md
+	popd
+	mv $TMPDIR/hugo .
+	rm -rf $TMPDIR
+
 preview: hugo
 	./hugo server
 public:
