@@ -6,7 +6,9 @@
     <article>
       <div class="post-content">
           <p><iframe src="{{ .Params.original_url }}" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
-{{ .Params.text  }}
+
+          ♥ einen Song: <em>{{ .Title }}</em>.
+
         <hr/>
         via <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
       </div>
@@ -16,7 +18,7 @@
       <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
       <h4>Tags</h4> {{ partial "tags.html" . }}
       <hr/>
-      📂 <a href="/tech/">Tech-Archive</a>
+      📂 <a href="/posts/spotify/like/">Alle Spotify Likes</a>
     </aside>
   </div>
   {{ partial "pager.html" . }}
