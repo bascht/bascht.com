@@ -161,6 +161,24 @@ article.summary a.anchor {
     text-decoration: none;
 }
 
+article div.post-meta {
+    color: #bbb;
+}
+article div.post-meta a {
+    text-decoration: none;
+    color: inherit;
+}
+
+article div.post-meta span.social_logo {
+    color: #bbb;
+    fill: #bbb;
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 0.2em;
+    vertical-align: top;
+    display: inline-block;
+}
+
 .stream {
     /* width: 80%; */
     /* min-width: 10%; */
@@ -178,7 +196,7 @@ article.summary a.anchor {
     text-decoration: none;
     color: inherit;
     /* border: 2px solid red; */
-    height: 100%;
+    /* height: 100%; */
     width: 100%;
     display: block;
 }
