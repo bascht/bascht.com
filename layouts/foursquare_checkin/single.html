@@ -7,15 +7,17 @@
       <div class="post-content">
         Swarm check-in at {{ .Params.text }}
         <hr/>
-        Originally posted to <a href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
+      </div>
+      <div class="post-meta">
+        <a href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
+        <a href="{{ .Permalink }}">{{.Date.Format "2006-01-02" }}</a>&middot;
+        {{ if .Params.location_latitude }}
+        <a href="https://www.openstreetmap.org/search?query={{.Params.location_latitude }},{{.Params.location_longitude }}">🌐</a>
+        {{ end }}
+        {{ partial "tags.html" . }}
+        <div><a href="/posts/foursquare/">/posts/foursquare/</a></div>
       </div>
     </article>
-    <aside>
-      <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
-      <h4>Tags</h4> {{ partial "tags.html" . }}
-      <hr/>
-      📂 <a href="/posts/">See all posts</a>
-    </aside>
   </div>
   {{ partial "pager.html" . }}
   {{ partial "footer.html" . }}

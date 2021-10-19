@@ -2,36 +2,35 @@
 <body>
   {{ partial "navbar.html" . }}
   <div class="main wrapper clearfix">
-    <h1>Tweet from {{ .Date.Format "January, 02th 2006" }}</h1>
     <article>
       <div class="post-content">
           <blockquote class="twitter-tweet">
-              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>&mdash; Bascht (@bascht)
+              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
+              {{ if .Params.media_url }}
+              <div class="post-content e-content">
+                <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+              </div>
+              {{ end }}
           </blockquote>
       </div>
-      {{ if .Params.media_url }}
-      <div class="post-content e-content">
-          <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+      <div class="post-meta">
+        <a href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
+        <a href="{{ .Permalink }}">{{.Date.Format "2006-01-02" }}</a>&middot;
+        {{ partial "tags.html" . }}
+        <div><a href="/posts/twitter/">/posts/twitter/</a></div>
       </div>
-      {{ end }}
-      Originally posted to <a href="{{ default .Params.original_url .Params.src }}">{{ default .Params.original_url .Params.src }}</a>
       {{ partial "webmentions.html" . }}
       {{ $related := .Site.RegularPages.Related . | first 5 }}
       {{ with $related }}
-      <h3>Ähnliche Beiträge</h3>
+      <details open=""><summary><h3>Ähnliche Beiträge</h3></summary>
       <ul>
 	        {{ range . }}
 	        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 	        {{ end }}
       </ul>
       {{ end }}
+      </details>
     </article>
-    <aside>
-      <h4>Posted</h4> {{ .Date.Format "January, 02th 2006" }}
-      <h4>Tags</h4> {{ partial "tags.html" . }}
-      <hr/>
-      📂 <a href="/tech/">Tech-Archive</a>
-    </aside>
   </div>
   {{ partial "pager.html" . }}
   {{ partial "footer.html" . }}

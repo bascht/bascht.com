@@ -3,7 +3,8 @@
   <div class="pager">
     <span class="prev">
       {{if .PrevInSection}}
-      <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a>
+    <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}{{ if .PrevInSection.Params.media_url }}<p><img src="https://img.bascht.com/proxy/80,webp/{{ .PrevInSection.Params.media_url }}" alt="Image attached to Tweet"></p>{{ end }}
+      </a>
       ↢
       {{end}}
     </span>
@@ -11,7 +12,8 @@
     <span class="next">
       {{if .NextInSection}}
       ↣
-      <a class="next" href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a>
+      <a class="next" href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}
+    {{ if .NextInSection.Params.media_url }}<p><img src="https://img.bascht.com/proxy/80,webp/{{ .NextInSection.Params.media_url }}" alt="Image attached to Tweet"></p>{{ end }}</a>
     </span>
     {{end}}
   </div>

@@ -9,7 +9,15 @@
                 {{ if .Params.text }}
                 <p>{{ .Params.text | markdownify }}</p>
                 {{ end }}
-                <small>Originally posted to <a class="u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a></small>
+      <div class="post-meta">
+        <a href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
+        <a href="{{ .Permalink }}">{{.Date.Format "2006-01-02" }}</a>&middot;
+        {{ if .Params.location_latitude }}
+        <a href="https://www.openstreetmap.org/search?query={{.Params.location_latitude }},{{.Params.location_longitude }}">🌐</a>
+        {{ end }}
+        {{ partial "tags.html" . }}
+        <div><a href="/posts/pixelfed/">/posts/pixelfed/</a></div>
+      </div>
             </div>
             <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
             <a class="p-author h-card hidden" href="https://bascht.com"><img class="u-photo hidden" src="/images/bascht.jpg"/>Bascht</a>
@@ -24,12 +32,6 @@
             </ul>
             {{ end }}
         </article>
-        <aside>
-            <h4>Posted</h4> <span class="dt-published">{{ .Date.Format "January, 02th 2006" }}</span>
-            <h4>Tags</h4> {{ partial "tags.html" . }}
-            <hr/>
-            <a href="/posts/instagram/">Instagram Archive</a>
-        </aside>
     </div>
     {{ partial "pager.html" . }}
     {{ partial "footer.html" . }}
