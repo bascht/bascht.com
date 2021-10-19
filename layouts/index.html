@@ -21,7 +21,7 @@
                 {{ $array := slice "twitter_tweet" "pixelfed_image" "foursquare_checkin" }}
                 {{ range $type := $array }}
                 {{ range first 1 (where site.Pages "Params.type" $type).ByDate.Reverse }}
-                <li><a href="{{.Permalink}}">{{partial "social_logo" . }}{{ .Title }}</a> <small>{{.Date.Format "2006-01-01" }}</small></li>
+                <li><a href="{{.Permalink}}">{{partial "social_logo" . }}{{ .Title }}</a> <small>{{.Date.Format "2006-01-02" }}</small></li>
                 {{ end }}
                 {{ end }}
             </ul>
