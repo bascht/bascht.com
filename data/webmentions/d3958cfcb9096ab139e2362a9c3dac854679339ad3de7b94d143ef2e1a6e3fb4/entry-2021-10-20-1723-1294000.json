@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/hoodie_de/status/1450142535687487490",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294000,
+    "author": {
+      "url": "https://twitter.com/hoodie_de",
+      "name": "hoodie ❤️💀🤖",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b2b3bcbd1fdc827fc47e27faa22ba3cd321ecc22a8b63c475d286da63d8ea839.png"
+    },
+    "content": {
+      "html": "Da ist alles doppelt drin\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Da ist alles doppelt drin"
+    },
+    "published": "2021-10-18T16:51:37+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1450141959880912904/1450142535687487490",
+    "wm-target": "https://bascht.com/posts/2021/10/18/jetzt-genug-salz-chef-nein-mehr/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/18/jetzt-genug-salz-chef-nein-mehr/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-20T14:17:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1450141959880912904/1450142535687487490",
+  "target": "https://bascht.com/posts/2021/10/18/jetzt-genug-salz-chef-nein-mehr/",
+  "private": false
+}
