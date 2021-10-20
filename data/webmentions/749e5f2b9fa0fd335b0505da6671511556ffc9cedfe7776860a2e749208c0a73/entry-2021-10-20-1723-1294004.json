@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1450144347085758467",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294004,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Soße war trotzdem lexer.\n<a class=\"u-mention\" href=\"https://twitter.com/yetzt\"></a>",
+      "text": "Soße war trotzdem lexer."
+    },
+    "published": "2021-10-18T16:58:49+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1450143453107691522/1450144347085758467",
+    "wm-target": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-20T14:17:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1450143453107691522/1450144347085758467",
+  "target": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+  "private": false
+}
