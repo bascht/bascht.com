@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1450143453107691522#favorited-by-1879351",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294003,
+    "author": {
+      "url": "https://twitter.com/LeahNeukirchen",
+      "name": "Leah Neukirchen 🎃 Co_2",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f75ea8f65413c54f6cd1ae1c4d0da5d45809967150000c7925feaf3ff40ff6d8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1450143453107691522/1879351",
+    "wm-target": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-20T14:17:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1450143453107691522/1879351",
+  "target": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+  "private": false
+}
