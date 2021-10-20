@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1450157446895390725",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1293999,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c41c58014ea0ab9ed73d92c4ae7b32b53154eeec9c6df527241064815940d96a.jpg"
+    },
+    "content": {
+      "html": "Ich glaub das is noch zu wenig, oder <a href=\"https://twitter.com/langziehohr\">@langziehohr</a>?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich glaub das is noch zu wenig, oder @langziehohr?"
+    },
+    "published": "2021-10-18T17:50:52+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1450141959880912904/1450157446895390725",
+    "wm-target": "https://bascht.com/posts/2021/10/18/jetzt-genug-salz-chef-nein-mehr/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/18/jetzt-genug-salz-chef-nein-mehr/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-20T14:17:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1450141959880912904/1450157446895390725",
+  "target": "https://bascht.com/posts/2021/10/18/jetzt-genug-salz-chef-nein-mehr/",
+  "private": false
+}
