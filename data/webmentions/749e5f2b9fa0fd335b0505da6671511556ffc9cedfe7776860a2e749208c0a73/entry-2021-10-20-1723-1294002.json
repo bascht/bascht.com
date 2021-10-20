@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1450143453107691522#favorited-by-156344404",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294002,
+    "author": {
+      "url": "https://twitter.com/ho1ger",
+      "name": "Holger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/18f77e5e4f01e93a0148f25d6d018dbdeccddd81dd4b40f38d4c98e31076330b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1450143453107691522/156344404",
+    "wm-target": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-20T14:17:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1450143453107691522/156344404",
+  "target": "https://bascht.com/posts/2021/10/18/shit.-klammerfehler-meinerseits.-http/",
+  "private": false
+}
