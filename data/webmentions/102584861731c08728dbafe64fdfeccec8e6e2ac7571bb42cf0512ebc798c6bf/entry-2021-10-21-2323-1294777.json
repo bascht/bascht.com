@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107140490562368940#favorited-by-50663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294777,
+    "author": {
+      "url": "https://noagendasocial.com/@JP",
+      "name": "JP",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f20c20060c2a5332a2586115070ee2a6d564f75f0245a8dd01826a079284b9e5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107140490562368940/50663",
+    "wm-target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-21T19:50:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107140490562368940/50663",
+  "target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+  "private": false
+}
