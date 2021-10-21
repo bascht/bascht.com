@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107140490562368940#reblogged-by-5754",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294774,
+    "author": {
+      "url": "https://chaos.social/@necrosis",
+      "name": "R0byn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/effddab8f96178db4530576d4337ce27b9140883af6b6612aacf7e3875589d95.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107140490562368940/5754",
+    "wm-target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-10-21T19:50:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107140490562368940/5754",
+  "target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+  "private": false
+}
