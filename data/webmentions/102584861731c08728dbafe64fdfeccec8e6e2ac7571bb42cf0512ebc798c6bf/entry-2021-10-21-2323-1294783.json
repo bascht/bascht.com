@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@vfrmedia/107140536057801696",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294783,
+    "author": {
+      "url": "https://social.tchncs.de/@vfrmedia",
+      "name": "Alex@rtnVFRmedia Suffolk UK",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0c0e93d5e036d2854acb90670b0d23362b971361d4b64394d9a265a3970ac216.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> </p><p>(Klavierwagen aus Helsinki, Finland)</p>",
+      "text": "@bascht (Klavierwagen aus Helsinki, Finland)"
+    },
+    "published": "2021-10-21T16:47:19",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107140490562368940/107140536132971118",
+    "wm-target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-21T19:50:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107140490562368940/107140536132971118",
+  "target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+  "private": false
+}
