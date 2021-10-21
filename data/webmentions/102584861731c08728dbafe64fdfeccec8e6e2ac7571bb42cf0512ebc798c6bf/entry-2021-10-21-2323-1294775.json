@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107140490562368940#reblogged-by-11730",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1294775,
+    "author": {
+      "url": "https://mastodontech.de/@kranfahrer",
+      "name": "Kranfahrer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ba23718404330054159e46f99ddfde5c06ddc7304265aaaf47169bcffb6cc5ef.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107140490562368940/11730",
+    "wm-target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-10-21T19:50:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107140490562368940/11730",
+  "target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+  "private": false
+}
