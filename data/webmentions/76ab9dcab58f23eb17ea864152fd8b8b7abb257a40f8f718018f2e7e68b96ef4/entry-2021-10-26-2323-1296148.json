@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@vanitasvitae/107165319093580176",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1296148,
+    "author": {
+      "url": "https://fosstodon.org/@vanitasvitae",
+      "name": "Vanitasvitae :xmpp:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/077605112de2df45536e603c10436efbb3dc01d9c079447d9e1f1ee782218f8b.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> James Hoffman sparked my addiction :O</p>",
+      "text": "@bascht James Hoffman sparked my addiction :O"
+    },
+    "published": "2021-10-26T01:49:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107164089943744841/107165319279372056",
+    "wm-target": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-26T20:22:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107164089943744841/107165319279372056",
+  "target": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+  "private": false
+}
