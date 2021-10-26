@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107164089943744841#favorited-by-526",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1296145,
+    "author": {
+      "url": "https://chaos.social/@kde",
+      "name": "Simon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/41fc7364cb7ff3ec47b281f032dad01692fe18384fdbadff8e2a364f1e90ff9e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107164089943744841/526",
+    "wm-target": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-26T20:22:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107164089943744841/526",
+  "target": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+  "private": false
+}
