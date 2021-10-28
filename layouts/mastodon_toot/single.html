@@ -4,14 +4,18 @@
   <div class="main wrapper clearfix">
     <article>
       <div class="post-content">
-          <blockquote class="mastodon-toot">
-              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
-              {{ if .Params.media_url }}
+        {{ if .Params.media_url }}
+          <div class="mastodon-toot">
+              <p lang="de" dir="ltr"><h3>{{ .Params.text | markdownify }}</h3></p>
               <div class="post-content e-content">
                   <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
               </div>
-              {{ end }}
+          </div>
+          {{ else }}
+          <blockquote class="mastodon-toot">
+              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
           </blockquote>
+          {{ end }}
       </div>
       <div class="post-meta">
         <a href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
