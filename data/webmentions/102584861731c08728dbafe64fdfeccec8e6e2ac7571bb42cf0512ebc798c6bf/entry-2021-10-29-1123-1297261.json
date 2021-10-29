@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1453817184262701069#favorited-by-14627332",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1297261,
+    "author": {
+      "url": "https://twitter.com/e2b",
+      "name": "Benedict 🥨🕵️‍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eef2c638f383f4e3976830e54fca5a3a2eba7eb714c7cae902c6c174ca12464f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1453817184262701069/14627332",
+    "wm-target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-29T04:01:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1453817184262701069/14627332",
+  "target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+  "private": false
+}
