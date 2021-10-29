@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/107180553283250490",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1297250,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Eh! Morgen ist doch erst Pizza Freitag!</p>",
+      "text": "@bascht Eh! Morgen ist doch erst Pizza Freitag!"
+    },
+    "published": "2021-10-28T18:24:14",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107180288760813838/107180553290431416",
+    "wm-target": "https://bascht.com/posts/2021/10/28/bascht-amazing-pies-though-3/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/28/bascht-amazing-pies-though-3/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-29T02:37:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107180288760813838/107180553290431416",
+  "target": "https://bascht.com/posts/2021/10/28/bascht-amazing-pies-though-3/",
+  "private": false
+}
