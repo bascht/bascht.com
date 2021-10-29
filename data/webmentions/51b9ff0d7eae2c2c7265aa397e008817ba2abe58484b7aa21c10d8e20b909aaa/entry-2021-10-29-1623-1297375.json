@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/107184415749635173",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1297375,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Perhaps the USB Implementers Forum can't be trusted with designing them either.</p>",
+      "text": "@bascht Perhaps the USB Implementers Forum can't be trusted with designing them either."
+    },
+    "published": "2021-10-29T10:46:30",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107184297525014572/107184415757089755",
+    "wm-target": "https://bascht.com/posts/2021/10/29/bascht-i-cant-be-trusted-with-consum/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/29/bascht-i-cant-be-trusted-with-consum/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-10-29T13:14:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107184297525014572/107184415757089755",
+  "target": "https://bascht.com/posts/2021/10/29/bascht-i-cant-be-trusted-with-consum/",
+  "private": false
+}
