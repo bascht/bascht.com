@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107180288760813838#favorited-by-64329",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1297253,
+    "author": {
+      "url": "https://troet.cafe/@Bilma",
+      "name": "Josefine",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/eb45f2a7bd81f9c370b53ece029c11a00c4263b211b451fc0b835980c111bb2b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107180288760813838/64329",
+    "wm-target": "https://bascht.com/posts/2021/10/28/bascht-amazing-pies-though-3/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-29T02:37:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107180288760813838/64329",
+  "target": "https://bascht.com/posts/2021/10/28/bascht-amazing-pies-though-3/",
+  "private": false
+}
