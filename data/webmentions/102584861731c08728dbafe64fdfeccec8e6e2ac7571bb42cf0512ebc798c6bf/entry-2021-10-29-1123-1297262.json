@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1453818047857364998",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1297262,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Mastodon Toot: bascht: “FAHRE…”… • bascht.com/posts/2021/10/…"
+    },
+    "published": "2021-10-28T20:16:47+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/baschtdotcom/1453817184262701069/1453818047857364998",
+    "wm-target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-10-29T04:01:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/baschtdotcom/1453817184262701069/1453818047857364998",
+  "target": "https://bascht.com/posts/2021/10/21/bascht-fahre/",
+  "private": false
+}
