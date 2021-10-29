@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107180277898289056#favorited-by-3037",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1297248,
+    "author": {
+      "url": "https://likeable.space/users/tastytea",
+      "name": "tastytea :chick_tea_grumpy:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/71cb5b4648766235b0a02cc9cfb81275cfd9aa344636992c7a4ccf51a24c836c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107180277898289056/3037",
+    "wm-target": "https://bascht.com/posts/2021/10/28/easy-reminder-that-the-pizza-oven-has-re/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-10-29T02:37:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107180277898289056/3037",
+  "target": "https://bascht.com/posts/2021/10/28/easy-reminder-that-the-pizza-oven-has-re/",
+  "private": false
+}
