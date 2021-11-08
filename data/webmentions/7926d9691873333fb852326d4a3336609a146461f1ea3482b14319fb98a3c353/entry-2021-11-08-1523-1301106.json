@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1456297550122717195#favorited-by-54228441",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301106,
+    "author": {
+      "url": "https://twitter.com/sergei_p",
+      "name": "Sergei Pachtchenko",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/661070989f50b2da259387141e10b882c02513bb3394abc176d8b8c9a92f29be.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1456297550122717195/54228441",
+    "wm-target": "https://bascht.com/posts/2021/11/04/software-consulting-im-lustigen-taschenb/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-08T10:47:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1456297550122717195/54228441",
+  "target": "https://bascht.com/posts/2021/11/04/software-consulting-im-lustigen-taschenb/",
+  "private": false
+}
