@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1457452205997498377#favorited-by-28079700",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301080,
+    "author": {
+      "url": "https://twitter.com/tom_duessel",
+      "name": "Tomtom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad3c3857212d229476790e8607448618ffa41e3f02a0496d32a8db0e38634a8a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1457452205997498377/28079700",
+    "wm-target": "https://bascht.com/posts/2021/11/07/und-wenn-gr%C3%BCne-und-die-bahn-einfach-vorh/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-08T09:25:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1457452205997498377/28079700",
+  "target": "https://bascht.com/posts/2021/11/07/und-wenn-gr%C3%BCne-und-die-bahn-einfach-vorh/",
+  "private": false
+}
