@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1457611025151311872#favorited-by-271632563",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301192,
+    "author": {
+      "url": "https://twitter.com/studio_thomsta",
+      "name": "Thomas Stangneth 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2eeed4b270cc7667fe11baa7d908d7d1083f168e40f4c613cbc8b3278e01b5fd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1457611025151311872/271632563",
+    "wm-target": "https://bascht.com/posts/2021/11/08/2g-sonst-gibts-tunke-aufs-schnitzel-ht/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-08T16:23:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1457611025151311872/271632563",
+  "target": "https://bascht.com/posts/2021/11/08/2g-sonst-gibts-tunke-aufs-schnitzel-ht/",
+  "private": false
+}
