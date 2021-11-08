@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ChristianKuehn/status/1454043462580441094",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301077,
+    "author": {
+      "url": "https://twitter.com/ChristianKuehn",
+      "name": "Christian Kühn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0388282a3ba906ef4a1e6adeca7037215625b59215dc7a477d6c665e5550c7ad.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "2021 in a nutshell."
+    },
+    "published": "2021-10-29T11:12:30+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1454043124645384197/1454043462580441094",
+    "wm-target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-11-08T09:25:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1454043124645384197/1454043462580441094",
+  "target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+  "private": false
+}
