@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fubits/status/1456342872987521027",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301078,
+    "author": {
+      "url": "https://twitter.com/fubits",
+      "name": "Ilja | Илья",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/43b9242d60f80bb82d8b06510b7fc2a73226d4b5b80cb463cd0c6a345e89da1d.jpg"
+    },
+    "content": {
+      "html": "Also mindestens 2 Monate\nvia <a href=\"https://twitter.com/benfooben\">@benfooben</a>\n\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2021/11/04/software-consulting-im-lustigen-taschenb/\"></a>",
+      "text": "Also mindestens 2 Monate\nvia @benfooben"
+    },
+    "published": "2021-11-04T19:29:33+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1456342872987521027",
+    "wm-target": "https://bascht.com/posts/2021/11/04/software-consulting-im-lustigen-taschenb/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-11-08T09:25:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1456342872987521027",
+  "target": "https://bascht.com/posts/2021/11/04/software-consulting-im-lustigen-taschenb/",
+  "private": false
+}
