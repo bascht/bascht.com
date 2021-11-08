@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/jens1o/status/1456211100425461768",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301076,
+    "author": {
+      "url": "https://twitter.com/jens1o",
+      "name": "Jens",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/38a304291de3bd277e0f9b7147ed563e4b8625aae4b0b2cd57bc6f76edc19c3c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "2021 in a nutshell."
+    },
+    "published": "2021-11-04T10:45:56+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1454043124645384197/1456211100425461768",
+    "wm-target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-11-08T09:25:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1454043124645384197/1456211100425461768",
+  "target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+  "private": false
+}
