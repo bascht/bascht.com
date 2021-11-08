@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1455241029913829381",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301061,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Twitter hatte leider nur 4 Slots, probiere ich dann morgen noch mal. :D War bis ca. 2012 O2 Kunde und am Ende so gar nicht mit dem Service zufrieden. Hat sich ja vielleicht gebessert.\n<a class=\"u-mention\" href=\"https://twitter.com/coffeemicha\"></a>",
+      "text": "Twitter hatte leider nur 4 Slots, probiere ich dann morgen noch mal. :D War bis ca. 2012 O2 Kunde und am Ende so gar nicht mit dem Service zufrieden. Hat sich ja vielleicht gebessert."
+    },
+    "published": "2021-11-01T18:31:13+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1455220531205128203/1455241029913829381",
+    "wm-target": "https://bascht.com/posts/2021/11/01/vielleicht-lohnt-sich-ja-doch-ein-wechse/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/01/vielleicht-lohnt-sich-ja-doch-ein-wechse/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-08T09:25:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1455220531205128203/1455241029913829381",
+  "target": "https://bascht.com/posts/2021/11/01/vielleicht-lohnt-sich-ja-doch-ein-wechse/",
+  "private": false
+}
