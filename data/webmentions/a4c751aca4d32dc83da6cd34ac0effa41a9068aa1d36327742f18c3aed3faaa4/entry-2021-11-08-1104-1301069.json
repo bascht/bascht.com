@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1454043124645384197#favorited-by-28508951",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301069,
+    "author": {
+      "url": "https://twitter.com/moonbeamlabs",
+      "name": "Lucas Dohmen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/37012803ec21102120567424fff36f6a9df0620ad054e515c218d20823794cd9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1454043124645384197/28508951",
+    "wm-target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-08T09:25:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1454043124645384197/28508951",
+  "target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+  "private": false
+}
