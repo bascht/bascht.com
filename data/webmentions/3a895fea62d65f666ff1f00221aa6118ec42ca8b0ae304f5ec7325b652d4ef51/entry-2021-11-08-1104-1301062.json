@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/klaustopher/status/1455840310181961741",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1301062,
+    "author": {
+      "url": "https://twitter.com/klaustopher",
+      "name": "Klaus Zanders",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/93fe90661ba54c6754ebcfb5e8eacc00ca82016b562977be4cdedfac58a15116.jpg"
+    },
+    "content": {
+      "html": "Siehe <a href=\"https://en.wikipedia.org/wiki/E-UTRA#User_Equipment_(UE)_categories\">en.wikipedia.org/wiki/E-UTRA#Us…</a>\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Siehe en.wikipedia.org/wiki/E-UTRA#Us…"
+    },
+    "published": "2021-11-03T10:12:32+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1455220531205128203/1455840310181961741",
+    "wm-target": "https://bascht.com/posts/2021/11/01/vielleicht-lohnt-sich-ja-doch-ein-wechse/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/01/vielleicht-lohnt-sich-ja-doch-ein-wechse/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-08T09:25:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1455220531205128203/1455840310181961741",
+  "target": "https://bascht.com/posts/2021/11/01/vielleicht-lohnt-sich-ja-doch-ein-wechse/",
+  "private": false
+}
