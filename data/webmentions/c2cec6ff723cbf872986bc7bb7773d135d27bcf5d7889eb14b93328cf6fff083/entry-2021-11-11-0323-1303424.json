@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1453653614564716544#favorited-by-14627332",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303424,
+    "author": {
+      "url": "https://twitter.com/e2b",
+      "name": "Benedict 🥨🕵️‍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eef2c638f383f4e3976830e54fca5a3a2eba7eb714c7cae902c6c174ca12464f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1453653614564716544/14627332",
+    "wm-target": "https://bascht.com/posts/2021/10/28/das-macht-selbst-libert%C3%A4re-f%C3%BCr-einen-ku/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1453653614564716544/14627332",
+  "target": "https://bascht.com/posts/2021/10/28/das-macht-selbst-libert%C3%A4re-f%C3%BCr-einen-ku/",
+  "private": false
+}
