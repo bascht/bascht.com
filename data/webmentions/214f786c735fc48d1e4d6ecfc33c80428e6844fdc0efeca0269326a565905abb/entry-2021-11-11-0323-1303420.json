@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1452901861913137157#favorited-by-16015765",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303420,
+    "author": {
+      "url": "https://twitter.com/Onkelhotte",
+      "name": "Klaus Meyer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8218b60691a569402dc6906a5ab4a3a741dec4789b610c1595074b2296b730d8.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1452901861913137157/16015765",
+    "wm-target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1452901861913137157/16015765",
+  "target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+  "private": false
+}
