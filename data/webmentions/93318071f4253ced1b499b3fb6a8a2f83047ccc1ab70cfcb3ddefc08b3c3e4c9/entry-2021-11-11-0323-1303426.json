@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/larsvegas/status/1453824441482416129",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303426,
+    "author": {
+      "url": "https://twitter.com/larsvegas",
+      "name": "larsvegas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c88aa6abf2ea8a638383ca272a232618f9ca2ff9770c73711864a9f8aad0852.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Falls ihr schon immer mal hyper-komplexe Brettspiele erklärt bekommt haben wolltet: Der @code_later erklärt gerade Twilight Imperium twitch.tv/the_boardgame_…"
+    },
+    "published": "2021-10-28T20:42:12+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1453817915082424324/1453824441482416129",
+    "wm-target": "https://bascht.com/posts/2021/10/28/falls-ihr-schon-immer-mal-hyper-komplexe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-11-10T22:33:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1453817915082424324/1453824441482416129",
+  "target": "https://bascht.com/posts/2021/10/28/falls-ihr-schon-immer-mal-hyper-komplexe/",
+  "private": false
+}
