@@ -1,5 +1,8 @@
 <a class="u-url summary" href="{{.Permalink}}">
     <h2 class="p-name">{{ partial "social_logo" . }}{{.Title}}</h2>
-    
+    {{ if .Params.location_latitude }}
+    <p><img alt="Map of the linked location" src="https://img.bascht.com/proxy/300,webp/https://maps.bascht.space/img.php?basemap=stamen-toner-lite&width=300&height=300&zoom=12&longitude={{.Params.location_longitude }}&latitude={{.Params.location_latitude }}"/>
+      </p>
+    {{- end -}}
   <small>{{ .Date.Format "January, 02th 2006" }}</small>
 </a>

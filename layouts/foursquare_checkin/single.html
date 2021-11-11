@@ -6,6 +6,10 @@
     <article>
       <div class="post-content">
         Swarm check-in at {{ .Params.text }}
+        {{ if .Params.location_latitude }}
+        <a href="https://www.openstreetmap.org/search?query={{.Params.location_latitude }},{{.Params.location_longitude }}">🌐</a>
+        <img src="https://maps.bascht.space/img.php?basemap=stamen-toner-lite&width=800&height=500&zoom=12&longitude={{.Params.location_longitude }}&latitude={{.Params.location_latitude }}&marker[]=lng:{{.Params.location_longitude }};lat:{{.Params.location_latitude }};icon:dot-small-blue"/>
+        {{- end -}}
         <hr/>
       </div>
       <div class="post-meta">
