@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1452901861913137157#favorited-by-334768270",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303422,
+    "author": {
+      "url": "https://twitter.com/PragTob",
+      "name": "Tobias Pfeiffer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1dea0451a2f4757575ba20bcdc34a7b425b1cf64b938f66b92809f4962b247ff.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1452901861913137157/334768270",
+    "wm-target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1452901861913137157/334768270",
+  "target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+  "private": false
+}
