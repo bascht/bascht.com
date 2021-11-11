@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1452901861913137157#favorited-by-1101804759676317696",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303410,
+    "author": {
+      "url": "https://twitter.com/nanomite_de",
+      "name": "nanomite",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a0ac6ae29c02eea99b440e9fc4c98c7330c02fbf9b88a1375d4b63b6bef31cb8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1452901861913137157/1101804759676317696",
+    "wm-target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1452901861913137157/1101804759676317696",
+  "target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+  "private": false
+}
