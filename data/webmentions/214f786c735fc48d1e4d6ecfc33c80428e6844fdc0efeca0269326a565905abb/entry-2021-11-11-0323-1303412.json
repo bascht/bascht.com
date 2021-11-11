@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1452901861913137157#favorited-by-138540427",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303412,
+    "author": {
+      "url": "https://twitter.com/dim0x69",
+      "name": "Dimitrios Slamaris",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4f85eafa9876931dd9b64258d94b8247943b2231d7d2f6b91a5126fd12ff7286.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1452901861913137157/138540427",
+    "wm-target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1452901861913137157/138540427",
+  "target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+  "private": false
+}
