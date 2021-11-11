@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1452901861913137157#favorited-by-947757876805885956",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303419,
+    "author": {
+      "url": "https://twitter.com/quark_im_kopf",
+      "name": "M | ☎ 6757",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b5742aa2cc4a4ed3a5e521d3e6df9dcbfe1d858da94d9d0ce54f8e42a68420f9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1452901861913137157/947757876805885956",
+    "wm-target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1452901861913137157/947757876805885956",
+  "target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+  "private": false
+}
