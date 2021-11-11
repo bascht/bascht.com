@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1453817915082424324#favorited-by-15155639",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303428,
+    "author": {
+      "url": "https://twitter.com/larsvegas",
+      "name": "larsvegas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c88aa6abf2ea8a638383ca272a232618f9ca2ff9770c73711864a9f8aad0852.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1453817915082424324/15155639",
+    "wm-target": "https://bascht.com/posts/2021/10/28/falls-ihr-schon-immer-mal-hyper-komplexe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:34:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1453817915082424324/15155639",
+  "target": "https://bascht.com/posts/2021/10/28/falls-ihr-schon-immer-mal-hyper-komplexe/",
+  "private": false
+}
