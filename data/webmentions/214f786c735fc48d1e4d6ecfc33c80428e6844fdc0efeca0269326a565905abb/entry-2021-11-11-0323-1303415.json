@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1452901861913137157#favorited-by-1339970604",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303415,
+    "author": {
+      "url": "https://twitter.com/LetsGamePlay_HD",
+      "name": "🏳️‍🌈 Satoshi (LGP HD) (5G) 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a00e733ff09e63f71b43566573f73b340967501b47623cd38186f200e39677f4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1452901861913137157/1339970604",
+    "wm-target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-10T22:33:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1452901861913137157/1339970604",
+  "target": "https://bascht.com/posts/2021/10/26/gute-nachrichten-f%C3%BCr-alle-bayrischen-nod/",
+  "private": false
+}
