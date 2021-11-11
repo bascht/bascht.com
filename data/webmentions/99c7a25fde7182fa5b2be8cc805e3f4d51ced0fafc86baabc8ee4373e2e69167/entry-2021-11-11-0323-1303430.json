@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/der_kronn/status/1454513372679057414",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1303430,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": "Rahmen dran lassen. Aber ich bin selten ein Maßstab...\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Rahmen dran lassen. Aber ich bin selten ein Maßstab..."
+    },
+    "published": "2021-10-30T18:19:46+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1453827472403881984/1454513372679057414",
+    "wm-target": "https://bascht.com/posts/2021/10/28/so-nebeneinander-rahmen-weg-oder-rahme/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/28/so-nebeneinander-rahmen-weg-oder-rahme/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-10T22:34:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1453827472403881984/1454513372679057414",
+  "target": "https://bascht.com/posts/2021/10/28/so-nebeneinander-rahmen-weg-oder-rahme/",
+  "private": false
+}
