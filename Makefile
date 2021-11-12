@@ -1,18 +1,15 @@
-HUGO_VERSION="0.89.2"
-HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz"
-
+SHELL := /usr/bin/env bash
+HUGO_VERSION := "0.89.2"
+HUGO_URL := "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz"
 
 default: hugo clean public
 
-
 hugo:
-	TMPDIR := $(shell mktemp -d)
-	pushd $TMPDIR
-	curl -L $(HUGO_URL) > ./hugo.tar.gz
-	tar -xvf hugo.tar.gz
-	popd
-	mv $TMPDIR/hugo .
-	rm -rf $TMPDIR
+	$(eval TMPDIR:= $(shell mktemp -d))
+	echo $(TMPDIR)
+	curl -L $(HUGO_URL) -o $(TMPDIR)/hugo.tar.gz
+	tar -xvf $(TMPDIR)/hugo.tar.gz hugo
+	rm -rf $(TMPDIR)
 
 preview: hugo
 	./hugo server
