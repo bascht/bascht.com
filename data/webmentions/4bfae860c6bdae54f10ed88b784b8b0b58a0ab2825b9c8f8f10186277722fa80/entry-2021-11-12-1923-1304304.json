@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107264126413014397#reblogged-by-74658",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304304,
+    "author": {
+      "url": "https://floss.social/@ernie",
+      "name": "ernie@floss.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c89f6387fd05efdf92395822fda4098e6c77b34bfbbf42f35df30c516afd928f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107264126413014397/74658",
+    "wm-target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-11-12T14:17:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107264126413014397/74658",
+  "target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+  "private": false
+}
