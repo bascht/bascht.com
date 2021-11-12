@@ -16,3 +16,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/tech/taking-forestry-for-a-spin.md
