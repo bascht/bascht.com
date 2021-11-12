@@ -9,6 +9,8 @@ pygmentsStyle = "monokai"
 PygmentsCodeFences = true
 SectionPagesMenu = "main"
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [languages]
 [languages.de]
@@ -30,15 +32,15 @@ tag = "tags"
 [[menu.main]]
 name = "Blog"
 weight = -100
-url = "/blog/"
+pageref = "/blog/"
 identifier = "blog"
 [[menu.main]]
 name = "Tech"
 weight = -90
-url = "/tech/"
+pageref = "/tech/"
 identifier = "tech"
 [[menu.main]]
 name = "Posts"
 identifier = "posts"
 weight = -95
-url = "/posts/"
+pageref = "/posts/"
