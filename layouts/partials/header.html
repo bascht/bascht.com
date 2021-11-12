@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ .Title }}</title>
-  {{.Content}}
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description | plainify | chomp}}{{end}}" />
 
   <link rel="preload" href="{{ .Site.BaseURL }}fonts/woff/roboto_slab.woff" as="font" type="font/woff2" crossorigin>
