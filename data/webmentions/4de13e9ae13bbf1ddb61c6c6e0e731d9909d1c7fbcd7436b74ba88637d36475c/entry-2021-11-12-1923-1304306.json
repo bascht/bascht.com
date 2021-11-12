@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://uberspace.social/@ubernauten/107263211290888102",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304306,
+    "author": {
+      "url": "https://uberspace.social/@ubernauten",
+      "name": "uberspace.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8e2b227eeb54c517efa2227351d45bcf46822c7cda1bd1679659312f5ecc7793.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <span class=\"h-card\"><a href=\"https://geekcompass.com/@jan\" class=\"u-url\">@<span>jan</span></a></span> <span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> 😍</p>",
+      "text": "@bascht @jan @aaronpk 😍"
+    },
+    "published": "2021-11-12T08:45:15",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107260229696410652/107263211337835902",
+    "wm-target": "https://bascht.com/posts/2021/11/11/thanks-to-jan-for-the-hint-to-aaronpk/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/11/thanks-to-jan-for-the-hint-to-aaronpk/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-12T14:18:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107260229696410652/107263211337835902",
+  "target": "https://bascht.com/posts/2021/11/11/thanks-to-jan-for-the-hint-to-aaronpk/",
+  "private": false
+}
