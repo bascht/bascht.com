@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ .Title }}</title>
-  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+  {{.Content}}
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description | plainify | chomp}}{{end}}" />
 
   <link rel="preload" href="{{ .Site.BaseURL }}fonts/woff/roboto_slab.woff" as="font" type="font/woff2" crossorigin>
   {{ $css := resources.Match "css/**.css" | resources.Concat "combined.css" | minify | fingerprint -}}
@@ -27,8 +28,7 @@
   <link rel="feed" type="text/html" title="My Foursquare Checkins" href="{{ .Site.BaseURL }}posts/foursquare/checkin/" />
   <link rel="feed" type="text/html" title="My Pinboard Pins" href="{{ .Site.BaseURL }}posts/pinboard/" />
 
-  {{ template "_internal/twitter_cards.html" . -}}
-  {{ template "_internal/opengraph.html" . -}}
+  {{ template "_meta_cards.html" . -}}
   <link rel="icon" href="/favicon.ico" />
   
   {{ range .AlternativeOutputFormats -}}
