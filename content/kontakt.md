@@ -20,8 +20,8 @@ Snail-Mail, Abmahnungen & Papierpost an:
 
 ## Kontakt
 
-**E-Mail:** mail<small>at</small>bascht<small>punkt</small>com<br/>
-**Jabber:** bascht<small>at</small>yakshed<small>punkt</small>org<br/>
+**E-Mail:** `mail` *at* `bascht` *punkt* `com` \
+**Jabber:** `bascht` *at* `yakshed` *punkt* `org` \
 **Telefon:** +49 37421 649656 <small>(IP Telefonnummer, ihr landet
 auf einer Mailbox & ich rufe zurück)</small>
 
