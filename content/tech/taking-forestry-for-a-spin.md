@@ -7,7 +7,6 @@ tags:
 - static
 - cms
 - forestry
-draft: true
 
 ---
 Stumbled upon [https://forestry.io/](https://forestry.io/ "https://forestry.io/") and this looks like a neat way to update your static site on-the-go. It seems to be tailored towards Hugo and other SSGs and comes with support for front matter as well as section-specific templates.
