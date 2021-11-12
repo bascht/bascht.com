@@ -1,4 +1,4 @@
-HUGO_VERSION="0.88.1"
+HUGO_VERSION="0.89.2"
 HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz"
 
 
