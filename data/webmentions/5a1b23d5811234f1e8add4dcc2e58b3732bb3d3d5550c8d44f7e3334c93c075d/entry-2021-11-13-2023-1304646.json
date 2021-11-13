@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107269854169030489#favorited-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304646,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107269854169030489/1375",
+    "wm-target": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-13T17:41:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107269854169030489/1375",
+  "target": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+  "private": false
+}
