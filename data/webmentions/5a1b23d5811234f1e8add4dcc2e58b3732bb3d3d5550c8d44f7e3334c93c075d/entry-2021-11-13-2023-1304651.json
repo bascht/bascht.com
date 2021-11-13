@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@pascoda/107269920303867900",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304651,
+    "author": {
+      "url": "https://chaos.social/@pascoda",
+      "name": "pascoda | BLM | 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/438d7cede340428efb258eab9fe308c7f1c31e4ae510b4340ae9ff8937baab51.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <br />damn, that looks deliciouuuuus</p>",
+      "text": "@bascht \ndamn, that looks deliciouuuuus"
+    },
+    "published": "2021-11-13T13:11:26",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107269854169030489/107269920312306013",
+    "wm-target": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-13T17:41:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107269854169030489/107269920312306013",
+  "target": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+  "private": false
+}
