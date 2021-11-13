@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1459097859299680257#favorited-by-18428375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304524,
+    "author": {
+      "url": "https://twitter.com/jeeger",
+      "name": "Männer, die auf Folien starren",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f26c76b30b5940e534d7550feff44ab61858f71c07348593d23966871c4cd5c0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1459097859299680257/18428375",
+    "wm-target": "https://bascht.com/posts/2021/11/12/l%C3%B6sungsmittelorientiertes-arbeiten./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-13T05:14:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1459097859299680257/18428375",
+  "target": "https://bascht.com/posts/2021/11/12/l%C3%B6sungsmittelorientiertes-arbeiten./",
+  "private": false
+}
