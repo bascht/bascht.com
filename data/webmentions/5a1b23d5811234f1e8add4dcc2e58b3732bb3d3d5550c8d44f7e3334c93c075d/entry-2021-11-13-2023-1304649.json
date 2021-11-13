@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107269854169030489#favorited-by-74658",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304649,
+    "author": {
+      "url": "https://floss.social/@ernie",
+      "name": "ernie@floss.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c89f6387fd05efdf92395822fda4098e6c77b34bfbbf42f35df30c516afd928f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107269854169030489/74658",
+    "wm-target": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-13T17:41:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107269854169030489/74658",
+  "target": "https://bascht.com/posts/2021/11/13/bascht-garlic-fries/",
+  "private": false
+}
