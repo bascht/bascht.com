@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1459101106802466816",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304525,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Stellt sich heraus, meine Twitter-Preview-Bilder waren kaputt weil die Bilder scheinbar zu groß waren.\n\nJetzt wieder alles in voller Farbe &amp; mit Bild:\n<a href=\"https://bascht.com/posts/2021/11/11/abbruch/\">bascht.com/posts/2021/11/…</a>",
+      "text": "Stellt sich heraus, meine Twitter-Preview-Bilder waren kaputt weil die Bilder scheinbar zu groß waren.\n\nJetzt wieder alles in voller Farbe & mit Bild:\nbascht.com/posts/2021/11/…"
+    },
+    "published": "2021-11-12T10:09:47+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1459101106802466816",
+    "wm-target": "https://bascht.com/posts/2021/11/11/abbruch/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-11-13T05:14:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1459101106802466816",
+  "target": "https://bascht.com/posts/2021/11/11/abbruch/",
+  "private": false
+}
