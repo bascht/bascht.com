@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107264126413014397#favorited-by-10478",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304983,
+    "author": {
+      "url": "https://digitalcourage.social/@c",
+      "name": "M-x spook",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/cfa40dbcee5e120cc93737c67f15027508b64f23d492e350fae40e56c2ab0470.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107264126413014397/10478",
+    "wm-target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-15T10:38:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107264126413014397/10478",
+  "target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+  "private": false
+}
