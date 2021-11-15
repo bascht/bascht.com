@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://digitalcourage.social/@c/107280480904900611",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304982,
+    "author": {
+      "url": "https://digitalcourage.social/@c",
+      "name": "M-x spook",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/cfa40dbcee5e120cc93737c67f15027508b64f23d492e350fae40e56c2ab0470.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> </p><p>Indeed! MetaGer's international version has improved recently, too: <a href=\"https://metager.org/\"><span>https://</span><span>metager.org/</span><span></span></a></p>\n<a class=\"u-mention\" href=\"https://metager.de/\"></a>\n<a href=\"https://metager.org/\">MetaGer: Privacy Protected Search &amp; Find</a>",
+      "text": "@bascht Indeed! MetaGer's international version has improved recently, too: https://metager.org/\n\nMetaGer: Privacy Protected Search & Find"
+    },
+    "published": "2021-11-15T09:57:08",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107264126413014397/107280481248993798",
+    "wm-target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-15T10:38:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107264126413014397/107280481248993798",
+  "target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+  "private": false
+}
