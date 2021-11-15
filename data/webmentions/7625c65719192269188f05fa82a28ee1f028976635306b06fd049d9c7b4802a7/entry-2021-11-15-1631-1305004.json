@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@bekopharm/107280669142925738",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1305004,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dbe9aa52c39f0b0c9c23b79544293bd132e8520563681166fe75ce78eddf0f49.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> ich sehe du nutzt deine Mailbox auch als Ablage für alles xD</p>",
+      "text": "@bascht ich sehe du nutzt deine Mailbox auch als Ablage für alles xD"
+    },
+    "published": "2021-11-15T10:45:00",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107280454511087500/107280669153435682",
+    "wm-target": "https://bascht.com/posts/2021/11/15/bascht-upgrading-to-mu-1.6-seems-to-m/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/bascht-upgrading-to-mu-1.6-seems-to-m/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-15T11:50:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107280454511087500/107280669153435682",
+  "target": "https://bascht.com/posts/2021/11/15/bascht-upgrading-to-mu-1.6-seems-to-m/",
+  "private": false
+}
