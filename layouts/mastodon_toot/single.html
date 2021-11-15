@@ -8,7 +8,11 @@
           <div class="mastodon-toot">
               <p lang="de" dir="ltr"><h3>{{ .Params.text | markdownify }}</h3></p>
               <div class="post-content e-content">
-                  <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+                {{ if strings.HasSuffix .Params.media_url ".mp4" -}}
+                <video autoplay="autoplay" controls="controls" src="{{ .Params.media_url }}"></video>
+                {{ else if .Params.media_url -}}
+                <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+                {{end}}
               </div>
           </div>
           {{ else }}

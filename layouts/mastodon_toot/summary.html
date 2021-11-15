@@ -1,6 +1,9 @@
 <a class="u-url mastodon_toot" href="{{.Permalink}}">
     <h2 class="p-name">{{ partial "social_logo" . }} {{.Title}}</h2>
-    {{ if .Params.media_url }}<p><img src="https://img.bascht.com/proxy/300,400,sc/{{ .Params.media_url }}" alt="Image attached to Toot"></p>{{ end }}
+    {{ if strings.HasSuffix .Params.media_url ".mp4" -}}
+    <video src="{{ .Params.media_url }}"></video>
+    {{ else if .Params.media_url -}}
+    <p><img src="https://img.bascht.com/proxy/300,400,sc/{{ .Params.media_url }}" alt="Image attached to Toot"></p>{{ end }}
     <small>{{ .Date.Format "January, 02th 2006" }}</small>
 </a>
 <a class="hidden u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
