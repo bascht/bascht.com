@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1459864983915970560#favorited-by-18652297",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304921,
+    "author": {
+      "url": "https://twitter.com/Geekfried",
+      "name": "Geekfried™",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5e1ccec4eed0b4fff343188c9caa11a31de93515961af02ec46cb935f89a5fdc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1459864983915970560/18652297",
+    "wm-target": "https://bascht.com/posts/2021/11/14/kostenlose-burgertests-w%C3%A4ren-aber-auch-s/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-15T03:11:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1459864983915970560/18652297",
+  "target": "https://bascht.com/posts/2021/11/14/kostenlose-burgertests-w%C3%A4ren-aber-auch-s/",
+  "private": false
+}
