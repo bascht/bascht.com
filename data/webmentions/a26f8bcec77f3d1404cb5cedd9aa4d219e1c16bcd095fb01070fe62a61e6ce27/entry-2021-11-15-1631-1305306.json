@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1460228161908756481#favorited-by-574023889",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1305306,
+    "author": {
+      "url": "https://twitter.com/DaveWeasel",
+      "name": "dave weasel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd86ab902452e5029f80aab15e23693153755981402c44349ff10e28fb9fd30f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1460228161908756481/574023889",
+    "wm-target": "https://bascht.com/posts/2021/11/15/lt3-https/t.co/oqflgta7h5/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-15T15:22:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1460228161908756481/574023889",
+  "target": "https://bascht.com/posts/2021/11/15/lt3-https/t.co/oqflgta7h5/",
+  "private": false
+}
