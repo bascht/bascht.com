@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1460228161908756481",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1305282,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Tweet: 🇮🇸 &lt;3 <a href=\"https://www.youtube.com/watch?v=enMwwQy_noI\">youtube.com/watch?v=enMwwQ…</a>… • <a href=\"https://bascht.com/posts/2021/11/15/lt3-https/t.co/oqflgta7h5/\">bascht.com/posts/2021/11/…</a>",
+      "text": "Tweet: 🇮🇸 <3 youtube.com/watch?v=enMwwQ…… • bascht.com/posts/2021/11/…"
+    },
+    "published": "2021-11-15T12:48:18+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1460228161908756481",
+    "wm-target": "https://bascht.com/posts/2021/11/15/lt3-https/t.co/oqflgta7h5/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-11-15T14:20:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1460228161908756481",
+  "target": "https://bascht.com/posts/2021/11/15/lt3-https/t.co/oqflgta7h5/",
+  "private": false
+}
