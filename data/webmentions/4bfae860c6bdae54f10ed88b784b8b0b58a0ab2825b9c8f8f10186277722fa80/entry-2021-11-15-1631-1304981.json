@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107280499059870011",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1304981,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://digitalcourage.social/@c\" class=\"u-url\">@<span>c</span></a></span> Highly unscientific, but I *think* I am getting results about as good as from DDG, so I might actually switch to it as my default search engine. 🙂</p>\n<a class=\"u-mention\" href=\"https://metager.de/\"></a>",
+      "text": "@c Highly unscientific, but I *think* I am getting results about as good as from DDG, so I might actually switch to it as my default search engine. 🙂"
+    },
+    "published": "2021-11-15T10:01:45",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107264126413014397/107280499059870011",
+    "wm-target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-15T10:38:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107264126413014397/107280499059870011",
+  "target": "https://bascht.com/posts/2021/11/12/metager-https/metager.de-looks-neat/",
+  "private": false
+}
