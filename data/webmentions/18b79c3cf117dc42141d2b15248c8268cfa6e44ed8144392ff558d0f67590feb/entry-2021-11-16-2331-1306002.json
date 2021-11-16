@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107288955236803073#favorited-by-10162",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306002,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "totoroot",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107288955236803073/10162",
+    "wm-target": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-16T22:30:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107288955236803073/10162",
+  "target": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+  "private": false
+}
