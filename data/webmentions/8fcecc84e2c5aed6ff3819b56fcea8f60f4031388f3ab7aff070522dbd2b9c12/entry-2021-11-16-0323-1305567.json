@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1459864983915970560#favorited-by-43961444",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1305567,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1459864983915970560/43961444",
+    "wm-target": "https://bascht.com/posts/2021/11/14/kostenlose-burgertests-w%C3%A4ren-aber-auch-s/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-15T22:01:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1459864983915970560/43961444",
+  "target": "https://bascht.com/posts/2021/11/14/kostenlose-burgertests-w%C3%A4ren-aber-auch-s/",
+  "private": false
+}
