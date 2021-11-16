@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107166223106963382",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306005,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@vanitasvitae\" class=\"u-url\">@<span>vanitasvitae</span></a></span> yesss. It was a costly channel to subscribe to :D</p>",
+      "text": "@vanitasvitae yesss. It was a costly channel to subscribe to :D"
+    },
+    "published": "2021-10-26T05:39:53",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107164089943744841/107166223106963382",
+    "wm-target": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-16T22:31:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107164089943744841/107166223106963382",
+  "target": "https://bascht.com/posts/2021/10/25/james-i-have-no-beef-with-aldi-hoffman/",
+  "private": false
+}
