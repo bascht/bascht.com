@@ -4,8 +4,9 @@
   <div class="main wrapper clearfix">
     <article class="h-entry">
       <div class="post-content">
+        <div class="p-name hidden">Tweet from {{.Date.Format "2006-01-02 15:04 MST" }}</div>
         {{ if .Params.media_url }}
-          <div class="p-name twitter-tweet">
+          <div class="twitter-tweet">
               <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
               <div class="post-content e-content">
                 <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
