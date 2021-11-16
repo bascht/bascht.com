@@ -5,7 +5,7 @@
     <article class="h-entry">
       <div class="post-content">
         {{ if .Params.media_url }}
-          <div class="twitter-tweet">
+          <div class="p-name twitter-tweet">
               <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
               <div class="post-content e-content">
                 <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
@@ -18,8 +18,9 @@
           {{ end }}
       </div>
       <div class="post-meta">
+        <a rel="author" class="p-author hidden h-card" href="https://bascht.com">Bascht</a>
         <a class="u-syndication" href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
-        <a href="{{ .Permalink }}">{{.Date.Format "2006-01-02" }}</a>&middot;
+        <a class="u-url" href="{{ .Permalink }}"><time class="dt-published" datetime="{{.Date.Format "2006-01-02" }}">{{.Date.Format "2006-01-02" }}</time></a>&middot;
         {{ partial "tags.html" . }}
         <div><a href="/posts/twitter/">/posts/twitter/</a></div>
       </div>
