@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@MacLemon/107288973720337854",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306003,
+    "author": {
+      "url": "https://chaos.social/@MacLemon",
+      "name": "MacLemon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8428a26b193c3b9fe0dd9133d2af971a388a1848d9c9c18d568ce71703ac6b41.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Paws also work with fingerprint detectors.</p>",
+      "text": "@bascht Paws also work with fingerprint detectors."
+    },
+    "published": "2021-11-16T21:56:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107288955236803073/107288973729359350",
+    "wm-target": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-16T22:30:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107288955236803073/107288973729359350",
+  "target": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+  "private": false
+}
