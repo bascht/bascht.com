@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107281792756358857",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306004,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@bekopharm\" class=\"u-url\">@<span>bekopharm</span></a></span> Vielleicht® :D</p>",
+      "text": "@bekopharm Vielleicht® :D"
+    },
+    "published": "2021-11-15T15:30:45",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107280454511087500/107281792756358857",
+    "wm-target": "https://bascht.com/posts/2021/11/15/bascht-upgrading-to-mu-1.6-seems-to-m/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/bascht-upgrading-to-mu-1.6-seems-to-m/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-16T22:30:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107280454511087500/107281792756358857",
+  "target": "https://bascht.com/posts/2021/11/15/bascht-upgrading-to-mu-1.6-seems-to-m/",
+  "private": false
+}
