@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1454043124645384197#favorited-by-161285019",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306012,
+    "author": {
+      "url": "https://twitter.com/kjedamzik",
+      "name": "Kofi Jedamzik",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/73302753c520779689e39e16b51f618f83268a49e48a0d71e23a5cae726c2a0a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1454043124645384197/161285019",
+    "wm-target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-16T23:01:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1454043124645384197/161285019",
+  "target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+  "private": false
+}
