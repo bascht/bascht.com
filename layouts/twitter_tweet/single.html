@@ -18,7 +18,7 @@
           {{ end }}
       </div>
       <div class="post-meta">
-        <a href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
+        <a class="u-syndication" href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
         <a href="{{ .Permalink }}">{{.Date.Format "2006-01-02" }}</a>&middot;
         {{ partial "tags.html" . }}
         <div><a href="/posts/twitter/">/posts/twitter/</a></div>
