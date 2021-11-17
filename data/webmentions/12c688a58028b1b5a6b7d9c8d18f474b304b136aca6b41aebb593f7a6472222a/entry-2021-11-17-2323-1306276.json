@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/wurstsalat/status/1460324999752032259",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306276,
+    "author": {
+      "url": "https://twitter.com/wurstsalat",
+      "name": "Christian Heckelmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/77323b95fae83bc1cda1920b9c1c978897240e6052a99897ff93564782abcc63.jpg"
+    },
+    "content": {
+      "html": "Am Kran? Ist als Hinweis für Flugobjekte wie Helis gedacht damit sie nicht dagegen klatschen.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Am Kran? Ist als Hinweis für Flugobjekte wie Helis gedacht damit sie nicht dagegen klatschen."
+    },
+    "published": "2021-11-15T19:13:06+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460324999752032259",
+    "wm-target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T20:35:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460324999752032259",
+  "target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+  "private": false
+}
