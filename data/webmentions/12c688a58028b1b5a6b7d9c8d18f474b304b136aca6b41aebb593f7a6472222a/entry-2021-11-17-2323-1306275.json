@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/gldsmrs/status/1460355595542880260",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306275,
+    "author": {
+      "url": "https://twitter.com/gldsmrs",
+      "name": "gil",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4800e9ac1c64e5127e8bf34b2545fdd631d97cae45e8f02e4f59be337448b73c.jpg"
+    },
+    "content": {
+      "html": "Nicht verifizert: das grüne Licht gibt an, dass der Kran in Windfrei gestellt ist <a href=\"https://de.wikipedia.org/wiki/Windfrei?wprov=sfti1\">de.wikipedia.org/wiki/Windfrei?…</a>\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bitboxer\"></a>",
+      "text": "Nicht verifizert: das grüne Licht gibt an, dass der Kran in Windfrei gestellt ist de.wikipedia.org/wiki/Windfrei?…"
+    },
+    "published": "2021-11-15T21:14:40+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460355595542880260",
+    "wm-target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T20:35:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460355595542880260",
+  "target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+  "private": false
+}
