@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.cat/@Gregor/107289500668624742",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306021,
+    "author": {
+      "url": "https://toot.cat/@Gregor",
+      "name": "Gregor🦄✔",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2e5b5345bc45ecb0c73a2df720916657b2b84a45de41c1025390b54aa428cbb7.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> a cat wrote this. And I know how they got into the account ...</p>",
+      "text": "@bascht a cat wrote this. And I know how they got into the account ..."
+    },
+    "published": "2021-11-17T00:10:59",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107288796330359025/107289500707254120",
+    "wm-target": "https://bascht.com/posts/2021/11/16/til-cat-paws-are-conductive-enough-to-t/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/16/til-cat-paws-are-conductive-enough-to-t/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T00:38:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107288796330359025/107289500707254120",
+  "target": "https://bascht.com/posts/2021/11/16/til-cat-paws-are-conductive-enough-to-t/",
+  "private": false
+}
