@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107288955236803073#favorited-by-18054",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306024,
+    "author": {
+      "url": "https://troet.cafe/@sny",
+      "name": "▫️ 𝘀𝗡𝘆🦎▫️🔸▫️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/03fb793ee34976bb3123e51bf0a74ce857d9122ccb4995e7c5faa3f8d59ad973.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107288955236803073/18054",
+    "wm-target": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-17T00:39:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107288955236803073/18054",
+  "target": "https://bascht.com/posts/2021/11/16/one-time-pawswords/",
+  "private": false
+}
