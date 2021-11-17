@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107289141627532367",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306025,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@MacLemon\" class=\"u-url\">@<span>MacLemon</span></a></span> &lt;3 omg</p>",
+      "text": "@MacLemon <3 omg"
+    },
+    "published": "2021-11-16T22:39:40",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107288796330359025/107289141627532367",
+    "wm-target": "https://bascht.com/posts/2021/11/16/til-cat-paws-are-conductive-enough-to-t/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/16/til-cat-paws-are-conductive-enough-to-t/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T00:39:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107288796330359025/107289141627532367",
+  "target": "https://bascht.com/posts/2021/11/16/til-cat-paws-are-conductive-enough-to-t/",
+  "private": false
+}
