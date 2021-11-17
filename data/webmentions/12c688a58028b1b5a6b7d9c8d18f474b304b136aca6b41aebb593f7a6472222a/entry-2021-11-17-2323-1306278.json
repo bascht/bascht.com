@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/wurstsalat/status/1460325972251709454",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306278,
+    "author": {
+      "url": "https://twitter.com/wurstsalat",
+      "name": "Christian Heckelmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/77323b95fae83bc1cda1920b9c1c978897240e6052a99897ff93564782abcc63.jpg"
+    },
+    "content": {
+      "html": "Ach shit soweit ums eck hab ich auch nimmer gedacht 😂\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ach shit soweit ums eck hab ich auch nimmer gedacht 😂"
+    },
+    "published": "2021-11-15T19:16:57+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460325972251709454",
+    "wm-target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T20:36:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460325972251709454",
+  "target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+  "private": false
+}
