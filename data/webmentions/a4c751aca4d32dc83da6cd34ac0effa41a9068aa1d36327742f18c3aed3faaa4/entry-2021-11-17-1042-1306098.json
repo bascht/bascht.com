@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1454043124645384197#favorited-by-8489592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306098,
+    "author": {
+      "url": "https://twitter.com/annismckenzie",
+      "name": "Daniel Lohse",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea9851a358351daec7cc4b97cd70f496c22323f39805d87e3e31ce8ce2e0350b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1454043124645384197/8489592",
+    "wm-target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-17T09:20:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1454043124645384197/8489592",
+  "target": "https://bascht.com/posts/2021/10/29/2021-in-a-nutshell.-https/t.co/dx6971i/",
+  "private": false
+}
