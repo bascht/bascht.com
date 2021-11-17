@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/e2b/status/1460291639491108875",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306272,
+    "author": {
+      "url": "https://twitter.com/e2b",
+      "name": "Benedict 🥨🕵️‍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eef2c638f383f4e3976830e54fca5a3a2eba7eb714c7cae902c6c174ca12464f.jpg"
+    },
+    "content": {
+      "html": "Bei der Seite kam letztens im WLAN die Meldung dass das Portal wegen Wartungsarbeiten momentan nicht verfügbar sei, über das Mobilfunknetz aufgerufen lief sie aber normal. Bisschen wild alles.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Bei der Seite kam letztens im WLAN die Meldung dass das Portal wegen Wartungsarbeiten momentan nicht verfügbar sei, über das Mobilfunknetz aufgerufen lief sie aber normal. Bisschen wild alles."
+    },
+    "published": "2021-11-15T17:00:32+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1460287306426949640/1460291639491108875",
+    "wm-target": "https://bascht.com/posts/2021/11/15/400-booster-not-found-https/t.co/kby1/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/400-booster-not-found-https/t.co/kby1/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T20:35:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1460287306426949640/1460291639491108875",
+  "target": "https://bascht.com/posts/2021/11/15/400-booster-not-found-https/t.co/kby1/",
+  "private": false
+}
