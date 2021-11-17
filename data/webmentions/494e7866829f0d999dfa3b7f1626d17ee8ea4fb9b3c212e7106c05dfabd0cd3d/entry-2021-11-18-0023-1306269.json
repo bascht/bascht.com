@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/der_kronn/status/1460740742746357765",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306269,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": "sind 400er Statuscodes nicht eigentlich klassisches Victimblaming?\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "sind 400er Statuscodes nicht eigentlich klassisches Victimblaming?"
+    },
+    "published": "2021-11-16T22:45:06+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1460287306426949640/1460740742746357765",
+    "wm-target": "https://bascht.com/posts/2021/11/15/400-booster-not-found-https/t.co/kby1/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/400-booster-not-found-https/t.co/kby1/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T20:35:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1460287306426949640/1460740742746357765",
+  "target": "https://bascht.com/posts/2021/11/15/400-booster-not-found-https/t.co/kby1/",
+  "private": false
+}
