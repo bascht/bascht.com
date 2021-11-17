@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1460326187994128388",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306277,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c41c58014ea0ab9ed73d92c4ae7b32b53154eeec9c6df527241064815940d96a.jpg"
+    },
+    "content": {
+      "html": "DAS frag ich mich auch. Alle Kräne hier blinken lustig nach unten hier.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "DAS frag ich mich auch. Alle Kräne hier blinken lustig nach unten hier."
+    },
+    "published": "2021-11-15T19:17:49+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460326187994128388",
+    "wm-target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-17T20:36:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1460323626595627012/1460326187994128388",
+  "target": "https://bascht.com/posts/2021/11/15/was-macht-das-gr%C3%BCne-licht-https/t.co/",
+  "private": false
+}
