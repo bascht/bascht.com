@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1461213849575645186",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306565,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": "<a href=\"https://www.saynotosmokedetectors.com/Saynotonotstabbingyourself.html\">saynotosmokedetectors.com/Saynotonotstab…</a>\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2021/11/17/https/t.co/gg4lbno9jw/\"></a>",
+      "text": "saynotosmokedetectors.com/Saynotonotstab…"
+    },
+    "published": "2021-11-18T06:05:04+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1461213849575645186",
+    "wm-target": "https://bascht.com/posts/2021/11/17/https/t.co/gg4lbno9jw/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-11-18T07:44:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1461213849575645186",
+  "target": "https://bascht.com/posts/2021/11/17/https/t.co/gg4lbno9jw/",
+  "private": false
+}
