@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1461103695165366273#favorited-by-96850673",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1306564,
+    "author": {
+      "url": "https://twitter.com/mivesto",
+      "name": "graste v4.2",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bb155fa75d35594160bc27a819d1b2c6c4022a16152a5bc1ef40eee4f25b6e07.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1461103695165366273/96850673",
+    "wm-target": "https://bascht.com/posts/2021/11/17/https/t.co/gg4lbno9jw/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-18T07:44:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1461103695165366273/96850673",
+  "target": "https://bascht.com/posts/2021/11/17/https/t.co/gg4lbno9jw/",
+  "private": false
+}
