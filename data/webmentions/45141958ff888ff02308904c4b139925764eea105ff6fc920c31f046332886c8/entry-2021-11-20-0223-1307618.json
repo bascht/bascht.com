@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107304834342779172#reblogged-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1307618,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107304834342779172/1375",
+    "wm-target": "https://bascht.com/posts/2021/11/19/bascht-urls-used-to-be-urls-used-to-b/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-11-19T23:02:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107304834342779172/1375",
+  "target": "https://bascht.com/posts/2021/11/19/bascht-urls-used-to-be-urls-used-to-b/",
+  "private": false
+}
