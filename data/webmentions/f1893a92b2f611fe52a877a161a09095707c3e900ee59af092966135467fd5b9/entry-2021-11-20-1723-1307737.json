@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107309595325279259#favorited-by-27524",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1307737,
+    "author": {
+      "url": "https://mastodon.social/@Qwertziop",
+      "name": "Akkikacki",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fcaa9861c2d551f9ff7c437ff2ae6fd12eda9598a2ea493299f5a3350d90a05b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107309595325279259/27524",
+    "wm-target": "https://bascht.com/posts/2021/11/20/bascht-its-that-time-of-the-year-aga/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-20T14:01:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107309595325279259/27524",
+  "target": "https://bascht.com/posts/2021/11/20/bascht-its-that-time-of-the-year-aga/",
+  "private": false
+}
