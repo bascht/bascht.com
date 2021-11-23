@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1462852162820751363#favorited-by-14627332",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1308511,
+    "author": {
+      "url": "https://twitter.com/e2b",
+      "name": "Benedict 🥨🕵️‍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eef2c638f383f4e3976830e54fca5a3a2eba7eb714c7cae902c6c174ca12464f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1462852162820751363/14627332",
+    "wm-target": "https://bascht.com/posts/2021/11/22/%F0%9D%96%AF%CC%B6%F0%9D%97%88%CC%B6%F0%9D%97%90%CC%B6%F0%9D%96%BE%CC%B6%F0%9D%97%8B%CC%B6%F0%9D%97%89%CC%B6%F0%9D%97%88%CC%B6%F0%9D%97%82%CC%B6%F0%9D%97%87%CC%B6%F0%9D%97%8D%CC%B6-papier-ka/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-23T03:20:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1462852162820751363/14627332",
+  "target": "https://bascht.com/posts/2021/11/22/%F0%9D%96%AF%CC%B6%F0%9D%97%88%CC%B6%F0%9D%97%90%CC%B6%F0%9D%96%BE%CC%B6%F0%9D%97%8B%CC%B6%F0%9D%97%89%CC%B6%F0%9D%97%88%CC%B6%F0%9D%97%82%CC%B6%F0%9D%97%87%CC%B6%F0%9D%97%8D%CC%B6-papier-ka/",
+  "private": false
+}
