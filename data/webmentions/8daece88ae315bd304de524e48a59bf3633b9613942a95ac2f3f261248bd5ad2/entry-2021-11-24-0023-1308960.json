@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://pieville.net/@harrison_partch/107328257021720161",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1308960,
+    "author": {
+      "url": "https://pieville.net/@harrison_partch",
+      "name": "Billy Bottlepossum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3fcbdcfc161c2784739ed34264f52ae40c4152e2947350971a1e3a63b98671a2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> ok ok i get it a fox are you sure? ginger cats can sport the same colour. did you see the tail or ears?</p>",
+      "text": "@bascht ok ok i get it a fox are you sure? ginger cats can sport the same colour. did you see the tail or ears?"
+    },
+    "published": "2021-11-23T20:27:14",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107328237586947509/107328257053795834",
+    "wm-target": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-23T22:54:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107328237586947509/107328257053795834",
+  "target": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+  "private": false
+}
