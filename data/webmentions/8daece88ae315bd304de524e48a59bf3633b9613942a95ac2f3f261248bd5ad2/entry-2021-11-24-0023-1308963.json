@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107328332149618281",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1308963,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://pieville.net/@harrison_partch\" class=\"u-url\">@<span>harrison_partch</span></a></span> yip, definitely a fox. Bushy tail and all :) Not that uncommon in my part of Munich. They usually don't show up since my running route is also a popular dog walking spot.</p>",
+      "text": "@harrison_partch yip, definitely a fox. Bushy tail and all :) Not that uncommon in my part of Munich. They usually don't show up since my running route is also a popular dog walking spot."
+    },
+    "published": "2021-11-23T20:46:20",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107328237586947509/107328332149618281",
+    "wm-target": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-11-23T22:54:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107328237586947509/107328332149618281",
+  "target": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+  "private": false
+}
