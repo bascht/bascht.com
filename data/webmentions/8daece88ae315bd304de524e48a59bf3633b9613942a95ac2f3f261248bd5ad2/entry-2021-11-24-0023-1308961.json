@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107328237586947509#favorited-by-3037",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1308961,
+    "author": {
+      "url": "https://likeable.space/users/tastytea",
+      "name": "tastytea :cupoftea2:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/71cb5b4648766235b0a02cc9cfb81275cfd9aa344636992c7a4ccf51a24c836c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107328237586947509/3037",
+    "wm-target": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-23T22:54:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107328237586947509/3037",
+  "target": "https://bascht.com/posts/2021/11/23/saw-a-young-fox-on-tonights-run./",
+  "private": false
+}
