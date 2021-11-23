@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107325178038067804#favorited-by-37933",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1308605,
+    "author": {
+      "url": "https://todon.nl/@schratze",
+      "name": "Schratze :nb_comet:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/99a4937141e07b04f16d62e3399b0dfbca17fd0032277de25cc0b48ef94cd910.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107325178038067804/37933",
+    "wm-target": "https://bascht.com/posts/2021/11/23/bascht-eggs-and-tram/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-11-23T12:42:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107325178038067804/37933",
+  "target": "https://bascht.com/posts/2021/11/23/bascht-eggs-and-tram/",
+  "private": false
+}
