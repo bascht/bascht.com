@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107395715543440859#favorited-by-989",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1313030,
+    "author": {
+      "url": "https://ieji.de/@eichkat3r",
+      "name": "eichkat3r :verified:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/69e2e46b680b804a78dcc428a9a064e32f0acdc689679eeba552319011ef6899.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107395715543440859/989",
+    "wm-target": "https://bascht.com/posts/2021/12/05/devices-with-an-uneven-number-of-batteri/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-05T20:55:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107395715543440859/989",
+  "target": "https://bascht.com/posts/2021/12/05/devices-with-an-uneven-number-of-batteri/",
+  "private": false
+}
