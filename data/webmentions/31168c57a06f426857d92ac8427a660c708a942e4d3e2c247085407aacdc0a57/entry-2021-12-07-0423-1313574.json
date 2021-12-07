@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107401823677980399#favorited-by-66076",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1313574,
+    "author": {
+      "url": "https://nrw.social/@schipplock",
+      "name": "Andreas Schipplock",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ee27544ad9fbc341cd033786c07a46c1e46220b606ee898b787dda414fb46160.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107401823677980399/66076",
+    "wm-target": "https://bascht.com/posts/2021/12/06/bascht-found-an-old-htc-phone-in-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-06T21:40:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107401823677980399/66076",
+  "target": "https://bascht.com/posts/2021/12/06/bascht-found-an-old-htc-phone-in-the/",
+  "private": false
+}
