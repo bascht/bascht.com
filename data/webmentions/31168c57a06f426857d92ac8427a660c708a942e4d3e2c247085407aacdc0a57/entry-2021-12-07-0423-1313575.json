@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107401823677980399#favorited-by-62340",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1313575,
+    "author": {
+      "url": "https://linuxrocks.online/@Linux_in_a_Bit",
+      "name": "Holidays in a Bit 🎄",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1a051753eb1157ecd062c155d5a2a976534b21170e61bd6edbbd68c04cc32328.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107401823677980399/62340",
+    "wm-target": "https://bascht.com/posts/2021/12/06/bascht-found-an-old-htc-phone-in-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-06T21:40:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107401823677980399/62340",
+  "target": "https://bascht.com/posts/2021/12/06/bascht-found-an-old-htc-phone-in-the/",
+  "private": false
+}
