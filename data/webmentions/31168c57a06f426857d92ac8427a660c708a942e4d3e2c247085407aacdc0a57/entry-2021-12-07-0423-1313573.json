@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107401823677980399#favorited-by-246",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1313573,
+    "author": {
+      "url": "https://chaos.social/@crossgolf_rebel",
+      "name": "⛳ rebel 👍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/bd2ce73e16c46c7df32bdde6bd7cad7362eca79f9310c5c2052d86a4aad813c5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107401823677980399/246",
+    "wm-target": "https://bascht.com/posts/2021/12/06/bascht-found-an-old-htc-phone-in-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-06T21:40:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107401823677980399/246",
+  "target": "https://bascht.com/posts/2021/12/06/bascht-found-an-old-htc-phone-in-the/",
+  "private": false
+}
