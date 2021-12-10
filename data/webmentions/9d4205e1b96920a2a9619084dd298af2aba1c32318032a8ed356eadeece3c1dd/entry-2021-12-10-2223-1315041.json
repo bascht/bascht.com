@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1469233423592181762#favorited-by-304451277",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1315041,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus Rebbert @🏡 🦠 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/74a34529e2934c6166156ed8dc5ef846925c9c8d772b693a7e34d535159afe94.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1469233423592181762/304451277",
+    "wm-target": "https://bascht.com/posts/2021/12/10/your-friend-xyz-joined-telegram-vor-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-10T17:45:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1469233423592181762/304451277",
+  "target": "https://bascht.com/posts/2021/12/10/your-friend-xyz-joined-telegram-vor-d/",
+  "private": false
+}
