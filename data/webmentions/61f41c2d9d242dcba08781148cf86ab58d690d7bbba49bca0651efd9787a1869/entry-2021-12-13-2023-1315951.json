@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://post.lurk.org/@pixouls/107440265070803595",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1315951,
+    "author": {
+      "url": "https://post.lurk.org/@pixouls",
+      "name": "Pixel Oliver 🍄",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5131f26c06862aa14f49dbdbea94cb34c14676b6b11f06444c1271da736166a5.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://pixel.brettspielpony.de/dasponymalt\" class=\"u-url\">@<span>dasponymalt</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> wow these are really good</p>",
+      "text": "@dasponymalt @bascht wow these are really good"
+    },
+    "published": "2021-12-13T15:12:21",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107439904263809056/107440265136792528",
+    "wm-target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-12-13T15:25:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107439904263809056/107440265136792528",
+  "target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+  "private": false
+}
