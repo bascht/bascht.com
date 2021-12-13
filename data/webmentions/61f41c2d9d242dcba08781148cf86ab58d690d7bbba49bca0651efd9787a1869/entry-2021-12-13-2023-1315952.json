@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107439904263809056#favorited-by-53402",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1315952,
+    "author": {
+      "url": "https://post.lurk.org/@pixouls",
+      "name": "Pixel Oliver 🍄",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5131f26c06862aa14f49dbdbea94cb34c14676b6b11f06444c1271da736166a5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107439904263809056/53402",
+    "wm-target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-13T15:25:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107439904263809056/53402",
+  "target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+  "private": false
+}
