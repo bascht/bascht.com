@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/deuxcvsix/status/1470428679469735944",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1315991,
+    "author": {
+      "url": "https://twitter.com/deuxcvsix",
+      "name": "Emmanuelle 🔴💉➕💉➕💉",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f729f7d84d9c180f8d3f63ee64ff9f89a59a476199a5a4275a6b6083d486d191.jpg"
+    },
+    "content": {
+      "html": "Wird oft als Ersatz für das Kantholz genommen um Tischkanten auszubessern, wenn zu oft reingebissen wird.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Wird oft als Ersatz für das Kantholz genommen um Tischkanten auszubessern, wenn zu oft reingebissen wird."
+    },
+    "published": "2021-12-13T16:21:31+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1470428239663407104/1470428679469735944",
+    "wm-target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-12-13T17:02:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1470428239663407104/1470428679469735944",
+  "target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+  "private": false
+}
