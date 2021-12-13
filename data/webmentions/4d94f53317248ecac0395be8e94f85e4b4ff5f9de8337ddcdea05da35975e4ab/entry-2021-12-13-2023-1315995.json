@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1470428239663407104#favorited-by-194895383",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1315995,
+    "author": {
+      "url": "https://twitter.com/deuxcvsix",
+      "name": "Emmanuelle 🔴💉➕💉➕💉",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f729f7d84d9c180f8d3f63ee64ff9f89a59a476199a5a4275a6b6083d486d191.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1470428239663407104/194895383",
+    "wm-target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-13T17:02:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1470428239663407104/194895383",
+  "target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+  "private": false
+}
