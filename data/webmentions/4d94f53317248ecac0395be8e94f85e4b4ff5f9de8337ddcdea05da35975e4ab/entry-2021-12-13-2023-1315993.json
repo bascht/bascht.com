@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/yetzt/status/1470430051292401670",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1315993,
+    "author": {
+      "url": "https://twitter.com/yetzt",
+      "name": "yetzt",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ed1602dc0a78e11f6c05bc9d18d1c137150bd65bde0cc05a2329516ff6f889a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": "2021-12-13T16:26:58+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1470428239663407104/1470430051292401670",
+    "wm-target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-12-13T17:02:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1470428239663407104/1470430051292401670",
+  "target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+  "private": false
+}
