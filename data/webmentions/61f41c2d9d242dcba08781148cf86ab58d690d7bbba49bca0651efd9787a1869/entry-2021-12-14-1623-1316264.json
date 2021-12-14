@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107439904263809056#favorited-by-11282",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316264,
+    "author": {
+      "url": "https://mastodon.social/@danie10",
+      "name": "Danie van der Merwe ✅",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c2616dfab308b43b9e957a3a50c30d56b9ee094aa65c876bb53b6b76ef526d61.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107439904263809056/11282",
+    "wm-target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-14T11:40:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107439904263809056/11282",
+  "target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+  "private": false
+}
