@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107445864167976943#favorited-by-138",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316344,
+    "author": {
+      "url": "https://merveilles.town/@neauoire",
+      "name": "Devine Lu Linvega",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/29b9d9f4d532baca3db9280532a13829ff4732fec594ffe6b466143c41d1dd52.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107445864167976943/138",
+    "wm-target": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-14T18:13:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107445864167976943/138",
+  "target": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+  "private": false
+}
