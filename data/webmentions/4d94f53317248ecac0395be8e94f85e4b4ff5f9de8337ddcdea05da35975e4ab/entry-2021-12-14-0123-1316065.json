@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1470472397480505351",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316065,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": "DE: Wenn dir Kantwurst nichts sagt, das ist eine Art Plockwurst!\n\nAchso! Dann ist ja alles klar.\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/\"></a>",
+      "text": "DE: Wenn dir Kantwurst nichts sagt, das ist eine Art Plockwurst!\n\nAchso! Dann ist ja alles klar."
+    },
+    "published": "2021-12-13T19:15:14+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1470472397480505351",
+    "wm-target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2021-12-13T20:23:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1470472397480505351",
+  "target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+  "private": false
+}
