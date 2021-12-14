@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/pcnoic/status/1470513870015979529",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316089,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "Christos Alexiou",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/906b035d315d853f9d8ba9e29a94f6146ef5d3c5498f92c5669a57c3fe903115.jpg"
+    },
+    "content": {
+      "html": "Would taste better if it were price frei 🙃\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Would taste better if it were price frei 🙃"
+    },
+    "published": "2021-12-13T22:00:02+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1470428239663407104/1470513870015979529",
+    "wm-target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-12-13T22:01:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1470428239663407104/1470513870015979529",
+  "target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+  "private": false
+}
