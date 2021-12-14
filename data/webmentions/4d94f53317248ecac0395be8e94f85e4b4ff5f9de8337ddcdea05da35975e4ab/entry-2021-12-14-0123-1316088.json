@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1470428239663407104#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316088,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "Christos Alexiou",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/906b035d315d853f9d8ba9e29a94f6146ef5d3c5498f92c5669a57c3fe903115.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1470428239663407104/1844342406",
+    "wm-target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-13T22:01:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1470428239663407104/1844342406",
+  "target": "https://bascht.com/posts/2021/12/13/kantholz-kannte-ich.-das-ist-neu.-https/",
+  "private": false
+}
