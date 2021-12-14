@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://merveilles.town/@neauoire/107446228109438397",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316346,
+    "author": {
+      "url": "https://merveilles.town/@neauoire",
+      "name": "Devine Lu Linvega",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/29b9d9f4d532baca3db9280532a13829ff4732fec594ffe6b466143c41d1dd52.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <span class=\"h-card\"><a href=\"https://merveilles.town/@rek\" class=\"u-url\">@<span>rek</span></a></span> glad to hear ^__^</p>\n<a class=\"u-mention\" href=\"https://sourcehut.org/blog/2021-12-08-100-rabbits-interview/\"></a>",
+      "text": "@bascht @rek glad to hear ^__^"
+    },
+    "published": "2021-12-14T16:28:50",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107445864167976943/107446228119034295",
+    "wm-target": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2021-12-14T18:13:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107445864167976943/107446228119034295",
+  "target": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+  "private": false
+}
