@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107445864167976943#favorited-by-1677",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1316345,
+    "author": {
+      "url": "https://merveilles.town/@rek",
+      "name": "R E K",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f93df1818bcbf5fa71407025c75fdee91ab021f60b60c0abf1ef08404e8edee8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107445864167976943/1677",
+    "wm-target": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-14T18:13:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107445864167976943/1677",
+  "target": "https://bascht.com/posts/2021/12/14/in-our-eyes-better-software-is-softwar/",
+  "private": false
+}
