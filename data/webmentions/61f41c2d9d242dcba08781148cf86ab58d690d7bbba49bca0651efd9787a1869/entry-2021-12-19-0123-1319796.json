@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107439904263809056#reblogged-by-21612",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1319796,
+    "author": {
+      "url": "https://mastodon.art/@ToxictheMutt",
+      "name": "Toxic the Alien Mutt 🐶🌌",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c94f1086fbec04814e66ae60a91545d80f558585515f689d9abebd47ea2fd503.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107439904263809056/21612",
+    "wm-target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-12-18T22:23:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107439904263809056/21612",
+  "target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+  "private": false
+}
