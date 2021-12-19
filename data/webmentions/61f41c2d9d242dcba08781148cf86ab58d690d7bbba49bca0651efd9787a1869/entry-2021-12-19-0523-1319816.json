@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107439904263809056#reblogged-by-73747",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1319816,
+    "author": {
+      "url": "https://mastodon.online/@KarlWolf",
+      "name": "KarlWolf@mastodon.online",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dd2fa2680aa6e5769ca9236ec16319bb76262a402b734c1a751da3c557b36dd7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107439904263809056/73747",
+    "wm-target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2021-12-18T23:58:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107439904263809056/73747",
+  "target": "https://bascht.com/posts/2021/12/13/bascht-hej-fediverse-boosts-apprecia/",
+  "private": false
+}
