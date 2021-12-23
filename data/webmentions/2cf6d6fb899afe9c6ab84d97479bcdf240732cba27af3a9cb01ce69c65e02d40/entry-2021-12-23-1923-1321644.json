@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1473748499552481280#favorited-by-717741967422197761",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1321644,
+    "author": {
+      "url": "https://twitter.com/dthblms",
+      "name": "Death Blooms",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/134a28e567d43bc4a55e5772f45e7bb10d566d2aeab59f405c4a1b10ff684155.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1473748499552481280/717741967422197761",
+    "wm-target": "https://bascht.com/posts/2021/12/22/death-blooms-in-your-head/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2021-12-23T14:06:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1473748499552481280/717741967422197761",
+  "target": "https://bascht.com/posts/2021/12/22/death-blooms-in-your-head/",
+  "private": false
+}
