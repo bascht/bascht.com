@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107558616430189438#favorited-by-25962",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1325778,
+    "author": {
+      "url": "https://mastodon.social/@cosminh",
+      "name": "CosminH",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/78b90a71591459286a025f11844ab64c6384a04b6538356365ab6fea72f44be7.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107558616430189438/25962",
+    "wm-target": "https://bascht.com/posts/2022/01/03/bascht-service-toot-its-that-time-o/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-03T14:02:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107558616430189438/25962",
+  "target": "https://bascht.com/posts/2022/01/03/bascht-service-toot-its-that-time-o/",
+  "private": false
+}
