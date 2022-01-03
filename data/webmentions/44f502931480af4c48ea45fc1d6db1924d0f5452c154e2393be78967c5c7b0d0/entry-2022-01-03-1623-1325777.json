@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@cosminh/107558657299974369",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1325777,
+    "author": {
+      "url": "https://mastodon.social/@cosminh",
+      "name": "CosminH",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/78b90a71591459286a025f11844ab64c6384a04b6538356365ab6fea72f44be7.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Nice! I knew you could enumerate values between curly braces but I wasn't aware of the sequence syntax.<br />This should also do the job, I think:<br />mkdir 2022-{01..12}</p>",
+      "text": "@bascht Nice! I knew you could enumerate values between curly braces but I wasn't aware of the sequence syntax.\nThis should also do the job, I think:\nmkdir 2022-{01..12}"
+    },
+    "published": "2022-01-03T13:01:03",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107558616430189438/107558705968719614",
+    "wm-target": "https://bascht.com/posts/2022/01/03/bascht-service-toot-its-that-time-o/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/03/bascht-service-toot-its-that-time-o/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-03T14:02:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107558616430189438/107558705968719614",
+  "target": "https://bascht.com/posts/2022/01/03/bascht-service-toot-its-that-time-o/",
+  "private": false
+}
