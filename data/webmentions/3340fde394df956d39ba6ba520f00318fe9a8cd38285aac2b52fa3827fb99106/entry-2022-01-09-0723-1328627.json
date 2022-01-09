@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fheusel/status/1479472374688923650",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1328627,
+    "author": {
+      "url": "https://twitter.com/fheusel",
+      "name": "Fabian Heusel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/694cf70b79e772d0721a86360cdc089e857269e6cfd1ab734a4440e6c8f29f90.jpg"
+    },
+    "content": {
+      "html": "Der TP-Link ist laut seinen technischen Daten mit 29,4cm breiter als der TEG S16Dg Switch, für den die Rackmount-Winkel angeboten werden (28cm). Wenns nicht eilt, könnte ich dir das hier drucken und zuschicken (da fehlen dir dann ggf. noch Schrauben): <a href=\"https://www.thingiverse.com/thing:4198238\">thingiverse.com/thing:4198238</a>\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://www.reichelt.de/rackmontage-kit-trn-eth-11mk-p285799.html?trstct=pos_1&amp;nbc=1\"></a>\n<a class=\"u-mention\" href=\"https://www.tp-link.com/de/business-networking/unmanaged-switch/tl-sg1016d/\"></a>",
+      "text": "Der TP-Link ist laut seinen technischen Daten mit 29,4cm breiter als der TEG S16Dg Switch, für den die Rackmount-Winkel angeboten werden (28cm). Wenns nicht eilt, könnte ich dir das hier drucken und zuschicken (da fehlen dir dann ggf. noch Schrauben): thingiverse.com/thing:4198238"
+    },
+    "published": "2022-01-07T15:17:56+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1479463490964361219/1479472374688923650",
+    "wm-target": "https://bascht.com/posts/2022/01/07/netzwerktwitter-bevor-ich-jetzt-erst-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/07/netzwerktwitter-bevor-ich-jetzt-erst-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-09T03:40:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1479463490964361219/1479472374688923650",
+  "target": "https://bascht.com/posts/2022/01/07/netzwerktwitter-bevor-ich-jetzt-erst-b/",
+  "private": false
+}
