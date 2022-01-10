@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1480634477428854788",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329433,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Spotify like: Rolo Tomassi - Alma Mater • <a href=\"https://bascht.com/posts/2022/01/10/rolo-tomassi-alma-mater/\">bascht.com/posts/2022/01/…</a>",
+      "text": "Spotify like: Rolo Tomassi - Alma Mater • bascht.com/posts/2022/01/…"
+    },
+    "published": "2022-01-10T20:15:42+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1480634477428854788",
+    "wm-target": "https://bascht.com/posts/2022/01/10/rolo-tomassi-alma-mater/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-01-10T20:20:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1480634477428854788",
+  "target": "https://bascht.com/posts/2022/01/10/rolo-tomassi-alma-mater/",
+  "private": false
+}
