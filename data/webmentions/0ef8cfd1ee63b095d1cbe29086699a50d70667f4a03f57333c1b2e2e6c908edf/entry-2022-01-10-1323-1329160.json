@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107596972572124119#favorited-by-73369",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329160,
+    "author": {
+      "url": "https://social.anon-groups.de/@amaz1ng",
+      "name": "amaz1ng",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d61e9d7fca6e44b8fe0dd8bea15d7fc88484ca8e4b8832c5d94269615c2225df.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107596972572124119/73369",
+    "wm-target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-10T08:37:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107596972572124119/73369",
+  "target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+  "private": false
+}
