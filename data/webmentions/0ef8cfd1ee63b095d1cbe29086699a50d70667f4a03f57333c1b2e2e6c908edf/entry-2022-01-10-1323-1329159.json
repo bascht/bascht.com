@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107596972572124119#favorited-by-38954",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329159,
+    "author": {
+      "url": "https://chaos.social/@spazzpp2",
+      "name": "hackeretep",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7a75c51e382b99a3679b3eca622e141e033c4c2fe9625b634f04969a9cab8ce5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107596972572124119/38954",
+    "wm-target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-10T08:37:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107596972572124119/38954",
+  "target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+  "private": false
+}
