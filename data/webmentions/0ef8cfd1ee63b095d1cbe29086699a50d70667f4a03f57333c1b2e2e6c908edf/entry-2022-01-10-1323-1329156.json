@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107596972572124119#favorited-by-70917",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329156,
+    "author": {
+      "url": "https://soc.schuerz.at/profile/jakob",
+      "name": "Jakob",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f2342caaa53746a4a6bea6c85a2f6ec04f45a8c44b3025db629e6281d74fd8f3.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107596972572124119/70917",
+    "wm-target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-10T08:37:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107596972572124119/70917",
+  "target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+  "private": false
+}
