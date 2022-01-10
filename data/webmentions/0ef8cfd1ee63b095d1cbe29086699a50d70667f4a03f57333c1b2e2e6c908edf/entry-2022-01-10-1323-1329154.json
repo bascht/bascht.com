@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107597110015576985",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329154,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@philhoefer\" class=\"u-url\">@<span>philhoefer</span></a></span> Japansäge – bester Kauf bis jetzt. :D Damit haben wir damals die Berge für die Ruby on Ice Bühnendeko geschnitten. :D <a href=\"https://twitter.com/KFMolli/status/1099601242039427072\"><span>https://</span><span>twitter.com/KFMolli/status/109</span><span>9601242039427072</span></a></p>",
+      "text": "@philhoefer Japansäge – bester Kauf bis jetzt. :D Damit haben wir damals die Berge für die Ruby on Ice Bühnendeko geschnitten. :D https://twitter.com/KFMolli/status/1099601242039427072"
+    },
+    "published": "2022-01-10T08:00:05",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107596972572124119/107597110015576985",
+    "wm-target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-10T08:37:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107596972572124119/107597110015576985",
+  "target": "https://bascht.com/posts/2022/01/10/bascht-started-building-small-stuff-a/",
+  "private": false
+}
