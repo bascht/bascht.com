@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107599604857758757#favorited-by-69150",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329465,
+    "author": {
+      "url": "https://mastodon.social/@welsper90",
+      "name": "Daniel Hoffmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/faf5ed56cda424a0a9db40f331d5a8d16a3ad2872c6203be7eb221f9a28909d9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107599604857758757/69150",
+    "wm-target": "https://bascht.com/posts/2022/01/10/network-peeps.will-this-rack-mount-kit/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-10T22:16:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107599604857758757/69150",
+  "target": "https://bascht.com/posts/2022/01/10/network-peeps.will-this-rack-mount-kit/",
+  "private": false
+}
