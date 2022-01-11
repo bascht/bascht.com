@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1480916919486234629",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329915,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Chonker\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/\"></a>",
+      "text": "Chonker"
+    },
+    "published": "2022-01-11T14:58:02+00:00",
+    "wm-source": "https://brid.gy/post/twitter/baschtdotcom/1480916919486234629",
+    "wm-target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-01-11T16:55:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/baschtdotcom/1480916919486234629",
+  "target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+  "private": false
+}
