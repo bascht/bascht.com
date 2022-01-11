@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107602906832229702#favorited-by-78327",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329871,
+    "author": {
+      "url": "https://pixelfed.social/GuilDeVerdade",
+      "name": "Guilherme Cardozo Selau",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/bb6e75e795c1af98fcecdb0d6660cc17c70ab2128573e9f67c71fb1fd15cedb2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107602906832229702/78327",
+    "wm-target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-11T15:20:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107602906832229702/78327",
+  "target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+  "private": false
+}
