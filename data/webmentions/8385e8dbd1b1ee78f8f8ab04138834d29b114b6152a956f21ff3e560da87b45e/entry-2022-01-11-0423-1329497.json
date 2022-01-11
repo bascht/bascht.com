@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1480634477428854788#favorited-by-1353416032707342337",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329497,
+    "author": {
+      "url": "https://twitter.com/RoloTomassiBot",
+      "name": "Rolo Tomassi Lyrics",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/040b443155179bfdcdfcc6fc64bf1f2d6f67440d75eab74a4e8e67fe9e50f2fd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1480634477428854788/1353416032707342337",
+    "wm-target": "https://bascht.com/posts/2022/01/10/rolo-tomassi-alma-mater/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-10T23:54:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1480634477428854788/1353416032707342337",
+  "target": "https://bascht.com/posts/2022/01/10/rolo-tomassi-alma-mater/",
+  "private": false
+}
