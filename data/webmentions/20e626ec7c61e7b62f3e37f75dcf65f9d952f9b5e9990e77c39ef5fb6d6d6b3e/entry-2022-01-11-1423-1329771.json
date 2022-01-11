@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107602906832229702#favorited-by-1596",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329771,
+    "author": {
+      "url": "https://mastodon.social/@schmudde",
+      "name": "D. Schmudde",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8961714dc931bc38534dedc91fdb5d01dc31b752e78dbf8fb2e8fd2bbbda75a8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107602906832229702/1596",
+    "wm-target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-11T10:42:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107602906832229702/1596",
+  "target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+  "private": false
+}
