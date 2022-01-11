@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107602906832229702#favorited-by-78315",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1329817,
+    "author": {
+      "url": "https://pixelfed.social/apmechev",
+      "name": "Alexandar Mechev",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e1eecc276c1ea5b3e7206aa7e41c6619889cb368755ce9795347f057dbcef77f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107602906832229702/78315",
+    "wm-target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-11T12:44:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107602906832229702/78315",
+  "target": "https://bascht.com/posts/2022/01/11/bascht-met-this-ginormous-cat-at-the/",
+  "private": false
+}
