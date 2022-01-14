@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/CurryWurst_Bot/status/1482028744315441158",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1331643,
+    "author": {
+      "url": "https://twitter.com/CurryWurst_Bot",
+      "name": "Currywurstbot",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5aa1623e4017c40a5c4846900d781a972e9c58e856b741a2dbc57f1ae3ba9d36.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Tweet: Arme Currywurst. … • bascht.com/posts/2022/01/…"
+    },
+    "published": "2022-01-14T16:36:02+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/baschtdotcom/1482028555441688576/1482028744315441158",
+    "wm-target": "https://bascht.com/posts/2022/01/14/arme-currywurst.-https/t.co/hvtaigbodz/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-01-14T17:18:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/baschtdotcom/1482028555441688576/1482028744315441158",
+  "target": "https://bascht.com/posts/2022/01/14/arme-currywurst.-https/t.co/hvtaigbodz/",
+  "private": false
+}
