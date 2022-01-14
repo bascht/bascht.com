@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1482023205724467200#favorited-by-192600434",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1331644,
+    "author": {
+      "url": "https://twitter.com/vonneudeck",
+      "name": "Nicolai von Neudeck",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c16d77b92a1e4efad15cffc7ec8d533993bbca36d45f1392ed9a6e2a5a3c7b21.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1482023205724467200/192600434",
+    "wm-target": "https://bascht.com/posts/2022/01/14/arme-currywurst.-https/t.co/hvtaigbodz/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-14T17:23:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1482023205724467200/192600434",
+  "target": "https://bascht.com/posts/2022/01/14/arme-currywurst.-https/t.co/hvtaigbodz/",
+  "private": false
+}
