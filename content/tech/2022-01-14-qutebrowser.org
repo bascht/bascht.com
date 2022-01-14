@@ -1,0 +1,44 @@
+#+title: Back to Qutebrowser
+#+date: 2022-01-14
+#+tags[]: firefox qutebrowser browsers linux desktop
+#+images[]: https://img.bascht.com/2022-blog/01-tech/2021-01-14-qutebrowser.png
+
+[[https://git.bascht.space/bascht/dotfiles/commit/c52f271bb19293d33f6f6101b214e1983c97c4cf][About two years ago]] I switched my main browser from Qutebrowser to Firefox. I
+don't even remember what triggered the switch, but I was probably annoyed by
+some glitches around the input / edit mode handling or needed to support 4
+different proxies, so Foxproxy came in handy.
+
+Yesterday I was [[https://bugzilla.mozilla.org/show_bug.cgi?id=1749957][kindly reminded]] that it would be a good time to give
+Qutebrowser another try. I no longer need to tunnel traffic through 4
+different proxies on a daily basis. My custom CSS needs are modest (mono
+fonts where possible) and gopass is supported well.
+
+Sadly it's still not possible to have [[https://github.com/qutebrowser/qutebrowser/issues/3636][per Domain CSS or JavaScript settings]],
+but I can replicate most of my =user-styles.css= with generous application of
+Greasemonkey.
+
+So yesterday [[https://git.bascht.space/bascht/dotfiles/commit/fb9a138102693eacecda4e7ebd959b32222581e7][I switched back to Qutebrowser]] and there was almost no friction
+in getting my day-to-day browsing done. (Granted, I was using [[https://github.com/tridactyl/tridactyl][Tridactyl]] with
+Firefox)
+
+-----
+
+[[file:https://img.bascht.com/2022-blog/01-tech/2021-01-14-qutebrowser.png]]
+
+What immediately felt like a relief: /The key-bindings are much more
+consistent than they *could be* with Tridactyl./ That's not even Tridactyl's
+fault, but with Firefox locking down what Add-Ons can do, there were more
+road blocks, where I had to reach for the mouse. Again - *that's not even a
+net-negative for Firefox*, as it probably improved the overall
+browser-security in regard to Add-Ons. But I like to
+
+ - tinker with my software
+ - configure it with simple git-trackable config files
+ - integrate it with other text-based utilities (think [[wm-gh:][org-mode]], wl-paste or
+   my [[wm-gh:][drop scripts]])
+
+it's been getting harder and harder to get Firefox to do this consistently
+across multiple machines.
+
+As for me, I am now back to a [[https://git.bascht.space/bascht/dotfiles/src/branch/main/dot_config/private_qutebrowser/config.py][simple =config.py=]] file to configure my browser
+and I couldn't be happier.
