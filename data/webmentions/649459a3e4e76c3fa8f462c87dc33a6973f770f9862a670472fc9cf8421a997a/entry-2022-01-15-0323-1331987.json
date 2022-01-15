@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1482023205724467200#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1331987,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "Christos Alexiou",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d55398aa6596b08b480d892049ea1a45b90e1be77de96ed89382573ba3668ef.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1482023205724467200/1844342406",
+    "wm-target": "https://bascht.com/posts/2022/01/14/arme-currywurst.-https/t.co/hvtaigbodz/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-14T22:09:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1482023205724467200/1844342406",
+  "target": "https://bascht.com/posts/2022/01/14/arme-currywurst.-https/t.co/hvtaigbodz/",
+  "private": false
+}
