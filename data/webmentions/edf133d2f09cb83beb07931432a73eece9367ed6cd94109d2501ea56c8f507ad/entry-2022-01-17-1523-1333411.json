@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107637462494188572#favorited-by-32781",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333411,
+    "author": {
+      "url": "https://mastodon.sdf.org/@claudiom",
+      "name": "ClaudioM",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1cbedb9682e5c2a372600693e6f4b092439f7d799fe932d4843a439994be1afd.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637462494188572/32781",
+    "wm-target": "https://bascht.com/posts/2022/01/17/i-might-have-caught-the-wordle./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-17T12:08:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637462494188572/32781",
+  "target": "https://bascht.com/posts/2022/01/17/i-might-have-caught-the-wordle./",
+  "private": false
+}
