@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/CBehnert/status/1483092086559842312",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333715,
+    "author": {
+      "url": "https://twitter.com/CBehnert",
+      "name": "Carsten Behnert 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa04e3862aa9dfd45bfedca113647b5c479356d7fe629e52f3860c0a4e90ea87.jpg"
+    },
+    "content": {
+      "html": "Immer mit einem Bein im Knast.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Immer mit einem Bein im Knast."
+    },
+    "published": "2022-01-17T15:01:22+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1482971196895473665/1483092086559842312",
+    "wm-target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-17T20:41:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1482971196895473665/1483092086559842312",
+  "target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+  "private": false
+}
