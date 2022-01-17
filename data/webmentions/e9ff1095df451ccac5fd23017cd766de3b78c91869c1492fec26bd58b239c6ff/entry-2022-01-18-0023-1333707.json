@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107637476596529820#favorited-by-67960",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333707,
+    "author": {
+      "url": "https://mas.to/@binyamin",
+      "name": "Binyamin Green",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e9e74ae7e4abbfd37c2909eb015ddaa4269292c57092363d624018e69f41455a.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637476596529820/67960",
+    "wm-target": "https://bascht.com/posts/2020/07/09/h%C3%B6llenmaschine-v2if-everything-goes-to-p/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-17T20:19:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637476596529820/67960",
+  "target": "https://bascht.com/posts/2020/07/09/h%C3%B6llenmaschine-v2if-everything-goes-to-p/",
+  "private": false
+}
