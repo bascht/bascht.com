@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/cgenogo/status/1482976275010572288",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333721,
+    "author": {
+      "url": "https://twitter.com/cgenogo",
+      "name": "Danilo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/23cb86fa016945a870366611a5298577cc428cf4966390f1f07662e937d4a08e.png"
+    },
+    "content": {
+      "html": "Das musst ich 3 mal lesen um es richtig zu verstehen.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Das musst ich 3 mal lesen um es richtig zu verstehen."
+    },
+    "published": "2022-01-17T07:21:10+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1482971196895473665/1482976275010572288",
+    "wm-target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-17T20:41:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1482971196895473665/1482976275010572288",
+  "target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+  "private": false
+}
