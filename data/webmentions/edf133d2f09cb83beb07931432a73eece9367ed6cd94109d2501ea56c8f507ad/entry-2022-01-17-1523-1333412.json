@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107637462494188572#favorited-by-69289",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333412,
+    "author": {
+      "url": "https://weirder.earth/@TQ",
+      "name": "TQ 🎹",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/94fee8f98ffac8cd0b8dc835f0f1c757f4bc204f1db97079eaab2c0b53cfd7bc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637462494188572/69289",
+    "wm-target": "https://bascht.com/posts/2022/01/17/i-might-have-caught-the-wordle./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-17T12:08:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637462494188572/69289",
+  "target": "https://bascht.com/posts/2022/01/17/i-might-have-caught-the-wordle./",
+  "private": false
+}
