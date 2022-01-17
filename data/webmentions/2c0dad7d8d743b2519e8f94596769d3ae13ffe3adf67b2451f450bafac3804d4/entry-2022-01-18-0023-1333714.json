@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/der_kronn/status/1483157789128200196",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333714,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Dieser Tweet oder dessen Anlagen können vertraulichen Inhalts, oder auf eine andere Weise schutzwürdig sein. Sollten Sie nicht der beabsichtigte Empfänger des Tweets sein, sind Sie nicht berechtigt den Inhalt weiterzuleiten, zu kopieren oder auf eine andere Art zu verbreiten."
+    },
+    "published": "2022-01-17T19:22:27+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1482971196895473665/1483157789128200196",
+    "wm-target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-01-17T20:41:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1482971196895473665/1483157789128200196",
+  "target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+  "private": false
+}
