@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/simkoelsch/status/1482979018345533442",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1333722,
+    "author": {
+      "url": "https://twitter.com/simkoelsch",
+      "name": "Simon Kölsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57f5f52db8a9c37dafd3a80da89945fbf31543b18e6e228230e24a310b47bb60.jpg"
+    },
+    "content": {
+      "html": "Bitte prüfen Sie der Umwelt zuliebe, ob der Ausdruck dieses Tweets erforderlich ist.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Bitte prüfen Sie der Umwelt zuliebe, ob der Ausdruck dieses Tweets erforderlich ist."
+    },
+    "published": "2022-01-17T07:32:05+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1482971196895473665/1482979018345533442",
+    "wm-target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-17T20:41:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1482971196895473665/1482979018345533442",
+  "target": "https://bascht.com/posts/2022/01/17/dieser-tweet-oder-dessen-anlagen-k%C3%B6nnen/",
+  "private": false
+}
