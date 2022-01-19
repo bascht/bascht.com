@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107644904359008469#favorited-by-22873",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334589,
+    "author": {
+      "url": "https://merveilles.town/@xiroux",
+      "name": "Stanislaus Grumman",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/86b77468c2ccad3128af1d0e56c9ad58fcdd091daba4236f0865f6d24891f7cb.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107644904359008469/22873",
+    "wm-target": "https://bascht.com/posts/2022/01/18/til-mapillary-was-bought-by-facebook./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-19T01:04:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107644904359008469/22873",
+  "target": "https://bascht.com/posts/2022/01/18/til-mapillary-was-bought-by-facebook./",
+  "private": false
+}
