@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107644904359008469#reblogged-by-78794",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334587,
+    "author": {
+      "url": "https://nrw.social/@mfreudenberg",
+      "name": "Michael",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/856a533d71b1e957470ac60c8cf64943c7c0296f2068ebf8c9d7264845a51e13.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107644904359008469/78794",
+    "wm-target": "https://bascht.com/posts/2022/01/18/til-mapillary-was-bought-by-facebook./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-01-19T01:04:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107644904359008469/78794",
+  "target": "https://bascht.com/posts/2022/01/18/til-mapillary-was-bought-by-facebook./",
+  "private": false
+}
