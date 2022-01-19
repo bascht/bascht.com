@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1483542318481346564#favorited-by-59878265",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334779,
+    "author": {
+      "url": "https://twitter.com/FrauTete",
+      "name": "geborene Rehbier 🥸",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a1943145ec195ba6a15452dabf699b75ba140a4cceaf3224baa79cf8475f7be.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1483542318481346564/59878265",
+    "wm-target": "https://bascht.com/posts/2022/01/18/ihr-dhl-paket-kommt-bald-ugs.-f%C3%BCr-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-19T06:40:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1483542318481346564/59878265",
+  "target": "https://bascht.com/posts/2022/01/18/ihr-dhl-paket-kommt-bald-ugs.-f%C3%BCr-d/",
+  "private": false
+}
