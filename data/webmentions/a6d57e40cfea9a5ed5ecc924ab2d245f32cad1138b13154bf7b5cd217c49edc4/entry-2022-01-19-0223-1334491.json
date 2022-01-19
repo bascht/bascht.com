@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@kubikpixel/107644998040720896",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334491,
+    "author": {
+      "url": "https://chaos.social/@kubikpixel",
+      "name": "KubikPixel ✓",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07c4dc51dbbf2aa3f9cd44b8a934e5928296c300a71e911f3a6ba61c9036bc62.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 😲</p>\n<a class=\"u-mention\" href=\"https://ciechanow.ski/gps/\"></a>",
+      "text": "@bascht 😲"
+    },
+    "published": "2022-01-18T18:58:38",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107644845550654430/107644998049654431",
+    "wm-target": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-01-18T19:56:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/107644845550654430/107644998049654431",
+  "target": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+  "private": false
+}
