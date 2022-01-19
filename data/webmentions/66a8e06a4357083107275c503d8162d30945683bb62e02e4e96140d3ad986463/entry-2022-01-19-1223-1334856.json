@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1483542318481346564#favorited-by-2484469171",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334856,
+    "author": {
+      "url": "https://twitter.com/rkh_german",
+      "name": "Na der Richard",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/94cc25ed39900fef0ceeac8333318ce823e9c61ccb5373924acf0fd5af9fc040.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1483542318481346564/2484469171",
+    "wm-target": "https://bascht.com/posts/2022/01/18/ihr-dhl-paket-kommt-bald-ugs.-f%C3%BCr-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-19T09:29:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1483542318481346564/2484469171",
+  "target": "https://bascht.com/posts/2022/01/18/ihr-dhl-paket-kommt-bald-ugs.-f%C3%BCr-d/",
+  "private": false
+}
