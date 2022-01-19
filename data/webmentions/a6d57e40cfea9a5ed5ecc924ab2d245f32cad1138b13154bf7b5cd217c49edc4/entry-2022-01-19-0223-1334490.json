@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107644845550654430#favorited-by-34576",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334490,
+    "author": {
+      "url": "https://mastodon.anzui.dev/@der_On",
+      "name": "der On",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8c0f52f640caec8bcc8299be2db498c89082cc66052c6047b73e8dd929d49644.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107644845550654430/34576",
+    "wm-target": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-18T19:56:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107644845550654430/34576",
+  "target": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+  "private": false
+}
