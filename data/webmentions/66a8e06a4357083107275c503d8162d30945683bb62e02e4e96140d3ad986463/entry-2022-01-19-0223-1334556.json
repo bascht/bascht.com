@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1483542318481346564#favorited-by-2160471524",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334556,
+    "author": {
+      "url": "https://twitter.com/songsofyong",
+      "name": "Songs of Yong",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e938ba9aca7c574e822836c0543ef8b00623eb874c21503acd1d5625d5c03087.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1483542318481346564/2160471524",
+    "wm-target": "https://bascht.com/posts/2022/01/18/ihr-dhl-paket-kommt-bald-ugs.-f%C3%BCr-d/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-18T23:03:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1483542318481346564/2160471524",
+  "target": "https://bascht.com/posts/2022/01/18/ihr-dhl-paket-kommt-bald-ugs.-f%C3%BCr-d/",
+  "private": false
+}
