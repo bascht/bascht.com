@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107644904359008469#favorited-by-53525",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1334588,
+    "author": {
+      "url": "https://troet.cafe/@aiquez",
+      "name": "aiquez",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7f735680863749e828d435fe39ba62072abb5115de06e537d66f5549d7a2bd2f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107644904359008469/53525",
+    "wm-target": "https://bascht.com/posts/2022/01/18/til-mapillary-was-bought-by-facebook./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-01-19T01:04:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107644904359008469/53525",
+  "target": "https://bascht.com/posts/2022/01/18/til-mapillary-was-bought-by-facebook./",
+  "private": false
+}
