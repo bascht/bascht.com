@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107644845550654430#reblogged-by-726",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1335151,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107644845550654430/726",
+    "wm-target": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-01-19T23:08:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107644845550654430/726",
+  "target": "https://bascht.com/posts/2022/01/18/the-complexity-and-love-of-detail-in-bar/",
+  "private": false
+}
