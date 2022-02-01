@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107637476596529820#favorited-by-20272",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1343437,
+    "author": {
+      "url": "https://mastodon.social/@metbril",
+      "name": "Robert van Bregt 🇳🇱🇪🇺",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ff1aa7dbe1f74ddbed2ec7a66c4c5ecc74307d82d91ac7f4d8dacffce9bdde7a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637476596529820/20272",
+    "wm-target": "https://bascht.com/posts/2020/07/09/h%C3%B6llenmaschine-v2if-everything-goes-to-p/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-01T07:38:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107637476596529820/20272",
+  "target": "https://bascht.com/posts/2020/07/09/h%C3%B6llenmaschine-v2if-everything-goes-to-p/",
+  "private": false
+}
