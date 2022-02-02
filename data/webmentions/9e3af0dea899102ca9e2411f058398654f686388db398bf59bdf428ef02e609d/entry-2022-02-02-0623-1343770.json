@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107724964951608048#favorited-by-76692",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1343770,
+    "author": {
+      "url": "https://pixelfed.social/dk",
+      "name": "Deekshith Allamaneni",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d5e43107843c2ea3f00d90f5ce076259bd5c7516af84b4c5a6f48e97454005aa.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107724964951608048/76692",
+    "wm-target": "https://bascht.com/posts/2022/02/01/bascht-sad-robot-noises/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-01T23:36:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107724964951608048/76692",
+  "target": "https://bascht.com/posts/2022/02/01/bascht-sad-robot-noises/",
+  "private": false
+}
