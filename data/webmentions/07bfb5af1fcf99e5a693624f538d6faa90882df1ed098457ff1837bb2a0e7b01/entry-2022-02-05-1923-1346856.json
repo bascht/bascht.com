@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489709862300880901#favorited-by-5008851",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346856,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Depone",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/160903b1e600e4e70a45dda76b310f0f3191f9f6dc23ca97d26e6ec65d0aee85.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1489709862300880901/5008851",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T17:03:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1489709862300880901/5008851",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
