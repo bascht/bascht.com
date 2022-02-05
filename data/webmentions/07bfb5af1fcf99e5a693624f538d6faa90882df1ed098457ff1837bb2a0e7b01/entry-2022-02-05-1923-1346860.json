@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489709862300880901#favorited-by-14599226",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346860,
+    "author": {
+      "url": "https://twitter.com/Mad20357",
+      "name": "Martin D",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/973328424b8fb7b791eb22a698de7f6b8c0ece803646dbfaed875efe68963d7a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1489709862300880901/14599226",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T17:03:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1489709862300880901/14599226",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
