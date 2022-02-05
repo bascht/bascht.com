@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1489711996996096007",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346863,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c41c58014ea0ab9ed73d92c4ae7b32b53154eeec9c6df527241064815940d96a.jpg"
+    },
+    "content": {
+      "html": "Oder den Kadett E von mir damals. Der hat auch reichlich gekitzelt in Kurven…war zu pleite das zu reparieren damals 😅\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Oder den Kadett E von mir damals. Der hat auch reichlich gekitzelt in Kurven…war zu pleite das zu reparieren damals 😅"
+    },
+    "published": "2022-02-04T21:26:32+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1489709862300880901/1489711996996096007",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-02-05T17:03:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1489709862300880901/1489711996996096007",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
