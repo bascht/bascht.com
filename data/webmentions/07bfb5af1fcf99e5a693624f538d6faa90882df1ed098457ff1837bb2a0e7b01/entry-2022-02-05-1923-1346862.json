@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489709862300880901#favorited-by-13210222",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346862,
+    "author": {
+      "url": "https://twitter.com/tc77",
+      "name": "Christian Schmizz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0114c667bca31454dd79e3825920c316f454040d0a007b7513aa1ab8e255c9b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1489709862300880901/13210222",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T17:03:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1489709862300880901/13210222",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
