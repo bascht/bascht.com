@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/maerys/status/1489869019167563776",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346855,
+    "author": {
+      "url": "https://twitter.com/maerys",
+      "name": "Maria Herrmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a2a6366c41af5a73252726ee709c51650da42c4f75ce42902895e8c1da829da4.jpg"
+    },
+    "content": {
+      "html": "Ha\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ha"
+    },
+    "published": "2022-02-05T07:50:29+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1489844989894922245/1489869019167563776",
+    "wm-target": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-02-05T17:03:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1489844989894922245/1489869019167563776",
+  "target": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+  "private": false
+}
