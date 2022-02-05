@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489877772210163714",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346854,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Ne\n<a class=\"u-mention\" href=\"https://twitter.com/maerys\"></a>",
+      "text": "Ne"
+    },
+    "published": "2022-02-05T08:25:16+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1489844989894922245/1489877772210163714",
+    "wm-target": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-02-05T17:03:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1489844989894922245/1489877772210163714",
+  "target": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+  "private": false
+}
