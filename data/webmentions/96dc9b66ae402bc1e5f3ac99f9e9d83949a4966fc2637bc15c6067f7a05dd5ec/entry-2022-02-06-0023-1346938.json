@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107741820426659155#reblogged-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346938,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62428f8497d3ccc8ea6104f6982be779e617078beebcfce426908139e6e7392a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107741820426659155/1375",
+    "wm-target": "https://bascht.com/posts/2022/02/04/bascht-til-my-laptop-monitor-need/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-02-05T18:03:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107741820426659155/1375",
+  "target": "https://bascht.com/posts/2022/02/04/bascht-til-my-laptop-monitor-need/",
+  "private": false
+}
