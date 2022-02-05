@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489709862300880901#favorited-by-358895094",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346850,
+    "author": {
+      "url": "https://twitter.com/CBehnert",
+      "name": "Carsten Behnert 😷",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa04e3862aa9dfd45bfedca113647b5c479356d7fe629e52f3860c0a4e90ea87.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1489709862300880901/358895094",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T17:02:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1489709862300880901/358895094",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
