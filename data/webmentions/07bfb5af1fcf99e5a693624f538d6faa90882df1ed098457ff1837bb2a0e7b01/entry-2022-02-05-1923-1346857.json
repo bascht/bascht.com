@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489709862300880901#favorited-by-977141931703787521",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346857,
+    "author": {
+      "url": "https://twitter.com/coffeemicha",
+      "name": "Flamingo 🦩 mit Bart und 💉💉💉",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99fa41527a0f6e61f15a4cef9a742d31162eb589bb9881202b0e52c7f1590075.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1489709862300880901/977141931703787521",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T17:03:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1489709862300880901/977141931703787521",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
