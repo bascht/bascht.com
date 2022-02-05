@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1489844989894922245#favorited-by-92558245",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346853,
+    "author": {
+      "url": "https://twitter.com/_truefalse",
+      "name": "Ingmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b29e0b3f7529f775dde10e002f8b4509fdd69fc257b05e60338868435c8926b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1489844989894922245/92558245",
+    "wm-target": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T17:03:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1489844989894922245/92558245",
+  "target": "https://bascht.com/posts/2022/02/05/gerhard-schr%C3%B6der-der-jeremy-clarkson-de/",
+  "private": false
+}
