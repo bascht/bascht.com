@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107741820426659155#favorited-by-76692",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346624,
+    "author": {
+      "url": "https://pixelfed.social/dk",
+      "name": "Deekshith Allamaneni",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d5e43107843c2ea3f00d90f5ce076259bd5c7516af84b4c5a6f48e97454005aa.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107741820426659155/76692",
+    "wm-target": "https://bascht.com/posts/2022/02/04/bascht-til-my-laptop-monitor-need/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-05T01:49:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107741820426659155/76692",
+  "target": "https://bascht.com/posts/2022/02/04/bascht-til-my-laptop-monitor-need/",
+  "private": false
+}
