@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/trstnlx/status/1489848029842755587",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1346849,
+    "author": {
+      "url": "https://twitter.com/trstnlx",
+      "name": "Torsten",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/569129ae965be80784e20b574f11d6cd94062588284b11f1b0a919c52368fc80.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Die sollten mal Schwalbe fahren."
+    },
+    "published": "2022-02-05T06:27:05+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1489709862300880901/1489848029842755587",
+    "wm-target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-02-05T17:02:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1489709862300880901/1489848029842755587",
+  "target": "https://bascht.com/posts/2022/02/04/die-sollten-mal-schwalbe-fahren.-https/",
+  "private": false
+}
