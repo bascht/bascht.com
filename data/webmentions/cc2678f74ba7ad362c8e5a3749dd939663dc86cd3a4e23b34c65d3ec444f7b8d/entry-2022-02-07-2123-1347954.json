@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1490718763213283336",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1347954,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Pinboard bookmark: GitHub - aquaproj/aqua: Declarative CLI Version manager written in Go. Support La • <a href=\"https://bascht.com/posts/2022/02/07/github-aquaproj/aqua-declarative-cli-version-manager-written-in-go.-support-lazy-install-registry-and-continuous-update-with-renovate.-cli-version-is-switched-seamlessly/\">bascht.com/posts/2022/02/…</a>",
+      "text": "Pinboard bookmark: GitHub - aquaproj/aqua: Declarative CLI Version manager written in Go. Support La • bascht.com/posts/2022/02/…"
+    },
+    "published": "2022-02-07T16:07:04+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1490718763213283336",
+    "wm-target": "https://bascht.com/posts/2022/02/07/github-aquaproj/aqua-declarative-cli-version-manager-written-in-go.-support-lazy-install-registry-and-continuous-update-with-renovate.-cli-version-is-switched-seamlessly/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-02-07T17:32:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1490718763213283336",
+  "target": "https://bascht.com/posts/2022/02/07/github-aquaproj/aqua-declarative-cli-version-manager-written-in-go.-support-lazy-install-registry-and-continuous-update-with-renovate.-cli-version-is-switched-seamlessly/",
+  "private": false
+}
