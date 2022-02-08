@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1490718763213283336#favorited-by-1419050516412211200",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1348055,
+    "author": {
+      "url": "https://twitter.com/_ronnieTech",
+      "name": "Ronnie Lee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0fb27f7a3fc6742237488d710c083c7e378c21f6bfb794e5b135c5af07d82dcd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1490718763213283336/1419050516412211200",
+    "wm-target": "https://bascht.com/posts/2022/02/07/github-aquaproj/aqua-declarative-cli-version-manager-written-in-go.-support-lazy-install-registry-and-continuous-update-with-renovate.-cli-version-is-switched-seamlessly/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-07T21:54:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1490718763213283336/1419050516412211200",
+  "target": "https://bascht.com/posts/2022/02/07/github-aquaproj/aqua-declarative-cli-version-manager-written-in-go.-support-lazy-install-registry-and-continuous-update-with-renovate.-cli-version-is-switched-seamlessly/",
+  "private": false
+}
