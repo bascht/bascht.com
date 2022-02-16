@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107804322896518517#favorited-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1352178,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62428f8497d3ccc8ea6104f6982be779e617078beebcfce426908139e6e7392a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107804322896518517/1375",
+    "wm-target": "https://bascht.com/posts/2022/02/15/spent-2.5-hours-to-finally-clean-up-my-k/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-16T01:39:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107804322896518517/1375",
+  "target": "https://bascht.com/posts/2022/02/15/spent-2.5-hours-to-finally-clean-up-my-k/",
+  "private": false
+}
