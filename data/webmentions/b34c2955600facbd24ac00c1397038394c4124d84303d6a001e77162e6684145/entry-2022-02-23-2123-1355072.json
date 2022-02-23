@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107846938163644923#favorited-by-78507",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1355072,
+    "author": {
+      "url": "https://anonsys.net/profile/caos",
+      "name": "caos",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/cf6814cf3a8fa93c74b79399928a4eb5eec3e6035a0ff121681ca531b1be7fe2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107846938163644923/78507",
+    "wm-target": "https://bascht.com/posts/2022/02/23/theres-a-live-version-of-rise-againsts/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-23T15:55:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/107846938163644923/78507",
+  "target": "https://bascht.com/posts/2022/02/23/theres-a-live-version-of-rise-againsts/",
+  "private": false
+}
