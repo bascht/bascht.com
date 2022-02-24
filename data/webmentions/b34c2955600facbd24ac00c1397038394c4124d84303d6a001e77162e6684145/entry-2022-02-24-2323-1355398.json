@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/107846938163644923#reblogged-by-53878",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1355398,
+    "author": {
+      "url": "https://metalhead.club/@caos",
+      "name": "caos",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/65d247ddbb003ec22b9628cfbd9bcd356920be34b9bb408bd538b7d0f826f73c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107846938163644923/53878",
+    "wm-target": "https://bascht.com/posts/2022/02/23/theres-a-live-version-of-rise-againsts/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-02-24T20:31:16Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/107846938163644923/53878",
+  "target": "https://bascht.com/posts/2022/02/23/theres-a-live-version-of-rise-againsts/",
+  "private": false
+}
