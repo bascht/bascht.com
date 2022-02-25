@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1497234094144598025#favorited-by-35180779",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1355845,
+    "author": {
+      "url": "https://twitter.com/DonSchado",
+      "name": "Marco",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e34df7ae07e9d7fbaa5b0d79af177d59010afc55778b241f57aa9544d7f1f4c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1497234094144598025/35180779",
+    "wm-target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-25T17:22:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1497234094144598025/35180779",
+  "target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+  "private": false
+}
