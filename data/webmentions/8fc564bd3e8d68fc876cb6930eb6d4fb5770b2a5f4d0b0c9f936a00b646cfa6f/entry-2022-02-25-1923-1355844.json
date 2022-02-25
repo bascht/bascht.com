@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1497234094144598025#favorited-by-59878265",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1355844,
+    "author": {
+      "url": "https://twitter.com/geboreneRehbier",
+      "name": "geborene Rehbier 🥸",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a1943145ec195ba6a15452dabf699b75ba140a4cceaf3224baa79cf8475f7be.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1497234094144598025/59878265",
+    "wm-target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-25T17:22:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1497234094144598025/59878265",
+  "target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+  "private": false
+}
