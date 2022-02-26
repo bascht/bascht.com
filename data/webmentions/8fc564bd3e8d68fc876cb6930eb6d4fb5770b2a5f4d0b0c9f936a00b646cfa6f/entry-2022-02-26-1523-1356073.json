@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1497234094144598025#favorited-by-73643362",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1356073,
+    "author": {
+      "url": "https://twitter.com/angieguno",
+      "name": "angie blue",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/edf1f2737d9aca2d5b4a10cccae7eff29d28fe7010612fe7b10788a499f4cb21.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1497234094144598025/73643362",
+    "wm-target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-26T12:43:16Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1497234094144598025/73643362",
+  "target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+  "private": false
+}
