@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1497234094144598025#favorited-by-19016860",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1356021,
+    "author": {
+      "url": "https://twitter.com/Smashnet",
+      "name": "Nicolas Inden",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/73158c0bbbc63a90cfd0fc1ee54bcb357b22b342331bd704283d738988e33507.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1497234094144598025/19016860",
+    "wm-target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-26T08:05:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1497234094144598025/19016860",
+  "target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+  "private": false
+}
