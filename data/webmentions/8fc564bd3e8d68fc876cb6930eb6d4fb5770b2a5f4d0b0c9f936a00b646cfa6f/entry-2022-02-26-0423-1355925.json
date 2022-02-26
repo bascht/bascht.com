@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1497234094144598025#favorited-by-19458826",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1355925,
+    "author": {
+      "url": "https://twitter.com/m_mack",
+      "name": "Max",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/96069018bbdd02747008b83a2924fa333ec1cc4b9a1a07601b2a5b154c419957.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1497234094144598025/19458826",
+    "wm-target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-02-25T22:55:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1497234094144598025/19458826",
+  "target": "https://bascht.com/posts/2022/02/25/https/t.co/4autu00plr/",
+  "private": false
+}
