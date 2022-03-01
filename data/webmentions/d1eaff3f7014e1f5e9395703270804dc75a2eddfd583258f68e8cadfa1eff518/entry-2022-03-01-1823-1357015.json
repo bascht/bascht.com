@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/mrebbert/status/1498384774884474881",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1357015,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus 🇺🇦 #standwithukraine",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/74a34529e2934c6166156ed8dc5ef846925c9c8d772b693a7e34d535159afe94.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn ihr noch nach Spendenmöglichkeiten sucht: Das Medinetz Halle hilft Menschen auf der Flucht und sammelt gerade Geld um den medibus aus dem Winterschlaf zu holen:\n\nMedinetz Halle e.V.\nIBAN: DE 65 8005 3762 1894 042405\nBIC: NOLADE21HAL\nVerwendungszweck: medibus\n\nGern teilen."
+    },
+    "published": "2022-02-28T19:49:03+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1498382785932836869/1498384774884474881",
+    "wm-target": "https://bascht.com/posts/2022/02/28/wenn-ihr-noch-nach-spendenm%C3%B6glichkeiten/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-03-01T13:08:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1498382785932836869/1498384774884474881",
+  "target": "https://bascht.com/posts/2022/02/28/wenn-ihr-noch-nach-spendenm%C3%B6glichkeiten/",
+  "private": false
+}
