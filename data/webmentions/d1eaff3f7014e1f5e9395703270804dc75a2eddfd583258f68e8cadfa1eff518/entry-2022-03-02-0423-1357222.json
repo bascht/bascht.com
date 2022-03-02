@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/funktoriell/status/1498748336781860869",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1357222,
+    "author": {
+      "url": "https://twitter.com/funktoriell",
+      "name": "Robin Stammer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/002184e5afa5dbdb82f2f52204cdb20a8c5918bd7981ebfd8e3512f3f1bb5255.png"
+    },
+    "content": {
+      "html": null,
+      "text": "Wenn ihr noch nach Spendenmöglichkeiten sucht: Das Medinetz Halle hilft Menschen auf der Flucht und sammelt gerade Geld um den medibus aus dem Winterschlaf zu holen:\n\nMedinetz Halle e.V.\nIBAN: DE 65 8005 3762 1894 042405\nBIC: NOLADE21HAL\nVerwendungszweck: medibus\n\nGern teilen."
+    },
+    "published": "2022-03-01T19:53:43+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1498382785932836869/1498748336781860869",
+    "wm-target": "https://bascht.com/posts/2022/02/28/wenn-ihr-noch-nach-spendenm%C3%B6glichkeiten/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-03-02T00:46:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1498382785932836869/1498748336781860869",
+  "target": "https://bascht.com/posts/2022/02/28/wenn-ihr-noch-nach-spendenm%C3%B6glichkeiten/",
+  "private": false
+}
