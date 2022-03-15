@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1502693217489371144#favorited-by-28508951",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363314,
+    "author": {
+      "url": "https://twitter.com/moonbeamlabs",
+      "name": "Lucas Dohmen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/37012803ec21102120567424fff36f6a9df0620ad054e515c218d20823794cd9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1502693217489371144/28508951",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-15T00:23:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1502693217489371144/28508951",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
