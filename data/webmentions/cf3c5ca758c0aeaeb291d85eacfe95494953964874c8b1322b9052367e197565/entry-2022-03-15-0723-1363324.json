@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/OmarQunsul/status/1502959735045296129",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363324,
+    "author": {
+      "url": "https://twitter.com/OmarQunsul",
+      "name": "Omar Qunsul عمر قنصل",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/039ab959c8f95f2bda45580b48c0099178ff31a499bd497caa7fa192f14fccfe.jpg"
+    },
+    "content": {
+      "html": "In 2019 I said \"I will skip it this year, and join in the next few years\" 🤦‍♂️I regret this\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/rubyoniceconf\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/vweidhaas\"></a>",
+      "text": "In 2019 I said \"I will skip it this year, and join in the next few years\" 🤦‍♂️I regret this"
+    },
+    "published": "2022-03-13T10:48:19+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502959735045296129",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-15T00:24:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502959735045296129",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
