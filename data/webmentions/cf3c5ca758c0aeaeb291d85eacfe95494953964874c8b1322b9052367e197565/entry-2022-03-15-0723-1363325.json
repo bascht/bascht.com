@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/vweidhaas/status/1502929485418668036",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363325,
+    "author": {
+      "url": "https://twitter.com/vweidhaas",
+      "name": "Virginia Weidhaas",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66567608b9ee38273f9fd34e30dc439c7ed69c1d85331f1acbb2a62adda94479.jpg"
+    },
+    "content": {
+      "html": "Ruby on ice war toll!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/rubyoniceconf\"></a>",
+      "text": "Ruby on ice war toll!"
+    },
+    "published": "2022-03-13T08:48:07+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502929485418668036",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-15T00:24:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502929485418668036",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
