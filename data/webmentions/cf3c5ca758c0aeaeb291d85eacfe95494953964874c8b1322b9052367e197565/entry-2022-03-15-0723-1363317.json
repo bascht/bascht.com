@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1502693217489371144#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363317,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "Christos Alexiou",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/65960a8711b008d92ca8732f5dde82759420585345a2e68510f0eef8e4df27fc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1502693217489371144/1844342406",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-15T00:24:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1502693217489371144/1844342406",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
