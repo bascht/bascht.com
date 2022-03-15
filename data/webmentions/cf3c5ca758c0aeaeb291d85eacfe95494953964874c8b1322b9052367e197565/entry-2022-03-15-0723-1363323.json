@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1503307875434774531",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363323,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "True that! But judging from a book-keeping perspective cancelling a conference that was planned for early 2020 was probably the best call we ever made. 🙈\n<a class=\"u-mention\" href=\"https://twitter.com/OmarQunsul\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/rubyoniceconf\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/vweidhaas\"></a>",
+      "text": "True that! But judging from a book-keeping perspective cancelling a conference that was planned for early 2020 was probably the best call we ever made. 🙈"
+    },
+    "published": "2022-03-14T09:51:42+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1503307875434774531",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-15T00:24:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1503307875434774531",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
