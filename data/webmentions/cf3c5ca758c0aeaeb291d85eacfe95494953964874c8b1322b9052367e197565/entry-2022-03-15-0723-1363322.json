@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/makandra_de/status/1503284810852278276",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363322,
+    "author": {
+      "url": "https://twitter.com/makandra_de",
+      "name": "makandra.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7a25b4acd53222d62789fcb53371bfc6a5b1002b5d744634a07625f9a818ed57.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Dank Steuerberater-Rückfragen kurzen Flashback zu 2019 als wir einmal 300 Brezn für die @rubyoniceconf bestellten."
+    },
+    "published": "2022-03-14T08:20:03+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1502693217489371144/1503284810852278276",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-03-15T00:24:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1502693217489371144/1503284810852278276",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
