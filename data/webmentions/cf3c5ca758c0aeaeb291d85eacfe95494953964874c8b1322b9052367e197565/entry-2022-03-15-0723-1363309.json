@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1502693217489371144#favorited-by-19122208",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363309,
+    "author": {
+      "url": "https://twitter.com/maerys",
+      "name": "Maria Herrmann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a2a6366c41af5a73252726ee709c51650da42c4f75ce42902895e8c1da829da4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1502693217489371144/19122208",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-15T00:23:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1502693217489371144/19122208",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
