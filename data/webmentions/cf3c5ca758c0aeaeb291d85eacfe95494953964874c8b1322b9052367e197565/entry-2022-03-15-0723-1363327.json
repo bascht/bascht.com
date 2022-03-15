@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/depone/status/1502712764393041922",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363327,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/160903b1e600e4e70a45dda76b310f0f3191f9f6dc23ca97d26e6ec65d0aee85.jpg"
+    },
+    "content": {
+      "html": "300 Brezn &lt;3\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/rubyoniceconf\"></a>",
+      "text": "300 Brezn <3"
+    },
+    "published": "2022-03-12T18:26:56+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502712764393041922",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-15T00:24:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502712764393041922",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
