@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tom_duessel/status/1502929893092384774",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363326,
+    "author": {
+      "url": "https://twitter.com/tom_duessel",
+      "name": "Tomtom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad3c3857212d229476790e8607448618ffa41e3f02a0496d32a8db0e38634a8a.jpg"
+    },
+    "content": {
+      "html": "War lecker 😋\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/rubyoniceconf\"></a>",
+      "text": "War lecker 😋"
+    },
+    "published": "2022-03-13T08:49:44+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502929893092384774",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-15T00:24:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1502693217489371144/1502929893092384774",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
