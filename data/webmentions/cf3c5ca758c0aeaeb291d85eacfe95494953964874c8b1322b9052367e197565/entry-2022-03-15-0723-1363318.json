@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1502693217489371144#favorited-by-10331802",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363318,
+    "author": {
+      "url": "https://twitter.com/ujh",
+      "name": "Urban Hafner",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8e126faa1cf668b4e9b457af03421e2cc9c2788bb378e2cfd79c5f32e7bcd63.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1502693217489371144/10331802",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-15T00:24:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1502693217489371144/10331802",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
