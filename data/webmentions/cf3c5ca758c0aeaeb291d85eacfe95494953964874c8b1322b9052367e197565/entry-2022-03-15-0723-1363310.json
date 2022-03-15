@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1502693217489371144#favorited-by-3022414522",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1363310,
+    "author": {
+      "url": "https://twitter.com/ferbsx",
+      "name": "Ferdous.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fbd27e081dc136cda31c135fdd79bf51292e5d4f4cf9146edcb140114ffa1cc0.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1502693217489371144/3022414522",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-15T00:23:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1502693217489371144/3022414522",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
