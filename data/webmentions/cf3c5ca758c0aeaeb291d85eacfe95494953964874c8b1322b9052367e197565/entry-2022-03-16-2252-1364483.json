@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1502693217489371144#favorited-by-1879351",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1364483,
+    "author": {
+      "url": "https://twitter.com/LeahNeukirchen",
+      "name": "Leah Neukirchen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f75ea8f65413c54f6cd1ae1c4d0da5d45809967150000c7925feaf3ff40ff6d8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1502693217489371144/1879351",
+    "wm-target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-16T20:57:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1502693217489371144/1879351",
+  "target": "https://bascht.com/posts/2022/03/12/dank-steuerberater-r%C3%BCckfragen-kurzen-fla/",
+  "private": false
+}
