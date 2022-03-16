@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1503837199753789445",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1364043,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c41c58014ea0ab9ed73d92c4ae7b32b53154eeec9c6df527241064815940d96a.jpg"
+    },
+    "content": {
+      "html": "Mitgliedsbeiträge vergessen zu überweisen\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Mitgliedsbeiträge vergessen zu überweisen"
+    },
+    "published": "2022-03-15T20:55:03+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1503828572061974528/1503837199753789445",
+    "wm-target": "https://bascht.com/posts/2022/03/15/was-muss-man-als-lebensmittelhersteller/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/15/was-muss-man-als-lebensmittelhersteller/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-16T11:22:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1503828572061974528/1503837199753789445",
+  "target": "https://bascht.com/posts/2022/03/15/was-muss-man-als-lebensmittelhersteller/",
+  "private": false
+}
