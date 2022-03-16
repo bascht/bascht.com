@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1503828572061974528#favorited-by-1263104304732225538",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1364042,
+    "author": {
+      "url": "https://twitter.com/tlandinger",
+      "name": "Timon Landinger 🇺🇦",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b56732ece96574f9c2c5edb561698d3da19b3c43f04877289d88e9f1a53fb8a6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1503828572061974528/1263104304732225538",
+    "wm-target": "https://bascht.com/posts/2022/03/15/was-muss-man-als-lebensmittelhersteller/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-16T11:22:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1503828572061974528/1263104304732225538",
+  "target": "https://bascht.com/posts/2022/03/15/was-muss-man-als-lebensmittelhersteller/",
+  "private": false
+}
