@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108010633794565556#favorited-by-66755",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1368548,
+    "author": {
+      "url": "https://loma.ml/profile/z428",
+      "name": "Kristian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/551d318ff266dbcd2ba619b8a66706f003bf96afb537757f0fffc29fedfcdad4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108010633794565556/66755",
+    "wm-target": "https://bascht.com/posts/2022/03/24/bascht-had-manti-yesterday-since-we-p/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-24T11:57:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108010633794565556/66755",
+  "target": "https://bascht.com/posts/2022/03/24/bascht-had-manti-yesterday-since-we-p/",
+  "private": false
+}
