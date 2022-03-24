@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1506712491476369421#favorited-by-447845138",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1368458,
+    "author": {
+      "url": "https://twitter.com/triskweline",
+      "name": "Henning Koch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0a21af157bf83999be04e3036e8c35eeecab5f8c16ab0283bef59dcdaaa94c1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1506712491476369421/447845138",
+    "wm-target": "https://bascht.com/posts/2022/03/23/garantiert-mehr-bandbreite-als-lte-zwisc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-24T06:20:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1506712491476369421/447845138",
+  "target": "https://bascht.com/posts/2022/03/23/garantiert-mehr-bandbreite-als-lte-zwisc/",
+  "private": false
+}
