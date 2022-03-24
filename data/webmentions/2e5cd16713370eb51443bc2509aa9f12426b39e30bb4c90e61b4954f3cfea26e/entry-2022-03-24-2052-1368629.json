@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1506953938385387527#favorited-by-86257483",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1368629,
+    "author": {
+      "url": "https://twitter.com/arrasz",
+      "name": "Joachim Arrasz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3edbfc64d4043a87c04755f42951f0149d5d2ba780942dd7480d7375a8a1182e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1506953938385387527/86257483",
+    "wm-target": "https://bascht.com/posts/2022/03/24/gundermann-dazu-mein-auto-wiegt-rund/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-24T14:47:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1506953938385387527/86257483",
+  "target": "https://bascht.com/posts/2022/03/24/gundermann-dazu-mein-auto-wiegt-rund/",
+  "private": false
+}
