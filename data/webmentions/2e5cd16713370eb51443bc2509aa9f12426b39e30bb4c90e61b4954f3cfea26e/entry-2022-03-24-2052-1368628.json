@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1506953938385387527#favorited-by-54855452",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1368628,
+    "author": {
+      "url": "https://twitter.com/radlepunktde",
+      "name": "Torsten Schönebaum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dd9343ae7c498282a79d3e35e33df8ab6f2876d039011b9e266125f55ce6bac9.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1506953938385387527/54855452",
+    "wm-target": "https://bascht.com/posts/2022/03/24/gundermann-dazu-mein-auto-wiegt-rund/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-24T14:47:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1506953938385387527/54855452",
+  "target": "https://bascht.com/posts/2022/03/24/gundermann-dazu-mein-auto-wiegt-rund/",
+  "private": false
+}
