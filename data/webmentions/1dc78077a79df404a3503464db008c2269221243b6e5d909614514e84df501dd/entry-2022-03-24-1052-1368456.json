@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1506712491476369421#favorited-by-129553128",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1368456,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c41c58014ea0ab9ed73d92c4ae7b32b53154eeec9c6df527241064815940d96a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1506712491476369421/129553128",
+    "wm-target": "https://bascht.com/posts/2022/03/23/garantiert-mehr-bandbreite-als-lte-zwisc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-24T06:20:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1506712491476369421/129553128",
+  "target": "https://bascht.com/posts/2022/03/23/garantiert-mehr-bandbreite-als-lte-zwisc/",
+  "private": false
+}
