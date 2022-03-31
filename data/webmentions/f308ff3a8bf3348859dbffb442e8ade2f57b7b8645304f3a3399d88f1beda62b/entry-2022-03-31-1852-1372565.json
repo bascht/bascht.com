@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1509452163487080455#favorited-by-755860",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1372565,
+    "author": {
+      "url": "https://twitter.com/plexus",
+      "name": "Arne Brasseur 💙💛",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b909f41866dc8309ffe6cac2bed34a4b9e1a1687e19bd7d4fc9bbda784e7dcd2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1509452163487080455/755860",
+    "wm-target": "https://bascht.com/posts/2022/03/31/happy-birthday-fnordfish-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-03-31T14:57:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1509452163487080455/755860",
+  "target": "https://bascht.com/posts/2022/03/31/happy-birthday-fnordfish-https/",
+  "private": false
+}
