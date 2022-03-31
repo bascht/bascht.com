@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/badboy_/status/1509452648906383362",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1372422,
+    "author": {
+      "url": "https://twitter.com/badboy_",
+      "name": "jan-erik",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617e5e3369bd75806bdcfcc86fbfeebbc620cff337048b079b678efad76da957.jpg"
+    },
+    "content": {
+      "html": "Happy birthday @bascht &amp; @fnordfish 🎉🎂🎁\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/fnordfish\"></a>",
+      "text": "Happy birthday @bascht & @fnordfish 🎉🎂🎁"
+    },
+    "published": "2022-03-31T08:48:50+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1509452163487080455/1509452648906383362",
+    "wm-target": "https://bascht.com/posts/2022/03/31/happy-birthday-fnordfish-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/03/31/happy-birthday-fnordfish-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-03-31T11:09:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1509452163487080455/1509452648906383362",
+  "target": "https://bascht.com/posts/2022/03/31/happy-birthday-fnordfish-https/",
+  "private": false
+}
