@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/108080428234127768",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1375588,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> orrr. Da nehme ich einen!</p>",
+      "text": "@bascht orrr. Da nehme ich einen!"
+    },
+    "published": "2022-04-05T16:34:16",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108080227378819497/108080428274499876",
+    "wm-target": "https://bascht.com/posts/2022/04/05/bascht-drip-drip-drip/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/05/bascht-drip-drip-drip/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-05T16:50:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108080227378819497/108080428274499876",
+  "target": "https://bascht.com/posts/2022/04/05/bascht-drip-drip-drip/",
+  "private": false
+}
