@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/108081492047570556",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1375666,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62428f8497d3ccc8ea6104f6982be779e617078beebcfce426908139e6e7392a.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> thought there is, should be, if you can keep stuff running with good quality continuously?</p>",
+      "text": "@bascht thought there is, should be, if you can keep stuff running with good quality continuously?"
+    },
+    "published": "2022-04-05T21:04:48",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108081454784079114/108081492093085050",
+    "wm-target": "https://bascht.com/posts/2022/04/05/theres-no-pride-in-uptime./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/05/theres-no-pride-in-uptime./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-05T21:18:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108081454784079114/108081492093085050",
+  "target": "https://bascht.com/posts/2022/04/05/theres-no-pride-in-uptime./",
+  "private": false
+}
