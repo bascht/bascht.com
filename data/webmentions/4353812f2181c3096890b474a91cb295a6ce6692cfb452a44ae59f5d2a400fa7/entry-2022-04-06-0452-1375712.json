@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108081454784079114#favorited-by-526",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1375712,
+    "author": {
+      "url": "https://chaos.social/@kde",
+      "name": "Simon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2871d679dc64a8ae601271026527e3844cef571a6679819ad2d8c1afa2f79523.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108081454784079114/526",
+    "wm-target": "https://bascht.com/posts/2022/04/05/theres-no-pride-in-uptime./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-06T01:27:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108081454784079114/526",
+  "target": "https://bascht.com/posts/2022/04/05/theres-no-pride-in-uptime./",
+  "private": false
+}
