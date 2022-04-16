@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108140302054718114#favorited-by-107741332669976347",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1382204,
+    "author": {
+      "url": "https://freeradical.zone/@prplecake",
+      "name": "Microwave for 40 minutes 😔",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c2228ca2b6c4506bb146c1ed3a3016ec60cd4ab8eaeca8eb2091251172c144b5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108140302054718114/107741332669976347",
+    "wm-target": "https://bascht.com/posts/2022/04/16/bascht-well-close./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-16T16:33:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108140302054718114/107741332669976347",
+  "target": "https://bascht.com/posts/2022/04/16/bascht-well-close./",
+  "private": false
+}
