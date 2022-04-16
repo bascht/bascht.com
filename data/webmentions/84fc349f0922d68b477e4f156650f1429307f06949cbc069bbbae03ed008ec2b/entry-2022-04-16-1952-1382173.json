@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108140302054718114#favorited-by-472",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1382173,
+    "author": {
+      "url": "https://xoxo.zone/@annika",
+      "name": "Annika Backstrom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/19e40743a7fa355a45486f6544adbf0277b113ee860aa5b8abc214b858dcd3dc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108140302054718114/472",
+    "wm-target": "https://bascht.com/posts/2022/04/16/bascht-well-close./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-16T13:25:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108140302054718114/472",
+  "target": "https://bascht.com/posts/2022/04/16/bascht-well-close./",
+  "private": false
+}
