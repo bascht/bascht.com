@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1516711161655353345",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1383660,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Pixelfed image: 🔲 • <a href=\"https://bascht.com/posts/2022/04/20/422321797323379564/\">bascht.com/posts/2022/04/…</a>",
+      "text": "Pixelfed image: 🔲 • bascht.com/posts/2022/04/…"
+    },
+    "published": "2022-04-20T09:31:34+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1516711161655353345",
+    "wm-target": "https://bascht.com/posts/2022/04/20/422321797323379564/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-04-20T10:08:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1516711161655353345",
+  "target": "https://bascht.com/posts/2022/04/20/422321797323379564/",
+  "private": false
+}
