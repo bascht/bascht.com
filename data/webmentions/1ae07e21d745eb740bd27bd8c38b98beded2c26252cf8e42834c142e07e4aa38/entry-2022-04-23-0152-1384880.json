@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1517527406332059648#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1384880,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "christos 🇺🇦",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/65960a8711b008d92ca8732f5dde82759420585345a2e68510f0eef8e4df27fc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1517527406332059648/1844342406",
+    "wm-target": "https://bascht.com/posts/2022/04/22/twitter-you-need-to-calm-the-fuck-down./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-22T18:58:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1517527406332059648/1844342406",
+  "target": "https://bascht.com/posts/2022/04/22/twitter-you-need-to-calm-the-fuck-down./",
+  "private": false
+}
