@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1517527406332059648#favorited-by-47944587",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1384881,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1517527406332059648/47944587",
+    "wm-target": "https://bascht.com/posts/2022/04/22/twitter-you-need-to-calm-the-fuck-down./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-22T18:58:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1517527406332059648/47944587",
+  "target": "https://bascht.com/posts/2022/04/22/twitter-you-need-to-calm-the-fuck-down./",
+  "private": false
+}
