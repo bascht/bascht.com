@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1517527406332059648#favorited-by-2398423772",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1384882,
+    "author": {
+      "url": "https://twitter.com/HagenSchendel",
+      "name": "Hagen Schendel",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/016242f9c8bc98159d9e27a0cab5fda35f89000ad9b7366f3f9337c249bf1e39.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1517527406332059648/2398423772",
+    "wm-target": "https://bascht.com/posts/2022/04/22/twitter-you-need-to-calm-the-fuck-down./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-22T18:58:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1517527406332059648/2398423772",
+  "target": "https://bascht.com/posts/2022/04/22/twitter-you-need-to-calm-the-fuck-down./",
+  "private": false
+}
