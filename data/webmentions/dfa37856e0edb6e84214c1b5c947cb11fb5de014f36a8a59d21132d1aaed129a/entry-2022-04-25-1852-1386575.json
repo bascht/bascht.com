@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/signifikanten/status/1518550431462473728",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1386575,
+    "author": {
+      "url": "https://twitter.com/signifikanten",
+      "name": "Michael Lindner",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/76a135b47055c19fc0172be12cbce4abbb3e7b2ed8d28e28ec34a129ae3bbb7a.jpg"
+    },
+    "content": {
+      "html": "Thanks for that good laugh!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Thanks for that good laugh!"
+    },
+    "published": "2022-04-25T11:20:10+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1518532355778134016/1518550431462473728",
+    "wm-target": "https://bascht.com/posts/2022/04/25/get-in-the-fucking-sack-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/25/get-in-the-fucking-sack-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-25T13:39:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1518532355778134016/1518550431462473728",
+  "target": "https://bascht.com/posts/2022/04/25/get-in-the-fucking-sack-https/",
+  "private": false
+}
