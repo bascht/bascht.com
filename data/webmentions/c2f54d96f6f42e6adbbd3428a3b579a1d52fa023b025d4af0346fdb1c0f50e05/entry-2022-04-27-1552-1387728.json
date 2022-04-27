@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108203017189342311#favorited-by-14249",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387728,
+    "author": {
+      "url": "https://wandzeitung.xyz/@assbach",
+      "name": "assbach",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07da8d68b339cebfc6b136c4673c52f431a307d455df3ae54dc1135eaa564aa5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108203017189342311/14249",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-27T11:49:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108203017189342311/14249",
+  "target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+  "private": false
+}
