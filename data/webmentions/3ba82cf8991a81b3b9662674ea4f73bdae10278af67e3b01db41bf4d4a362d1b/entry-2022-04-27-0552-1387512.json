@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108199681061518580#favorited-by-108199785013477896",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387512,
+    "author": {
+      "url": "https://pixelfed.social/ghfiii",
+      "name": "Griff Ferrell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/2d65922ca26a272f3cf960d3cbf53112d9ef781b8ae3e9104c5fe2ddf0de890d.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108199681061518580/108199785013477896",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-26T23:20:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108199681061518580/108199785013477896",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
