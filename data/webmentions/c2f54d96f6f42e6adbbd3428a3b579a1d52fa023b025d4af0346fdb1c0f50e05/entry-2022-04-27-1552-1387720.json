@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/108203024864166078",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387720,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> There’s an issue for that <a href=\"https://github.com/mastodon/mastodon/issues/17073\"><span>https://</span><span>github.com/mastodon/mastodon/i</span><span>ssues/17073</span></a></p>\n<a href=\"https://github.com/mastodon/mastodon/issues/17073\">Per-toot language · Issue #17073 · mastodon/mastodon</a>",
+      "text": "@bascht There’s an issue for that https://github.com/mastodon/mastodon/issues/17073\nPer-toot language · Issue #17073 · mastodon/mastodon"
+    },
+    "published": "2022-04-27T08:12:12",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108203017189342311/108203024921173693",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-27T11:49:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108203017189342311/108203024921173693",
+  "target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+  "private": false
+}
