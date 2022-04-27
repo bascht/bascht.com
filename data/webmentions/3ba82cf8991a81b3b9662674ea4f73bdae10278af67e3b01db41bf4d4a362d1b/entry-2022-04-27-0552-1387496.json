@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108200669715023358",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387496,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@philhoefer\" class=\"u-url\">@<span>philhoefer</span></a></span> yo, der <span class=\"h-card\"><a href=\"https://social.tchncs.de/@LittleJoeMuc\" class=\"u-url\">@<span>LittleJoeMuc</span></a></span> hatte den entscheidenden Hint. Ist ne Schruppscheibe. Vielleicht noch für Stein okay.</p>",
+      "text": "@philhoefer yo, der @LittleJoeMuc hatte den entscheidenden Hint. Ist ne Schruppscheibe. Vielleicht noch für Stein okay."
+    },
+    "published": "2022-04-26T22:13:15",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108200669715023358",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-26T23:20:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108200669715023358",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
