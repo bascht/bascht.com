@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108199681061518580#favorited-by-18054",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387510,
+    "author": {
+      "url": "https://troet.cafe/@sny",
+      "name": "▫️ 𝘀𝗡𝘆🦎▫️🔸▫️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6f01ca95d6a068e6a7b204f6e02bdf59bc9266ebc48d921fa3b35e4322529a9f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108199681061518580/18054",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-26T23:20:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108199681061518580/18054",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
