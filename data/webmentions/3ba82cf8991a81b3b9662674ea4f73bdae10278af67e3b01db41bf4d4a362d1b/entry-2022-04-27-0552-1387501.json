@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://ruby.social/@halfbyte/108199793467582554",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387501,
+    "author": {
+      "url": "https://ruby.social/@halfbyte",
+      "name": "half/byte",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/39eab76d87fe64aa2b006bb54a1a4245e2b6c723e818ba86976f8c782aab7f63.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Sir, can you please step away from the Eiffel tower, Sir?</p>",
+      "text": "@bascht Sir, can you please step away from the Eiffel tower, Sir?"
+    },
+    "published": "2022-04-26T18:30:25",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199795870960357",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-26T23:20:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199795870960357",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
