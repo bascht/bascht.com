@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@LittleJoeMuc/108199866811846541",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387504,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e3a10b8c93da15fac075649d5c474e23b370343150bec8a3125a7d22db8d8cca.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> and yes, I already cut railroad beams. 😁</p>",
+      "text": "@bascht and yes, I already cut railroad beams. 😁"
+    },
+    "published": "2022-04-26T18:49:04",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199870345477704",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-26T23:20:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199870345477704",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
