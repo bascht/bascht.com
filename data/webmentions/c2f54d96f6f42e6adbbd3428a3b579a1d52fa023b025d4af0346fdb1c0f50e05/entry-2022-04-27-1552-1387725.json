@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108203192098881175",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387725,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://wandzeitung.xyz/@assbach\" class=\"u-url\">@<span>assbach</span></a></span> Ja genau - für manche Sachen würde ich mir auch die Mühe machen es zu übersetzen. Denke das würde sicher gut für Fediverse-Dinge funktionieren.</p>",
+      "text": "@assbach Ja genau - für manche Sachen würde ich mir auch die Mühe machen es zu übersetzen. Denke das würde sicher gut für Fediverse-Dinge funktionieren."
+    },
+    "published": "2022-04-27T08:54:44",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108203017189342311/108203192098881175",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-27T11:49:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108203017189342311/108203192098881175",
+  "target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+  "private": false
+}
