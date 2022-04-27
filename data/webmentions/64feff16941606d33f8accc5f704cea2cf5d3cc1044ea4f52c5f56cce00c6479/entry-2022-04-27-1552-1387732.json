@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108203189615542281",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387732,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://toot.kif.rocks/@thegcat\" class=\"u-url\">@<span>thegcat</span></a></span> Ooooh, TIL »This is not exposed in the web UI to avoid cluttering the form.«</p>",
+      "text": "@thegcat Ooooh, TIL »This is not exposed in the web UI to avoid cluttering the form.«"
+    },
+    "published": "2022-04-27T08:54:06",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108202847795732237/108203189615542281",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-27T11:50:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108202847795732237/108203189615542281",
+  "target": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+  "private": false
+}
