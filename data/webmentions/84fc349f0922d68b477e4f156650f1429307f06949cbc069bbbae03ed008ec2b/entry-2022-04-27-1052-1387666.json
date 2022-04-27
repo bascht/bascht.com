@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108140302054718114#favorited-by-2103",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387666,
+    "author": {
+      "url": "https://weirder.earth/@twistylittlepassages",
+      "name": "Amazey",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/25b54288dafcf76412fc3f398cabb8b7d40339a6a672cf4058c44ba433570237.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108140302054718114/2103",
+    "wm-target": "https://bascht.com/posts/2022/04/16/bascht-well-close./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-27T07:16:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108140302054718114/2103",
+  "target": "https://bascht.com/posts/2022/04/16/bascht-well-close./",
+  "private": false
+}
