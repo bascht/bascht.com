@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108199888584243139",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387506,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@LittleJoeMuc\" class=\"u-url\">@<span>LittleJoeMuc</span></a></span> Oooooooh. That makes so much more sense now. I might actually have more use cases for that then, since the lawnmower blades are in dire need of a sharpening. 😁</p>",
+      "text": "@LittleJoeMuc Oooooooh. That makes so much more sense now. I might actually have more use cases for that then, since the lawnmower blades are in dire need of a sharpening. 😁"
+    },
+    "published": "2022-04-26T18:54:36",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199888584243139",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-26T23:20:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199888584243139",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
