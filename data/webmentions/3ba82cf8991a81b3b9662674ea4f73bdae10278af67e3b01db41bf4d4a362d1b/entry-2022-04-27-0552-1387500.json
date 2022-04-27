@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108199722473994432",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387500,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@philhoefer\" class=\"u-url\">@<span>philhoefer</span></a></span> Hast Du grad was zu schneiden? 😂</p>",
+      "text": "@philhoefer Hast Du grad was zu schneiden? 😂"
+    },
+    "published": "2022-04-26T18:12:21",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199722473994432",
+    "wm-target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-26T23:20:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108199681061518580/108199722473994432",
+  "target": "https://bascht.com/posts/2022/04/26/bascht-bought-new-disks-for-the-angle/",
+  "private": false
+}
