@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108203017189342311#favorited-by-69516",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387727,
+    "author": {
+      "url": "https://ruby.social/@andy_twosticks",
+      "name": "Andy Jones ☑️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8d976aafefc38369441397f08d84e8dc2fb360acab9ca461a6e145a5c2370966.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108203017189342311/69516",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-27T11:49:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108203017189342311/69516",
+  "target": "https://bascht.com/posts/2022/04/27/kontext-ich-w%C3%BCnschte-mastodon-h%C3%A4tt/",
+  "private": false
+}
