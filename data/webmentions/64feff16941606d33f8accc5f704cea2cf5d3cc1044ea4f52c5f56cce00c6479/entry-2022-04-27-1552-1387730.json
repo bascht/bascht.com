@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.sdf.org/@velocipederider/108202915465703651",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387730,
+    "author": {
+      "url": "https://mastodon.sdf.org/@velocipederider",
+      "name": "Velocipede Rider",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0eb9f0246fe96d2cfa428d245250a7d718b4b5616c657107279d6710b9ce347.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I do not speak German but my browser (Vivaldi - also the company I work for) will auto-translate selected text in a side panel. I use this frequently and while it has the same failing as all automatic translations it is workable for many situations if a little caution and thought is used. Thus I am not too concerned with following people who use other languages.</p>",
+      "text": "@bascht I do not speak German but my browser (Vivaldi - also the company I work for) will auto-translate selected text in a side panel. I use this frequently and while it has the same failing as all automatic translations it is workable for many situations if a little caution and thought is used. Thus I am not too concerned with following people who use other languages."
+    },
+    "published": "2022-04-27T07:44:23",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108202847795732237/108202915730326994",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-27T11:49:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108202847795732237/108202915730326994",
+  "target": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+  "private": false
+}
