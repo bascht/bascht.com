@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.spacebear.ee/objects/b0852ec0-2fd2-42e3-84cd-e726445c7a22",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1387514,
+    "author": {
+      "url": "https://social.spacebear.ee/users/support",
+      "name": "Spacebear.EE Support",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07dffc4b5875679318bdd2a7953304dd7d049597c014427ccf622e791f25988a.png"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> right now, sorry for the delay.",
+      "text": "@bascht right now, sorry for the delay."
+    },
+    "published": "2022-04-26T23:13:24",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108198866526325573/108200906466594598",
+    "wm-target": "https://bascht.com/posts/2022/04/26/support-hey-there-do-you-a-rough-estim/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/26/support-hey-there-do-you-a-rough-estim/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-26T23:20:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108198866526325573/108200906466594598",
+  "target": "https://bascht.com/posts/2022/04/26/support-hey-there-do-you-a-rough-estim/",
+  "private": false
+}
