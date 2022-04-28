@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@0xReki/108209462066322451",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1388433,
+    "author": {
+      "url": "https://toot.kif.rocks/@0xReki",
+      "name": "quốc Thái “0xReki” Chung",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5188c402f2d1d0cb36a8ea5b0eb5d9fc93230bb8899352c905fcb6312ec62aab.jpg"
+    },
+    "content": {
+      "html": "<p>Hello <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span>!   Your toot briefly flashed on my timeline and I went “I know that name!”<br />Greetings from the Cologne area!</p>",
+      "text": "Hello @bascht!   Your toot briefly flashed on my timeline and I went “I know that name!”\nGreetings from the Cologne area!"
+    },
+    "published": "2022-04-28T11:29:16",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108202847795732237/108209462101281146",
+    "wm-target": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-28T12:41:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108202847795732237/108209462101281146",
+  "target": "https://bascht.com/posts/2022/04/27/kleine-umfrage-damit-ich-wei%C3%9F-wer-h/",
+  "private": false
+}
