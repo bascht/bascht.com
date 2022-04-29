@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/108215484719638108",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389118,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> ist das eine Sense?</p>",
+      "text": "@bascht ist das eine Sense?"
+    },
+    "published": "2022-04-29T13:00:54",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108215479392409400/108215484759000834",
+    "wm-target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-29T16:09:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108215479392409400/108215484759000834",
+  "target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+  "private": false
+}
