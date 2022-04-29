@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108215514696415039",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389112,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@philhoefer\" class=\"u-url\">@<span>philhoefer</span></a></span> yo. Mit der Fadenspule werd ich bekloppt 😁</p>",
+      "text": "@philhoefer yo. Mit der Fadenspule werd ich bekloppt 😁"
+    },
+    "published": "2022-04-29T13:08:32",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108215479392409400/108215514696415039",
+    "wm-target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-29T16:09:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108215479392409400/108215514696415039",
+  "target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+  "private": false
+}
