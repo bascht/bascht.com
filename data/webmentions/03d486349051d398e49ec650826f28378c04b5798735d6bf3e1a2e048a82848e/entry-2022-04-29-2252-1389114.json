@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108215479392409400#favorited-by-108210271126450594",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389114,
+    "author": {
+      "url": "https://ioc.exchange/@pcnoic",
+      "name": "pcnoic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/78c18aa7512e6efcf4647090675a57766a8a3d977a194df9d7153868f7f131e0.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108215479392409400/108210271126450594",
+    "wm-target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-29T16:09:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108215479392409400/108210271126450594",
+  "target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+  "private": false
+}
