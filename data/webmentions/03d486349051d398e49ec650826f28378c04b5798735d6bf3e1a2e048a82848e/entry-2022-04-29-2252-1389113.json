@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://ioc.exchange/@pcnoic/108215987620297702",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389113,
+    "author": {
+      "url": "https://ioc.exchange/@pcnoic",
+      "name": "pcnoic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/78c18aa7512e6efcf4647090675a57766a8a3d977a194df9d7153868f7f131e0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I spent literally 5’ looking at the picture and still cannot figure out what I am looking at.</p>",
+      "text": "@bascht I spent literally 5’ looking at the picture and still cannot figure out what I am looking at."
+    },
+    "published": "2022-04-29T15:08:48",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108215479392409400/108215987715253927",
+    "wm-target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-04-29T16:09:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108215479392409400/108215987715253927",
+  "target": "https://bascht.com/posts/2022/04/29/bascht-if-its-stupid-but-it-works/",
+  "private": false
+}
