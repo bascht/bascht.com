@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1520475811350040577",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389705,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Guinness ist Stout, \naber das ist…"
+    },
+    "published": "2022-04-30T18:50:57+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1520457397667606534/1520475811350040577",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-04-30T20:43:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1520457397667606534/1520475811350040577",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
