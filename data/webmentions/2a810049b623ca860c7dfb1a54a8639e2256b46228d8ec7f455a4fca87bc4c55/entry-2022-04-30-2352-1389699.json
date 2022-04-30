@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1520457397667606534#favorited-by-3364804197",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389699,
+    "author": {
+      "url": "https://twitter.com/AlizeNero",
+      "name": "kaja nö",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d6cc9bc7a296c27582aa1f4255afe551365e55b94bff8f0b2c5021128a84015d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1520457397667606534/3364804197",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-30T20:43:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1520457397667606534/3364804197",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
