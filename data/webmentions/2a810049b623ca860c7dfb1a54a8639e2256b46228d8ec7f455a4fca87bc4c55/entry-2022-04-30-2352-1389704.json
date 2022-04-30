@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1520457397667606534#favorited-by-129553128",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389704,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b18071b82689c842c159a74ad53ddb3ae53f06617ccedc6338a1c36811b148e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1520457397667606534/129553128",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-04-30T20:43:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1520457397667606534/129553128",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
