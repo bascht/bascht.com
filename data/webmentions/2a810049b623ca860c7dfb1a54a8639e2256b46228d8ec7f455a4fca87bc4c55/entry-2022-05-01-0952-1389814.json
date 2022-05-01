@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/thegcat/status/1520598917863383041",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389814,
+    "author": {
+      "url": "https://twitter.com/thegcat",
+      "name": "Felix (@thegcat@kif.rocks)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98d229bde69df18b684166306bfb966a5952bdcceea7144691592e359cc73059.jpg"
+    },
+    "content": {
+      "html": "St. Auder darf man nur unironisch in Essen trinken. I don’t make the rules.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "St. Auder darf man nur unironisch in Essen trinken. I don’t make the rules."
+    },
+    "published": "2022-05-01T03:00:08+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1520457397667606534/1520598917863383041",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-01T06:29:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1520457397667606534/1520598917863383041",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
