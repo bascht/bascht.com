@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1520457397667606534#favorited-by-399302402",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389765,
+    "author": {
+      "url": "https://twitter.com/grambulf",
+      "name": "Matthias",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5ff4f41c0982d2dee480f5cf81c9af12023eed43f715ac6935fdb2846245554.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1520457397667606534/399302402",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-01T02:04:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1520457397667606534/399302402",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
