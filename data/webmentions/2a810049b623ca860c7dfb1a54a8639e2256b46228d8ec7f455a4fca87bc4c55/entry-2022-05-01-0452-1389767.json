@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1520457397667606534#favorited-by-358895094",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1389767,
+    "author": {
+      "url": "https://twitter.com/CBehnert",
+      "name": "Carsten Behnert",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa04e3862aa9dfd45bfedca113647b5c479356d7fe629e52f3860c0a4e90ea87.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1520457397667606534/358895094",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-01T02:04:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1520457397667606534/358895094",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
