@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1520810021000552448",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1390104,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "D.h. ich hab nicht nur isoto- sondern auch noch ironisches Bier? 😮\n<a class=\"u-mention\" href=\"https://twitter.com/thegcat\"></a>",
+      "text": "D.h. ich hab nicht nur isoto- sondern auch noch ironisches Bier? 😮"
+    },
+    "published": "2022-05-01T16:58:58+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1520457397667606534/1520810021000552448",
+    "wm-target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-01T17:57:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1520457397667606534/1520810021000552448",
+  "target": "https://bascht.com/posts/2022/04/30/guinness-ist-stout-aber-das-ist-https/",
+  "private": false
+}
