@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108240135191455824#favorited-by-1669",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391214,
+    "author": {
+      "url": "https://starflower.space/@nova",
+      "name": "null",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fe17e17588f949b6d4fbd71d6195e04c27f1c915aea8d3c3df3684281d026ffb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108240135191455824/1669",
+    "wm-target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-04T00:07:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108240135191455824/1669",
+  "target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+  "private": false
+}
