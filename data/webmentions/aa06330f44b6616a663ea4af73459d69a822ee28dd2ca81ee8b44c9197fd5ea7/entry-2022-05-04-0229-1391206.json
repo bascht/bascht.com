@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.green/@bitboxer/108240195412786590",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391206,
+    "author": {
+      "url": "https://mastodon.green/@bitboxer",
+      "name": "Bodo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e3d9345802d1c4c56140b3d34a933c543853c322d4db3c1b4b6b722407697f00.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> JavaScript repo with dependabot? I merged 30 of those today 😅.</p>",
+      "text": "@bascht JavaScript repo with dependabot? I merged 30 of those today 😅."
+    },
+    "published": "2022-05-03T21:45:09",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240195433577364",
+    "wm-target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-04T00:06:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240195433577364",
+  "target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+  "private": false
+}
