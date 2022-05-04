@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108240276882723697",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391207,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.green/@bitboxer\" class=\"u-url\">@<span>bitboxer</span></a></span> nope. True Ops shit. One third Go, three thirds Yaml :D</p>",
+      "text": "@bitboxer nope. True Ops shit. One third Go, three thirds Yaml :D"
+    },
+    "published": "2022-05-03T22:05:53",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240276882723697",
+    "wm-target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-04T00:07:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240276882723697",
+  "target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+  "private": false
+}
