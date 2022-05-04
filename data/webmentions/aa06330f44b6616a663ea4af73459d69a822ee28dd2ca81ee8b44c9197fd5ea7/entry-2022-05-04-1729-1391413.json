@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/108242455777662544",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391413,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> \"welcome to jackass!\"</p>",
+      "text": "@bascht \"welcome to jackass!\""
+    },
+    "published": "2022-05-04T07:20:00",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108242455810126678",
+    "wm-target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-04T10:35:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108242455810126678",
+  "target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+  "private": false
+}
