@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://soc.schuerz.at/display/4edd2508-1662-71a0-06be-856161382525",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391205,
+    "author": {
+      "url": "https://soc.schuerz.at/profile/jakob",
+      "name": "Jakob :friendica:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f2342caaa53746a4a6bea6c85a2f6ec04f45a8c44b3025db629e6281d74fd8f3.png"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a href=\"https://social.yakshed.org/users/bascht\" class=\"u-url\">@<span>bascht</span></a></span><br />Is anything ok?",
+      "text": "@bascht\nIs anything ok?"
+    },
+    "published": "2022-05-03T21:35:02",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240155764600386",
+    "wm-target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-04T00:06:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240155764600386",
+  "target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+  "private": false
+}
