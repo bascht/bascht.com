@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@qwertziop/108240189212911226",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391218,
+    "author": {
+      "url": "https://chaos.social/@qwertziop",
+      "name": "Akkikacki",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/07232e51e0801ebd8912e3ebcefb8d8c969b5918f80be7c1636925922090c792.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 22?! Ob Du wahnsinnig bist? ;)</p>",
+      "text": "@bascht 22?! Ob Du wahnsinnig bist? ;)"
+    },
+    "published": "2022-05-03T21:43:35",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240189556459163",
+    "wm-target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-04T00:07:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108240135191455824/108240189556459163",
+  "target": "https://bascht.com/posts/2022/05/03/i-reviewed-22-merge-requests-today.-ask/",
+  "private": false
+}
