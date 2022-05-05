@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108245674219595057#favorited-by-19397",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391818,
+    "author": {
+      "url": "https://chaos.social/@metaphil",
+      "name": "me·ta·phil, der",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6e91603563666e52ebf24fa3a0db7dac5bb832f3f1653c93a0dcb784405d7fa6.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/19397",
+    "wm-target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-05T05:01:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/19397",
+  "target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+  "private": false
+}
