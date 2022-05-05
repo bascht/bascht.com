@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108245674219595057#favorited-by-56305",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391912,
+    "author": {
+      "url": "https://toot.wales/@nuala",
+      "name": "Christmas display name",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ca5465e6b6157b56bf486283b9bf182b6470e4f13fe1942224bee9427d6a4bd7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/56305",
+    "wm-target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-05T09:58:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/56305",
+  "target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+  "private": false
+}
