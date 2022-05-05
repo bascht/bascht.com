@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108249180159488552#favorited-by-559",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1392079,
+    "author": {
+      "url": "https://mastodon.social/@konni",
+      "name": "Konni Winkler :pika:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/01487d2481765d6101cd03b247e5dabd566b2ce2c9740b8d8554dc91bfd8a2b8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108249180159488552/559",
+    "wm-target": "https://bascht.com/posts/2022/05/05/bascht-whatever-baby-the-sign-designe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-05T14:53:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108249180159488552/559",
+  "target": "https://bascht.com/posts/2022/05/05/bascht-whatever-baby-the-sign-designe/",
+  "private": false
+}
