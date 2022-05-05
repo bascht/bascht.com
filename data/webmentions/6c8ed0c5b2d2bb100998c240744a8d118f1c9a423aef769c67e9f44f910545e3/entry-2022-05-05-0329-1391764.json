@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108245674219595057#favorited-by-4663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391764,
+    "author": {
+      "url": "https://framapiaf.org/@guido",
+      "name": "Guido Arnold",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3c1b922221e474aac530eb752eb168c81fc63d530e694ffc0aeb5cf638a1f357.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/4663",
+    "wm-target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-05T00:25:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/4663",
+  "target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+  "private": false
+}
