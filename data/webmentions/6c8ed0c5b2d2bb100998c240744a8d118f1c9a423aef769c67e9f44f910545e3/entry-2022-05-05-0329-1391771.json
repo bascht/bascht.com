@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://xoxo.zone/@annika/108245683271934066",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391771,
+    "author": {
+      "url": "https://xoxo.zone/@annika",
+      "name": "Annika Backstrom",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/19e40743a7fa355a45486f6544adbf0277b113ee860aa5b8abc214b858dcd3dc.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> you can do the fallback audio captcha all wrong, they don't even check</p>",
+      "text": "@bascht you can do the fallback audio captcha all wrong, they don't even check"
+    },
+    "published": "2022-05-04T21:00:47",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108245674219595057/108245683368320572",
+    "wm-target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-05T00:25:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108245674219595057/108245683368320572",
+  "target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+  "private": false
+}
