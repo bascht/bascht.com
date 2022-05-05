@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108245674219595057#favorited-by-108245703502623636",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1391762,
+    "author": {
+      "url": "https://solarpunks.social/@clockwork",
+      "name": "Clockwork ☃️✒️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/51d7f547ea28e66673010f03b2119cc3a44c35fe3142922aa4aa9bdf8539313b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/108245703502623636",
+    "wm-target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-05T00:25:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108245674219595057/108245703502623636",
+  "target": "https://bascht.com/posts/2022/05/04/when-presented-with-a-google-captcha-i-m/",
+  "private": false
+}
