@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108253605128721652#reblogged-by-108007057538132728",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1392846,
+    "author": {
+      "url": "https://chaos.social/@zucker",
+      "name": "zucker & 🐢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/17a36c81422afd9824ef53773608bbd2ae2fd7ece9386c1963e12fb4ffff8983.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108253605128721652/108007057538132728",
+    "wm-target": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-05-06T08:53:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108253605128721652/108007057538132728",
+  "target": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+  "private": false
+}
