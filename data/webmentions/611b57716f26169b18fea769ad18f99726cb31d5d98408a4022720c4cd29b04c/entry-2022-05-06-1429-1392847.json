@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@nativebreed/108253615736738379",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1392847,
+    "author": {
+      "url": "https://fosstodon.org/@nativebreed",
+      "name": "Native Breed",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/85f1d94d50c46e6511e0bb0cba2dd598dda47b8262b7bf5486e682105d23e7bb.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> \"Hire\".</p><p>Also people can't even park a scooter in properly in the provided space!</p>",
+      "text": "@bascht \"Hire\".Also people can't even park a scooter in properly in the provided space!"
+    },
+    "published": "2022-05-06T06:38:07",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108253605128721652/108253615756589788",
+    "wm-target": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-06T08:54:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108253605128721652/108253615756589788",
+  "target": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+  "private": false
+}
