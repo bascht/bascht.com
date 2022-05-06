@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.svenbrier.eu/@sven/108253854537213382",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1392844,
+    "author": {
+      "url": "https://toot.svenbrier.eu/@sven",
+      "name": "Sven Brier",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/21bcad5083c31d51ac0c6948044a04a0e706d1fea6435bbdee221511d73e3356.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Wie in <a href=\"https://toot.svenbrier.eu/tags/Leipzig\">#<span>Leipzig</span></a> - hier gibt's die auch.</p>\n<a class=\"p-category\" href=\"https://social.yakshed.org/tags/leipzig\">leipzig</a>",
+      "text": "@bascht Wie in #Leipzig - hier gibt's die auch.\nleipzig"
+    },
+    "published": "2022-05-06T07:38:51",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108253605128721652/108253854574011253",
+    "wm-target": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-06T08:53:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108253605128721652/108253854574011253",
+  "target": "https://bascht.com/posts/2022/05/06/bascht-neat-dedicated-scooter-spaces/",
+  "private": false
+}
