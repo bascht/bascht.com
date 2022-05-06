@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108249180159488552#reblogged-by-726",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1392545,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108249180159488552/726",
+    "wm-target": "https://bascht.com/posts/2022/05/05/bascht-whatever-baby-the-sign-designe/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-05-06T00:30:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108249180159488552/726",
+  "target": "https://bascht.com/posts/2022/05/05/bascht-whatever-baby-the-sign-designe/",
+  "private": false
+}
