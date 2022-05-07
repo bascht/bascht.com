@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1522865420360945664#favorited-by-149996972",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1393572,
+    "author": {
+      "url": "https://twitter.com/ChristianKuehn",
+      "name": "Christian Kühn @cy@chaos.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0388282a3ba906ef4a1e6adeca7037215625b59215dc7a477d6c665e5550c7ad.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1522865420360945664/149996972",
+    "wm-target": "https://bascht.com/posts/2022/05/07/mein-erstes-mal-architectsuk-live-war-v/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-07T11:55:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1522865420360945664/149996972",
+  "target": "https://bascht.com/posts/2022/05/07/mein-erstes-mal-architectsuk-live-war-v/",
+  "private": false
+}
