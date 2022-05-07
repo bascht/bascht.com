@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1522865420360945664#favorited-by-43081618",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1393573,
+    "author": {
+      "url": "https://twitter.com/matterche",
+      "name": "Matthias Erche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/672f2dc03b0c076dc5757f0c6b3e50754f5759a32fe225709504f757f9cc455f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1522865420360945664/43081618",
+    "wm-target": "https://bascht.com/posts/2022/05/07/mein-erstes-mal-architectsuk-live-war-v/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-07T11:55:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1522865420360945664/43081618",
+  "target": "https://bascht.com/posts/2022/05/07/mein-erstes-mal-architectsuk-live-war-v/",
+  "private": false
+}
