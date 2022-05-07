@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1522865420360945664",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1393683,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Mein erstes Mal <a href=\"https://twitter.com/Architectsuk\">@Architectsuk</a> live war vermutlich 2009 als warm-up für Comeback Kid im Conne Island - die Halle war ungefähr so groß wie die Garderobe im Alexandra Palace gestern :D\n\n<a href=\"https://www.allschools.de/article/show/17042009_Comeback_Kid,_Misery_Signals,_Architects,_Bane,_Outbreak_-_Leipzig_-_Conne_Island\">allschools.de/article/show/1…</a>\n\n<a class=\"u-mention\" href=\"https://bascht.com/posts/2022/05/06/architects/\"></a>",
+      "text": "Mein erstes Mal @Architectsuk live war vermutlich 2009 als warm-up für Comeback Kid im Conne Island - die Halle war ungefähr so groß wie die Garderobe im Alexandra Palace gestern :D\n\nallschools.de/article/show/1…"
+    },
+    "published": "2022-05-07T09:06:24+00:00",
+    "wm-source": "https://brid.gy/post/twitter/baschtdotcom/1522865420360945664",
+    "wm-target": "https://bascht.com/posts/2022/05/06/architects/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-05-07T18:02:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/baschtdotcom/1522865420360945664",
+  "target": "https://bascht.com/posts/2022/05/06/architects/",
+  "private": false
+}
