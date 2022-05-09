@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108268068363567452#favorited-by-69785",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1394702,
+    "author": {
+      "url": "https://fosstodon.org/@pill",
+      "name": "pill.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/63cc3cac4923a59abbc0e8ac386f68d3c5dcdc534f3eae7758be751a12bb13f6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108268068363567452/69785",
+    "wm-target": "https://bascht.com/posts/2022/05/08/it-might-just-be-that-the-queens-jubile/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-09T10:06:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108268068363567452/69785",
+  "target": "https://bascht.com/posts/2022/05/08/it-might-just-be-that-the-queens-jubile/",
+  "private": false
+}
