@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108272722212420367",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1395097,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://xoxo.zone/@KevinMarks\" class=\"u-url\">@<span>KevinMarks</span></a></span> ooh, neat! I've been mostly around Jubilee and Victoria lines this week.</p>",
+      "text": "@KevinMarks ooh, neat! I've been mostly around Jubilee and Victoria lines this week."
+    },
+    "published": "2022-05-09T15:37:09",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108272636222975243/108272722212420367",
+    "wm-target": "https://bascht.com/posts/2022/05/09/til-you-can-open-the-doors-and-move-bet/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/09/til-you-can-open-the-doors-and-move-bet/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-09T17:52:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108272636222975243/108272722212420367",
+  "target": "https://bascht.com/posts/2022/05/09/til-you-can-open-the-doors-and-move-bet/",
+  "private": false
+}
