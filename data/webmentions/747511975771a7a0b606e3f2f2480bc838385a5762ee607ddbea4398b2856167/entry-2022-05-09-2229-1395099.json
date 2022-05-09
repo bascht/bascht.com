@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://xoxo.zone/@KevinMarks/108272704367482289",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1395099,
+    "author": {
+      "url": "https://xoxo.zone/@KevinMarks",
+      "name": "Kevin Marks",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/61c1be04a72e66bfdc04b78845ce8c6809873d67f3f061535c94c7b3f2ac56c7.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> on some of the newer carriages there aren't doors, just a continuous corridor.</p>",
+      "text": "@bascht on some of the newer carriages there aren't doors, just a continuous corridor."
+    },
+    "published": "2022-05-09T15:32:37",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108272636222975243/108272704659416635",
+    "wm-target": "https://bascht.com/posts/2022/05/09/til-you-can-open-the-doors-and-move-bet/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/09/til-you-can-open-the-doors-and-move-bet/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-09T17:53:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108272636222975243/108272704659416635",
+  "target": "https://bascht.com/posts/2022/05/09/til-you-can-open-the-doors-and-move-bet/",
+  "private": false
+}
