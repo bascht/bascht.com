@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/108271969353120416",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1394935,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> This poll seems mildly biased.</p>",
+      "text": "@bascht This poll seems mildly biased."
+    },
+    "published": "2022-05-09T12:25:41",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108271683085364830/108271969405893356",
+    "wm-target": "https://bascht.com/posts/2022/05/09/should-i-go-for-another-round-of-fish-an/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/09/should-i-go-for-another-round-of-fish-an/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-09T14:01:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108271683085364830/108271969405893356",
+  "target": "https://bascht.com/posts/2022/05/09/should-i-go-for-another-round-of-fish-an/",
+  "private": false
+}
