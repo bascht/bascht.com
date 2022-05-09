@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108267835491133902#favorited-by-11031",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1394583,
+    "author": {
+      "url": "https://chaos.social/@zeitschlag",
+      "name": "Nathan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3f741433a6ada917c08aca16121e5ac49377cc95498e31f6624695fa54710eb2.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108267835491133902/11031",
+    "wm-target": "https://bascht.com/posts/2022/05/08/bascht-high-dynamic-ranging-so-hard/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-09T01:55:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108267835491133902/11031",
+  "target": "https://bascht.com/posts/2022/05/08/bascht-high-dynamic-ranging-so-hard/",
+  "private": false
+}
