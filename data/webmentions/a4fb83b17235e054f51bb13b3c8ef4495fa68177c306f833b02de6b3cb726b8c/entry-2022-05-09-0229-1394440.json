@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108267835491133902#reblogged-by-848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1394440,
+    "author": {
+      "url": "https://toot.matereal.eu/@schmittlauch",
+      "name": "Trolli Schmittlauch 🦥",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/f9b1ded3816f936ac624e8d5deb93ff2b6dfc4af34e59297aa30e55248ca9b75.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108267835491133902/848",
+    "wm-target": "https://bascht.com/posts/2022/05/08/bascht-high-dynamic-ranging-so-hard/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-05-08T21:28:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108267835491133902/848",
+  "target": "https://bascht.com/posts/2022/05/08/bascht-high-dynamic-ranging-so-hard/",
+  "private": false
+}
