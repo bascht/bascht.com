@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108267835491133902#favorited-by-7174",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1394435,
+    "author": {
+      "url": "https://fosstodon.org/@vanitasvitae",
+      "name": "vanitasvitae",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/077605112de2df45536e603c10436efbb3dc01d9c079447d9e1f1ee782218f8b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108267835491133902/7174",
+    "wm-target": "https://bascht.com/posts/2022/05/08/bascht-high-dynamic-ranging-so-hard/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-08T21:28:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108267835491133902/7174",
+  "target": "https://bascht.com/posts/2022/05/08/bascht-high-dynamic-ranging-so-hard/",
+  "private": false
+}
