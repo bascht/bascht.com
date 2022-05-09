@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.oark.org/@echox/108271749577503066",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1394934,
+    "author": {
+      "url": "https://social.oark.org/@echox",
+      "name": "Simon",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d1e49a765c4b98b34b8f1df33c26e0e26e4ed53ad0407deb80746da4dcd441c8.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> where is the “take one to go with you” option? I mean… it’s not a liquid…</p>",
+      "text": "@bascht where is the “take one to go with you” option? I mean… it’s not a liquid…"
+    },
+    "published": "2022-05-09T11:29:48",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108271683085364830/108271749681669551",
+    "wm-target": "https://bascht.com/posts/2022/05/09/should-i-go-for-another-round-of-fish-an/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/09/should-i-go-for-another-round-of-fish-an/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-09T14:01:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108271683085364830/108271749681669551",
+  "target": "https://bascht.com/posts/2022/05/09/should-i-go-for-another-round-of-fish-an/",
+  "private": false
+}
