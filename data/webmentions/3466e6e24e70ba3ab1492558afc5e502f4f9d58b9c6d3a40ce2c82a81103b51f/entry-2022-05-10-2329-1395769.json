@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.green/@bitboxer/108279324875120190",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1395769,
+    "author": {
+      "url": "https://mastodon.green/@bitboxer",
+      "name": "Bodo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e3d9345802d1c4c56140b3d34a933c543853c322d4db3c1b4b6b722407697f00.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> what is starship? Also: i am using topgrade (<a href=\"https://github.com/r-darwish/topgrade\"><span>https://</span><span>github.com/r-darwish/topgrade</span><span></span></a>) to update everything. Works like a charm.</p>\n<a href=\"https://github.com/r-darwish/topgrade\">GitHub - r-darwish/topgrade: Upgrade everything</a>",
+      "text": "@bascht what is starship? Also: i am using topgrade (https://github.com/r-darwish/topgrade) to update everything. Works like a charm.\nGitHub - r-darwish/topgrade: Upgrade everything"
+    },
+    "published": "2022-05-10T19:36:18",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108278703614611568/108279324897291077",
+    "wm-target": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-10T19:52:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108278703614611568/108279324897291077",
+  "target": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+  "private": false
+}
