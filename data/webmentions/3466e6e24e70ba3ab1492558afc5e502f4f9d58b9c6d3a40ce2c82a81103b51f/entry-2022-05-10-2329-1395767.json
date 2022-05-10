@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108278703614611568#favorited-by-366",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1395767,
+    "author": {
+      "url": "https://chaos.social/@mkhl",
+      "name": "Martin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7a293c00ccac435602a0c8a808ca56d7c5038bf9e8294b3fdfa65ff76eb4bac0.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108278703614611568/366",
+    "wm-target": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-10T19:52:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108278703614611568/366",
+  "target": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+  "private": false
+}
