@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108279274199157782",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1395772,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.green/@bitboxer\" class=\"u-url\">@<span>bitboxer</span></a></span> def worth a second look. I got rid of oh-my-zsh, which was a big pain in the butt to keep up to date. :D Now it's only stock fish + starship.</p>",
+      "text": "@bitboxer def worth a second look. I got rid of oh-my-zsh, which was a big pain in the butt to keep up to date. :D Now it's only stock fish + starship."
+    },
+    "published": "2022-05-10T19:23:24",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108278703614611568/108279274199157782",
+    "wm-target": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-10T19:52:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108278703614611568/108279274199157782",
+  "target": "https://bascht.com/posts/2022/05/10/i-think-the-3.x-release-has-changed-my-p/",
+  "private": false
+}
