@@ -1,6 +1,5 @@
 #+TITLE: Broken IPv6 delegation after upgrading to OpnSense 22.1
 #+DATE: 2022-05-11T22:12:01+02:00
-#+DRAFT: true
 #+TAGS[]: opnsense linux hardware netzwerk upgrade telekom ipv6 dsl ppoe
 
 After upgrading my [[https://opnsense.org/][OpnSense]] box to the latest =22.1= release I noticed that something was not right. Namely: Some sites where sluggish and it ownly dawned me after I couldn't install any Rubygems since =bundle= would just time out.
