@@ -1,0 +1,31 @@
+#+TITLE: Broken IPv6 delegation after upgrading to OpnSense 22.1
+#+DATE: 2022-05-11T22:12:01+02:00
+#+DRAFT: true
+#+TAGS[]: opnsense linux hardware netzwerk upgrade telekom ipv6 dsl ppoe
+
+After upgrading my [[https://opnsense.org/][OpnSense]] box to the latest =22.1= release I noticed that something was not right. Namely: Some sites where sluggish and it ownly dawned me after I couldn't install any Rubygems since =bundle= would just time out.
+I'm on Deutsche Telekom VDSL, so I _should_ get a proper IPv6 prefix to delegate. And this used to work flawlessly for the last two years.
+
+Classic IPv6 woes. Not a big deal, since [[https://github.com/opnsense/core/commit/1a5dfc932f8][it was already fixed in OpnSense stable]]. Right?
+
+** Well, :chicken: meet :egg:.
+
+The upgrade to OpnSense 22.x will be done sequentially, so it will upgrade to =22.1= first and then later install the patches (up to =22.1.7=).
+By the time you notice that something is not quite right, it's probably already to late and you cannot install any upgrades because you don't have any =IPv6= connectivity anymore. The most obvious sign being that the package upgrader will simply run into a timeout.
+
+** Mitigation
+
+There's a (probably obvious) workaround though:
+
+- Navigate to your =[WAN]= interface
+- Take a screenshot of your settings, as the client configuration might get reset
+- Temporarily IPv6 by setting the =IPv6= configuration type to =None=:
+
+  [[file:https://img.bascht.com/2022-tech/05-opnsense-upgrade/opnsense-ipv6-dhcp.png]]
+
+- Reboot your OpnSense
+- Check for and install all available updates
+- Re-Enable IPv6 by setting the configuration type back to =DHCPv6= and revert back to your settings from your screenshot.
+
+Voila.
+The [[https://www.kame.net/][turtle]] is dancing again.
