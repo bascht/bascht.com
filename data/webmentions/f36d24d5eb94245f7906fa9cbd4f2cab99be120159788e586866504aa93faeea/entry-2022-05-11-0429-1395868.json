@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108279701373740293#favorited-by-1528",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1395868,
+    "author": {
+      "url": "https://chaos.social/@frumble",
+      "name": "Maxi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/5effb6da59d1b72416a8e0a5ae11bf72321961e29db9306a7eeb52073b99026b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108279701373740293/1528",
+    "wm-target": "https://bascht.com/posts/2022/05/10/not-sure-how-i-got-here-but-here-is-a-g/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-10T23:05:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108279701373740293/1528",
+  "target": "https://bascht.com/posts/2022/05/10/not-sure-how-i-got-here-but-here-is-a-g/",
+  "private": false
+}
