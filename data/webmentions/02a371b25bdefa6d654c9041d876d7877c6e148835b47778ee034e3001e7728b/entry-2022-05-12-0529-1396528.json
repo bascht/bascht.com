@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108285288710950571#favorited-by-1965",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1396528,
+    "author": {
+      "url": "https://bsd.network/@paulgatling",
+      "name": "Paul Gatling",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4b62c0064b7fd7339d56c502d3128a0c5c08c686bbc5400db3ca6e463c6b824c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108285288710950571/1965",
+    "wm-target": "https://bascht.com/tech/2022/05/11/broken-ipv6-delegation-after-upgrading-to-opnsense-22.1/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-12T00:27:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108285288710950571/1965",
+  "target": "https://bascht.com/tech/2022/05/11/broken-ipv6-delegation-after-upgrading-to-opnsense-22.1/",
+  "private": false
+}
