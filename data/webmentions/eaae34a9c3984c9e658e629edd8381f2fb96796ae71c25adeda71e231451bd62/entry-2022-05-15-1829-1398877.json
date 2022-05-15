@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108306054172589496#favorited-by-108300892828956462",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1398877,
+    "author": {
+      "url": "https://very.tastytea.de/@tastytea",
+      "name": "tastytea",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7d739ff68db4e9724782e70b3e725c38f94db8c953c03c1a4b9fa868f143209a.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108306054172589496/108300892828956462",
+    "wm-target": "https://bascht.com/posts/2022/05/15/bascht-baby-basil-dipping-its-toe-int/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-15T15:30:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108306054172589496/108300892828956462",
+  "target": "https://bascht.com/posts/2022/05/15/bascht-baby-basil-dipping-its-toe-int/",
+  "private": false
+}
