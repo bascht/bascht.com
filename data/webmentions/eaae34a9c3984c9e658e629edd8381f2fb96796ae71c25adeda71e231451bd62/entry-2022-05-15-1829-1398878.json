@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108306054172589496#favorited-by-108195615464265260",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1398878,
+    "author": {
+      "url": "https://oldinternet.net/@joe",
+      "name": "Joe Woods",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ff5588871653749e7d3ebfa0e2cecfc822e5511838eaa5bf4e0db55601792d8c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108306054172589496/108195615464265260",
+    "wm-target": "https://bascht.com/posts/2022/05/15/bascht-baby-basil-dipping-its-toe-int/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-15T15:31:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108306054172589496/108195615464265260",
+  "target": "https://bascht.com/posts/2022/05/15/bascht-baby-basil-dipping-its-toe-int/",
+  "private": false
+}
