@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1524690485952098304#favorited-by-63725954",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1398632,
+    "author": {
+      "url": "https://twitter.com/dakonr",
+      "name": "Daniel.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20755050f7a415e392741f117faa01ecb3883d2489e906278ef728d39678bf92.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1524690485952098304/63725954",
+    "wm-target": "https://bascht.com/posts/2022/05/12/agentur-webseiten-in-2022-starterkit/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-14T23:12:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1524690485952098304/63725954",
+  "target": "https://bascht.com/posts/2022/05/12/agentur-webseiten-in-2022-starterkit/",
+  "private": false
+}
