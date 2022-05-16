@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108312912244741637#favorited-by-108236975469367503",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1399384,
+    "author": {
+      "url": "https://weirder.earth/@burdock",
+      "name": "Burdock",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e0fdbaad0edd472f41e0db547e7cc1c9a5f5082aebfc39a814f8ea83e912ec5e.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108312912244741637/108236975469367503",
+    "wm-target": "https://bascht.com/posts/2022/05/16/where-the-wild-things-arent-%EF%B8%8Fhttp/ww/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-16T18:42:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108312912244741637/108236975469367503",
+  "target": "https://bascht.com/posts/2022/05/16/where-the-wild-things-arent-%EF%B8%8Fhttp/ww/",
+  "private": false
+}
