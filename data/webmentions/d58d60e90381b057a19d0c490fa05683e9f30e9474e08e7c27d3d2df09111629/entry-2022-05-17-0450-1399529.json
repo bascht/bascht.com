@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108312912244741637#favorited-by-63328",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1399529,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/10dada31bd40a62ef6035d6e7fd1ef408e598704a5dcae302391c0e7ba7317c6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108312912244741637/63328",
+    "wm-target": "https://bascht.com/posts/2022/05/16/where-the-wild-things-arent-%EF%B8%8Fhttp/ww/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-16T23:12:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108312912244741637/63328",
+  "target": "https://bascht.com/posts/2022/05/16/where-the-wild-things-arent-%EF%B8%8Fhttp/ww/",
+  "private": false
+}
