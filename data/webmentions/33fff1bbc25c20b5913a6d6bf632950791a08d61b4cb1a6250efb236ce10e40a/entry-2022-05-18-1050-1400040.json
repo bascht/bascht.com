@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108319950050463224#favorited-by-1965",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1400040,
+    "author": {
+      "url": "https://bsd.network/@paulgatling",
+      "name": "Paul Gatling",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4b62c0064b7fd7339d56c502d3128a0c5c08c686bbc5400db3ca6e463c6b824c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108319950050463224/1965",
+    "wm-target": "https://bascht.com/posts/2022/05/17/emacs-happily-using-18gb-of-memory.-time/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-18T02:58:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108319950050463224/1965",
+  "target": "https://bascht.com/posts/2022/05/17/emacs-happily-using-18gb-of-memory.-time/",
+  "private": false
+}
