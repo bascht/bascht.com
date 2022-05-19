@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ptrwllrt/status/1526641488012222464",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1400470,
+    "author": {
+      "url": "https://twitter.com/ptrwllrt",
+      "name": "Peter Willert @ home",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d51b2505238bb36256a16245b027fd77762e9abc2a9607a321f64935759459b.jpg"
+    },
+    "content": {
+      "html": "🔪🔪🔪\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "🔪🔪🔪"
+    },
+    "published": "2022-05-17T19:11:09+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1526640780554735617/1526641488012222464",
+    "wm-target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-19T02:47:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1526640780554735617/1526641488012222464",
+  "target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+  "private": false
+}
