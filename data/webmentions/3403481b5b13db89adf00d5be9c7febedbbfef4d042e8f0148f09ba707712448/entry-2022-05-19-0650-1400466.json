@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1526640780554735617#favorited-by-43961444",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1400466,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1526640780554735617/43961444",
+    "wm-target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-19T02:47:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1526640780554735617/43961444",
+  "target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+  "private": false
+}
