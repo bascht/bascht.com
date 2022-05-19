@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1526640780554735617#favorited-by-8489592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1400465,
+    "author": {
+      "url": "https://twitter.com/annismckenzie",
+      "name": "Daniel Lohse",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea9851a358351daec7cc4b97cd70f496c22323f39805d87e3e31ce8ce2e0350b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1526640780554735617/8489592",
+    "wm-target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-19T02:47:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1526640780554735617/8489592",
+  "target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+  "private": false
+}
