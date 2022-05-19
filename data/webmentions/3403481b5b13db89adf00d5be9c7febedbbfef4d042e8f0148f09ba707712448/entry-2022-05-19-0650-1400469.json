@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/simkoelsch/status/1526959192682246145",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1400469,
+    "author": {
+      "url": "https://twitter.com/simkoelsch",
+      "name": "Simon Kölsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57f5f52db8a9c37dafd3a80da89945fbf31543b18e6e228230e24a310b47bb60.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Ich heute als ich bemerkte dass die Spatzen meine Johannesbeersträuche entdeckt haben.\n\n…\n\nDie Spatzen wenn sie morgen bemerken dass ich ein Netz drüber geworfen habe."
+    },
+    "published": "2022-05-18T16:13:35+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1526640780554735617/1526959192682246145",
+    "wm-target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-05-19T02:47:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1526640780554735617/1526959192682246145",
+  "target": "https://bascht.com/posts/2022/05/17/ich-heute-als-ich-bemerkte-dass-die-spat/",
+  "private": false
+}
