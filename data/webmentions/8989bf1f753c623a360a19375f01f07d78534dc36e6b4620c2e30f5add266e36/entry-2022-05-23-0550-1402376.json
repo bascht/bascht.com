@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108347134689115255#favorited-by-108295751870494323",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1402376,
+    "author": {
+      "url": "https://chaos.social/@zerody",
+      "name": "Zerody",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/57d12aabd7100ee96fa115b8740cc7e76a305c5173bcce65d16b863a587bd735.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108347134689115255/108295751870494323",
+    "wm-target": "https://bascht.com/posts/2022/05/22/blackbirds-are-badass-hunters./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-22T23:26:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108347134689115255/108295751870494323",
+  "target": "https://bascht.com/posts/2022/05/22/blackbirds-are-badass-hunters./",
+  "private": false
+}
