@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/moonbeamlabs/status/1529545957590851585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1405442,
+    "author": {
+      "url": "https://twitter.com/moonbeamlabs",
+      "name": "Lucas Dohmen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/37012803ec21102120567424fff36f6a9df0620ad054e515c218d20823794cd9.jpg"
+    },
+    "content": {
+      "html": "Ist das der, bei dem wir mal zusammen waren? 😀\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ist das der, bei dem wir mal zusammen waren? 😀"
+    },
+    "published": "2022-05-25T19:32:28+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1529378971196043264/1529545957590851585",
+    "wm-target": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-27T02:56:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1529378971196043264/1529545957590851585",
+  "target": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+  "private": false
+}
