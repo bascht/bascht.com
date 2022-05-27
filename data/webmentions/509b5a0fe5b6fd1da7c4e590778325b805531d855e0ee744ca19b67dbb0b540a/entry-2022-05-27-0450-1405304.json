@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108369287032058666#favorited-by-67605",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1405304,
+    "author": {
+      "url": "https://mastodon.technology/@avolkov",
+      "name": "Alex Volkov 🇨🇦🇺🇦",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e80eb0cbc2b96e08ac469e22d9d7fc1c04d71c565e3c018db032feed08baf1d5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108369287032058666/67605",
+    "wm-target": "https://bascht.com/posts/2022/05/26/bascht-mildly-interesting-this-manti/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-26T21:33:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108369287032058666/67605",
+  "target": "https://bascht.com/posts/2022/05/26/bascht-mildly-interesting-this-manti/",
+  "private": false
+}
