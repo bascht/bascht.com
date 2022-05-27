@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1529546402069721090",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1405441,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Korrekt. :-)\n<a class=\"u-mention\" href=\"https://twitter.com/moonbeamlabs\"></a>",
+      "text": "Korrekt. :-)"
+    },
+    "published": "2022-05-25T19:34:14+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1529378971196043264/1529546402069721090",
+    "wm-target": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-05-27T02:56:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1529378971196043264/1529546402069721090",
+  "target": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+  "private": false
+}
