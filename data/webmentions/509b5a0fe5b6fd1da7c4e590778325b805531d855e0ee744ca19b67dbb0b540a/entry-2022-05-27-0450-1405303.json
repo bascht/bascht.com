@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108369287032058666#favorited-by-108200069801864643",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1405303,
+    "author": {
+      "url": "https://compostintraining.club/@prplecake",
+      "name": "prplecake@compostintraining.club",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c2228ca2b6c4506bb146c1ed3a3016ec60cd4ab8eaeca8eb2091251172c144b5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108369287032058666/108200069801864643",
+    "wm-target": "https://bascht.com/posts/2022/05/26/bascht-mildly-interesting-this-manti/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-26T21:33:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108369287032058666/108200069801864643",
+  "target": "https://bascht.com/posts/2022/05/26/bascht-mildly-interesting-this-manti/",
+  "private": false
+}
