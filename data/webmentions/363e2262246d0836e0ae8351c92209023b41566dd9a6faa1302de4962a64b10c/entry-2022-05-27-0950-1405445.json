@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1529378971196043264#favorited-by-2711106256",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1405445,
+    "author": {
+      "url": "https://twitter.com/annasophieluisa",
+      "name": "anna schulze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4768d61557cfba5c7c015809bcafa9f21081ed9eb81f746134049c54f79d45cb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1529378971196043264/2711106256",
+    "wm-target": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-05-27T02:56:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1529378971196043264/2711106256",
+  "target": "https://bascht.com/posts/2022/05/25/falls-es-euch-irgendwann-mal-in-den-bonn/",
+  "private": false
+}
