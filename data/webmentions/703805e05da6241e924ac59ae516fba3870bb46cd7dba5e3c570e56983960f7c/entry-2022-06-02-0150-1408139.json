@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108398833963321969#favorited-by-46131",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1408139,
+    "author": {
+      "url": "https://social.tchncs.de/@Stehpferd",
+      "name": "Stehpferd",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1e7733d6dee219342164f10016af15682c05664c4c73ca28fa5883d8c1690f2b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108398833963321969/46131",
+    "wm-target": "https://bascht.com/posts/2022/05/31/bascht-ohai-little-bat/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-01T19:12:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108398833963321969/46131",
+  "target": "https://bascht.com/posts/2022/05/31/bascht-ohai-little-bat/",
+  "private": false
+}
