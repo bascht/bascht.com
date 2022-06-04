@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108419595143069190",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409908,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://todon.eu/@ecsaln\" class=\"u-url\">@<span>ecsaln</span></a></span> <span class=\"h-card\"><a href=\"https://social.spacebear.ee/users/support\" class=\"u-url\">@<span>support</span></a></span> oh, this is weird. I think I choose an old toot to reply to and reverted back to using the \"send toot\" functionality of the account page.</p>",
+      "text": "@ecsaln @support oh, this is weird. I think I choose an old toot to reply to and reverted back to using the \"send toot\" functionality of the account page."
+    },
+    "published": "2022-06-04T14:08:52",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108412532837662946/108419595143069190",
+    "wm-target": "https://bascht.com/posts/2022/06/03/support-hi-there-uploads-dont-seem-to/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/03/support-hi-there-uploads-dont-seem-to/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-04T18:12:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108412532837662946/108419595143069190",
+  "target": "https://bascht.com/posts/2022/06/03/support-hi-there-uploads-dont-seem-to/",
+  "private": false
+}
