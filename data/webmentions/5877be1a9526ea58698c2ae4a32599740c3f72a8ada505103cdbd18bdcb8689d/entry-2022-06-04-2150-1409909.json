@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://todon.eu/@ecsaln/108419574190895661",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409909,
+    "author": {
+      "url": "https://todon.eu/@ecsaln",
+      "name": "Eat Cops, Not Cows",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dcf902f016dd0eea9b2c17ae9cfb452b53c65d0c8f29e19d4314cac412cff1f4.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <span class=\"h-card\"><a href=\"https://social.spacebear.ee/users/support\" class=\"u-url\">@<span>support</span></a></span> Also FWIW this toot appeared in my main feed, even though it should have been classed as a reply, and I don't follow <span class=\"h-card\"><a href=\"https://social.spacebear.ee/users/support\" class=\"u-url\">@<span>support</span></a></span>. I don't know much about activity pub, but this seems like it might be a problem in your server's implementation of it(?).</p>",
+      "text": "@bascht @support Also FWIW this toot appeared in my main feed, even though it should have been classed as a reply, and I don't follow @support. I don't know much about activity pub, but this seems like it might be a problem in your server's implementation of it(?)."
+    },
+    "published": "2022-06-04T14:03:32",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108412532837662946/108419574315949074",
+    "wm-target": "https://bascht.com/posts/2022/06/03/support-hi-there-uploads-dont-seem-to/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/03/support-hi-there-uploads-dont-seem-to/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-04T18:12:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108412532837662946/108419574315949074",
+  "target": "https://bascht.com/posts/2022/06/03/support-hi-there-uploads-dont-seem-to/",
+  "private": false
+}
