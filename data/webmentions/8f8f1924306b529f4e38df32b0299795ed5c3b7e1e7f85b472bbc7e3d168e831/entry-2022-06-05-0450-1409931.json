@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1533143667627663361#favorited-by-10394352",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409931,
+    "author": {
+      "url": "https://twitter.com/breakthesystem",
+      "name": "Daniel 🚀 Jay",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/76887f762a03e789a19f7df45237ba80949bb2f0e9ac6f03c220dc3cfc65128f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1533143667627663361/10394352",
+    "wm-target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-04T19:51:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1533143667627663361/10394352",
+  "target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+  "private": false
+}
