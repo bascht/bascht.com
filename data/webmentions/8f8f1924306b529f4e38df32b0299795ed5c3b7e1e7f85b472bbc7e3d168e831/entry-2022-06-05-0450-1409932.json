@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1533143667627663361#favorited-by-463372546",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409932,
+    "author": {
+      "url": "https://twitter.com/the_eglerion",
+      "name": "the account formerly known as egli",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf2addcf3015895b6a8222e5dee9848682d536f16fc65a59294d070c1aab7f34.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1533143667627663361/463372546",
+    "wm-target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-04T19:51:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1533143667627663361/463372546",
+  "target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+  "private": false
+}
