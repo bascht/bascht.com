@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/thegcat/status/1533157104726450176",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409935,
+    "author": {
+      "url": "https://twitter.com/thegcat",
+      "name": "Felix (@thegcat@kif.rocks)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98d229bde69df18b684166306bfb966a5952bdcceea7144691592e359cc73059.jpg"
+    },
+    "content": {
+      "html": "Ich mein… <a href=\"https://www.youtube.com/watch?v=GW7xQblJY0M\">youtube.com/watch?v=GW7xQb…</a>\n\n(Gibt’s inzwischen auch elektrisch mit einem sehr langen Stromabnehmer, siehe related videos)\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich mein… youtube.com/watch?v=GW7xQb…\n\n(Gibt’s inzwischen auch elektrisch mit einem sehr langen Stromabnehmer, siehe related videos)"
+    },
+    "published": "2022-06-04T18:41:53+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1533143667627663361/1533157104726450176",
+    "wm-target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-04T19:52:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1533143667627663361/1533157104726450176",
+  "target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+  "private": false
+}
