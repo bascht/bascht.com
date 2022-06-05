@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1533143667627663361#favorited-by-87392426",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409937,
+    "author": {
+      "url": "https://twitter.com/semantosoph",
+      "name": "Semi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5ff240b089712589a4d9e36bbe307e94b9837a57768b69c0c206ad5f85c25ec.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1533143667627663361/87392426",
+    "wm-target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-04T19:52:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1533143667627663361/87392426",
+  "target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+  "private": false
+}
