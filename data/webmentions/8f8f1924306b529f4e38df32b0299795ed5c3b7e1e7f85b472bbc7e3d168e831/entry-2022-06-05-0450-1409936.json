@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1533143667627663361#favorited-by-1027947788494151680",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1409936,
+    "author": {
+      "url": "https://twitter.com/9Lukas5",
+      "name": "9Lukas5 | KE-GPP₂-E mZ | 🚂 🐧",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bc4e66271edee0cdf394e713e70cf074d2c0cf1749e1bcb9df0f1029893d90da.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1533143667627663361/1027947788494151680",
+    "wm-target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-04T19:52:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1533143667627663361/1027947788494151680",
+  "target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+  "private": false
+}
