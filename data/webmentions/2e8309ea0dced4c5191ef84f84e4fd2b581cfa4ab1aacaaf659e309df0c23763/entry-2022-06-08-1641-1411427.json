@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108436713514425788#favorited-by-1375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411427,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62428f8497d3ccc8ea6104f6982be779e617078beebcfce426908139e6e7392a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108436713514425788/1375",
+    "wm-target": "https://bascht.com/posts/2022/06/07/bascht-and-of-course-this-fucker-has/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-08T08:06:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108436713514425788/1375",
+  "target": "https://bascht.com/posts/2022/06/07/bascht-and-of-course-this-fucker-has/",
+  "private": false
+}
