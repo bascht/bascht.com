@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108436713514425788#favorited-by-108418379156560399",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411426,
+    "author": {
+      "url": "https://norden.social/@cntxt7",
+      "name": "ContextChris",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c2e7e659629b90b3b063904975d4b392b337f06e28d4d08f422e92222ba60157.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108436713514425788/108418379156560399",
+    "wm-target": "https://bascht.com/posts/2022/06/07/bascht-and-of-course-this-fucker-has/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-08T08:06:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108436713514425788/108418379156560399",
+  "target": "https://bascht.com/posts/2022/06/07/bascht-and-of-course-this-fucker-has/",
+  "private": false
+}
