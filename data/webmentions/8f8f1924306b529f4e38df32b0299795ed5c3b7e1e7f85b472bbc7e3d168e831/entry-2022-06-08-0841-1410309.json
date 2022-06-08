@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1533143667627663361#favorited-by-43961444",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1410309,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1533143667627663361/43961444",
+    "wm-target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-05T22:52:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1533143667627663361/43961444",
+  "target": "https://bascht.com/posts/2022/06/04/zweite-etage-heute-nur-bis-hamm-https/",
+  "private": false
+}
