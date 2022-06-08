@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://commentpara.de/comment/1041.htm",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411475,
+    "author": {
+      "url": null,
+      "name": "Marc",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/commentpara.de/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg"
+    },
+    "content": {
+      "html": "Interessant. Kannte pixelfed na klar noch nicht. Hatte mein Handy in Reparatur ein paar Tage. Tat auch sehr gut eigentlich. Schon überlegt ob mir ein Dumbphone gut täte. <br />\nWas mich bisher davon abhält IG zu canceln: Die Kontakte und ich nutze IG eigentlich als \"Werbekanal\" für mein Business.<br /><br />\nVielleicht sollte ich das Buch auch mal lesen.<br /><br />\nDanke für's Teilen.",
+      "text": "Interessant. Kannte pixelfed na klar noch nicht. Hatte mein Handy in Reparatur ein paar Tage. Tat auch sehr gut eigentlich. Schon überlegt ob mir ein Dumbphone gut täte. \n\nWas mich bisher davon abhält IG zu canceln: Die Kontakte und ich nutze IG eigentlich als \"Werbekanal\" für mein Business.\n\n\nVielleicht sollte ich das Buch auch mal lesen.\n\n\nDanke für's Teilen."
+    },
+    "published": null,
+    "wm-source": "https://commentpara.de/comment/1041.htm",
+    "wm-target": "https://bascht.com/blog/2020/11/13/instafedup/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/blog/2020/11/13/instafedup/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-08T08:46:25Z"
+  },
+  "secret": null,
+  "source": "https://commentpara.de/comment/1041.htm",
+  "target": "https://bascht.com/blog/2020/11/13/instafedup/",
+  "private": false
+}
