@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1534834482284568577#favorited-by-436640819",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411982,
+    "author": {
+      "url": "https://twitter.com/vogtl_huetti",
+      "name": "Silke Hüttenrauch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57a61520c20da83bd038c379294bb31017077782128503d096cc1ad43451dd2c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1534834482284568577/436640819",
+    "wm-target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-09T13:00:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1534834482284568577/436640819",
+  "target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+  "private": false
+}
