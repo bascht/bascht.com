@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/depone/status/1534860577440415745",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411974,
+    "author": {
+      "url": "https://twitter.com/depone",
+      "name": "Daniel Ehniss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/160903b1e600e4e70a45dda76b310f0f3191f9f6dc23ca97d26e6ec65d0aee85.jpg"
+    },
+    "content": {
+      "html": "🤯\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "🤯"
+    },
+    "published": "2022-06-09T11:30:52+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1534834482284568577/1534860577440415745",
+    "wm-target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-09T13:00:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1534834482284568577/1534860577440415745",
+  "target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+  "private": false
+}
