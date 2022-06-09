@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1534834482284568577#favorited-by-334768270",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411975,
+    "author": {
+      "url": "https://twitter.com/PragTob",
+      "name": "Tobias Pfeiffer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1dea0451a2f4757575ba20bcdc34a7b425b1cf64b938f66b92809f4962b247ff.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1534834482284568577/334768270",
+    "wm-target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-09T13:00:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1534834482284568577/334768270",
+  "target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+  "private": false
+}
