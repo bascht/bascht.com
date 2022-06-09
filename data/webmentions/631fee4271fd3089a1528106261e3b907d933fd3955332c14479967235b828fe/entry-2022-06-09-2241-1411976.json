@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1534834482284568577#favorited-by-63725954",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1411976,
+    "author": {
+      "url": "https://twitter.com/dakonr",
+      "name": "Daniel.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20755050f7a415e392741f117faa01ecb3883d2489e906278ef728d39678bf92.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1534834482284568577/63725954",
+    "wm-target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-09T13:00:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1534834482284568577/63725954",
+  "target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+  "private": false
+}
