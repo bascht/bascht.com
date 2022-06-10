@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108449298240478541#favorited-by-742",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1412487,
+    "author": {
+      "url": "https://chaos.social/@astro",
+      "name": "Astro",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c8b04d1b4473f361b4d0a5895cbf11d6a3d8e0c5b33b7aceb4961acf158dbe2a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108449298240478541/742",
+    "wm-target": "https://bascht.com/posts/2022/06/09/back-on-my-evening-route-just-in-time/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-09T23:08:22Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108449298240478541/742",
+  "target": "https://bascht.com/posts/2022/06/09/back-on-my-evening-route-just-in-time/",
+  "private": false
+}
