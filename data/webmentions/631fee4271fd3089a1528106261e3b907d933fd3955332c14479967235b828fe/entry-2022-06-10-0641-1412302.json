@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1534834482284568577#favorited-by-18652297",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1412302,
+    "author": {
+      "url": "https://twitter.com/Geekfried",
+      "name": "Geekfried™",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5e4fbfbdbbc6410bd0a2d8da9d149dd21d7a6ee96940d45484d37fb0d7a99b12.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1534834482284568577/18652297",
+    "wm-target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-09T21:22:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1534834482284568577/18652297",
+  "target": "https://bascht.com/posts/2022/06/09/scheinbar-erz%C3%A4hlt-man-%C3%A4lteren-menschen-i/",
+  "private": false
+}
