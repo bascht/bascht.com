@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108480955388529391#favorited-by-770",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418049,
+    "author": {
+      "url": "https://mastodon.social/@aza_leah",
+      "name": "Leah Neukirchen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c5322796f8634a8e3e821ec96062819d03be7865b39615f547da483fe6294691.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108480955388529391/770",
+    "wm-target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-16T20:36:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108480955388529391/770",
+  "target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+  "private": false
+}
