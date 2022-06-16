@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/108481453145038911",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418060,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Ach im Output, ich hatte in den CLI Argumenten verstanden, sorry. Kannst du nicht im Terminal Emulator deiner Wahl eine alternative Emoji Font angeben, und statt der default-Font eine monochrome-Font nehmen? Das würde zumindest den \"bunten\" Aspekt mindern?</p>",
+      "text": "@bascht Ach im Output, ich hatte in den CLI Argumenten verstanden, sorry. Kannst du nicht im Terminal Emulator deiner Wahl eine alternative Emoji Font angeben, und statt der default-Font eine monochrome-Font nehmen? Das würde zumindest den \"bunten\" Aspekt mindern?"
+    },
+    "published": "2022-06-15T12:20:10",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108480955388529391/108481453184430296",
+    "wm-target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-16T20:36:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108480955388529391/108481453184430296",
+  "target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+  "private": false
+}
