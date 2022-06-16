@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108454689177867052#reblogged-by-488",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418065,
+    "author": {
+      "url": "https://social.librem.one/@kyle",
+      "name": "Kyle Rankin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/8c0e0ae9444d531302130fc7dc4c798ecb886822e80c0d920d04a93b86743553.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108454689177867052/488",
+    "wm-target": "https://bascht.com/posts/2022/06/10/til-that-mutt-is-already-25-years-years/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-06-16T20:36:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108454689177867052/488",
+  "target": "https://bascht.com/posts/2022/06/10/til-that-mutt-is-already-25-years-years/",
+  "private": false
+}
