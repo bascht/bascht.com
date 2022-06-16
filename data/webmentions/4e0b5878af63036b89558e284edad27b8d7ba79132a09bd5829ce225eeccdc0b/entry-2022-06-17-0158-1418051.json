@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108480955388529391#favorited-by-366",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418051,
+    "author": {
+      "url": "https://chaos.social/@mkhl",
+      "name": "Martin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/7a293c00ccac435602a0c8a808ca56d7c5038bf9e8294b3fdfa65ff76eb4bac0.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108480955388529391/366",
+    "wm-target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-16T20:36:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108480955388529391/366",
+  "target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+  "private": false
+}
