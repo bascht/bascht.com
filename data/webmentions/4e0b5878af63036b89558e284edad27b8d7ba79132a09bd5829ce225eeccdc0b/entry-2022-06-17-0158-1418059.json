@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108481468475123569",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418059,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://toot.kif.rocks/@thegcat\" class=\"u-url\">@<span>thegcat</span></a></span> Ja, hab ich bereits. Vielleicht ist es auch das fortschreitende biologische Alter. Es zieht halt Aufmerksamkeit wenn irgendwo nicht ANSI aus `stdout` kommt. :D</p>",
+      "text": "@thegcat Ja, hab ich bereits. Vielleicht ist es auch das fortschreitende biologische Alter. Es zieht halt Aufmerksamkeit wenn irgendwo nicht ANSI aus `stdout` kommt. :D"
+    },
+    "published": "2022-06-15T12:24:04",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108480955388529391/108481468475123569",
+    "wm-target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-16T20:36:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108480955388529391/108481468475123569",
+  "target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+  "private": false
+}
