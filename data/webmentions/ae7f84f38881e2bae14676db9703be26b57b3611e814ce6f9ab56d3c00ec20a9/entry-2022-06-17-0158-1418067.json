@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mspsocial.net/@vkc/108454693943481958",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418067,
+    "author": {
+      "url": "https://mspsocial.net/@vkc",
+      "name": "vkc // Veronica Explains",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/329ff2cb55c1e3f8794e727960afcb23fcc357d1ffe00b7a0b11b90aad00c66d.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> That's incredibly cute! And I very much enjoy using Mutt.</p>\n<a class=\"u-mention\" href=\"http://www.mutt.org/\"></a>",
+      "text": "@bascht That's incredibly cute! And I very much enjoy using Mutt."
+    },
+    "published": "2022-06-10T18:54:57",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108454689177867052/108454694009382477",
+    "wm-target": "https://bascht.com/posts/2022/06/10/til-that-mutt-is-already-25-years-years/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/10/til-that-mutt-is-already-25-years-years/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-16T20:37:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108454689177867052/108454694009382477",
+  "target": "https://bascht.com/posts/2022/06/10/til-that-mutt-is-already-25-years-years/",
+  "private": false
+}
