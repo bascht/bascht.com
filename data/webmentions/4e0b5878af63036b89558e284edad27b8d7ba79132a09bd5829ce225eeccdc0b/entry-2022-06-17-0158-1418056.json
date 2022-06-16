@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@Bobo_PK/108480975236833396",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418056,
+    "author": {
+      "url": "https://chaos.social/@Bobo_PK",
+      "name": "Bobo_PK 🦄",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/119788f4576dcb05080ce01edc1bba1f1ea08e91724b21b38d631d323776f6c3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> zu wenig Unicode support?</p>",
+      "text": "@bascht zu wenig Unicode support?"
+    },
+    "published": "2022-06-15T10:18:38",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108480955388529391/108480975304383877",
+    "wm-target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-16T20:36:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108480955388529391/108480975304383877",
+  "target": "https://bascht.com/posts/2022/06/15/imma-need-yall-to-stop-using-emoji-in/",
+  "private": false
+}
