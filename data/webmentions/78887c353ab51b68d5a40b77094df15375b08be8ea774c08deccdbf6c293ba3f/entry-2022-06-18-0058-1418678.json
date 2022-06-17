@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/halfbyte/status/1536343590900670466",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418678,
+    "author": {
+      "url": "https://twitter.com/halfbyte",
+      "name": "Jan",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5f334a7930c38c0fbc26a7c3409c476d8ad6773e9c087d909803a5b4e9a342ce.jpg"
+    },
+    "content": {
+      "html": "Es ist aber auch Integral, ein gewissen Verständnis für Physik zu haben.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Es ist aber auch Integral, ein gewissen Verständnis für Physik zu haben."
+    },
+    "published": "2022-06-13T13:43:50+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1536343339166932994/1536343590900670466",
+    "wm-target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-17T16:26:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1536343339166932994/1536343590900670466",
+  "target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+  "private": false
+}
