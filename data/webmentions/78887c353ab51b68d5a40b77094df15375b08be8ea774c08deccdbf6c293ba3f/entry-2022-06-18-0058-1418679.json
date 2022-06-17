@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/cmx66/status/1536344548627996679",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418679,
+    "author": {
+      "url": "https://twitter.com/cmx66",
+      "name": "Stephan Hoyer🚴‍♂️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a1ef21939d3770f8ed74e1d17a8a14804df7f149ab926882cfc18041be40130.jpg"
+    },
+    "content": {
+      "html": "Einfach integrieren, dann darf man im Umkreis bleiben. 🙈\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Einfach integrieren, dann darf man im Umkreis bleiben. 🙈"
+    },
+    "published": "2022-06-13T13:47:38+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1536343339166932994/1536344548627996679",
+    "wm-target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-17T16:26:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1536343339166932994/1536344548627996679",
+  "target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+  "private": false
+}
