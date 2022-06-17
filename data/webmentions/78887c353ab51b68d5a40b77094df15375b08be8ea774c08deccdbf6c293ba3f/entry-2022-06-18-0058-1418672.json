@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1536343339166932994#favorited-by-43961444",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418672,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1536343339166932994/43961444",
+    "wm-target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-17T16:26:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1536343339166932994/43961444",
+  "target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+  "private": false
+}
