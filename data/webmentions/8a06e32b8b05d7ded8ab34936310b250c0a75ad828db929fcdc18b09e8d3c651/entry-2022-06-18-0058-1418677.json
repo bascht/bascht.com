@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1536432603372433411",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418677,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": "Die Chinesen! WAR DOCH KLAR!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Die Chinesen! WAR DOCH KLAR!"
+    },
+    "published": "2022-06-13T19:37:32+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1536394656245764102/1536432603372433411",
+    "wm-target": "https://bascht.com/posts/2022/06/13/606dc7-die-impfchips-werden-von-foxc/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/13/606dc7-die-impfchips-werden-von-foxc/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-17T16:26:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1536394656245764102/1536432603372433411",
+  "target": "https://bascht.com/posts/2022/06/13/606dc7-die-impfchips-werden-von-foxc/",
+  "private": false
+}
