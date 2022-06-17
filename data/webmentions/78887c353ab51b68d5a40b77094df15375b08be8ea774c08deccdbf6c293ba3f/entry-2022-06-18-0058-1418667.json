@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1536343339166932994#favorited-by-304451277",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418667,
+    "author": {
+      "url": "https://twitter.com/mrebbert",
+      "name": "Markus",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8939fb2a98701ff0fc76d5084bd36cd69cfa1e3183422df4949e6b428e5bbeb3.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1536343339166932994/304451277",
+    "wm-target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-17T16:26:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1536343339166932994/304451277",
+  "target": "https://bascht.com/posts/2022/06/13/irgendwo-hier-versteckt-sich-ein-mathema/",
+  "private": false
+}
