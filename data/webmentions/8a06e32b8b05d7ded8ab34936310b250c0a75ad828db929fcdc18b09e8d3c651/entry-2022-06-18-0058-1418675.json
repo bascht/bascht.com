@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1536394656245764102#favorited-by-381969021",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1418675,
+    "author": {
+      "url": "https://twitter.com/lesekaffee",
+      "name": "lesekaffee",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/689a55f52b8eb0ddab2a70f2d1724c3481aae9d5f3368d5e6251e02227f73e0b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1536394656245764102/381969021",
+    "wm-target": "https://bascht.com/posts/2022/06/13/606dc7-die-impfchips-werden-von-foxc/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-17T16:26:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1536394656245764102/381969021",
+  "target": "https://bascht.com/posts/2022/06/13/606dc7-die-impfchips-werden-von-foxc/",
+  "private": false
+}
