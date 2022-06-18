@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108499345218379964#reblogged-by-68351",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419317,
+    "author": {
+      "url": "https://weirder.earth/@j12i",
+      "name": "jay 🌺",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1c3b1fa439ca575425fc698e3f23757ae444d0d856fc1ec0d99e697b30dc8b6b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108499345218379964/68351",
+    "wm-target": "https://bascht.com/posts/2022/06/18/these-guys-are-just-not-very-bright.-bu/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-06-18T19:42:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108499345218379964/68351",
+  "target": "https://bascht.com/posts/2022/06/18/these-guys-are-just-not-very-bright.-bu/",
+  "private": false
+}
