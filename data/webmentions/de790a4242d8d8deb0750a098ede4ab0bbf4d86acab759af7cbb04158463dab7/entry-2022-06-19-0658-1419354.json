@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108500184802569447",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419354,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p>Fixed it.</p><p>Good as new.</p>",
+      "text": "Fixed it.Good as new."
+    },
+    "published": "2022-06-18T19:43:53",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108500181095198083/108500184802569447",
+    "wm-target": "https://bascht.com/posts/2022/06/18/bascht-til-the-hard-way-the-only-thi/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/18/bascht-til-the-hard-way-the-only-thi/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-18T23:07:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108500181095198083/108500184802569447",
+  "target": "https://bascht.com/posts/2022/06/18/bascht-til-the-hard-way-the-only-thi/",
+  "private": false
+}
