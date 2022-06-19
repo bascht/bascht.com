@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108500193477236036",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419360,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@funqr\" class=\"u-url\">@<span>funqr</span></a></span> I can only hope gravity is in my favour 😆</p>",
+      "text": "@funqr I can only hope gravity is in my favour 😆"
+    },
+    "published": "2022-06-18T19:46:05",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108500184802569447/108500193477236036",
+    "wm-target": "https://bascht.com/posts/2022/06/18/bascht-fixed-it./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/18/bascht-fixed-it./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-18T23:07:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108500184802569447/108500193477236036",
+  "target": "https://bascht.com/posts/2022/06/18/bascht-fixed-it./",
+  "private": false
+}
