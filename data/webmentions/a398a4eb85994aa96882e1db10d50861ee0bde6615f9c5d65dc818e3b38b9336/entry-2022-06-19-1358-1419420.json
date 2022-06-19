@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1538166039879483392#favorited-by-2424131767",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419420,
+    "author": {
+      "url": "https://twitter.com/m0ppers",
+      "name": "🧹🧹 mop 🧹🧹",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1f573cea045648dc3fd9727ad9659c6e8d472cad8256730bc3864598314adefe.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1538166039879483392/2424131767",
+    "wm-target": "https://bascht.com/posts/2022/06/18/die-zwei-himmelsrichtungen.-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-19T05:47:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1538166039879483392/2424131767",
+  "target": "https://bascht.com/posts/2022/06/18/die-zwei-himmelsrichtungen.-https/t.co/",
+  "private": false
+}
