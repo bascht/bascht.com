@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@funqr/108500185618611994",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419356,
+    "author": {
+      "url": "https://chaos.social/@funqr",
+      "name": "Björn",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/fdab1fa59336b13eca62f2220ac14ee2d52a54b19e41f5fcb37a96a99b3bfad0.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> You missed the strips of tape 😁</p>",
+      "text": "@bascht You missed the strips of tape 😁"
+    },
+    "published": "2022-06-18T19:44:05",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108500181095198083/108500185731095687",
+    "wm-target": "https://bascht.com/posts/2022/06/18/bascht-til-the-hard-way-the-only-thi/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/18/bascht-til-the-hard-way-the-only-thi/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-18T23:07:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108500181095198083/108500185731095687",
+  "target": "https://bascht.com/posts/2022/06/18/bascht-til-the-hard-way-the-only-thi/",
+  "private": false
+}
