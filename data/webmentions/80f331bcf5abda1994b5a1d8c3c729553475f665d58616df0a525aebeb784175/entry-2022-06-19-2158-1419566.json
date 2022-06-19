@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108504900978577425#favorited-by-37933",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419566,
+    "author": {
+      "url": "https://todon.nl/@schratze",
+      "name": "schratze, slime girl arc",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/169798f85ec6cac9cedab0ebbe6e86a50a2f113821ebae300edb20dc44b9cff0.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108504900978577425/37933",
+    "wm-target": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-19T16:37:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108504900978577425/37933",
+  "target": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+  "private": false
+}
