@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1538166039879483392#favorited-by-16393145",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419419,
+    "author": {
+      "url": "https://twitter.com/elmapache",
+      "name": "Kokō 🌍🇪🇺🕊",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/beb8e008172fa451e48ee09fbdf6150258210f28a3c41c79c4067b102aea5b45.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1538166039879483392/16393145",
+    "wm-target": "https://bascht.com/posts/2022/06/18/die-zwei-himmelsrichtungen.-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-19T05:47:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1538166039879483392/16393145",
+  "target": "https://bascht.com/posts/2022/06/18/die-zwei-himmelsrichtungen.-https/t.co/",
+  "private": false
+}
