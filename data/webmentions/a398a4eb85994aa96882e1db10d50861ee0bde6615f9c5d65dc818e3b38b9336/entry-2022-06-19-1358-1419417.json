@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1538166039879483392#favorited-by-129553128",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419417,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b18071b82689c842c159a74ad53ddb3ae53f06617ccedc6338a1c36811b148e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1538166039879483392/129553128",
+    "wm-target": "https://bascht.com/posts/2022/06/18/die-zwei-himmelsrichtungen.-https/t.co/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-19T05:47:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1538166039879483392/129553128",
+  "target": "https://bascht.com/posts/2022/06/18/die-zwei-himmelsrichtungen.-https/t.co/",
+  "private": false
+}
