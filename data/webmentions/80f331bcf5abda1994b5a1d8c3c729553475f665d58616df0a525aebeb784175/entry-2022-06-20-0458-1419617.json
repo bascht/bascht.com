@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/108505134060936986",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419617,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> It looks awful at first. But the closer you look, the worse it gets.</p>",
+      "text": "@bascht It looks awful at first. But the closer you look, the worse it gets."
+    },
+    "published": "2022-06-19T16:42:32",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108504900978577425/108505134136070299",
+    "wm-target": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-19T18:58:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108504900978577425/108505134136070299",
+  "target": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+  "private": false
+}
