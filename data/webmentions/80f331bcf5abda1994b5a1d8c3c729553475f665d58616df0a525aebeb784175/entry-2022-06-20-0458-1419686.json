@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108504900978577425#favorited-by-4581",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1419686,
+    "author": {
+      "url": "https://chaos.social/@fnord",
+      "name": "Fnord Prefect",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0b2c1d5f9e59088ecf60355416df1c5e818bf2980b58c75ab8a40ea61805f8e1.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108504900978577425/4581",
+    "wm-target": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-19T23:37:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108504900978577425/4581",
+  "target": "https://bascht.com/posts/2022/06/19/set-up-a-windows-pc-and-oh-my-god-this-i/",
+  "private": false
+}
