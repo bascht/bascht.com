@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/108525639777961492",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1421483,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> And always remember: Nutella is just brown jam, so same rules apply.</p>",
+      "text": "@bascht And always remember: Nutella is just brown jam, so same rules apply."
+    },
+    "published": "2022-06-23T07:37:25",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108525639841476859",
+    "wm-target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-23T07:49:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108525639841476859",
+  "target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+  "private": false
+}
