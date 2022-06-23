@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108526090695047329",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1421514,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://toot.kif.rocks/@thegcat\" class=\"u-url\">@<span>thegcat</span></a></span> Scheibe Brot muss auch Dick genug sein damit die kcal nicht zu kurz kommen. :D</p>",
+      "text": "@thegcat Scheibe Brot muss auch Dick genug sein damit die kcal nicht zu kurz kommen. :D"
+    },
+    "published": "2022-06-23T09:32:05",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108526090695047329",
+    "wm-target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-23T10:06:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108526090695047329",
+  "target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+  "private": false
+}
