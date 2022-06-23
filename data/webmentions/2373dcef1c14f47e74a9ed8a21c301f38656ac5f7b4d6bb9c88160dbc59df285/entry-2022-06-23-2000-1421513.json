@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/108526080202017820",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1421513,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> besser als zu viel Zucker ist nur zu viel Zucker mit Fett</p>",
+      "text": "@bascht besser als zu viel Zucker ist nur zu viel Zucker mit Fett"
+    },
+    "published": "2022-06-23T09:29:25",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108526080265299181",
+    "wm-target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-23T10:06:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108526080265299181",
+  "target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+  "private": false
+}
