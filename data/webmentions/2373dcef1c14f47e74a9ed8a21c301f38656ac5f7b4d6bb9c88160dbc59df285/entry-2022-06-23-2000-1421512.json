@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/108526098891169347",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1421512,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/4e848981faca4e95ec0f63fdcfa4431126479d367280eb158e1ffe74adf46f15.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> mit Daumen-dick ist nicht der flache Daumen gemeint :-D</p>",
+      "text": "@bascht mit Daumen-dick ist nicht der flache Daumen gemeint :-D"
+    },
+    "published": "2022-06-23T09:34:10",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108526098933608598",
+    "wm-target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-23T10:06:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108525402978281454/108526098933608598",
+  "target": "https://bascht.com/posts/2022/06/23/lets-settle-this.-jam-butter-bre/",
+  "private": false
+}
