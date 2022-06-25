@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fhemberger/status/1540658677656469506",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422254,
+    "author": {
+      "url": "https://twitter.com/fhemberger",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3133d5fee76471da962dcac8693ae313d0e0376a49db86c15321cefab36c9697.jpg"
+    },
+    "content": {
+      "html": "Bayerische Top-Bands wie Brings und Höhner. 👍\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Bayerische Top-Bands wie Brings und Höhner. 👍"
+    },
+    "published": "2022-06-25T11:30:27+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1540645221129588737/1540658677656469506",
+    "wm-target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-25T11:41:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1540645221129588737/1540658677656469506",
+  "target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+  "private": false
+}
