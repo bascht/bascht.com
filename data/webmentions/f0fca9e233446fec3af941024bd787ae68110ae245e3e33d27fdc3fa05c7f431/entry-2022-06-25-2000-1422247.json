@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1540645221129588737#favorited-by-14642473",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422247,
+    "author": {
+      "url": "https://twitter.com/beanieboi",
+      "name": "Ben Fritsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71afd2f58c5a0ef1ae0c502feeb6b9347abceae66e8732b819c934b7a10bf14b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1540645221129588737/14642473",
+    "wm-target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-25T11:03:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1540645221129588737/14642473",
+  "target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+  "private": false
+}
