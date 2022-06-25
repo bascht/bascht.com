@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1540645221129588737#favorited-by-16393145",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422246,
+    "author": {
+      "url": "https://twitter.com/elmapache",
+      "name": "Kokō 🌍🇪🇺🕊",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/beb8e008172fa451e48ee09fbdf6150258210f28a3c41c79c4067b102aea5b45.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1540645221129588737/16393145",
+    "wm-target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-25T11:03:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1540645221129588737/16393145",
+  "target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+  "private": false
+}
