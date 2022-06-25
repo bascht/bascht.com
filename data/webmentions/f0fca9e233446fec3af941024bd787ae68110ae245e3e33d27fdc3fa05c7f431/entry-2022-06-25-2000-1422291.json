@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1540645221129588737#favorited-by-14627332",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422291,
+    "author": {
+      "url": "https://twitter.com/e2b",
+      "name": "Benedict 🥨🕵️‍",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eef2c638f383f4e3976830e54fca5a3a2eba7eb714c7cae902c6c174ca12464f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1540645221129588737/14627332",
+    "wm-target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-25T14:24:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1540645221129588737/14627332",
+  "target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+  "private": false
+}
