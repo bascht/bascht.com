@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1540645221129588737#favorited-by-14513358",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422282,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1540645221129588737/14513358",
+    "wm-target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-25T13:20:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1540645221129588737/14513358",
+  "target": "https://bascht.com/posts/2022/06/25/wei%C3%9F-noch-nicht-was-mich-mehr-fasziniert/",
+  "private": false
+}
