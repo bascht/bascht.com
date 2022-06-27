@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108548089611321762#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1423156,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://sb-yakshed.b-cdn.net/accounts/avatars/000/004/585/original/1d32b92509424698.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108548089611321762/4585",
+    "wm-target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-27T13:05:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108548089611321762/4585",
+  "target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+  "private": false
+}
