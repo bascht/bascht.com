@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108548089611321762#favorited-by-6695",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422872,
+    "author": {
+      "url": "https://linuxrocks.online/@friend",
+      "name": "friend@linuxrocks.online",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108548089611321762/6695",
+    "wm-target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-27T07:06:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108548089611321762/6695",
+  "target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+  "private": false
+}
