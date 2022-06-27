@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108548089611321762#favorited-by-10460",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422994,
+    "author": {
+      "url": "https://mastodon.social/@kat",
+      "name": "Kat MCP(NT4) MCSE(Win2K)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/69a600aa1ffc122733edf8e5b20e92d60896913a7c16d57448d88c9667ce3859.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108548089611321762/10460",
+    "wm-target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-27T10:30:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108548089611321762/10460",
+  "target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+  "private": false
+}
