@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/108548884531013374",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1422995,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62428f8497d3ccc8ea6104f6982be779e617078beebcfce426908139e6e7392a.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> i'm surprised it came off neatly. Must be a tough kind of paint?</p>",
+      "text": "@bascht i'm surprised it came off neatly. Must be a tough kind of paint?"
+    },
+    "published": "2022-06-27T10:08:52",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108548089611321762/108548884556933830",
+    "wm-target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-27T10:30:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108548089611321762/108548884556933830",
+  "target": "https://bascht.com/posts/2022/06/27/bascht-mildly-interesting-my-old-pai/",
+  "private": false
+}
