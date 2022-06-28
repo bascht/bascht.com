@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1541505766883999749#favorited-by-16997374",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1423714,
+    "author": {
+      "url": "https://twitter.com/konstantinhaase",
+      "name": "Konstantin Haase",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/997c4885f4a8a55111ae48f7670e680cc8e0da01ba5365fdaa5613b87531deb1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1541505766883999749/16997374",
+    "wm-target": "https://bascht.com/posts/2022/06/27/the-perfect-laptop-does-exist-https/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-28T15:30:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1541505766883999749/16997374",
+  "target": "https://bascht.com/posts/2022/06/27/the-perfect-laptop-does-exist-https/",
+  "private": false
+}
