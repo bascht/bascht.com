@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1542051358492205056",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424174,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Attending burning man is as much anarchism as they are comfortable with.\n<a class=\"u-mention\" href=\"https://twitter.com/Argorak\"></a>",
+      "text": "Attending burning man is as much anarchism as they are comfortable with."
+    },
+    "published": "2022-06-29T07:44:28+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542051358492205056",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T07:59:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542051358492205056",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
