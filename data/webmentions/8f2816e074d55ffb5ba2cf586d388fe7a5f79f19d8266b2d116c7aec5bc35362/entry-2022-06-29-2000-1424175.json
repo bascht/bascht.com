@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1541481873938980864#favorited-by-14757517",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424175,
+    "author": {
+      "url": "https://twitter.com/meineerde",
+      "name": "Holger Just",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc158c11faf8f23f6643e87e68c532ac96feddab8b9e2c7124c2b8683a6e253f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1541481873938980864/14757517",
+    "wm-target": "https://bascht.com/posts/2022/06/27/wenn-ihr-eurer-timeline-einen-gefallen-t/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-29T07:59:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1541481873938980864/14757517",
+  "target": "https://bascht.com/posts/2022/06/27/wenn-ihr-eurer-timeline-einen-gefallen-t/",
+  "private": false
+}
