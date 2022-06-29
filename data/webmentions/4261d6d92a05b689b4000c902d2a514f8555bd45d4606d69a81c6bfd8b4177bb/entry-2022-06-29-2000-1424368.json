@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1542037326326530054#favorited-by-1844342406",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424368,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "christos alexiou 👨🏻‍💻",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3977332bcb3503f338bae08a89ad74264c1abbf6c63a0ac3f8716119c8160d4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1542037326326530054/1844342406",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-29T13:19:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1542037326326530054/1844342406",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
