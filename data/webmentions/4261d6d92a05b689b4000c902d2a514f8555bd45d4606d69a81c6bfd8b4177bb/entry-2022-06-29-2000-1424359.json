@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/pcnoic/status/1542122281056485376",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424359,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "christos alexiou 👨🏻‍💻",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3977332bcb3503f338bae08a89ad74264c1abbf6c63a0ac3f8716119c8160d4.jpg"
+    },
+    "content": {
+      "html": "<a href=\"https://twitter.com/podhustlrapp\">@podhustlrapp</a> (1) has a concrete web3 plan. When you create a podcast with one of the existing hosting platforms, you hand over your data, essentially your IP. If the provider goes bust, your data are gone. With podhustlr you can store data on-chain on your own address.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "@podhustlrapp (1) has a concrete web3 plan. When you create a podcast with one of the existing hosting platforms, you hand over your data, essentially your IP. If the provider goes bust, your data are gone. With podhustlr you can store data on-chain on your own address."
+    },
+    "published": "2022-06-29T12:26:17+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542122281056485376",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T12:31:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542122281056485376",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
