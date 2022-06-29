@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/renecalles/status/1542093870854545411",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424314,
+    "author": {
+      "url": "https://twitter.com/renecalles",
+      "name": "renecalles",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e81ae9458897bffe5d4956c99428aa0fafcab43894ff213cb8718dde5bdb43f0.jpg"
+    },
+    "content": {
+      "html": "Agreed. There is also less ponzi/pyramid scheme scams on there :]. I am just not sure yet on the definition of what is worth delivering value.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Agreed. There is also less ponzi/pyramid scheme scams on there :]. I am just not sure yet on the definition of what is worth delivering value."
+    },
+    "published": "2022-06-29T10:33:24+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542093870854545411",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T10:44:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542093870854545411",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
