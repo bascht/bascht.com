@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/hejocl1503/status/1542061244655566848",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424185,
+    "author": {
+      "url": "https://twitter.com/hejocl1503",
+      "name": "Holly G.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b41c7c3e64a1d25e51c275553b72b1bbd79bc2890eb3c35f1ba96068cc89448b.jpg"
+    },
+    "content": {
+      "html": "😊\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/FrauPe\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Minnasophie\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pfarrerpohl\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/selbstlos\"></a>",
+      "text": "😊"
+    },
+    "published": "2022-06-29T08:23:45+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542061244655566848",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T08:26:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542061244655566848",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
