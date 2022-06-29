@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1542085474415742977",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424299,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "Oh yes, full ack to that bit. Dunno if Crowdfunding is a useful comparison though. Yes, lot's of campaigns fail, but lot's of them also deliver real, tangible products. :)\n<a class=\"u-mention\" href=\"https://twitter.com/renecalles\"></a>",
+      "text": "Oh yes, full ack to that bit. Dunno if Crowdfunding is a useful comparison though. Yes, lot's of campaigns fail, but lot's of them also deliver real, tangible products. :)"
+    },
+    "published": "2022-06-29T10:00:02+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542085474415742977",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T10:07:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542085474415742977",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
