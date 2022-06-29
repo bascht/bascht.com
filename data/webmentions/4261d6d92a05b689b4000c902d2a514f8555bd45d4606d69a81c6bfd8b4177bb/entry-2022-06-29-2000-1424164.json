@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1542037326326530054#favorited-by-200649910",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424164,
+    "author": {
+      "url": "https://twitter.com/philhansch",
+      "name": "Phil H.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/60e61c4d515267cac0a7a19339bda4101b44f7f73b02e735154b79442894ba93.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1542037326326530054/200649910",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-06-29T07:29:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1542037326326530054/200649910",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
