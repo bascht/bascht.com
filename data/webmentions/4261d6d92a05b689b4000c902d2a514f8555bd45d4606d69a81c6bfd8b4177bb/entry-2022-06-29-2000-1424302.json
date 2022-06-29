@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/FrauPe/status/1542081118320615424",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424302,
+    "author": {
+      "url": "https://twitter.com/FrauPe",
+      "name": "Urlaubs DonnaKarina",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b2958ed90ed27f97dfde5a6ddc7b4df623b4855ffbe4fce4f54f5f55828d09e5.jpg"
+    },
+    "content": {
+      "html": "Lieben Dank auch dir einen frohen Morgen\n<a class=\"u-mention\" href=\"https://twitter.com/pfarrerpohl\"></a>",
+      "text": "Lieben Dank auch dir einen frohen Morgen"
+    },
+    "published": "2022-06-29T09:42:43+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542081118320615424",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T10:07:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542081118320615424",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
