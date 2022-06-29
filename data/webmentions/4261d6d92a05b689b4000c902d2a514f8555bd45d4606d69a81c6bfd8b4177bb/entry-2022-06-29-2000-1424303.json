@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/renecalles/status/1542082798311428102",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1424303,
+    "author": {
+      "url": "https://twitter.com/renecalles",
+      "name": "renecalles",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e81ae9458897bffe5d4956c99428aa0fafcab43894ff213cb8718dde5bdb43f0.jpg"
+    },
+    "content": {
+      "html": "Oh. I thought this was about the tech not solving problems. But to your argument: You mean like kickstarter and derivatives? /o\\\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Oh. I thought this was about the tech not solving problems. But to your argument: You mean like kickstarter and derivatives? /o\\"
+    },
+    "published": "2022-06-29T09:49:24+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542082798311428102",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-29T10:08:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542082798311428102",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
