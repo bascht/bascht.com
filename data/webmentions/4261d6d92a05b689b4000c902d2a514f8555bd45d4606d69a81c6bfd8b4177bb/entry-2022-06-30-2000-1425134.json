@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1542478118010626049",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1425134,
+    "author": {
+      "url": "https://twitter.com/bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da7ae0452aa715d23cd44f87ff5d5270bb8d8c23daf6d62c488f3d8d80c76b1d.jpg"
+    },
+    "content": {
+      "html": "I still struggle to understand how this scenario would play out  in the real world. on-chain or off-chain, wouldn't I still need all of your source code to be able to \"go on\"?\n<a class=\"u-mention\" href=\"https://twitter.com/pcnoic\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/podhustlrapp\"></a>",
+      "text": "I still struggle to understand how this scenario would play out  in the real world. on-chain or off-chain, wouldn't I still need all of your source code to be able to \"go on\"?"
+    },
+    "published": "2022-06-30T12:00:15+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542478118010626049",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-30T12:39:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542478118010626049",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
