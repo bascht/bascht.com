@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/pcnoic/status/1542481601099096067",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1425135,
+    "author": {
+      "url": "https://twitter.com/pcnoic",
+      "name": "christos alexiou 👨🏻‍💻",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3977332bcb3503f338bae08a89ad74264c1abbf6c63a0ac3f8716119c8160d4.jpg"
+    },
+    "content": {
+      "html": "Not really. The source code around the data is just an abstraction. The data live in a network far away from what podhustlr (or similar apps) control. The next solution can use all these data by implementing its own abstractions.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/podhustlrapp\"></a>",
+      "text": "Not really. The source code around the data is just an abstraction. The data live in a network far away from what podhustlr (or similar apps) control. The next solution can use all these data by implementing its own abstractions."
+    },
+    "published": "2022-06-30T12:14:06+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542481601099096067",
+    "wm-target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-06-30T12:40:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1542037326326530054/1542481601099096067",
+  "target": "https://bascht.com/posts/2022/06/29/again-i-urge-you-to-watch-the-clips-b/",
+  "private": false
+}
