@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1544754634098614273#favorited-by-763336264460427264",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1429517,
+    "author": {
+      "url": "https://twitter.com/katzenkultblog",
+      "name": "Steffi",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/08dfbcd8bb3cb6141b8e869aabb3365836fba19b15ce75b94195f28703be830a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1544754634098614273/763336264460427264",
+    "wm-target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-07T09:53:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1544754634098614273/763336264460427264",
+  "target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+  "private": false
+}
