@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1544754634098614273#favorited-by-2949556061",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1428968,
+    "author": {
+      "url": "https://twitter.com/moving2mars_",
+      "name": "nat 🇺🇦",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/db8cc20170024dcbe71ab84dc63b293c2e1fe5a9c7c13f31f97ffcc24518fa36.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1544754634098614273/2949556061",
+    "wm-target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-06T20:15:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1544754634098614273/2949556061",
+  "target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+  "private": false
+}
