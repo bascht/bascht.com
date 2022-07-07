@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1544754634098614273#favorited-by-1395186073840635905",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1429071,
+    "author": {
+      "url": "https://twitter.com/AndieDeren",
+      "name": "An die Anderen🇺🇦",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27e232d179f368b1efccb492fd2826f65243349e2c5ad7e7c61f7f999e2bfb25.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1544754634098614273/1395186073840635905",
+    "wm-target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-06T22:58:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1544754634098614273/1395186073840635905",
+  "target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+  "private": false
+}
