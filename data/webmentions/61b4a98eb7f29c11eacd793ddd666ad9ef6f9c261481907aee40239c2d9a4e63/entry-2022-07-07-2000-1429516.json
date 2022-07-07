@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1544754634098614273#favorited-by-1284062221",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1429516,
+    "author": {
+      "url": "https://twitter.com/Luise_Dee",
+      "name": "Lily",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21e8b4300aa199785d22395c9f879a715b46f7271bada96d4a25d48e72b5f492.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1544754634098614273/1284062221",
+    "wm-target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-07T09:52:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1544754634098614273/1284062221",
+  "target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+  "private": false
+}
