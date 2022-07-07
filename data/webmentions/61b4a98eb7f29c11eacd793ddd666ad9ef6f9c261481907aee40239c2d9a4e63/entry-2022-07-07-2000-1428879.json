@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bitboxer/status/1544758966118408196",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1428879,
+    "author": {
+      "url": "https://twitter.com/bitboxer",
+      "name": "Bodo Tasche",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b18071b82689c842c159a74ad53ddb3ae53f06617ccedc6338a1c36811b148e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Das Beste an der Berichterstattung über Number 10 Downing street ist nicht was *hinter* dieser Tür passiert, sondern dass jemand dafür bezahlt wird alle paar Minuten zu checken ob Larry vielleicht jetzt doch endlich rein kommen möchte."
+    },
+    "published": "2022-07-06T19:03:32+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1544754634098614273/1544758966118408196",
+    "wm-target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-07-06T19:12:23Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1544754634098614273/1544758966118408196",
+  "target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+  "private": false
+}
