@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1544754634098614273#favorited-by-1044577614738874370",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1429518,
+    "author": {
+      "url": "https://twitter.com/sanvers_endgame",
+      "name": "lily",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b198997af6e81aecf0d1226128d648001a5b3a69e1c6105a29089e6841c31c1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1544754634098614273/1044577614738874370",
+    "wm-target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-07T09:53:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1544754634098614273/1044577614738874370",
+  "target": "https://bascht.com/posts/2022/07/06/das-beste-an-der-berichterstattung-%C3%BCber/",
+  "private": false
+}
