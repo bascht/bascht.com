@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/carhillion/status/1546453291319558145",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432228,
+    "author": {
+      "url": "https://twitter.com/carhillion",
+      "name": "Florian Kraft",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/829a0f8a7e7cc61c8ccd84ab35be7cbeeb9f4dcca782d77b98b15fa022bfa0d9.jpg"
+    },
+    "content": {
+      "html": "Ich hab das \"t\" mehrfach überlesen und dachte, es handle sich um das Verbot des Kunsthandels durch Vertreter an meiner Haustür.\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/fnordfish\"></a>",
+      "text": "Ich hab das \"t\" mehrfach überlesen und dachte, es handle sich um das Verbot des Kunsthandels durch Vertreter an meiner Haustür."
+    },
+    "published": "2022-07-11T11:16:11+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1546404846521171968/1546453291319558145",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-12T04:14:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1546404846521171968/1546453291319558145",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
