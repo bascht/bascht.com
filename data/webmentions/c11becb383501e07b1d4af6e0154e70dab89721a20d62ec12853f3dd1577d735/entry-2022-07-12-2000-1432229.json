@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/ptrwllrt/status/1546432573244690434",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432229,
+    "author": {
+      "url": "https://twitter.com/ptrwllrt",
+      "name": "Peter Willert",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d51b2505238bb36256a16245b027fd77762e9abc2a9607a321f64935759459b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Hund oder Munch?"
+    },
+    "published": "2022-07-11T09:53:51+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1546404846521171968/1546432573244690434",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-07-12T04:14:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1546404846521171968/1546432573244690434",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
