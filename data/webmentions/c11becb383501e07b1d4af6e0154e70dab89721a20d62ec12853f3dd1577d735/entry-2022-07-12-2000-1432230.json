@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/simkoelsch/status/1546438225165795330",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432230,
+    "author": {
+      "url": "https://twitter.com/simkoelsch",
+      "name": "Simon Kölsch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57f5f52db8a9c37dafd3a80da89945fbf31543b18e6e228230e24a310b47bb60.jpg"
+    },
+    "content": {
+      "html": "Sieht in etwa so aus: 😱\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Sieht in etwa so aus: 😱"
+    },
+    "published": "2022-07-11T10:16:18+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1546404846521171968/1546438225165795330",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-12T04:14:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1546404846521171968/1546438225165795330",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
