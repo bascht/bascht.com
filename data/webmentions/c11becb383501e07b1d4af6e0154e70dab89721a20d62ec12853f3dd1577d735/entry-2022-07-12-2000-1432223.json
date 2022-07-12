@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1546404846521171968#favorited-by-2711106256",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432223,
+    "author": {
+      "url": "https://twitter.com/annasophieluisa",
+      "name": "anna schulze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4768d61557cfba5c7c015809bcafa9f21081ed9eb81f746134049c54f79d45cb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1546404846521171968/2711106256",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-12T04:14:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1546404846521171968/2711106256",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
