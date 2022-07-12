@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/fnordfish/status/1546428637800546306",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432233,
+    "author": {
+      "url": "https://twitter.com/fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf03c3ebb848b8bd73b61e04626d50dd3afb25b267de696137fb41eda46fcc29.jpg"
+    },
+    "content": {
+      "html": "Ich haustiere, Du haustierst, wie alle Haustieren!\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Ich haustiere, Du haustierst, wie alle Haustieren!"
+    },
+    "published": "2022-07-11T09:38:13+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1546404846521171968/1546428637800546306",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-12T04:14:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1546404846521171968/1546428637800546306",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
