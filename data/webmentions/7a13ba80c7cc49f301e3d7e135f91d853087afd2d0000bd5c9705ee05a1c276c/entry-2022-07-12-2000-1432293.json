@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108630473531723766#favorited-by-750",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432293,
+    "author": {
+      "url": "https://mstdn.io/@breakthesystem",
+      "name": "Daniel 🦖 Jay",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b294c8c750b6ad5f7b2d29aa4c09149deaacc8028a58f8db9120203ba92543a8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108630473531723766/750",
+    "wm-target": "https://bascht.com/posts/2022/07/11/bascht-netdata-is-one-of-the-few-moni/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-12T06:18:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108630473531723766/750",
+  "target": "https://bascht.com/posts/2022/07/11/bascht-netdata-is-one-of-the-few-moni/",
+  "private": false
+}
