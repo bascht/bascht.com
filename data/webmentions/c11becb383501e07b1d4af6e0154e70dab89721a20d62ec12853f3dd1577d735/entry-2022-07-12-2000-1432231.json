@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/tralafiti/status/1546435022122631168",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432231,
+    "author": {
+      "url": "https://twitter.com/tralafiti",
+      "name": "tralafiti",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ce732447e34b42b12f2b5fc6186d2f5da1586f61b128416ffcbeee7509b1022a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Hund oder Munch?"
+    },
+    "published": "2022-07-11T10:03:35+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1546404846521171968/1546435022122631168",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-07-12T04:14:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1546404846521171968/1546435022122631168",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
