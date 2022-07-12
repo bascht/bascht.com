@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1546404846521171968#favorited-by-623663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1432226,
+    "author": {
+      "url": "https://twitter.com/ptrwllrt",
+      "name": "Peter Willert",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d51b2505238bb36256a16245b027fd77762e9abc2a9607a321f64935759459b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1546404846521171968/623663",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-12T04:14:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1546404846521171968/623663",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
