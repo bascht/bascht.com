@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/der_kronn/status/1547366035141136384",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1433736,
+    "author": {
+      "url": "https://twitter.com/der_kronn",
+      "name": "Matthias Viehweger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b42ffff7ee5a3ed6ca9d34d4884536ad15ef8e690ad8f3642142fdc93690d781.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "Hund oder Munch?"
+    },
+    "published": "2022-07-13T23:43:06+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1546404846521171968/1547366035141136384",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-07-14T00:09:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1546404846521171968/1547366035141136384",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
