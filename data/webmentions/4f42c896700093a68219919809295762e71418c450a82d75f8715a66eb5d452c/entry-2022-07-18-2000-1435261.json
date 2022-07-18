@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1548671175852695552#favorited-by-816033462721384450",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1435261,
+    "author": {
+      "url": "https://twitter.com/judylovesruby",
+      "name": "Judith R.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20b2497ec4a874269046cd9eb727732494c76689c85405e7b689cd4c3caeefbe.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1548671175852695552/816033462721384450",
+    "wm-target": "https://bascht.com/posts/2022/07/17/gelegenheit-in-baw%C3%BC-genutzt-und-beim-fle/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-17T22:15:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1548671175852695552/816033462721384450",
+  "target": "https://bascht.com/posts/2022/07/17/gelegenheit-in-baw%C3%BC-genutzt-und-beim-fle/",
+  "private": false
+}
