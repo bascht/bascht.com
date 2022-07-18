@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/bascht/status/1548671175852695552#favorited-by-977141931703787521",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1435258,
+    "author": {
+      "url": "https://twitter.com/coffeemicha",
+      "name": "Flamingo 🦩 mit Bart und 💉💉💉",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99fa41527a0f6e61f15a4cef9a742d31162eb589bb9881202b0e52c7f1590075.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/bascht/1548671175852695552/977141931703787521",
+    "wm-target": "https://bascht.com/posts/2022/07/17/gelegenheit-in-baw%C3%BC-genutzt-und-beim-fle/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-17T22:15:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/bascht/1548671175852695552/977141931703787521",
+  "target": "https://bascht.com/posts/2022/07/17/gelegenheit-in-baw%C3%BC-genutzt-und-beim-fle/",
+  "private": false
+}
