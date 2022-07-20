@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108675634604074633",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1437191,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@yngmar\" class=\"u-url\">@<span>yngmar</span></a></span> yep, but it doesn't come with a default value and even setting it to absurdly high values like 180s still kills my workers after 20 seconds flat.</p>",
+      "text": "@yngmar yep, but it doesn't come with a default value and even setting it to absurdly high values like 180s still kills my workers after 20 seconds flat."
+    },
+    "published": "2022-07-19T19:23:04",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108674415880714766/108675634604074633",
+    "wm-target": "https://bascht.com/posts/2022/07/19/nginx-friendshow-can-i-configure-the-ti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/19/nginx-friendshow-can-i-configure-the-ti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-20T10:35:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108674415880714766/108675634604074633",
+  "target": "https://bascht.com/posts/2022/07/19/nginx-friendshow-can-i-configure-the-ti/",
+  "private": false
+}
