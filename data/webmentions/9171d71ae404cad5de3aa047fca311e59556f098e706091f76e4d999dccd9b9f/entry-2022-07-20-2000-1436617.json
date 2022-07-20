@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/108674791460752482",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1436617,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <a href=\"http://nginx.org/en/docs/ngx_core_module.html#worker_shutdown_timeout\"><span>http://</span><span>nginx.org/en/docs/ngx_core_mod</span><span>ule.html#worker_shutdown_timeout</span></a></p><p>Sounds promising?</p>\n<a href=\"http://nginx.org/en/docs/ngx_core_module.html#worker_shutdown_timeout\">Core functionality</a>",
+      "text": "@bascht http://nginx.org/en/docs/ngx_core_module.html#worker_shutdown_timeoutSounds promising?\nCore functionality"
+    },
+    "published": "2022-07-19T15:48:39",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108674415880714766/108674791502861288",
+    "wm-target": "https://bascht.com/posts/2022/07/19/nginx-friendshow-can-i-configure-the-ti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/19/nginx-friendshow-can-i-configure-the-ti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-19T17:05:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108674415880714766/108674791502861288",
+  "target": "https://bascht.com/posts/2022/07/19/nginx-friendshow-can-i-configure-the-ti/",
+  "private": false
+}
