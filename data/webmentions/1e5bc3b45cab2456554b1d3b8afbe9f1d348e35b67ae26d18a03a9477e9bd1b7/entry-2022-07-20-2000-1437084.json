@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108674374794885617#favorited-by-108324963448601465",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1437084,
+    "author": {
+      "url": "https://ruby.social/@judy",
+      "name": "Judy",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ffb7f8a2746afa0f94239c6e3ce31921bcccce978d936b260cd32cf4a85979ba.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108674374794885617/108324963448601465",
+    "wm-target": "https://bascht.com/posts/2022/07/19/unix-signal-telling-you-to-get-into-sewi/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-20T05:31:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108674374794885617/108324963448601465",
+  "target": "https://bascht.com/posts/2022/07/19/unix-signal-telling-you-to-get-into-sewi/",
+  "private": false
+}
