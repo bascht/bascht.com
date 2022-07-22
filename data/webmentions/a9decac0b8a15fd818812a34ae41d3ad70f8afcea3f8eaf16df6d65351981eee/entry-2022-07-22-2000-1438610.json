@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108687172478550821#favorited-by-1270",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1438610,
+    "author": {
+      "url": "https://social.tchncs.de/@lauteshirn",
+      "name": "🇺🇦 Lauteshirn 🏳️‍🌈",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/e5d652c4e9a10afcbc37c5cc45d4c84bfec2813979cf3460f586fe25833160ba.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108687172478550821/1270",
+    "wm-target": "https://bascht.com/posts/2022/07/21/made-some-./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-21T21:17:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108687172478550821/1270",
+  "target": "https://bascht.com/posts/2022/07/21/made-some-./",
+  "private": false
+}
