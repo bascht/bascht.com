@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://layer8.space/@drmast/108712628802639482",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1441471,
+    "author": {
+      "url": "https://layer8.space/@drmast",
+      "name": "DrMast",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/34c46abba0088c2638dcd7118c86064c61f4b20ef10899aeb657a1ff786e6bff.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Definitely.  I think I found a logo for the next birdsite alternative app:<br /><a href=\"https://emoji.supply/kitchen/?%F0%9F%90%A6+%F0%9F%95%B7%EF%B8%8F=8cv\"><span>https://</span><span>emoji.supply/kitchen/?%F0%9F%9</span><span>0%A6+%F0%9F%95%B7%EF%B8%8F=8cv</span></a></p>\n<a class=\"u-mention\" href=\"https://emoji.supply/kitchen/\"></a>\n<a href=\"https://emoji.supply/kitchen/?%F0%9F%90%A6+%F0%9F%95%B7%EF%B8%8F=8cv\">Emoji Kitchen Browser</a>",
+      "text": "@bascht Definitely.  I think I found a logo for the next birdsite alternative app:\nhttps://emoji.supply/kitchen/?%F0%9F%90%A6+%F0%9F%95%B7%EF%B8%8F=8cv\n\nEmoji Kitchen Browser"
+    },
+    "published": "2022-07-26T08:11:11",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108712374489192497/108712628850036257",
+    "wm-target": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-26T08:15:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108712374489192497/108712628850036257",
+  "target": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+  "private": false
+}
