@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108712374489192497#favorited-by-59709",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1441448,
+    "author": {
+      "url": "https://mastodon.lukem.net/@lukem",
+      "name": "Lukem",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a55b0a5ce8954b3350289b98fb8a2826bb383f0220bc50319edc14956d388baf.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108712374489192497/59709",
+    "wm-target": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-26T07:42:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108712374489192497/59709",
+  "target": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+  "private": false
+}
