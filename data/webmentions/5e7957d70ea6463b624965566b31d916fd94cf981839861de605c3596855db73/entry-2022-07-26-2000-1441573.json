@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/108713231401629591",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1441573,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/bbb00a46bf74d1a15470f0c62ff58ff41c2824de436b5225880b7733d71e71ff.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Always reassuring that the last sentence is necessary to say 😂</p>",
+      "text": "@bascht Always reassuring that the last sentence is necessary to say 😂"
+    },
+    "published": "2022-07-26T10:44:26",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108712088607521305/108713231401629591",
+    "wm-target": "https://bascht.com/posts/2022/07/26/bascht-vegan-burgers-in-our-bulgarian/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/26/bascht-vegan-burgers-in-our-bulgarian/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-26T11:11:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108712088607521305/108713231401629591",
+  "target": "https://bascht.com/posts/2022/07/26/bascht-vegan-burgers-in-our-bulgarian/",
+  "private": false
+}
