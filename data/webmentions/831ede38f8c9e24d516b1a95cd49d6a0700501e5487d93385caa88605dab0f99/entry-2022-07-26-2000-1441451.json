@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108712374489192497#favorited-by-4055",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1441451,
+    "author": {
+      "url": "https://kosmos.social/@raucao",
+      "name": "Râu Cao ⚡",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/9085a9ecde8b7dd52cf20c596c6c30e367c0e84f691f12b39e1dec6b4382dadf.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108712374489192497/4055",
+    "wm-target": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-26T07:42:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108712374489192497/4055",
+  "target": "https://bascht.com/posts/2022/07/26/make-sure-to-kill-some-productive-hours/",
+  "private": false
+}
