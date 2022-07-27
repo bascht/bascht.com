@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108714964303118611#reblogged-by-2150",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1442170,
+    "author": {
+      "url": "https://hackers.town/@theruran",
+      "name": "theruran 🌐🏴",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/52bd756c094b91cf44c663ab0c83ea5a2bca02eceb22c63aaf934256a29ba675.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108714964303118611/2150",
+    "wm-target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-07-26T20:25:40Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108714964303118611/2150",
+  "target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+  "private": false
+}
