@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://bitcoinhackers.org/@berkes/108715062887159246",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1442025,
+    "author": {
+      "url": "https://bitcoinhackers.org/@berkes",
+      "name": "berkes 🐝 🚐 🏄 🌱",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/d8bf41fc3d29bb41e5fac1a5dd443b2f75c97d4a0f44a047160209c68f06712a.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> TBF: nitter has none of the interactions: in the twitter version you are logged in, in the nitter not. </p><p>Read-only is, and always has been, much easier for web.</p><p>Still, what nitter does is an incredible achievement and twitter can and should learn from it.</p>",
+      "text": "@bascht TBF: nitter has none of the interactions: in the twitter version you are logged in, in the nitter not. Read-only is, and always has been, much easier for web.Still, what nitter does is an incredible achievement and twitter can and should learn from it."
+    },
+    "published": "2022-07-26T18:30:12",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108714964303118611/108715062915415385",
+    "wm-target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-07-26T18:52:39Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108714964303118611/108715062915415385",
+  "target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+  "private": false
+}
