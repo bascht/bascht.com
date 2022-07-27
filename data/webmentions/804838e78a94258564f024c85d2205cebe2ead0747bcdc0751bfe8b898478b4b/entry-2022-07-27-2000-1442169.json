@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108714964303118611#reblogged-by-2121",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1442169,
+    "author": {
+      "url": "https://hackers.town/@drwho",
+      "name": "The Doctor",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108714964303118611/2121",
+    "wm-target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-07-26T20:25:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108714964303118611/2121",
+  "target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+  "private": false
+}
