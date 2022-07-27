@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108714964303118611#favorited-by-108228422597847992",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1442217,
+    "author": {
+      "url": "https://cybre.space/@yuki_mx",
+      "name": "Cyber Yuki",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/1efe2c50474523ca565099fccbec75e4e3d61d7beb5146318a737e8727acd6e6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108714964303118611/108228422597847992",
+    "wm-target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-07-26T21:12:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108714964303118611/108228422597847992",
+  "target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+  "private": false
+}
