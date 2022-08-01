@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108748512068281901#favorited-by-482",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1447161,
+    "author": {
+      "url": "https://chaos.social/@pascoda",
+      "name": "pascoda | EPVPN: 2529",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/438d7cede340428efb258eab9fe308c7f1c31e4ae510b4340ae9ff8937baab51.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108748512068281901/482",
+    "wm-target": "https://bascht.com/posts/2022/08/01/made-pancakes-and-managed-to-not-fuck-up/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-01T16:34:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108748512068281901/482",
+  "target": "https://bascht.com/posts/2022/08/01/made-pancakes-and-managed-to-not-fuck-up/",
+  "private": false
+}
