@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108748512068281901#favorited-by-1040",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1447244,
+    "author": {
+      "url": "https://dobbs.town/@Nikolai_Kingsley",
+      "name": "Rev.Dr. Nikolai Kingsley",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c48613a7fd37420bafbf9474f89468562c048a5ad53fae82a533d1b9e0b333e5.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108748512068281901/1040",
+    "wm-target": "https://bascht.com/posts/2022/08/01/made-pancakes-and-managed-to-not-fuck-up/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-01T19:22:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108748512068281901/1040",
+  "target": "https://bascht.com/posts/2022/08/01/made-pancakes-and-managed-to-not-fuck-up/",
+  "private": false
+}
