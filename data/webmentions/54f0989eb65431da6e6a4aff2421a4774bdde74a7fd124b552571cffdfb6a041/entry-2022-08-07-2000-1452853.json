@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/108780640574516002",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1452853,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> In remote regions of Europe, we've found quite the opposite to be the case! :)</p><p>Google maps often led us to non-existing shops and paths like this, while OSM was right on both accounts.</p><p>OSM often had fewer details in general, but the data it had was usually correct, while Google seems to ingest a lot of unverified garbage.</p>",
+      "text": "@bascht In remote regions of Europe, we've found quite the opposite to be the case! :)Google maps often led us to non-existing shops and paths like this, while OSM was right on both accounts.OSM often had fewer details in general, but the data it had was usually correct, while Google seems to ingest a lot of unverified garbage."
+    },
+    "published": "2022-08-07T08:27:28",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108780564586685745/108780640600476993",
+    "wm-target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-08-07T08:49:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108780564586685745/108780640600476993",
+  "target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+  "private": false
+}
