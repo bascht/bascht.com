@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108780564586685745#favorited-by-21834",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1452855,
+    "author": {
+      "url": "https://lediver.se/@nomekopia",
+      "name": "JellyBrain [Tim]",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/119241505cc421ee63fb8af486491ecbe1a1b037000466f56212e168dc4ae2fd.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108780564586685745/21834",
+    "wm-target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-07T08:50:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108780564586685745/21834",
+  "target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+  "private": false
+}
