@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108780564586685745#favorited-by-333",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1452861,
+    "author": {
+      "url": "https://cybre.space/@jollysea",
+      "name": "joël",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6f0e63ab2f09100b97f31cfb820a729db29ba2d4ab8599af30d1e1e7ab900284.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108780564586685745/333",
+    "wm-target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-07T09:35:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108780564586685745/333",
+  "target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+  "private": false
+}
