@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108780564586685745#favorited-by-1306",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1452852,
+    "author": {
+      "url": "https://todon.nl/@anarchiv",
+      "name": "Souvlaki Space Station",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c9efea723c8fc2efa485cfb8ae66a96850f8b668127c18dbafad167f41b2b46b.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108780564586685745/1306",
+    "wm-target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-07T08:49:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108780564586685745/1306",
+  "target": "https://bascht.com/posts/2022/08/07/bascht-sure-google-maps-might-have-s/",
+  "private": false
+}
