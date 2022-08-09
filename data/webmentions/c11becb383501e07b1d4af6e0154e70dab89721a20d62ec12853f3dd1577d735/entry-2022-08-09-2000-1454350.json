@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1556948728791064582",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1454350,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Tweet: Hund oder Munch? … • <a href=\"https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/\">bascht.com/posts/2022/07/…</a>",
+      "text": "Tweet: Hund oder Munch? … • bascht.com/posts/2022/07/…"
+    },
+    "published": "2022-08-09T10:21:18+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1556948728791064582",
+    "wm-target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-08-09T15:10:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1556948728791064582",
+  "target": "https://bascht.com/posts/2022/07/11/hund-oder-munch-https/t.co/wpd3jl6ndm/",
+  "private": false
+}
