@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1557080845365743616#favorited-by-635573550",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1458211,
+    "author": {
+      "url": "https://twitter.com/Sammyjtb",
+      "name": "Sammyjtb",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/69b390bd0e26b04a91d89eecda26528f6c8dc35b3d5cf19caa31377707472c7d.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/twitter/baschtdotcom/1557080845365743616/635573550",
+    "wm-target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-13T11:14:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/twitter/baschtdotcom/1557080845365743616/635573550",
+  "target": "https://bascht.com/posts/2022/07/26/bascht-it-boggles-my-mind-that-nitter/",
+  "private": false
+}
