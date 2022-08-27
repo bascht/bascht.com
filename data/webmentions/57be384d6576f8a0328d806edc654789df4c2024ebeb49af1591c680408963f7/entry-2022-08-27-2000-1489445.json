@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108890604855556493#favorited-by-73555",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1489445,
+    "author": {
+      "url": "https://mstdn.social/@Sbarry8520",
+      "name": "Momodou s Barry",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b9d2ec25c4d1e102d6d13dd4b9da82640d0dc9b98701849a378b52a3e4cd26f2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108890604855556493/73555",
+    "wm-target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-26T20:06:43Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108890604855556493/73555",
+  "target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+  "private": false
+}
