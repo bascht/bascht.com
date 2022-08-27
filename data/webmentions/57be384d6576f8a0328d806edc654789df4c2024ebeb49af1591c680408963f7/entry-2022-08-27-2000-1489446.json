@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108890604855556493#favorited-by-37933",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1489446,
+    "author": {
+      "url": "https://todon.nl/@schratze",
+      "name": "schratze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/3f3e5e445f1b1c70453e4ca891a3bda593ef4643a5a264f37a890a1f4047fef5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108890604855556493/37933",
+    "wm-target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-26T20:06:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108890604855556493/37933",
+  "target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+  "private": false
+}
