@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/clemensk/status/1559640497731391491",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1496412,
+    "author": {
+      "url": "https://twitter.com/clemensk",
+      "name": "Clemens Kofler",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1bd84a044a9edf6e7d691cc515ef1fbc268a84f228ae575114003c31491bd6ea.jpg"
+    },
+    "content": {
+      "html": "Kein schlechter Deal, würd ich mal sagen. Es sei denn, Chauffeur beinhaltet auch Security. 😬\n<a class=\"u-mention\" href=\"https://bascht.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bascht\"></a>",
+      "text": "Kein schlechter Deal, würd ich mal sagen. Es sei denn, Chauffeur beinhaltet auch Security. 😬"
+    },
+    "published": "2022-08-16T20:37:26+00:00",
+    "wm-source": "https://brid.gy/comment/twitter/bascht/1559529655505506305/1559640497731391491",
+    "wm-target": "https://bascht.com/posts/2022/08/16/l%C3%A4uft-bei-der-waffenindustrie.-https/t/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/08/16/l%C3%A4uft-bei-der-waffenindustrie.-https/t/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-08-27T14:11:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/twitter/bascht/1559529655505506305/1559640497731391491",
+  "target": "https://bascht.com/posts/2022/08/16/l%C3%A4uft-bei-der-waffenindustrie.-https/t/",
+  "private": false
+}
