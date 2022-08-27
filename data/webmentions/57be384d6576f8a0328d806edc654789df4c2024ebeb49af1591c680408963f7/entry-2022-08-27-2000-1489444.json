@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108890604855556493#favorited-by-108200069801864643",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1489444,
+    "author": {
+      "url": "https://compostintraining.club/@prplecake",
+      "name": "prplecake@compostintraining.club",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0e43c981384c8a79a653544ca0caf09e3ec9957a598d2bfd6f5de7e85d3ac86d.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108890604855556493/108200069801864643",
+    "wm-target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-26T20:06:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108890604855556493/108200069801864643",
+  "target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+  "private": false
+}
