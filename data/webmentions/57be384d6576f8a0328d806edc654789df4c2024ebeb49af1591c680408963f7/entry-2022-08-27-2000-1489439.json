@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108890626509623211",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1489439,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@bekopharm\" class=\"u-url\">@<span>bekopharm</span></a></span> especially weird since most of the times they do have those huge cans of wiper water sitting around for free :D</p>",
+      "text": "@bekopharm especially weird since most of the times they do have those huge cans of wiper water sitting around for free :D"
+    },
+    "published": "2022-08-26T18:38:20",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108890604855556493/108890626509623211",
+    "wm-target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-08-26T20:06:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108890604855556493/108890626509623211",
+  "target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+  "private": false
+}
