@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://norden.social/@ingmar/108894055997215527",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1496296,
+    "author": {
+      "url": "https://norden.social/@ingmar",
+      "name": "ingmar@norden.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/19cf55025bd07e1f3101ddb0fa75a270bdee2149febe31378e180b317e9e6acb.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> that stock photo 😆</p><p>🙌🪙</p>",
+      "text": "@bascht that stock photo 😆🙌🪙"
+    },
+    "published": "2022-08-27T09:10:30",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108890604855556493/108894056033696588",
+    "wm-target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-08-27T10:19:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108890604855556493/108894056033696588",
+  "target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+  "private": false
+}
