@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@bekopharm/108890618183011347",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1489440,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/dbe9aa52c39f0b0c9c23b79544293bd132e8520563681166fe75ce78eddf0f49.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> happened to me at a gas station once. Needed water for the car. \"We don't sell that here\". So I shrugged, went around the building, found a tap and filled up my canister.</p>",
+      "text": "@bascht happened to me at a gas station once. Needed water for the car. \"We don't sell that here\". So I shrugged, went around the building, found a tap and filled up my canister."
+    },
+    "published": "2022-08-26T18:36:13",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108890604855556493/108890618237266996",
+    "wm-target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-08-26T20:06:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108890604855556493/108890618237266996",
+  "target": "https://bascht.com/posts/2022/08/26/bascht-tell-me-youre-in-the-touristy/",
+  "private": false
+}
