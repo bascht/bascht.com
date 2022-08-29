@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108901225004194715#favorited-by-607",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1497522,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe 🫠:blobcat_thisisfine:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6592fa9bf4aad28f10398521cf927749b157c067a5e601d0b3d3e5fdaad9e902.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108901225004194715/607",
+    "wm-target": "https://bascht.com/posts/2022/08/28/fuck-both-of-them-https/arstechnica.co/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-08-28T18:34:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108901225004194715/607",
+  "target": "https://bascht.com/posts/2022/08/28/fuck-both-of-them-https/arstechnica.co/",
+  "private": false
+}
