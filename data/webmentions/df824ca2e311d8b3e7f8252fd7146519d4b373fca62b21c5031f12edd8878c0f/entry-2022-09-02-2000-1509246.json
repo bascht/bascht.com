@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108924368807139907#favorited-by-49692",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509246,
+    "author": {
+      "url": "https://mas.to/@FediVideos",
+      "name": "FediVideos",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/9c9e36848eebaf2ec2f16d176c2ed2c0f40258006bfbe1c161ef83fdf42e6f92.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108924368807139907/49692",
+    "wm-target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-01T20:56:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108924368807139907/49692",
+  "target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+  "private": false
+}
