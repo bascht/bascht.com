@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108924368807139907#reblogged-by-28697",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509417,
+    "author": {
+      "url": "https://kith.kitchen/@nessotropheion",
+      "name": "🍱 νησσοτροφεῖον 🍱",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/ebac00585b3b6c5c05d8dec81f9c493d0cd3dc251b0c595d852275e93e3ead62.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108924368807139907/28697",
+    "wm-target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-09-02T03:42:32Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108924368807139907/28697",
+  "target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+  "private": false
+}
