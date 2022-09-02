@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108926784483429481#reblogged-by-26032",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509451,
+    "author": {
+      "url": "https://chaos.social/@finster",
+      "name": "finster",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/0116c8363179956c450bfa56b50f1460060018e46e6bea41bb2ef9c6c65a552c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108926784483429481/26032",
+    "wm-target": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-09-02T05:37:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108926784483429481/26032",
+  "target": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+  "private": false
+}
