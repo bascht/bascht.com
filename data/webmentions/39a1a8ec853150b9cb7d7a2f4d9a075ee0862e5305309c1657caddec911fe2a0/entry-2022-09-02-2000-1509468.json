@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108926784483429481#reblogged-by-10162",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509468,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "totoroot",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108926784483429481/10162",
+    "wm-target": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-09-02T06:14:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/108926784483429481/10162",
+  "target": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+  "private": false
+}
