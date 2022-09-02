@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108925106833016994#favorited-by-108591413277409122",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509245,
+    "author": {
+      "url": "https://autonomous.zone/@dantescanline",
+      "name": "Dante Scanline",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/790dff05e75dff1c5a2a254cf8cdec5e5ef89e8c914cf42127857dee9af87bcf.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108925106833016994/108591413277409122",
+    "wm-target": "https://bascht.com/posts/2022/09/01/i-am-scrolling-should-not-change-the-ur/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-01T20:56:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108925106833016994/108591413277409122",
+  "target": "https://bascht.com/posts/2022/09/01/i-am-scrolling-should-not-change-the-ur/",
+  "private": false
+}
