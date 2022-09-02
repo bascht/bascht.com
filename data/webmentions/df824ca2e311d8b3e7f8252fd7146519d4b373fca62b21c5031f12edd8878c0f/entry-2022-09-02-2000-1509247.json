@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108924368807139907#favorited-by-26617",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509247,
+    "author": {
+      "url": "https://kith.kitchen/@ehashman",
+      "name": "ehash is cookin'",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b5cca48a673d5fed9e2014ad6530533672bf01f7f6090839226062066885aed3.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108924368807139907/26617",
+    "wm-target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-01T20:56:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108924368807139907/26617",
+  "target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+  "private": false
+}
