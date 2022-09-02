@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.nl/@jasper/108928443853149482",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1509637,
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "name": "Jasper (Free Julian Assange!)",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/62428f8497d3ccc8ea6104f6982be779e617078beebcfce426908139e6e7392a.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> really need to get the fuck out of mega-corporation services.. Still really appreciate workarounds like these though! (use nitter instances fairly regularly myself)</p>\n<a class=\"u-mention\" href=\"https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram\"></a>",
+      "text": "@bascht really need to get the fuck out of mega-corporation services.. Still really appreciate workarounds like these though! (use nitter instances fairly regularly myself)"
+    },
+    "published": "2022-09-02T10:55:47",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108926784483429481/108928443887226389",
+    "wm-target": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-09-02T11:02:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108926784483429481/108928443887226389",
+  "target": "https://bascht.com/posts/2022/09/02/oh-no-https/cadence.moe/blog/2022-09/",
+  "private": false
+}
