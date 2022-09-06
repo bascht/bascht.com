@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108924368807139907#favorited-by-108951951649406693",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1512011,
+    "author": {
+      "url": "https://kith.kitchen/@NevesRoseBakes",
+      "name": "NevesRose",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/c3da00a228364b210d4fc859f7792dc4025b1076e52361eee61a7c621c74b113.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108924368807139907/108951951649406693",
+    "wm-target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-06T15:14:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108924368807139907/108951951649406693",
+  "target": "https://bascht.com/posts/2022/09/01/bascht-i-love-manti-so-much./",
+  "private": false
+}
