@@ -1,0 +1,31 @@
+---
+title: "2022 09 07 125244 Yubikey Openpgp Pin"
+date: 2022-09-07T12:52:44+02:00
+tags: [yubikey, openpgp, gpg, security]
+---
+
+Just got a little Yubikey scare after accidentally inserting the same wrong PIN for 3 times, the password dialogue showing =0 retries= and even the =gpg --edit-card= command being unable to reset the pin:
+
+#+BEGIN_SRC log
+Error changing the PIN: PIN blocked
+#+END_SRC
+
+The [[https://support.yubico.com/hc/en-us/articles/360013761339-Resetting-the-OpenPGP-Application-on-the-YubiKey][official docs]] make it sound like you'll have to hard reset your Yubikey, but this is not the case if you still have access to your admin pin:
+
+Just use =ykman= to reset the counters:
+
+#+begin_src bash
+$ ykman openpgp access set-retries 3 3 3
+Enter Admin PIN:
+Set PIN retry counters to: 3 3 3? [y/N]: y
+#+end_src
+
+and we're good again:
+
+#+begin_src bash
+$ gpg --card-status | grep "PIN retry"
+PIN retry counter : 3 0 3
+#+end_src
+
+
+Also unrelated, but - wow: I'm at =2535= signatures already.
