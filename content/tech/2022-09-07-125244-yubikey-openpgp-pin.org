@@ -1,5 +1,5 @@
 ---
-title: "2022 09 07 125244 Yubikey Openpgp Pin"
+title: "Resetting a Yubikey OpenGPG Pin counter"
 date: 2022-09-07T12:52:44+02:00
 tags: [yubikey, openpgp, gpg, security]
 ---
