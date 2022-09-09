@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@bekopharm/108967586497551574",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1515044,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/b2de0e3157c79417580bc40f73eb2bb5f7c56e9b734472144a92666c3eb49017.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> cursed 😜</p>",
+      "text": "@bascht cursed 😜"
+    },
+    "published": "2022-09-09T08:50:17",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108966981507456804/108967586547075522",
+    "wm-target": "https://bascht.com/posts/2022/09/09/bascht-ethernet-to-round-boi./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/09/09/bascht-ethernet-to-round-boi./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-09-09T10:40:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108966981507456804/108967586547075522",
+  "target": "https://bascht.com/posts/2022/09/09/bascht-ethernet-to-round-boi./",
+  "private": false
+}
