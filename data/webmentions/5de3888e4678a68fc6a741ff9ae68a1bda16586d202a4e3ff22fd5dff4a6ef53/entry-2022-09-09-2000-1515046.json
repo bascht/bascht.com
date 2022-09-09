@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108966981507456804#favorited-by-108967023700485427",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1515046,
+    "author": {
+      "url": "https://kolektiva.social/@Sinkingrats",
+      "name": "erutaN",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/143cbef1e79182e5b482e346c94a6fb031a377b39ecff0cdd6e4a8825da4106c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108966981507456804/108967023700485427",
+    "wm-target": "https://bascht.com/posts/2022/09/09/bascht-ethernet-to-round-boi./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-09T10:40:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108966981507456804/108967023700485427",
+  "target": "https://bascht.com/posts/2022/09/09/bascht-ethernet-to-round-boi./",
+  "private": false
+}
