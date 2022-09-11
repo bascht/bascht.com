@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/108975715620717094#favorited-by-10162",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1516129,
+    "author": {
+      "url": "https://fosstodon.org/@totoroot",
+      "name": "totoroot",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/643a8405194d8b80da6a0cad26a2013b16ad22ea6b482faf476336fe296187da.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108975715620717094/10162",
+    "wm-target": "https://bascht.com/posts/2022/09/10/bascht-about-the-only-apple-product-i/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-11T00:56:16Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/108975715620717094/10162",
+  "target": "https://bascht.com/posts/2022/09/10/bascht-about-the-only-apple-product-i/",
+  "private": false
+}
