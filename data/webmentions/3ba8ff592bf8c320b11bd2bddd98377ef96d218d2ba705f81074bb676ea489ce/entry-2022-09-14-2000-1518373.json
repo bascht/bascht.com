@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@LittleJoeMuc/108995380791594630",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1518373,
+    "author": {
+      "url": "https://social.tchncs.de/@LittleJoeMuc",
+      "name": "Joe 🫠:blobcat_thisisfine:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/6592fa9bf4aad28f10398521cf927749b157c067a5e601d0b3d3e5fdaad9e902.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> my brother did it the other way, because he had very bad connection in his new flat. Now he is very happy with Congstar, and we got in total 80€ for recommendation.</p>",
+      "text": "@bascht my brother did it the other way, because he had very bad connection in his new flat. Now he is very happy with Congstar, and we got in total 80€ for recommendation."
+    },
+    "published": "2022-09-14T06:38:44",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108995363216727210/108995381120168920",
+    "wm-target": "https://bascht.com/posts/2022/09/14/bascht-end-of-an-era-after-~-15-year/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/09/14/bascht-end-of-an-era-after-~-15-year/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-09-14T06:51:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/108995363216727210/108995381120168920",
+  "target": "https://bascht.com/posts/2022/09/14/bascht-end-of-an-era-after-~-15-year/",
+  "private": false
+}
