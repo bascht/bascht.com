@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109001378179588863#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1519598,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/sb-yakshed.b-cdn.net/bbb00a46bf74d1a15470f0c62ff58ff41c2824de436b5225880b7733d71e71ff.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109001378179588863/4585",
+    "wm-target": "https://bascht.com/posts/2022/09/15/switched-the-metrics-backend-for-my-loca/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-09-15T18:52:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109001378179588863/4585",
+  "target": "https://bascht.com/posts/2022/09/15/switched-the-metrics-backend-for-my-loca/",
+  "private": false
+}
