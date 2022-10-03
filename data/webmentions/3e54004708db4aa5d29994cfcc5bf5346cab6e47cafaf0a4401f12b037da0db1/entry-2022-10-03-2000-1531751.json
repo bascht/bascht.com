@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109099973410126041#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1531751,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/accounts/avatars/000/004/585/original/df33e3252eaa60d1.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109099973410126041/4585",
+    "wm-target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-02T19:21:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109099973410126041/4585",
+  "target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+  "private": false
+}
