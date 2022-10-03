@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109099973410126041#favorited-by-108236207186059478",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1531768,
+    "author": {
+      "url": "https://mastodon.green/@bitboxer",
+      "name": "Bodo",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/108/236/207/186/059/478/original/8b925c009da0c208.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109099973410126041/108236207186059478",
+    "wm-target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-02T20:24:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109099973410126041/108236207186059478",
+  "target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+  "private": false
+}
