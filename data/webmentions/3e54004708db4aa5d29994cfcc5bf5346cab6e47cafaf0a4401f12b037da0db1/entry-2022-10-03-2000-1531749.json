@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://freiburg.social/@lakoja/109100046715346639",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1531749,
+    "author": {
+      "url": "https://freiburg.social/@lakoja",
+      "name": "Ulrich",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/108/233/875/118/897/231/original/0da54d78234e04d1.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> looks quite bubbly?</p>",
+      "text": "@bascht looks quite bubbly?"
+    },
+    "published": "2022-10-02T18:16:39",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109099973410126041/109100046749830959",
+    "wm-target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-02T19:21:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109099973410126041/109100046749830959",
+  "target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+  "private": false
+}
