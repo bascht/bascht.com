@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@gabor/109100007094389398",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1531753,
+    "author": {
+      "url": "https://fosstodon.org/@gabor",
+      "name": "Gabor",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/049/089/original/b908cdf7c8f5bbb0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> looks healthy 😂 (sorry... but also yummy!)</p>",
+      "text": "@bascht looks healthy 😂 (sorry... but also yummy!)"
+    },
+    "published": "2022-10-02T18:06:34",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109099973410126041/109100007262740635",
+    "wm-target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-02T19:22:16Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109099973410126041/109100007262740635",
+  "target": "https://bascht.com/posts/2022/10/02/oct-02-2022-1758/",
+  "private": false
+}
