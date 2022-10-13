@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109159872283961936#favorited-by-750",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1537123,
+    "author": {
+      "url": "https://mstdn.io/@breakthesystem",
+      "name": "Daniel 🦖 Jay",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/000/750/original/fb9f26d73608e62a.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109159872283961936/750",
+    "wm-target": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-13T13:00:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109159872283961936/750",
+  "target": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+  "private": false
+}
