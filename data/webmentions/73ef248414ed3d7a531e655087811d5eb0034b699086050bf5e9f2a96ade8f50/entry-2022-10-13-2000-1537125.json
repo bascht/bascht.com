@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/109160004927897620",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1537125,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/011/279/original/19ccc6160a9cfd17.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Sounds like the fried Burek they make in Croatia. Enjoy!</p>",
+      "text": "@bascht Sounds like the fried Burek they make in Croatia. Enjoy!"
+    },
+    "published": "2022-10-13T08:24:49",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109159872283961936/109160004956121783",
+    "wm-target": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-13T13:00:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109159872283961936/109160004956121783",
+  "target": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+  "private": false
+}
