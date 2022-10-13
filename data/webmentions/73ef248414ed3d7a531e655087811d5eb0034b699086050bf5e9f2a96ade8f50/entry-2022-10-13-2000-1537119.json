@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109159984508181299",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1537119,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/accounts/avatars/000/000/001/original/b92a5a008121ff84.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.tchncs.de/@yngmar\" class=\"u-url\">@<span>yngmar</span></a></span> it's amazing. A dough pocket filled with spinach and cheese, baked in oil 🤌</p>",
+      "text": "@yngmar it's amazing. A dough pocket filled with spinach and cheese, baked in oil 🤌"
+    },
+    "published": "2022-10-13T08:19:37",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109159872283961936/109159984508181299",
+    "wm-target": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-13T13:00:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109159872283961936/109159984508181299",
+  "target": "https://bascht.com/posts/2022/10/13/oct-13-2022-0751/",
+  "private": false
+}
