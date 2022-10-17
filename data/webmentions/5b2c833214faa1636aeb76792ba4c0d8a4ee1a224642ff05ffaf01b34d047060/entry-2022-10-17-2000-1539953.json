@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://curmudgeon.cafe/@fahrni/109179212047555582",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1539953,
+    "author": {
+      "url": "https://curmudgeon.cafe/@fahrni",
+      "name": "Rob Fahrni",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/009/599/original/232fb76e082997ae.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Let me get you my shipping address. 🤤</p>",
+      "text": "@bascht Let me get you my shipping address. 🤤"
+    },
+    "published": "2022-10-16T17:49:26",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109179080612575429/109179212075890600",
+    "wm-target": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-16T20:22:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109179080612575429/109179212075890600",
+  "target": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+  "private": false
+}
