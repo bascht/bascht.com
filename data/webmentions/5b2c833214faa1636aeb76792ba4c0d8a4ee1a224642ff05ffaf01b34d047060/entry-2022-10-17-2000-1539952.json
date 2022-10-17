@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109179080612575429#favorited-by-9599",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1539952,
+    "author": {
+      "url": "https://curmudgeon.cafe/@fahrni",
+      "name": "Rob Fahrni",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/009/599/original/232fb76e082997ae.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109179080612575429/9599",
+    "wm-target": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-16T20:22:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109179080612575429/9599",
+  "target": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+  "private": false
+}
