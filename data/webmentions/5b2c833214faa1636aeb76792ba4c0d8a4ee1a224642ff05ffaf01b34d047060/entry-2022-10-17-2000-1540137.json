@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@philhoefer/109183117565392542",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1540137,
+    "author": {
+      "url": "https://social.tchncs.de/@philhoefer",
+      "name": "philhoefer",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/063/328/original/6024e7efa63ebaf5.jpeg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> wie gut! Sauerteig only?</p>",
+      "text": "@bascht wie gut! Sauerteig only?"
+    },
+    "published": "2022-10-17T10:22:40",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109179080612575429/109183117614113789",
+    "wm-target": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-17T10:36:19Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109179080612575429/109183117614113789",
+  "target": "https://bascht.com/posts/2022/10/16/oct-16-2022-1716/",
+  "private": false
+}
