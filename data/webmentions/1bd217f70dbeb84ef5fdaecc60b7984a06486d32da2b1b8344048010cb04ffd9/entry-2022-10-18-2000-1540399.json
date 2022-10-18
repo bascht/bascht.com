@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109184826136397851#reblogged-by-14659",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1540399,
+    "author": {
+      "url": "https://social.fluffel.io/users/optikfluffel",
+      "name": "optikfluffel",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/014/659/original/81be5787d106d5da.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109184826136397851/14659",
+    "wm-target": "https://bascht.com/posts/2022/10/17/dear-hardware-tinkerer-fediverse./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-10-17T17:56:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109184826136397851/14659",
+  "target": "https://bascht.com/posts/2022/10/17/dear-hardware-tinkerer-fediverse./",
+  "private": false
+}
