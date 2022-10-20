@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109199982443806510#reblogged-by-11279",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1542278,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/011/279/original/19ccc6160a9cfd17.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109199982443806510/11279",
+    "wm-target": "https://bascht.com/posts/2022/10/20/helped-a-friend-repair-a-ntfs-file-syste/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-10-20T14:36:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109199982443806510/11279",
+  "target": "https://bascht.com/posts/2022/10/20/helped-a-friend-repair-a-ntfs-file-syste/",
+  "private": false
+}
