@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109199982443806510#favorited-by-486",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1542182,
+    "author": {
+      "url": "https://floss.social/@vinzv",
+      "name": "vinz",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/000/486/original/99448b572dc666f5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109199982443806510/486",
+    "wm-target": "https://bascht.com/posts/2022/10/20/helped-a-friend-repair-a-ntfs-file-syste/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-20T10:12:35Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109199982443806510/486",
+  "target": "https://bascht.com/posts/2022/10/20/helped-a-friend-repair-a-ntfs-file-syste/",
+  "private": false
+}
