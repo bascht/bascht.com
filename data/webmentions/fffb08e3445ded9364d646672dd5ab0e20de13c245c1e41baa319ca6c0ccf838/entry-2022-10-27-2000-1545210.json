@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@frederic/109236478258776182",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1545210,
+    "author": {
+      "url": "https://chaos.social/@frederic",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/108/081/236/228/180/734/original/c619db5d5b994325.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I'm already working on a Prometheus webhook receiver for it. 😉</p>\n<a class=\"u-mention\" href=\"https://ntfy.sh/\"></a>",
+      "text": "@bascht I'm already working on a Prometheus webhook receiver for it. 😉"
+    },
+    "published": "2022-10-26T20:32:59",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109235814609244929/109236478289886195",
+    "wm-target": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-26T21:33:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109235814609244929/109236478289886195",
+  "target": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+  "private": false
+}
