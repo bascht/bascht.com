@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109235814609244929#favorited-by-2071",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1545188,
+    "author": {
+      "url": "https://mastodon.sdf.org/@ParadeGrotesque",
+      "name": "Parade du Grotesque 💀",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/002/071/original/86d000b1f6010a07.jpeg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109235814609244929/2071",
+    "wm-target": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-26T19:30:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109235814609244929/2071",
+  "target": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+  "private": false
+}
