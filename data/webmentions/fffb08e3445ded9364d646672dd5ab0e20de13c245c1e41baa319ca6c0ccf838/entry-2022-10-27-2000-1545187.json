@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://bsd.network/@ab/109236126268599131",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1545187,
+    "author": {
+      "url": "https://bsd.network/@ab",
+      "name": "Armin",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/039/913/original/3fbe5e51a8a3b7d1.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> i've been using pushoverapp [1] for a while now and very happy with it. not self hosted tho but i trust jcs@openbsd enough...</p><p>[1] <a href=\"https://pushover.net/\"><span>https://</span><span>pushover.net/</span><span></span></a></p>\n<a class=\"u-mention\" href=\"https://ntfy.sh/\"></a>\n<a href=\"https://pushover.net/\">Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop</a>",
+      "text": "@bascht i've been using pushoverapp [1] for a while now and very happy with it. not self hosted tho but i trust jcs@openbsd enough...[1] https://pushover.net/\n\nPushover: Simple Notifications for Android, iPhone, iPad, and Desktop"
+    },
+    "published": "2022-10-26T19:03:28",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109235814609244929/109236126362630211",
+    "wm-target": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-26T19:30:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109235814609244929/109236126362630211",
+  "target": "https://bascht.com/posts/2022/10/26/ntfy.sh-looks-amazing.-self-hosted-push/",
+  "private": false
+}
