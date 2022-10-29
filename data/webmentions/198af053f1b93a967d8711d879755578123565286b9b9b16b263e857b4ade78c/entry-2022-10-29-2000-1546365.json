@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109246637858482642#favorited-by-6705",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1546365,
+    "author": {
+      "url": "https://metalhead.club/@Aarkon",
+      "name": "Aarkon@metalhead.club",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/de78619668ec872954133db598b3b02d3c1ea49f3f0184855007150edb567a5c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/6705",
+    "wm-target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-28T20:14:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/6705",
+  "target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+  "private": false
+}
