@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109246637858482642#favorited-by-67750",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1546364,
+    "author": {
+      "url": "https://mas.to/@lydiaconwell",
+      "name": "Lydia Conwell",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/655e2907f97f0098fdb8b91df0fe6edd02f636a051d03bee66996f84ec0585f6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/67750",
+    "wm-target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-28T20:14:52Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/67750",
+  "target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+  "private": false
+}
