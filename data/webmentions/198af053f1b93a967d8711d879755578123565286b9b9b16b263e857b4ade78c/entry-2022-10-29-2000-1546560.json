@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109246637858482642#favorited-by-109244838285529432",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1546560,
+    "author": {
+      "url": "https://metalhead.club/@seanmunger",
+      "name": "Sean Munger",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/efd3b3425d9439bcab0409db0638af2de08e315fbeafeea4e98f5300d3607169.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/109244838285529432",
+    "wm-target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-29T01:19:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/109244838285529432",
+  "target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+  "private": false
+}
