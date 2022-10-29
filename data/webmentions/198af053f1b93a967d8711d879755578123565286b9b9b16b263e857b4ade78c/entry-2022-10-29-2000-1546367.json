@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109246637858482642#favorited-by-507",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1546367,
+    "author": {
+      "url": "https://norden.social/@Spreepunk",
+      "name": "Marc S. N. 🏳️‍🌈 ☣️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/fb54b18b9effe92ec2e00037dbdb659937489477e95347ea2c7f9778ae9839f3.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/507",
+    "wm-target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-28T20:14:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/507",
+  "target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+  "private": false
+}
