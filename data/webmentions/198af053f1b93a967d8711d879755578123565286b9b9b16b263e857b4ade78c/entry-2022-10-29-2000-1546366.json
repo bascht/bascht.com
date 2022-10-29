@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109246637858482642#favorited-by-49559",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1546366,
+    "author": {
+      "url": "https://subversive.zone/@tofuwabohu",
+      "name": "tofuwabohu@subversive.zone",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/8cce92abbdc6da611154c8d7ac7f51ed3ee756c34e3af99e241f44fdf96a57c4.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/49559",
+    "wm-target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-28T20:14:55Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109246637858482642/49559",
+  "target": "https://bascht.com/posts/2022/10/28/oct-28-2022-1536/",
+  "private": false
+}
