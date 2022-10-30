@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109256734762034215#favorited-by-1965",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547209,
+    "author": {
+      "url": "https://bsd.network/@paulgatling",
+      "name": "Paul Gatling",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/4b62c0064b7fd7339d56c502d3128a0c5c08c686bbc5400db3ca6e463c6b824c.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109256734762034215/1965",
+    "wm-target": "https://bascht.com/posts/2022/10/30/oct-30-2022-1024/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-30T13:31:24Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109256734762034215/1965",
+  "target": "https://bascht.com/posts/2022/10/30/oct-30-2022-1024/",
+  "private": false
+}
