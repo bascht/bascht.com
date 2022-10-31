@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109261960979257972",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547527,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://meinungsschubla.de/@nanoparsec\" class=\"u-url\">@<span>nanoparsec</span></a></span> Exakt! :D</p>",
+      "text": "@nanoparsec Exakt! :D"
+    },
+    "published": "2022-10-31T08:33:35",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109256721735518860/109261960979257972",
+    "wm-target": "https://bascht.com/posts/2022/10/30/oct-30-2022-1021/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/oct-30-2022-1021/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-31T09:23:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109256721735518860/109261960979257972",
+  "target": "https://bascht.com/posts/2022/10/30/oct-30-2022-1021/",
+  "private": false
+}
