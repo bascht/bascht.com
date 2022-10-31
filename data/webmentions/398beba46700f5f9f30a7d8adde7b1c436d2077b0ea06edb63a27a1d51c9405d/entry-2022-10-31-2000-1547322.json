@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@davedarko/109258797166359017",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547322,
+    "author": {
+      "url": "https://chaos.social/@davedarko",
+      "name": "Dave",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/9f6b8d22780c056295713984069c239821e265e3c4da4888682e4521ffe0ab38.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> <span class=\"h-card\"><a href=\"https://norden.social/@brezelradar\" class=\"u-url\">@<span>brezelradar</span></a></span> </p><p>hat chaos social auch</p>",
+      "text": "@bascht @brezelradar hat chaos social auch"
+    },
+    "published": "2022-10-30T19:08:59",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258522054021805/109258797298884422",
+    "wm-target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-30T19:16:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258522054021805/109258797298884422",
+  "target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+  "private": false
+}
