@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109258477635099108#favorited-by-66755",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547321,
+    "author": {
+      "url": "https://loma.ml/profile/z428",
+      "name": "Kristian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/551d318ff266dbcd2ba619b8a66706f003bf96afb537757f0fffc29fedfcdad4.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/66755",
+    "wm-target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-30T19:16:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/66755",
+  "target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+  "private": false
+}
