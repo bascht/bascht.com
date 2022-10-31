@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109258477635099108#favorited-by-109256828017614086",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547335,
+    "author": {
+      "url": "https://hachyderm.io/@jannis",
+      "name": "Jannis",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/c7a2646a19d34a06b37242925961dab593f3dba239de0dc09cff5d4bd0601cfa.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/109256828017614086",
+    "wm-target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-30T20:25:03Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/109256828017614086",
+  "target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+  "private": false
+}
