@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109258477635099108#favorited-by-109262598412190662",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547684,
+    "author": {
+      "url": "https://mastodon.cloud/@dillspitzen",
+      "name": "🥒 Cornichon à l'Anneth 🌿",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/2dc5d9f405fef96eed3987f558c2aebe8b367df52bb57fd47d6a5c896c5a62c8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/109262598412190662",
+    "wm-target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-31T11:55:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/109262598412190662",
+  "target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+  "private": false
+}
