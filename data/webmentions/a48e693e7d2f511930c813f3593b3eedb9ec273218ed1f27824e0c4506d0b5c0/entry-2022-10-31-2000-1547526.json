@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://meinungsschubla.de/@nanoparsec/109261946969707229",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547526,
+    "author": {
+      "url": "https://meinungsschubla.de/@nanoparsec",
+      "name": "nanoparsec@meinungsschubla.de",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> das ist sowas wie graveln mit bäckerbesuch?</p>",
+      "text": "@bascht das ist sowas wie graveln mit bäckerbesuch?"
+    },
+    "published": "2022-10-31T08:30:01",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109256721735518860/109261947009869165",
+    "wm-target": "https://bascht.com/posts/2022/10/30/oct-30-2022-1021/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/oct-30-2022-1021/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-31T09:23:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109256721735518860/109261947009869165",
+  "target": "https://bascht.com/posts/2022/10/30/oct-30-2022-1021/",
+  "private": false
+}
