@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://norden.social/@brezelradar/109258863861891302",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547339,
+    "author": {
+      "url": "https://norden.social/@brezelradar",
+      "name": "embix",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/75fbb3fa22e5a0b46c3c759ade8bf3caa0eb87dfe956bd5cb6f503499271b932.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> keine Ahnung, vermutlich - wir fahren hier v3.5.3 - Details kann dir aber bestimmt <span class=\"h-card\"><a href=\"https://norden.social/@leuchtturm\" class=\"u-url\">@<span>leuchtturm</span></a></span> sagen.</p>",
+      "text": "@bascht keine Ahnung, vermutlich - wir fahren hier v3.5.3 - Details kann dir aber bestimmt @leuchtturm sagen."
+    },
+    "published": "2022-10-30T19:25:56",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258477635099108/109258864290285338",
+    "wm-target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-30T20:25:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258477635099108/109258864290285338",
+  "target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+  "private": false
+}
