@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.c1710.de/objects/156db2f6-68cc-4f6b-aa72-bf3f9701293f",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547681,
+    "author": {
+      "url": "https://social.c1710.de/users/c1710",
+      "name": "Constantin A.",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/e6f206d56d2d8b714a65f34d4e830939fc802d6efcd0584c87ccae9b73be59c5.jpg"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://norden.social/@brezelradar\">@<span>brezelradar</span></a></span> <span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span> <span class=\"h-card\"><a class=\"u-url\" href=\"https://norden.social/@leuchtturm\">@<span>leuchtturm</span></a></span> In Tusky gibt es das zumindest in der aktuellen Nightly-Version 😅",
+      "text": "@brezelradar @bascht @leuchtturm In Tusky gibt es das zumindest in der aktuellen Nightly-Version 😅"
+    },
+    "published": "2022-10-31T09:41:44",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258522054021805/109262229028075917",
+    "wm-target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-31T11:55:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258522054021805/109262229028075917",
+  "target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+  "private": false
+}
