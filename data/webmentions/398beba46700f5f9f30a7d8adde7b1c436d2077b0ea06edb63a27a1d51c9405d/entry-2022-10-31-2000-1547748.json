@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109258522054021805#favorited-by-109257679983537992",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547748,
+    "author": {
+      "url": "https://mastodon.social/@connymel",
+      "name": "Conny",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0360637180825af3eccc3dfc17147cbb7efeb0eb4cb51409dca2f86d43e3198e.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258522054021805/109257679983537992",
+    "wm-target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-31T12:33:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258522054021805/109257679983537992",
+  "target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+  "private": false
+}
