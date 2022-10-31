@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109258889992432741",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547340,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://norden.social/@brezelradar\" class=\"u-url\">@<span>brezelradar</span></a></span> <span class=\"h-card\"><a href=\"https://norden.social/@leuchtturm\" class=\"u-url\">@<span>leuchtturm</span></a></span> scheint mit <a href=\"https://github.com/mastodon/mastodon/pull/18420\"><span>https://</span><span>github.com/mastodon/mastodon/p</span><span>ull/18420</span></a> gekommen zu sein. Wir sind aber eigentlich auf der aktuellsten Version. Ich popel mich mal morgen durch die Settings.</p>\n<a href=\"https://github.com/mastodon/mastodon/pull/18420\">Add language dropdown to compose in web UI by Gargron · Pull Request #18420 · mastodon/mastodon</a>",
+      "text": "@brezelradar @leuchtturm scheint mit https://github.com/mastodon/mastodon/pull/18420 gekommen zu sein. Wir sind aber eigentlich auf der aktuellsten Version. Ich popel mich mal morgen durch die Settings.\nAdd language dropdown to compose in web UI by Gargron · Pull Request #18420 · mastodon/mastodon"
+    },
+    "published": "2022-10-30T19:32:35",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258477635099108/109258889992432741",
+    "wm-target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-30T20:25:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258477635099108/109258889992432741",
+  "target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+  "private": false
+}
