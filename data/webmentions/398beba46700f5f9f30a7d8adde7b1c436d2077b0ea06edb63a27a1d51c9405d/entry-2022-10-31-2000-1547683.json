@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.cloud/@dillspitzen/109262717656993954",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1547683,
+    "author": {
+      "url": "https://mastodon.cloud/@dillspitzen",
+      "name": "🥒 Cornichon à l'Anneth 🌿",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/2dc5d9f405fef96eed3987f558c2aebe8b367df52bb57fd47d6a5c896c5a62c8.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Und sowas wie Quote Toots und Privatnachrichten wären auch toll.</p>",
+      "text": "@bascht Und sowas wie Quote Toots und Privatnachrichten wären auch toll."
+    },
+    "published": "2022-10-31T11:46:01",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258522054021805/109262717714007331",
+    "wm-target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-10-31T11:55:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109258522054021805/109262717714007331",
+  "target": "https://bascht.com/posts/2022/10/30/werde-vielleicht-doch-hin-und-wieder-ein/",
+  "private": false
+}
