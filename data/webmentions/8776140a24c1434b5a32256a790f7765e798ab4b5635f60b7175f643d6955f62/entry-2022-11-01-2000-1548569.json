@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109267481737128250#favorited-by-109262598038169347",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548569,
+    "author": {
+      "url": "https://mastodon.social/@RaphaelWimmer",
+      "name": "Raphael Wimmer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/e00040ffd2d134958e1620e82f4917d658f7168cb08033dc3421bcc94edbc665.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109267481737128250/109262598038169347",
+    "wm-target": "https://bascht.com/posts/2022/11/01/we-recognize-that-the-basic-idea-of-a-b/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-01T12:20:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109267481737128250/109262598038169347",
+  "target": "https://bascht.com/posts/2022/11/01/we-recognize-that-the-basic-idea-of-a-b/",
+  "private": false
+}
