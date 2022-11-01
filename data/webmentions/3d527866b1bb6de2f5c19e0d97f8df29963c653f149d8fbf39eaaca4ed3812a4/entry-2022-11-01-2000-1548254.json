@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109258477635099108#favorited-by-109262598567316475",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548254,
+    "author": {
+      "url": "https://social.anoxinon.de/@kaja",
+      "name": "Kaja Nö",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/5284f31cc66a8f5e5ad4833f582dea88c1c73c6003efcac0cd0b673503250159.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/109262598567316475",
+    "wm-target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-10-31T18:18:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109258477635099108/109262598567316475",
+  "target": "https://bascht.com/posts/2022/10/30/so-viele-neue-menschen-hier.-und-gef%C3%BChlt/",
+  "private": false
+}
