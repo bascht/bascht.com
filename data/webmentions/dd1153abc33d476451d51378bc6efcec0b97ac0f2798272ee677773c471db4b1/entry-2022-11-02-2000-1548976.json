@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109270911812667838",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548976,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://norden.social/@ingmar\" class=\"u-url\">@<span>ingmar</span></a></span> a small external one with a barrel plug. Doesn't look too cheap though and I cannot make out any coil whine 😁</p>",
+      "text": "@ingmar a small external one with a barrel plug. Doesn't look too cheap though and I cannot make out any coil whine 😁"
+    },
+    "published": "2022-11-01T22:29:54",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270526341080850/109270911812667838",
+    "wm-target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-01T23:56:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270526341080850/109270911812667838",
+  "target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+  "private": false
+}
