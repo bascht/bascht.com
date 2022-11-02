@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://norden.social/@ingmar/109270898771921340",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548975,
+    "author": {
+      "url": "https://norden.social/@ingmar",
+      "name": "ingmar@norden.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/19cf55025bd07e1f3101ddb0fa75a270bdee2149febe31378e180b317e9e6acb.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> nice, great idea! </p><p>Is the power supply internal or external?</p>",
+      "text": "@bascht nice, great idea! Is the power supply internal or external?"
+    },
+    "published": "2022-11-01T22:26:35",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270526341080850/109270898824288118",
+    "wm-target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-01T23:56:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270526341080850/109270898824288118",
+  "target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+  "private": false
+}
