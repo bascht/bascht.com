@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@frederic/109271818892646366",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1549075,
+    "author": {
+      "url": "https://chaos.social/@frederic",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/24177f1b1eb16408a81523d24cd9c6466e33c27afefad58db6ad370d30e48b09.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I think I'll go with a ThinkCenter next time as well, the Futro S920 is twice the size, lots of empty space.</p><p>(But I needed at least one to fit in an additional NIC to serve as firewall.)</p>",
+      "text": "@bascht I think I'll go with a ThinkCenter next time as well, the Futro S920 is twice the size, lots of empty space.(But I needed at least one to fit in an additional NIC to serve as firewall.)"
+    },
+    "published": "2022-11-02T02:20:34",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270526341080850/109271818930688752",
+    "wm-target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-02T03:21:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270526341080850/109271818930688752",
+  "target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+  "private": false
+}
