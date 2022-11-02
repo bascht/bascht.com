@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.xyz/@yetzt/109270933158693532",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548984,
+    "author": {
+      "url": "https://mastodon.xyz/@yetzt",
+      "name": "yetzt",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b00be26955e17c5631079f43050e9bccb22d23bbb56ccc90782203a0b5f273d0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> normalzeit.</p>",
+      "text": "@bascht normalzeit."
+    },
+    "published": "2022-11-01T22:35:19",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270929577320219/109270933204303844",
+    "wm-target": "https://bascht.com/posts/2022/11/01/morgen-werktag.-vielleicht-doch-langsam/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/01/morgen-werktag.-vielleicht-doch-langsam/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-01T23:56:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270929577320219/109270933204303844",
+  "target": "https://bascht.com/posts/2022/11/01/morgen-werktag.-vielleicht-doch-langsam/",
+  "private": false
+}
