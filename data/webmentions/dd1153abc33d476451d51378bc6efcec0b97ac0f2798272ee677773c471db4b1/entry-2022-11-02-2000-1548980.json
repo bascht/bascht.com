@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109270526341080850#favorited-by-109270683098483113",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548980,
+    "author": {
+      "url": "https://hci.social/@RaphaelWimmer",
+      "name": "Raphael Wimmer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/15ff97f2a878cb4eee872dc8f64ee6e0eda4a449a0f759b788219790955809fe.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109270526341080850/109270683098483113",
+    "wm-target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-01T23:56:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109270526341080850/109270683098483113",
+  "target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+  "private": false
+}
