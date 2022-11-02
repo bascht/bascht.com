@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109270526341080850#favorited-by-730",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548983,
+    "author": {
+      "url": "https://social.tchncs.de/@tiefpunkt",
+      "name": "Severin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/30a38c109512dae16c67a357ee6c2c9b94ec57936d848ea76cf308fce84263f8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109270526341080850/730",
+    "wm-target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-01T23:56:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109270526341080850/730",
+  "target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2051/",
+  "private": false
+}
