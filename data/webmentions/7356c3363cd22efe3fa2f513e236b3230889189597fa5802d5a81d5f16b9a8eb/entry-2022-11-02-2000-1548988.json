@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://hachyderm.io/@byron_miller/109270997279584431",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1548988,
+    "author": {
+      "url": "https://hachyderm.io/@byron_miller",
+      "name": "Byron Miller",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/d87fd8c52516723ed8da12a00831a5c856042045d2a6039fabc5bf8faee0b492.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> wow, that’s a lot of avatar data</p>",
+      "text": "@bascht wow, that’s a lot of avatar data"
+    },
+    "published": "2022-11-01T22:51:38",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270704025527873/109270997704649630",
+    "wm-target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2137/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/01/nov-01-2022-2137/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-01T23:56:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109270704025527873/109270997704649630",
+  "target": "https://bascht.com/posts/2022/11/01/nov-01-2022-2137/",
+  "private": false
+}
