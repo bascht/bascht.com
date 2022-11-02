@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109270929577320219#favorited-by-108215752445687996",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1549147,
+    "author": {
+      "url": "https://tech.lgbt/@Alpha",
+      "name": "AlphaCordi 🌿",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/63d88ec7355626dcb83289ed4fd85967f36d0a52788ff82fe27e7400754d9b41.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109270929577320219/108215752445687996",
+    "wm-target": "https://bascht.com/posts/2022/11/01/morgen-werktag.-vielleicht-doch-langsam/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-02T08:13:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109270929577320219/108215752445687996",
+  "target": "https://bascht.com/posts/2022/11/01/morgen-werktag.-vielleicht-doch-langsam/",
+  "private": false
+}
