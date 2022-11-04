@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://meinungsschubla.de/@Nico/109284697100232911",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1550201,
+    "author": {
+      "url": "https://meinungsschubla.de/@Nico",
+      "name": "Nico",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/1bff2c5ec74fc02bcd9061ad48ebe35f24e165efe88ee11c9cb58aac70f0e7a5.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Das gilt übrigens auch für das ganz normale Butterspekulatius, wenn es dann nicht mehr sofort bricht, sondern leicht biegbar ist 😁 </p><p>... und dann noch in Kaffee oder Kakao dippen 😋</p>",
+      "text": "@bascht Das gilt übrigens auch für das ganz normale Butterspekulatius, wenn es dann nicht mehr sofort bricht, sondern leicht biegbar ist 😁 ... und dann noch in Kaffee oder Kakao dippen 😋"
+    },
+    "published": "2022-11-04T08:55:40",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109284638083710913/109284697137066326",
+    "wm-target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-04T11:24:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109284638083710913/109284697137066326",
+  "target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+  "private": false
+}
