@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://ruhr.social/@wortezimmer/109285832402051827",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1550259,
+    "author": {
+      "url": "https://ruhr.social/@wortezimmer",
+      "name": "Sarina",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/6b53598e0c2a1fe69fb2bb15ef52b187ffd103979629a21647f6884acd310ff3.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span><br />Danke für den Tipp! Hab seit gerade auch eins.</p>",
+      "text": "@bascht\nDanke für den Tipp! Hab seit gerade auch eins."
+    },
+    "published": "2022-11-04T13:44:24",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109285832445726167",
+    "wm-target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-04T14:19:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109285832445726167",
+  "target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+  "private": false
+}
