@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/109281774904574377",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1549985,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0aaf92317c57b27e3c2bc2004ff13f3bde86ea1893c3553db4f04e15b0379dbc.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> habt ihr Netto schwarz gelb oder Netto gelb rot? 😅</p>",
+      "text": "@bascht habt ihr Netto schwarz gelb oder Netto gelb rot? 😅"
+    },
+    "published": "2022-11-03T20:32:31",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109281774937818896",
+    "wm-target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-03T21:53:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109281774937818896",
+  "target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+  "private": false
+}
