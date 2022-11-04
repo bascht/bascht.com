@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/109281792328095051",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1549988,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/000/726/original/4abb2491b32a75bb.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> das ist gelb rot 😂 Ok, dann muss ich mal hin, im Katalog fand ich nichts</p>",
+      "text": "@bascht das ist gelb rot 😂 Ok, dann muss ich mal hin, im Katalog fand ich nichts"
+    },
+    "published": "2022-11-03T20:36:57",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109281792363342814",
+    "wm-target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-03T21:54:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109281792363342814",
+  "target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+  "private": false
+}
