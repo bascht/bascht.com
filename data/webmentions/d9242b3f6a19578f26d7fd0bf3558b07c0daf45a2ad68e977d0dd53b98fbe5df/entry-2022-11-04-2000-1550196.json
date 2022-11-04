@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109284781132944553",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1550196,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.oark.org/@echox\" class=\"u-url\">@<span>echox</span></a></span> <span class=\"h-card\"><a href=\"https://meinungsschubla.de/@Nico\" class=\"u-url\">@<span>Nico</span></a></span> Übung Übung Übung. Der Winkel ist entscheidend - und keine ruckartigen Bewegungen! :D</p>",
+      "text": "@echox @Nico Übung Übung Übung. Der Winkel ist entscheidend - und keine ruckartigen Bewegungen! :D"
+    },
+    "published": "2022-11-04T09:17:03",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109284638083710913/109284781132944553",
+    "wm-target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-04T11:24:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109284638083710913/109284781132944553",
+  "target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+  "private": false
+}
