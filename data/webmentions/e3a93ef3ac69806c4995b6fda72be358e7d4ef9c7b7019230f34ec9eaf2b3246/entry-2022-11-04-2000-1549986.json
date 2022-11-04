@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109281780113667151",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1549986,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://toot.kif.rocks/@thegcat\" class=\"u-url\">@<span>thegcat</span></a></span> 🤔 der ohne Hund 😁</p>",
+      "text": "@thegcat 🤔 der ohne Hund 😁"
+    },
+    "published": "2022-11-03T20:33:51",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109281780113667151",
+    "wm-target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-03T21:53:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109281300029336798/109281780113667151",
+  "target": "https://bascht.com/posts/2022/11/03/nov-03-2022-1831/",
+  "private": false
+}
