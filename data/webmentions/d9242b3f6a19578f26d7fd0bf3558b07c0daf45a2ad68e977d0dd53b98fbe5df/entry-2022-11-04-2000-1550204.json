@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109284638083710913#favorited-by-109265159314454424",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1550204,
+    "author": {
+      "url": "https://chaos.social/@lauralindal",
+      "name": "Laura",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/9efed52f11eb5037cd46b856061ca989a755c1bd02c88e5e260a11c0167a7e32.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109284638083710913/109265159314454424",
+    "wm-target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-04T11:24:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109284638083710913/109265159314454424",
+  "target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+  "private": false
+}
