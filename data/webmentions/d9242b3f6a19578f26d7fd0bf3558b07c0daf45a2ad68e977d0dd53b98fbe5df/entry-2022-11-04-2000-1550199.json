@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.green/@bitboxer/109284868132380493",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1550199,
+    "author": {
+      "url": "https://mastodon.green/@bitboxer",
+      "name": "Bodo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/e3d9345802d1c4c56140b3d34a933c543853c322d4db3c1b4b6b722407697f00.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://meinungsschubla.de/@Nico\" class=\"u-url\">@<span>Nico</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Ist es schon Kuchen oder noch Kaffee...you never know 😂</p>",
+      "text": "@Nico @bascht Ist es schon Kuchen oder noch Kaffee...you never know 😂"
+    },
+    "published": "2022-11-04T09:39:10",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109284638083710913/109284868167798401",
+    "wm-target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-04T11:24:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109284638083710913/109284868167798401",
+  "target": "https://bascht.com/posts/2022/11/04/hot-take-die-dinkel-doppel-kekse-von-dm/",
+  "private": false
+}
