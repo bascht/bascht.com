@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109286354790282981#favorited-by-108199084940538321",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1550330,
+    "author": {
+      "url": "https://functional.cafe/@otfrom",
+      "name": "air fried chip butty",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b4d07ed009b31cf869eff09be63a1b3a4010a3538eaf22da31aa6c1a770549f0.gif"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109286354790282981/108199084940538321",
+    "wm-target": "https://bascht.com/posts/2022/11/04/i-was-today-years-old-when-i-learned-abo/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-04T18:25:56Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109286354790282981/108199084940538321",
+  "target": "https://bascht.com/posts/2022/11/04/i-was-today-years-old-when-i-learned-abo/",
+  "private": false
+}
