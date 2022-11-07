@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109298524682343037#reblogged-by-49355",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1552101,
+    "author": {
+      "url": "https://toot.thoughtworks.com/@ckluente",
+      "name": "cryptoph",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/429f2ad3b077b6c85076f0bf96f1afd6e581403411fb6e31916d11053dcf4572.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109298524682343037/49355",
+    "wm-target": "https://bascht.com/posts/2022/11/06/nov-06-2022-1932/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-06T21:16:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109298524682343037/49355",
+  "target": "https://bascht.com/posts/2022/11/06/nov-06-2022-1932/",
+  "private": false
+}
