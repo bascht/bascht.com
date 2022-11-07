@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109298524682343037#favorited-by-5989",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1552100,
+    "author": {
+      "url": "https://social.tchncs.de/@bekopharm",
+      "name": "Beko Pharm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b2de0e3157c79417580bc40f73eb2bb5f7c56e9b734472144a92666c3eb49017.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109298524682343037/5989",
+    "wm-target": "https://bascht.com/posts/2022/11/06/nov-06-2022-1932/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-06T21:16:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109298524682343037/5989",
+  "target": "https://bascht.com/posts/2022/11/06/nov-06-2022-1932/",
+  "private": false
+}
