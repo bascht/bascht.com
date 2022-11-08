@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109306972926455941#favorited-by-108236207186059478",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553157,
+    "author": {
+      "url": "https://mastodon.green/@bitboxer",
+      "name": "Bodo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/02ee4063407135d938f69e314e25ba622455b57304540184ee53fb403026f6b9.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109306972926455941/108236207186059478",
+    "wm-target": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-08T10:20:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109306972926455941/108236207186059478",
+  "target": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+  "private": false
+}
