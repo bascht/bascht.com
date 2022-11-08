@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109306972926455941#favorited-by-109302578201008593",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553092,
+    "author": {
+      "url": "https://hachyderm.io/@vonneudeck",
+      "name": "Nicolai von Neudeck",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/3edab8e8279b0131eaf46c65ddb9a8cf79ed190c454f0af4a3ce55fc9fc90772.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109306972926455941/109302578201008593",
+    "wm-target": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-08T08:08:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109306972926455941/109302578201008593",
+  "target": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+  "private": false
+}
