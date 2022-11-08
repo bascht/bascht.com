@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109304765944273854#favorited-by-109286722327242092",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1552864,
+    "author": {
+      "url": "https://troet.cafe/@Waldperlen",
+      "name": "Waldperlen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/24077d197fa9ea53f95c7e77ab1a0e4a27fc30d911d02a8950572515b5fdd14b.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109304765944273854/109286722327242092",
+    "wm-target": "https://bascht.com/posts/2022/11/07/hinweis-in-eigener-sache-f%C3%BCr-alle-die-/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-08T00:48:57Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109304765944273854/109286722327242092",
+  "target": "https://bascht.com/posts/2022/11/07/hinweis-in-eigener-sache-f%C3%BCr-alle-die-/",
+  "private": false
+}
