@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://eldritch.cafe/@luce/109307251282444620",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553158,
+    "author": {
+      "url": "https://eldritch.cafe/@luce",
+      "name": "luce",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/51713440ec575b7e7cc8ff80f2e4a00be7e4bd8a995dc319d6c1c68a3bc5f562.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> in dem Artikel klingt das nicht so als ob man sich darüber Sorgen machen müsste :) aber vielleicht hat <span class=\"h-card\"><a href=\"https://social.bund.de/@strahlenschutz\" class=\"u-url\">@<span>strahlenschutz</span></a></span> ja auch noch eine Einschätzung</p>\n<a class=\"u-mention\" href=\"https://www.deutschlandfunk.de/radioaktives-leck-am-akw-civaux-entdeckt-104.html\"></a>",
+      "text": "@bascht in dem Artikel klingt das nicht so als ob man sich darüber Sorgen machen müsste :) aber vielleicht hat @strahlenschutz ja auch noch eine Einschätzung"
+    },
+    "published": "2022-11-08T08:31:30",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109306972926455941/109307251329134059",
+    "wm-target": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-08T10:20:37Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109306972926455941/109307251329134059",
+  "target": "https://bascht.com/posts/2022/11/08/l%C3%A4uft-aus.https/www.deutschlandfunk./",
+  "private": false
+}
