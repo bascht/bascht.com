@@ -14,8 +14,8 @@ Snail-Mail, Abmahnungen & Papierpost an:
 <blockquote>
   Sebastian Schulze<br/>
 
-  Schnorr-von-Carolsfeld Str. 13<br/>
-  81927 München
+  Höhenweg 26<br/>
+  53547 Breitscheid
 </blockquote>
 
 ## Kontakt
