@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109310426386040790#favorited-by-62340",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554099,
+    "author": {
+      "url": "https://linuxrocks.online/@Linux_in_a_Bit",
+      "name": "Linux in a tar.gz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b7a56c90dd526c3fe7999829056547afa1a123e6a7c68cbcb566739bbd9516c7.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310426386040790/62340",
+    "wm-target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-09T05:14:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310426386040790/62340",
+  "target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+  "private": false
+}
