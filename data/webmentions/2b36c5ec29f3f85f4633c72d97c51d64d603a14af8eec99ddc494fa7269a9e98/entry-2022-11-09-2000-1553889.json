@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@depone/109310394832611388",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553889,
+    "author": {
+      "url": "https://mastodon.social/@depone",
+      "name": "depone",
+      "type": "card",
+      "photo": "https://social.yakshed.org/system/cache/accounts/avatars/000/000/780/original/2c9aca4cb080f8df.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 🙌🏼</p>",
+      "text": "@bascht 🙌🏼"
+    },
+    "published": "2022-11-08T21:50:57",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109310069655440098/109310394901331523",
+    "wm-target": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-08T22:58:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109310069655440098/109310394901331523",
+  "target": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+  "private": false
+}
