@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109313037003075445#reblogged-by-109293625617734375",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554340,
+    "author": {
+      "url": "https://ruby.social/@kronn",
+      "name": "Matthias V",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/fbf5c68f063f872b37cd1bfd741b84acf571e33aa976daa356d46bbc0defc3d5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109313037003075445/109293625617734375",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-09T14:55:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109313037003075445/109293625617734375",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
