@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@frederic/109312213116340211",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554125,
+    "author": {
+      "url": "https://chaos.social/@frederic",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/24177f1b1eb16408a81523d24cd9c6466e33c27afefad58db6ad370d30e48b09.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> *curiosity intensifies*</p><p>Want to use a \"real\" domain for internal services for proper TLS, but I want a separation of service domain and machines on my network. (Also wireguard/tailscale in the future)</p>",
+      "text": "@bascht *curiosity intensifies*Want to use a \"real\" domain for internal services for proper TLS, but I want a separation of service domain and machines on my network. (Also wireguard/tailscale in the future)"
+    },
+    "published": "2022-11-09T05:33:21",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109310426386040790/109312213146995668",
+    "wm-target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-09T07:59:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109310426386040790/109312213146995668",
+  "target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+  "private": false
+}
