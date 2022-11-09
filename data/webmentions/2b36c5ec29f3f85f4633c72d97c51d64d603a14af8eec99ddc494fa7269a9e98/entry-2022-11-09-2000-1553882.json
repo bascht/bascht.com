@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109310069655440098#favorited-by-12051",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553882,
+    "author": {
+      "url": "https://merveilles.town/@icco",
+      "name": "icco",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/affaad30dd4113a292912d7aa2fd54b5b954c5aa695dd80e15e2e7d13bbcc4d5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310069655440098/12051",
+    "wm-target": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-08T22:57:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310069655440098/12051",
+  "target": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+  "private": false
+}
