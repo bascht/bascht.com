@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://fosstodon.org/@rissole/109314051475519704",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554339,
+    "author": {
+      "url": "https://fosstodon.org/@rissole",
+      "name": "Rissole",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span></p><p>Once you know what type of list you're looking at you should check out `M-x shortdoc` it's a great reference for these kinds of questions</p>",
+      "text": "@baschtOnce you know what type of list you're looking at you should check out `M-x shortdoc` it's a great reference for these kinds of questions"
+    },
+    "published": "2022-11-09T13:20:53",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109314051529738883",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-09T14:55:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109314051529738883",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
