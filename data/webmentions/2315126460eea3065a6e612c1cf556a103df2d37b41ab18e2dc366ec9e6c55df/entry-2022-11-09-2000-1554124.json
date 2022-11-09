@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109310620529277237#favorited-by-108081236228180734",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554124,
+    "author": {
+      "url": "https://chaos.social/@frederic",
+      "name": "Frederic",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/24177f1b1eb16408a81523d24cd9c6466e33c27afefad58db6ad370d30e48b09.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310620529277237/108081236228180734",
+    "wm-target": "https://bascht.com/posts/2022/11/08/since-i-already-had-a-working-wireguard/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-09T07:58:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310620529277237/108081236228180734",
+  "target": "https://bascht.com/posts/2022/11/08/since-i-already-had-a-working-wireguard/",
+  "private": false
+}
