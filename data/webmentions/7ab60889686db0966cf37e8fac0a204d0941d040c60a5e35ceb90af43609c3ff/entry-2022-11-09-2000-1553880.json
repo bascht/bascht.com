@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109310426386040790#reblogged-by-26348",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553880,
+    "author": {
+      "url": "https://kosmos.social/@ginsterbusch",
+      "name": "HRH ginsterbusch",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/6c4e61e1ecfae0cb278f92ccf83c75e6c8dae38c0ba5406d24f9d9b48289a8e5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109310426386040790/26348",
+    "wm-target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-08T22:57:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109310426386040790/26348",
+  "target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+  "private": false
+}
