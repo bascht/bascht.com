@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.social/@jeeger/109313085741399786",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554246,
+    "author": {
+      "url": "https://mastodon.social/@jeeger",
+      "name": "jeeger@mastodon.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/76a5bd1f7645960f1a2ffe2edf8022a60a9555684dd3118e95b58d6770402d56.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> plist-get<br />(plist-get variable :name), to be less laconic.</p>",
+      "text": "@bascht plist-get\n(plist-get variable :name), to be less laconic."
+    },
+    "published": "2022-11-09T09:15:17",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109313085770148853",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-09T11:29:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109313085770148853",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
