@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109310426386040790",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553888,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p>Alright, let me tell you how this is now actually a good thing:</p><p>I had a spare unused TLD lying around (don't ask) and just switched OpnSense to announce it as the new local domain. </p><p>Now that I have a proper separation of outer and inner zones, I can start issuing proper TLS certificates for internal services. 💖</p>",
+      "text": "Alright, let me tell you how this is now actually a good thing:I had a spare unused TLD lying around (don't ask) and just switched OpnSense to announce it as the new local domain. Now that I have a proper separation of outer and inner zones, I can start issuing proper TLS certificates for internal services. 💖"
+    },
+    "published": "2022-11-08T21:58:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109310069655440098/109310426386040790",
+    "wm-target": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-08T22:58:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109310069655440098/109310426386040790",
+  "target": "https://bascht.com/posts/2022/11/08/how-to-keep-yourself-busy-with-local-inf/",
+  "private": false
+}
