@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@sofia/109310178914186506",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1553887,
+    "author": {
+      "url": "https://chaos.social/@sofia",
+      "name": "sofia",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/acbaa1eaf31acc9caebd25b709924a16a1009ffb13f7030401e0bd7469fd349b.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> he'll sell Ligma next. :P</p>",
+      "text": "@bascht he'll sell Ligma next. :P"
+    },
+    "published": "2022-11-08T20:56:02",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109309586098359234/109310179043496071",
+    "wm-target": "https://bascht.com/posts/2022/11/08/nov-08-2022-1825/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/08/nov-08-2022-1825/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-08T22:57:44Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109309586098359234/109310179043496071",
+  "target": "https://bascht.com/posts/2022/11/08/nov-08-2022-1825/",
+  "private": false
+}
