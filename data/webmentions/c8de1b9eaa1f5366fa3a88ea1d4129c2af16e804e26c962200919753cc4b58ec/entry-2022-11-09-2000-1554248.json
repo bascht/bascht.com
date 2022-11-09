@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.coffee/@binarystate/109313372695635159",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554248,
+    "author": {
+      "url": "https://mastodon.coffee/@binarystate",
+      "name": "Adam Jackson",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/f72602ef87e839a89deaf8e9ed94238a10df0b93d2cef4a30367b2c11619dd31.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> There are three data structures (that I know of!) in <a href=\"https://mastodon.coffee/tags/EmacsLisp\">#<span>EmacsLisp</span></a> for key-value pairs. It looks like this one is a plist (key1 value1 key2 value2 ...), not a hash table. There are also alists ((key1 . value1) (key2 . value2) ...). Each has their own set of functions to manipulate them, so in this case you want plist-get. <a href=\"https://emacsdocs.org/docs/elisp/Property-Lists\"><span>https://</span><span>emacsdocs.org/docs/elisp/Prope</span><span>rty-Lists</span></a></p><p>Broad pros/cons: plists are convenient to create (i.e. nice function arguments), alists simplify looping over pairs, and hash tables scale up well</p>\n<a class=\"p-category\" href=\"https://social.yakshed.org/tags/emacslisp\">emacslisp</a>\n<a href=\"https://emacsdocs.org/docs/elisp/Property-Lists\">5.9 Property Lists | Emacs Docs</a>",
+      "text": "@bascht There are three data structures (that I know of!) in #EmacsLisp for key-value pairs. It looks like this one is a plist (key1 value1 key2 value2 ...), not a hash table. There are also alists ((key1 . value1) (key2 . value2) ...). Each has their own set of functions to manipulate them, so in this case you want plist-get. https://emacsdocs.org/docs/elisp/Property-ListsBroad pros/cons: plists are convenient to create (i.e. nice function arguments), alists simplify looping over pairs, and hash tables scale up well\nemacslisp\n5.9 Property Lists | Emacs Docs"
+    },
+    "published": "2022-11-09T10:28:15",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109313372768229225",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-09T11:29:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109313372768229225",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
