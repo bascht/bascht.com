@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109315483866745505#favorited-by-109315545010776262",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554640,
+    "author": {
+      "url": "https://floss.social/@mikebabcock",
+      "name": "Michael T Babcock",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/20789013089ce653c842f94a683db0bfe24e7d0c7800ead029790af49a23a3b2.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109315483866745505/109315545010776262",
+    "wm-target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-09T21:15:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109315483866745505/109315545010776262",
+  "target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+  "private": false
+}
