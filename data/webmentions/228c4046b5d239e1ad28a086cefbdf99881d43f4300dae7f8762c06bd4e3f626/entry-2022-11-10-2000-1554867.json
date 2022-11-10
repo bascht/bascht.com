@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109315531933720728#favorited-by-46736",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554867,
+    "author": {
+      "url": "https://digitalcourage.social/@pat",
+      "name": "pat",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/175378bd3a932072a5c0a0494f23c426984f140ac9c8f3e365e90d585aaeccfd.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109315531933720728/46736",
+    "wm-target": "https://bascht.com/posts/2022/11/09/nov-09-2022-1937/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-10T01:50:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109315531933720728/46736",
+  "target": "https://bascht.com/posts/2022/11/09/nov-09-2022-1937/",
+  "private": false
+}
