@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109310426386040790#favorited-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554643,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/038b0b838b2f82941a2a7974a044c20bd2011c3d4aa6fb58b7aab20da3a8d5a5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310426386040790/4585",
+    "wm-target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-09T21:15:05Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109310426386040790/4585",
+  "target": "https://bascht.com/posts/2022/11/08/alright-let-me-tell-you-how-this-is-now/",
+  "private": false
+}
