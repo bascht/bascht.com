@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109315483866745505#reblogged-by-109291045333424431",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554817,
+    "author": {
+      "url": "https://ruby.social/@purinkle",
+      "name": "Rob Whittaker",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/cb116decb2c75b9d574a86de13f2e31814cca612808bea58f604d864223c3553.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109315483866745505/109291045333424431",
+    "wm-target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-09T23:46:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109315483866745505/109291045333424431",
+  "target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+  "private": false
+}
