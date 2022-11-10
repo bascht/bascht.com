@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://floss.social/@mikebabcock/109315548742792466",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554637,
+    "author": {
+      "url": "https://floss.social/@mikebabcock",
+      "name": "Michael T Babcock",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/20789013089ce653c842f94a683db0bfe24e7d0c7800ead029790af49a23a3b2.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I use it all the time for my IMAP E-mail needs. I just wish we had better open source calendar server software. The cloud is great, but sometimes not the best way.</p>\n<a class=\"u-mention\" href=\"https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/\"></a>",
+      "text": "@bascht I use it all the time for my IMAP E-mail needs. I just wish we had better open source calendar server software. The cloud is great, but sometimes not the best way."
+    },
+    "published": "2022-11-09T19:41:39",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109315483866745505/109315549443267868",
+    "wm-target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-09T21:14:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109315483866745505/109315549443267868",
+  "target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+  "private": false
+}
