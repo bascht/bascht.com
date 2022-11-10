@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://floss.social/@vinzv/109315610057275725",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554639,
+    "author": {
+      "url": "https://floss.social/@vinzv",
+      "name": "vinz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/e3785d5683de9a26a4156d46c4e0621b6925f3b3b85cfe212a4f89d21330f598.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://floss.social/@mikebabcock\" class=\"u-url\">@<span>mikebabcock</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Same. When it comes to both features, polished UI and reliability there's no way around Thunderbird. Unfortunately and luckily alike.</p><p>For calendar use I hope the KDE guys will continue to improve their new application, Kalendar. <a href=\"https://apps.kde.org/en-gb/kalendar/\"><span>https://</span><span>apps.kde.org/en-gb/kalendar/</span><span></span></a></p>\n<a class=\"u-mention\" href=\"https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/\"></a>\n<a href=\"https://apps.kde.org/en-gb/kalendar/\">Kalendar</a>",
+      "text": "@mikebabcock @bascht Same. When it comes to both features, polished UI and reliability there's no way around Thunderbird. Unfortunately and luckily alike.For calendar use I hope the KDE guys will continue to improve their new application, Kalendar. https://apps.kde.org/en-gb/kalendar/\n\nKalendar"
+    },
+    "published": "2022-11-09T19:57:15",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109315483866745505/109315610187600370",
+    "wm-target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-09T21:14:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109315483866745505/109315610187600370",
+  "target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+  "private": false
+}
