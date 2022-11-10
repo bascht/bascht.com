@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109315483866745505#reblogged-by-109203751540733987",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1554641,
+    "author": {
+      "url": "https://weirder.earth/@alex",
+      "name": "Alex",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/27e67f1f5a33b413e4b7c2f4f2f7119294863edd1f3663de265a661bc0dcf289.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109315483866745505/109203751540733987",
+    "wm-target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-09T21:15:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109315483866745505/109203751540733987",
+  "target": "https://bascht.com/posts/2022/11/09/it-makes-me-happy-to-see-thunderbird-sti/",
+  "private": false
+}
