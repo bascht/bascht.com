@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://functional.cafe/@kriyative/109322957063181503",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1555572,
+    "author": {
+      "url": "https://functional.cafe/@kriyative",
+      "name": "kriyative",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/6ff27850665beee5b24f10711eb55dfa5faa4dd33cd92288816316ca7858cb0d.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span>  Did you mean plist? or hash-table?<br />```<br />;; plist<br />(plist-get '(:name \"John Doe\" :email \"doe@example.com\") :name)</p><p>;; hash-table<br />(gethash :name ht)<br />```</p>",
+      "text": "@bascht  Did you mean plist? or hash-table?\n```\n;; plist\n(plist-get '(:name \"John Doe\" :email \"doe@example.com\") :name);; hash-table\n(gethash :name ht)\n```"
+    },
+    "published": "2022-11-11T03:05:41",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109322957144190292",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-11T04:42:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109322957144190292",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
