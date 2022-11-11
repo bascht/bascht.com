@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109314555277372056",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1555571,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@rissole\" class=\"u-url\">@<span>rissole</span></a></span> Yeah, I really struggle with the basic types in elisp though. Most of the times I found those ((foo \"bar\")(baz \"boo\")) lists. For those hash tables with :key's I didn't even know what to search for.</p>",
+      "text": "@rissole Yeah, I really struggle with the basic types in elisp though. Most of the times I found those ((foo \"bar\")(baz \"boo\")) lists. For those hash tables with :key's I didn't even know what to search for."
+    },
+    "published": "2022-11-09T15:29:00",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109314555277372056",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-11T04:42:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109314555277372056",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
