@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mastodon.sdf.org/@efl/109339564888174189",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1559935,
+    "author": {
+      "url": "https://mastodon.sdf.org/@efl",
+      "name": "Enrico Flor",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/2501efa0be6661edb675b01155063653876ce156906189ed8c3590fbe3d47884.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.coffee/@binarystate\" class=\"u-url\">@<span>binarystate</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> The cool thing is that the built-in map.el library provides generic functions that act on all of the three. So for instance in OP's example you could do </p><p>(map-elt &lt;map&gt; :email)</p><p>and that would work no matter whether &lt;map&gt; is an alist, a plist or a hash table.</p>",
+      "text": "@binarystate @bascht The cool thing is that the built-in map.el library provides generic functions that act on all of the three. So for instance in OP's example you could do (map-elt <map> :email)and that would work no matter whether <map> is an alist, a plist or a hash table."
+    },
+    "published": "2022-11-14T01:29:16",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109339565301463985",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-15T08:13:34Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109339565301463985",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
