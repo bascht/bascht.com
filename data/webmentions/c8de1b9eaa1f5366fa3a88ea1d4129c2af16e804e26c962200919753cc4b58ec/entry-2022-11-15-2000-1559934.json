@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://shitposter.club/objects/6c40c5ac-0cc4-402a-b82e-099a6e74c31b",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1559934,
+    "author": {
+      "url": "https://shitposter.club/users/akater",
+      "name": "akater",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/257a0cc1c1e50e90682f432a96e75b47d5f14774367667213ffd8accfe192ba5.jpg"
+    },
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://social.yakshed.org/@bascht\">@<span>bascht</span></a></span><br />This is not a hash table but a plist.<br /><br />(plist-get sender :email)",
+      "text": "@bascht\nThis is not a hash table but a plist.\n\n(plist-get sender :email)"
+    },
+    "published": "2022-11-15T07:03:13",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109346540511200949",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-15T08:13:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109346540511200949",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
