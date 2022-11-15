@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109323461405286815",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1559933,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://functional.cafe/@kriyative\" class=\"u-url\">@<span>kriyative</span></a></span> ha, thanks for the hint - it was indeed a plist, not a hash table 😊</p><p>Full example now lives at <a href=\"https://git.bascht.space/bascht/dotfiles/src/branch/main/dot_doom.d/config.el.tmpl#L215\"><span>https://</span><span>git.bascht.space/bascht/dotfil</span><span>es/src/branch/main/dot_doom.d/config.el.tmpl#L215</span></a></p>\n<a href=\"https://git.bascht.space/bascht/dotfiles\">dotfiles</a>",
+      "text": "@kriyative ha, thanks for the hint - it was indeed a plist, not a hash table 😊Full example now lives at https://git.bascht.space/bascht/dotfiles/src/branch/main/dot_doom.d/config.el.tmpl#L215\ndotfiles"
+    },
+    "published": "2022-11-11T05:13:57",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109323461405286815",
+    "wm-target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-15T08:13:08Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109313037003075445/109323461405286815",
+  "target": "https://bascht.com/posts/2022/11/09/anyone-with-#emacs-%23lisp-knowhow-how-do/",
+  "private": false
+}
