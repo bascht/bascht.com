@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109347001943390430#favorited-by-108649979406039533",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1560533,
+    "author": {
+      "url": "https://floss.social/@pinguin",
+      "name": "Pinguin :debian:",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/97d6d5e88527b34f1d9f820dfde5c1efce500c4b93db139c817841dccc59128a.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109347001943390430/108649979406039533",
+    "wm-target": "https://bascht.com/posts/2022/11/15/nov-15-2022-0900/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-16T02:44:33Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109347001943390430/108649979406039533",
+  "target": "https://bascht.com/posts/2022/11/15/nov-15-2022-0900/",
+  "private": false
+}
