@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109355498383034513",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561055,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://gamingjp.org/@0xReki\" class=\"u-url\">@<span>0xReki</span></a></span> Ooooooh, that's it!! I even stole that bit from somewhere but didn't notice I still had it bound to an actual key. Pretty embarassing: <br /><a href=\"https://git.bascht.space/bascht/dotfiles/src/branch/main/dot_config/sway/config#L259-L261\"><span>https://</span><span>git.bascht.space/bascht/dotfil</span><span>es/src/branch/main/dot_config/sway/config#L259-L261</span></a></p><p>Thanks for the quick help!</p>\n<a href=\"https://git.bascht.space/bascht/dotfiles\">dotfiles</a>",
+      "text": "@0xReki Ooooooh, that's it!! I even stole that bit from somewhere but didn't notice I still had it bound to an actual key. Pretty embarassing: \nhttps://git.bascht.space/bascht/dotfiles/src/branch/main/dot_config/sway/config#L259-L261Thanks for the quick help!\ndotfiles"
+    },
+    "published": "2022-11-16T21:01:22",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355434368503424/109355498383034513",
+    "wm-target": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-17T03:29:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355434368503424/109355498383034513",
+  "target": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+  "private": false
+}
