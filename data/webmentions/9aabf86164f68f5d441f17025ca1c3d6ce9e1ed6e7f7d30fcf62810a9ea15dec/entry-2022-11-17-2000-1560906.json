@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109355044362019701#favorited-by-108197854017939592",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1560906,
+    "author": {
+      "url": "https://mastodontech.de/@9Lukas5",
+      "name": "9Lukas5 | KE-GPP₂-E mZ | 🚂 🐧",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/9ed64561cc3a32104141a359e47c8aa22686f53cdf2f83b010452b28a6763646.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109355044362019701/108197854017939592",
+    "wm-target": "https://bascht.com/posts/2022/11/16/a-woman-one-block-away-had-called-the-c/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-16T20:18:59Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109355044362019701/108197854017939592",
+  "target": "https://bascht.com/posts/2022/11/16/a-woman-one-block-away-had-called-the-c/",
+  "private": false
+}
