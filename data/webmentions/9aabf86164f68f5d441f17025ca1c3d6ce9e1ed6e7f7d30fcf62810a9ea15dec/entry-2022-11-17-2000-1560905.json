@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109355172230008920",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1560905,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodontech.de/@9Lukas5\" class=\"u-url\">@<span>9Lukas5</span></a></span> ybel. :(</p>\n<a class=\"u-mention\" href=\"https://reason.com/2022/11/16/suburban-mom-jailed-handcuffed-cps-son-walk-home/\"></a>",
+      "text": "@9Lukas5 ybel. :("
+    },
+    "published": "2022-11-16T19:38:25",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355044362019701/109355172230008920",
+    "wm-target": "https://bascht.com/posts/2022/11/16/a-woman-one-block-away-had-called-the-c/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/16/a-woman-one-block-away-had-called-the-c/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-16T20:18:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355044362019701/109355172230008920",
+  "target": "https://bascht.com/posts/2022/11/16/a-woman-one-block-away-had-called-the-c/",
+  "private": false
+}
