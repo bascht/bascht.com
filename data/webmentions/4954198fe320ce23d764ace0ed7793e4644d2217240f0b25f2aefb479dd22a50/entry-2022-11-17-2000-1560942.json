@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109355398233187687#favorited-by-108936843019602413",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1560942,
+    "author": {
+      "url": "https://freiburg.social/@Dirk",
+      "name": "Dirk@freiburg.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b7f198cf18d6de879a7a0625ea16983321f21a6daf13efed63a62e5811fa9933.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109355398233187687/108936843019602413",
+    "wm-target": "https://bascht.com/posts/2022/11/16/post-rock-geht-immer.-https/www.youtub/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-16T21:49:29Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109355398233187687/108936843019602413",
+  "target": "https://bascht.com/posts/2022/11/16/post-rock-geht-immer.-https/www.youtub/",
+  "private": false
+}
