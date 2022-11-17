@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://gamingjp.org/@0xReki/109355476468221293",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561052,
+    "author": {
+      "url": "https://gamingjp.org/@0xReki",
+      "name": "q. Thái “0xReki” Chung 🥕🥕",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/f60827a3c73bb028ed6a5c84d98ba6a7b01a8c8df9b0338061d54fd6ccbba5be.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> It might be commented out in the configuration though.</p>",
+      "text": "@bascht It might be commented out in the configuration though."
+    },
+    "published": "2022-11-16T20:55:48",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355434368503424/109355476543925600",
+    "wm-target": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-17T03:29:21Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355434368503424/109355476543925600",
+  "target": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+  "private": false
+}
