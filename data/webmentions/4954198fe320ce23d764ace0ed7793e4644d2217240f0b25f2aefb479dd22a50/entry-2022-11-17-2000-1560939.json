@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109355398233187687#favorited-by-18054",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1560939,
+    "author": {
+      "url": "https://troet.cafe/@sny",
+      "name": "▫️ 𝘀𝗡𝘆🦎▫️🔸▫️",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/e2145137056cc78bc861da8347a14f9437fe124852cc036cdafe67771138ce68.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109355398233187687/18054",
+    "wm-target": "https://bascht.com/posts/2022/11/16/post-rock-geht-immer.-https/www.youtub/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-16T21:49:01Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109355398233187687/18054",
+  "target": "https://bascht.com/posts/2022/11/16/post-rock-geht-immer.-https/www.youtub/",
+  "private": false
+}
