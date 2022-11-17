@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://gamingjp.org/@0xReki/109355470970066528",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561054,
+    "author": {
+      "url": "https://gamingjp.org/@0xReki",
+      "name": "q. Thái “0xReki” Chung 🥕🥕",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/f60827a3c73bb028ed6a5c84d98ba6a7b01a8c8df9b0338061d54fd6ccbba5be.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> You can use Mod + d to focus child.</p>",
+      "text": "@bascht You can use Mod + d to focus child."
+    },
+    "published": "2022-11-16T20:54:24",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355434368503424/109355471004327284",
+    "wm-target": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-17T03:29:25Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109355434368503424/109355471004327284",
+  "target": "https://bascht.com/posts/2022/11/16/friends-with-#i3-or-%23sway-knowhow-if-i/",
+  "private": false
+}
