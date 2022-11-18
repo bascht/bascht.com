@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#favorited-by-108552939278817831",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561942,
+    "author": {
+      "url": "https://norden.social/@MartinM",
+      "name": "MartinM@norden.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/cc1055391860dd801bae311fc82adfa60e3fdc16462de74c450faa0fc2dacf86.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109363791584285175/108552939278817831",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-18T12:22:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109363791584285175/108552939278817831",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
