@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#favorited-by-109363878818874209",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561943,
+    "author": {
+      "url": "https://douzepoints.social/@byJannik",
+      "name": "byJannik",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/4679ede71663d1438970f5d5a2ed1cb762c4908c537c74a010331bb1f8b85441.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109363791584285175/109363878818874209",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-18T12:22:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109363791584285175/109363878818874209",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
