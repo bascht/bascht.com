@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/109363797642422586",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561945,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0aaf92317c57b27e3c2bc2004ff13f3bde86ea1893c3553db4f04e15b0379dbc.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Wieso gerade heute? Habe ich was verpasst?</p>",
+      "text": "@bascht Wieso gerade heute? Habe ich was verpasst?"
+    },
+    "published": "2022-11-18T08:11:59",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109363791584285175/109363797719946845",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-18T12:22:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109363791584285175/109363797719946845",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
