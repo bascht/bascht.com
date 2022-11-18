@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#reblogged-by-109363756412098001",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561931,
+    "author": {
+      "url": "https://rollenspiel.social/@modgamers",
+      "name": "Sascha Morlok",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/f193eefc3f1c75713ba47bd6f54c1391aac148a95d4c750e08f97c97c4087ac8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/109363756412098001",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-18T12:21:53Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/109363756412098001",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
