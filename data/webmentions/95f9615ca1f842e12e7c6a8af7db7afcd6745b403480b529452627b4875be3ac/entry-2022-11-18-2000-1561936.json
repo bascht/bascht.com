@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#favorited-by-109363834832818976",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561936,
+    "author": {
+      "url": "https://ohai.social/@amgamble",
+      "name": "Ann Marie Gamble",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/1911488dcff7597d057fc2d92e1d8da27a0d25ad740b02c6fa2cc17863e6e235.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109363791584285175/109363834832818976",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-18T12:22:02Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109363791584285175/109363834832818976",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
