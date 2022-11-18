@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#reblogged-by-108336590514580174",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561929,
+    "author": {
+      "url": "https://mastodon.online/@nirnaeth",
+      "name": "Monica Giambitto",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/6e79eb187946070af77901d29a44545138d4a0003990c7b528675ee2270b03c4.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/108336590514580174",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-18T12:21:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/108336590514580174",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
