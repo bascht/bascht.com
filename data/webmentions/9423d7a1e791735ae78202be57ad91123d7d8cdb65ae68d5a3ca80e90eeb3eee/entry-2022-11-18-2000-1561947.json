@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@depone/109363854900514629",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561947,
+    "author": {
+      "url": "https://chaos.social/@depone",
+      "name": "depone",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/65bfc7b21f0199b50ab230e52c9abf8fb13c39fde5a4ec9e6cf9ddb92866baf8.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 🙌🏼</p>",
+      "text": "@bascht 🙌🏼"
+    },
+    "published": "2022-11-18T08:26:32",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109363817597374987/109363855013444583",
+    "wm-target": "https://bascht.com/posts/2022/11/18/spent-the-better-part-of-yesterday-eveni/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/spent-the-better-part-of-yesterday-eveni/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-18T12:22:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109363817597374987/109363855013444583",
+  "target": "https://bascht.com/posts/2022/11/18/spent-the-better-part-of-yesterday-eveni/",
+  "private": false
+}
