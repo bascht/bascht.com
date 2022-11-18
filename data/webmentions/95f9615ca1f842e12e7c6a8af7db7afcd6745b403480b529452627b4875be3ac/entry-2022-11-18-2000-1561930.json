@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#reblogged-by-23429",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561930,
+    "author": {
+      "url": "https://chaos.social/@derschulze",
+      "name": "DerSchulze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/d0b66f287483bf2d3174fa60869eb090a85953fe4689584ccb618034f9f6248c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/23429",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-18T12:21:51Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/23429",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
