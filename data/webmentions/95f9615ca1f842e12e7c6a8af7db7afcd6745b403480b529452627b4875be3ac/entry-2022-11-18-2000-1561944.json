@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363809414332379",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561944,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://toot.kif.rocks/@thegcat\" class=\"u-url\">@<span>thegcat</span></a></span> natürlich auch an allen anderen Tagen der Woche. :D Aber ich vermute es wird noch mal ein ganz schöner Rutsch an neuen Usern kommen: <a href=\"https://nitter.yakshed.org/ZoeSchiffer/status/1593391604785504257\"><span>https://</span><span>nitter.yakshed.org/ZoeSchiffer</span><span>/status/1593391604785504257</span></a></p>",
+      "text": "@thegcat natürlich auch an allen anderen Tagen der Woche. :D Aber ich vermute es wird noch mal ein ganz schöner Rutsch an neuen Usern kommen: https://nitter.yakshed.org/ZoeSchiffer/status/1593391604785504257"
+    },
+    "published": "2022-11-18T08:14:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109363791584285175/109363809414332379",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-18T12:22:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109363791584285175/109363809414332379",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
