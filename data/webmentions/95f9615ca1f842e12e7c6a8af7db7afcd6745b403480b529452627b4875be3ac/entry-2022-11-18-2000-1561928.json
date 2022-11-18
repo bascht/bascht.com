@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109363791584285175#reblogged-by-109287343893975201",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1561928,
+    "author": {
+      "url": "https://sueden.social/@kojote",
+      "name": "Nils 'Kojote' Hitze",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b79a4b51918d0a7b047ebd8aeb079be57b36d95c5bc69a9d9e35231801c29336.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/109287343893975201",
+    "wm-target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-18T12:21:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109363791584285175/109287343893975201",
+  "target": "https://bascht.com/posts/2022/11/18/thoughts-and-prayers-go-out-to-all-th/",
+  "private": false
+}
