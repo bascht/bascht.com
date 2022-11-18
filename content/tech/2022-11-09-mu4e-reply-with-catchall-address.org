@@ -1,0 +1,33 @@
+#+title: Let mu4e reply from a catchall address
+#+teaser: Configure Emacs mu4e to reply from varying addresses
+#+date: 2022-11-09T17:38:50+01:00
+#+tags[]: tech mu4e emacs email catchall
+#+language: en
+
+If you ever watched me register on a website, you might have noticed that I always pick the sites top level domain as the local part of my email. So, e.g. =example.com@bascht.com= - that way I can make sure I have proper filters in place and in case there is spam delivered to any of those addresses, I have reasonable suspicion who dropped the ball.
+
+To keep things tidy, I also want to *reply* from =example.com@bascht.com= and this is where it gets interesting:
+
+Sadly not all email clients (and by that, I mean _most of them_) are able to *send* emails from a varying address. I remember Thunderbird let me edit the =From= field in the olden days, but I don't know if it is still able to.
+
+Since I use [[https://djcbsoftware.nl/code/mu/mu4e.html][mu4e]] for all my email needs – with a smidgen of Emacs Lisp - it can be tought to always pick the correct sender when replying to such an address.
+
+#+begin_src elisp
+(defun bascht/mu4e-change-from-to-catchall (msg)
+  "Set the From address based on the To address of the original message if I reply."
+  (setq user-mail-address
+    (if (and msg (mu4e-message-contact-field-matches msg :to "bascht.com"))
+      (plist-get (car-safe (mu4e-message-field msg :to)) :email)
+      (cdr-safe (assoc 'user-mail-address (mu4e-context-vars (mu4e-context-current)))))))
+#+end_src
+
+
+
+#+begin_src elisp
+
+(add-hook! 'mu4e-compose-pre-hook
+  (bascht/mu4e-change-from-to-catchall mu4e-compose-parent-message)
+  (spell-fu-mode)
+  (bascht/switch-spellcheck "de_DE")
+  (evil-insert-state))
+#+end_src
