@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://chaos.social/@BafDyce/109367405938035154",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563185,
+    "author": {
+      "url": "https://chaos.social/@BafDyce",
+      "name": "Fabian",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0e58ccc32e8c6eb5f3802fe66dc647a5018adb0f8a9d3a50d8357cef72d429c8.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://bne.social/@morb_au\" class=\"u-url\">@<span>morb_au</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Spyware as a service</p>",
+      "text": "@morb_au @bascht Spyware as a service"
+    },
+    "published": "2022-11-18T23:29:37",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109367405988908136",
+    "wm-target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-19T09:28:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109367405988908136",
+  "target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+  "private": false
+}
