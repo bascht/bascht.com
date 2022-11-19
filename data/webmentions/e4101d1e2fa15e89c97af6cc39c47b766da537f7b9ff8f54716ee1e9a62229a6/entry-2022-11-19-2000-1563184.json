@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://uwu.social/@Joshix/109369645211138339",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563184,
+    "author": {
+      "url": "https://uwu.social/@Joshix",
+      "name": "Joshix 🦣",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> i try to always call them guilds, like in the official developers documentation.</p>",
+      "text": "@bascht i try to always call them guilds, like in the official developers documentation."
+    },
+    "published": "2022-11-19T08:59:06",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109369645237171497",
+    "wm-target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-19T09:28:17Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109369645237171497",
+  "target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+  "private": false
+}
