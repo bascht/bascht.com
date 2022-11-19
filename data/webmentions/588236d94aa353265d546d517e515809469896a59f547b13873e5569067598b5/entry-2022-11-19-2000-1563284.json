@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109370233491962222#favorited-by-109289183352374022",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563284,
+    "author": {
+      "url": "https://indieweb.social/@Lobau",
+      "name": "Laurent Baumann",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b0bdb3d01725c897bf47c748179526301fe03f1ebc4819ac646b606d69ff2fa5.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/109289183352374022",
+    "wm-target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-19T12:32:41Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/109289183352374022",
+  "target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+  "private": false
+}
