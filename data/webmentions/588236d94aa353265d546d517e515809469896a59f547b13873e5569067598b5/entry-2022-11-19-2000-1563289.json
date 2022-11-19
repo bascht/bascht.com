@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109370233491962222#favorited-by-11279",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563289,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/11279",
+    "wm-target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-19T12:32:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/11279",
+  "target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+  "private": false
+}
