@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109366712867587523#favorited-by-108202340686410227",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563239,
+    "author": {
+      "url": "https://mas.to/@TheDonsieLass",
+      "name": "The Crafty Miss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/712297062fed300b8b901668655663299f1ee9773ad1222401cf855f0a1c65eb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109366712867587523/108202340686410227",
+    "wm-target": "https://bascht.com/posts/2022/11/18/nov-18-2022-2033/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-19T11:07:20Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109366712867587523/108202340686410227",
+  "target": "https://bascht.com/posts/2022/11/18/nov-18-2022-2033/",
+  "private": false
+}
