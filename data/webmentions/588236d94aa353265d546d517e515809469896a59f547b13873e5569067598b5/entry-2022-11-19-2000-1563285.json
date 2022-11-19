@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.tchncs.de/@yngmar/109370256661379855",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563285,
+    "author": {
+      "url": "https://social.tchncs.de/@yngmar",
+      "name": "Y⃒̸̷̝̜̙ͥͥͥngmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a0df5a9fd9020095c4efc492c04e87fc61a1f22abd87ee3eb9ce48e958c6dec3.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Inflation ganz klar sichtbar!</p>",
+      "text": "@bascht Inflation ganz klar sichtbar!"
+    },
+    "published": "2022-11-19T11:34:36",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109370233491962222/109370256779523605",
+    "wm-target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-19T12:32:42Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109370233491962222/109370256779523605",
+  "target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+  "private": false
+}
