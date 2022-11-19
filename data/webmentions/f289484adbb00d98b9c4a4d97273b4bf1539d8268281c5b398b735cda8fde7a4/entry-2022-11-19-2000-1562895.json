@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/lobsters/status/1593776106263281665",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1562895,
+    "author": {
+      "url": "https://twitter.com/lobsters",
+      "name": "Lobsters",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e3268170b54c9161a592561cbf819dacf562412f24ea1437f5afa36fc4f69bba.jpg"
+    },
+    "content": {
+      "html": "Letting mu4e reply from a catchall address\n<a href=\"https://lobste.rs/s/rbv7vy\">lobste.rs/s/rbv7vy</a> <a href=\"https://twitter.com/search?q=%23emacs\">#emacs</a> <a href=\"https://twitter.com/search?q=%23email\">#email</a>\n<a href=\"https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/\">bascht.com/tech/2022/11/0…</a>",
+      "text": "Letting mu4e reply from a catchall address\nlobste.rs/s/rbv7vy #emacs #email\nbascht.com/tech/2022/11/0…"
+    },
+    "published": "2022-11-19T01:20:09+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1593776106263281665",
+    "wm-target": "https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-11-19T02:40:10Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1593776106263281665",
+  "target": "https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/",
+  "private": false
+}
