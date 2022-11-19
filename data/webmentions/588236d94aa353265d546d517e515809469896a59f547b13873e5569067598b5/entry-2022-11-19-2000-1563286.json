@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109370233491962222#favorited-by-109298997604938355",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563286,
+    "author": {
+      "url": "https://digitalcourage.social/@qwertziop",
+      "name": "Åki 🐐",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/19fab9d3a7a431037cbc093517095b00679d5af5cd0e65ccc31538308ec8f897.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/109298997604938355",
+    "wm-target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-19T12:32:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/109298997604938355",
+  "target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+  "private": false
+}
