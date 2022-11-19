@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://toot.kif.rocks/@thegcat/109369756459008766",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563180,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0aaf92317c57b27e3c2bc2004ff13f3bde86ea1893c3553db4f04e15b0379dbc.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@moonglum\" class=\"u-url\">@<span>moonglum</span></a></span> <span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> I think I hate you now.</p>",
+      "text": "@moonglum @bascht I think I hate you now."
+    },
+    "published": "2022-11-19T09:27:23",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109369756513593201",
+    "wm-target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-19T09:27:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109369756513593201",
+  "target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+  "private": false
+}
