@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109367318222000798#reblogged-by-4585",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563183,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/038b0b838b2f82941a2a7974a044c20bd2011c3d4aa6fb58b7aab20da3a8d5a5.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109367318222000798/4585",
+    "wm-target": "https://bascht.com/posts/2022/11/18/tech-blog-update-letting-mu4e-reply-fro/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-19T09:28:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109367318222000798/4585",
+  "target": "https://bascht.com/posts/2022/11/18/tech-blog-update-letting-mu4e-reply-fro/",
+  "private": false
+}
