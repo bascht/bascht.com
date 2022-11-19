@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109366744315188032#favorited-by-108215260136593725",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1562738,
+    "author": {
+      "url": "https://social.antifa.gmbh/@tbqdrn",
+      "name": "tibs",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/29dcaaf0effad2f600b5c942ada0d472be2f5b11569938958a15de1a20e2c0c6.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109366744315188032/108215260136593725",
+    "wm-target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-19T00:32:36Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109366744315188032/108215260136593725",
+  "target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+  "private": false
+}
