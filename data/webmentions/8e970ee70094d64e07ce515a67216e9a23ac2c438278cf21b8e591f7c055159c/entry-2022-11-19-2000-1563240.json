@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://mas.to/@TheDonsieLass/109369704230314881",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563240,
+    "author": {
+      "url": "https://mas.to/@TheDonsieLass",
+      "name": "The Crafty Miss",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/712297062fed300b8b901668655663299f1ee9773ad1222401cf855f0a1c65eb.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> The shoes have sent me</p>",
+      "text": "@bascht The shoes have sent me"
+    },
+    "published": "2022-11-19T09:14:06",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366712867587523/109369917823095737",
+    "wm-target": "https://bascht.com/posts/2022/11/18/nov-18-2022-2033/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/nov-18-2022-2033/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-19T11:07:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366712867587523/109369917823095737",
+  "target": "https://bascht.com/posts/2022/11/18/nov-18-2022-2033/",
+  "private": false
+}
