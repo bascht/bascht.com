@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109370233491962222#favorited-by-704",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563287,
+    "author": {
+      "url": "https://mastodon.social/@meise",
+      "name": "Virtual Disk 3001",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/016729df1def1b9926f61d969d2ba8fb4f0bbc64d6f6e8d0093a585d44aa70af.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/704",
+    "wm-target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-19T12:32:46Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/704",
+  "target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+  "private": false
+}
