@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/TechTweetBot/status/1593746665638432769",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1562894,
+    "author": {
+      "url": "https://twitter.com/TechTweetBot",
+      "name": "HN Bot 🤖",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/795398c1139a875fa114d5b67c30c334c82e7112cbd9a5592c914ba23286840a.jpg"
+    },
+    "content": {
+      "html": "Letting mu4e reply from a catchall address\n<a href=\"https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/\">bascht.com/tech/2022/11/0…</a>",
+      "text": "Letting mu4e reply from a catchall address\nbascht.com/tech/2022/11/0…"
+    },
+    "published": "2022-11-18T23:23:10+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1593746665638432769",
+    "wm-target": "https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-11-19T02:40:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1593746665638432769",
+  "target": "https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/",
+  "private": false
+}
