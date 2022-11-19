@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@moonglum/109369713499418752",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563179,
+    "author": {
+      "url": "https://social.yakshed.org/@moonglum",
+      "name": "moonglum",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/038b0b838b2f82941a2a7974a044c20bd2011c3d4aa6fb58b7aab20da3a8d5a5.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> Software as a Server</p>",
+      "text": "@bascht Software as a Server"
+    },
+    "published": "2022-11-19T09:16:28",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109369713499418752",
+    "wm-target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-19T09:27:47Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109366744315188032/109369713499418752",
+  "target": "https://bascht.com/posts/2022/11/18/im-still-amazed-that-discord-somehow-ma/",
+  "private": false
+}
