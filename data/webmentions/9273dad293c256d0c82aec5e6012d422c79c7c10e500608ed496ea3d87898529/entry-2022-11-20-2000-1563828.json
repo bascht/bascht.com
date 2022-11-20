@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109371927675273369#favorited-by-109308915904609029",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1563828,
+    "author": {
+      "url": "https://social.cologne/@stockulus",
+      "name": "Christoph Stock",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/5886200c140edd66daedca65a6f9b82ef26ef3a6da0cf81c5c6d8601243ca980.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109371927675273369/109308915904609029",
+    "wm-target": "https://bascht.com/posts/2022/11/19/frost-gr%C3%BCnkohl/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-20T03:38:49Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109371927675273369/109308915904609029",
+  "target": "https://bascht.com/posts/2022/11/19/frost-gr%C3%BCnkohl/",
+  "private": false
+}
