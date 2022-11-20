@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109370233491962222#favorited-by-73652",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1564258,
+    "author": {
+      "url": "https://pixelfed.social/ingmar",
+      "name": "Ingmar",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0ed5b9ba711847780c53fd33cf43fd2e18a4f81301090600027e732b09d1cb63.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/73652",
+    "wm-target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-20T16:36:00Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109370233491962222/73652",
+  "target": "https://bascht.com/posts/2022/11/19/nov-19-2022-1128/",
+  "private": false
+}
