@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://reddit.com/r/planetemacs/comments/yzxk65/letting_mu4e_reply_from_a_catchall_address/",
+    "name": "Letting mu4e reply from a catchall address",
+    "type": "entry",
+    "wm-id": 1564189,
+    "author": {
+      "url": "https://reddit.com/user/fakecreditcard/",
+      "name": "fakecreditcard",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/www.redditstatic.com/b4be5d320718a5e62a32e756a628dbbae500c42f94fb47937b50c0adca151ed6.png"
+    },
+    "content": {
+      "html": "Bookmark: <a class=\"u-bookmark-of\" href=\"https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/\">bascht.com/tech/2022/11/0...</a>\n<a class=\"u-mention\" href=\"https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/\"></a>",
+      "text": "Bookmark: bascht.com/tech/2022/11/0..."
+    },
+    "published": "2022-11-20T06:57:14",
+    "wm-source": "https://brid.gy/post/reddit/bascht/yzxk65",
+    "wm-target": "https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "bookmark-of",
+    "wm-received": "2022-11-20T14:16:48Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/reddit/bascht/yzxk65",
+  "target": "https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/",
+  "private": false
+}
