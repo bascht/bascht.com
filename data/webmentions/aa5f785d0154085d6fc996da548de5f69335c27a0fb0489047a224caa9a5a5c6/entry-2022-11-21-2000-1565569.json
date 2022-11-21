@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109381423036675818#favorited-by-109346800448162519",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1565569,
+    "author": {
+      "url": "https://pleroma.sjm.codes/users/sjm",
+      "name": "sjm",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/110e022aaf41353437dd71685e81e4f47e44cc8ee0309995f2f91c06d39acdd0.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109381423036675818/109346800448162519",
+    "wm-target": "https://bascht.com/posts/2022/11/21/joe-lycett-https/benderslikebeckham.co/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-21T12:01:50Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109381423036675818/109346800448162519",
+  "target": "https://bascht.com/posts/2022/11/21/joe-lycett-https/benderslikebeckham.co/",
+  "private": false
+}
