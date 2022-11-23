@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109392379065289552#favorited-by-109338236811063478",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1566814,
+    "author": {
+      "url": "https://hachyderm.io/@bitboxer",
+      "name": "Bodo",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/f95ee31948c00e2387ffb66d7cbc50ed3373861c89ebfe50872c5225117721ce.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109392379065289552/109338236811063478",
+    "wm-target": "https://bascht.com/posts/2022/11/23/nov-23-2022-0920/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-23T15:27:26Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109392379065289552/109338236811063478",
+  "target": "https://bascht.com/posts/2022/11/23/nov-23-2022-0920/",
+  "private": false
+}
