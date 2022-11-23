@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109392379065289552#favorited-by-65781",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1566815,
+    "author": {
+      "url": "https://chaos.social/@pumuckl",
+      "name": "pumuckl@chaos.social",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/42a8ccf63a82aae673f8159496b78d905f4a936be0bf94d5f7b62ae0959db72a.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109392379065289552/65781",
+    "wm-target": "https://bascht.com/posts/2022/11/23/nov-23-2022-0920/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-23T15:27:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109392379065289552/65781",
+  "target": "https://bascht.com/posts/2022/11/23/nov-23-2022-0920/",
+  "private": false
+}
