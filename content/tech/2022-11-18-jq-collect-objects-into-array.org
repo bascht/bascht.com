@@ -1,0 +1,48 @@
+#+title: Collect Objects into an array with jq
+#+teaser:
+#+date: 2022-11-18T20:14:45+01:00
+#+tags[]: tech jq json javascript sway array
+#+language: en
+
+Say you're iterating over a list of objects in [[https://github.com/stedolan/jq/][jq]]:
+
+#+begin_src json
+[
+  {"foo": "bar", "other":  "attributes"},
+  {"foo": "baz", "should": "be filtered"}
+]
+#+end_src
+
+and you are only interested in operating on the attribute =foo=:
+
+#+begin_src bash
+jq ".[].foo"
+#+end_src
+
+will not give you two /distinct/ objects:
+
+#+begin_src json
+"bar"
+"baz"
+#+end_src
+
+but _not_ a new list. So whatever you do, the next pipeline will operate on _each_ single object. For example =jq ".[].foo | length"= is the length of each string:
+
+#+begin_src json
+3
+3
+#+end_src
+
+To get everything back into an array, you have to wrap the first pipeline into =[]= in the correct place:
+
+#+begin_src bash
+$ jq "[.[].foo] | length"
+#+end_src
+evaluates to
+#+begin_src json
+2
+#+end_src
+
+---
+
+I know this might be obvious to most people but for me it was really hard to wrap [sic!] my head around. So I decided to publish a blog post as a cheat-sheet for myself. :smile:
