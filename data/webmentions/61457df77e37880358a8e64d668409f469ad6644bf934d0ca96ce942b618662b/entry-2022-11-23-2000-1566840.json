@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109393305696186770#favorited-by-745",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1566840,
+    "author": {
+      "url": "https://mastodon.social/@fnordfish",
+      "name": "RŌBÆRT",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/69a8d0332fa49e4f10066390f2d2d6e0d48f20f176e865e7b08f764f1441fb93.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109393305696186770/745",
+    "wm-target": "https://bascht.com/tech/2022/11/18/collect-objects-into-an-array-with-jq/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-23T16:48:15Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109393305696186770/745",
+  "target": "https://bascht.com/tech/2022/11/18/collect-objects-into-an-array-with-jq/",
+  "private": false
+}
