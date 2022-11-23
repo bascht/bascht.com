@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109392039217202020#reblogged-by-109325888430763732",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1566700,
+    "author": {
+      "url": "https://swiss.social/@Nora",
+      "name": "Nora",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/b449970765a36ffcd0e12223b8527faa09ac3aed8b25bca398bfe61cfb1ddf8c.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109392039217202020/109325888430763732",
+    "wm-target": "https://bascht.com/posts/2022/11/23/gr%C3%BCnkohl-curry-das-muss-ich-wohl-mal-p/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-23T09:10:14Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109392039217202020/109325888430763732",
+  "target": "https://bascht.com/posts/2022/11/23/gr%C3%BCnkohl-curry-das-muss-ich-wohl-mal-p/",
+  "private": false
+}
