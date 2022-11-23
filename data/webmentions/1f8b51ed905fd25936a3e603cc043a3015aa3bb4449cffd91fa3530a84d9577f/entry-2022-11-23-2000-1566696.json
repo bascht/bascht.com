@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109392039217202020#favorited-by-108215752445687996",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1566696,
+    "author": {
+      "url": "https://tech.lgbt/@Alpha",
+      "name": "WeihnachtsCordi 🌿",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/630e7dcda274e8fb6f917effbb2fc0dec284e64a9d454af234a646c170e6184f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109392039217202020/108215752445687996",
+    "wm-target": "https://bascht.com/posts/2022/11/23/gr%C3%BCnkohl-curry-das-muss-ich-wohl-mal-p/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-23T09:10:07Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109392039217202020/108215752445687996",
+  "target": "https://bascht.com/posts/2022/11/23/gr%C3%BCnkohl-curry-das-muss-ich-wohl-mal-p/",
+  "private": false
+}
