@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109393305696186770#reblogged-by-726",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1567066,
+    "author": {
+      "url": "https://toot.kif.rocks/@thegcat",
+      "name": "Felix 𝄢",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/0aaf92317c57b27e3c2bc2004ff13f3bde86ea1893c3553db4f04e15b0379dbc.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109393305696186770/726",
+    "wm-target": "https://bascht.com/posts/2022/11/23/quick-post-about-a-thing-i-always-got-wr/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-23T23:08:04Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109393305696186770/726",
+  "target": "https://bascht.com/posts/2022/11/23/quick-post-about-a-thing-i-always-got-wr/",
+  "private": false
+}
