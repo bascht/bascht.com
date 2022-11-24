@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109394448628589085#favorited-by-109270805538539663",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1566936,
+    "author": {
+      "url": "https://mastodon.sdf.org/@ksyz",
+      "name": "ksyz",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/1ad482c94d4fefc50abac874b38b06d500782b8ab77d27beb6a38b7c0ba43064.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109394448628589085/109270805538539663",
+    "wm-target": "https://bascht.com/posts/2022/11/23/no-not-from-a-sci-fi-piecerobots-will/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-23T21:21:12Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109394448628589085/109270805538539663",
+  "target": "https://bascht.com/posts/2022/11/23/no-not-from-a-sci-fi-piecerobots-will/",
+  "private": false
+}
