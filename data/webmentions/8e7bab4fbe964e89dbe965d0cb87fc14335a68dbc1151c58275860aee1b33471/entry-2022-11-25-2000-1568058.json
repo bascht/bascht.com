@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.treehouse.systems/@mkhl/109403441602153107",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1568058,
+    "author": {
+      "url": "https://social.treehouse.systems/@mkhl",
+      "name": "Martin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/7a293c00ccac435602a0c8a808ca56d7c5038bf9e8294b3fdfa65ff76eb4bac0.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> 🤞🏼​(aber grün weil avocado)</p>",
+      "text": "@bascht 🤞🏼​(aber grün weil avocado)"
+    },
+    "published": "2022-11-25T08:13:58",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109403351483582404/109403441914501383",
+    "wm-target": "https://bascht.com/posts/2022/11/25/nov-25-2022-0751/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/25/nov-25-2022-0751/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-25T15:39:09Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109403351483582404/109403441914501383",
+  "target": "https://bascht.com/posts/2022/11/25/nov-25-2022-0751/",
+  "private": false
+}
