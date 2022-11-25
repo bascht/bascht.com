@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109403351483582404#favorited-by-411",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1568057,
+    "author": {
+      "url": "https://mastodon.social/@plankton",
+      "name": "Darren Cadwallader",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/40d3e440a65be54b69320f4556085043399768fdb686bf13c2589db3e3ba5c0a.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109403351483582404/411",
+    "wm-target": "https://bascht.com/posts/2022/11/25/nov-25-2022-0751/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-25T15:39:06Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109403351483582404/411",
+  "target": "https://bascht.com/posts/2022/11/25/nov-25-2022-0751/",
+  "private": false
+}
