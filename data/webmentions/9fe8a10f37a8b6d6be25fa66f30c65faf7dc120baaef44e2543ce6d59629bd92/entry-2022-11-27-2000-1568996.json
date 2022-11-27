@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109415699564759139#reblogged-by-50150",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1568996,
+    "author": {
+      "url": "https://dobbs.town/@Gleepy",
+      "name": "Gleepy the Hen",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/4ad484c8436dcb7d2a646ab814650162374ceb7f53aab947473a670b295624d8.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109415699564759139/50150",
+    "wm-target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-27T13:50:45Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109415699564759139/50150",
+  "target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+  "private": false
+}
