@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109411696976426957#favorited-by-109288896000519012",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1568686,
+    "author": {
+      "url": "https://writing.exchange/@jacmoe",
+      "name": "Jacob Moena 🇩🇰",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/98b15a1112530d315eae1dfe28e5845f9be8288275dbd285fe8a98869ae0bc8f.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109411696976426957/109288896000519012",
+    "wm-target": "https://bascht.com/posts/2022/11/26/is-mouse-okay-https/poorlydrawnlin/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-26T20:52:18Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109411696976426957/109288896000519012",
+  "target": "https://bascht.com/posts/2022/11/26/is-mouse-okay-https/poorlydrawnlin/",
+  "private": false
+}
