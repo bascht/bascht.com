@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109415699564759139#favorited-by-738",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569122,
+    "author": {
+      "url": "https://toot.cat/@plexus",
+      "name": "Arne Brasseur",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/c22a17e6f449cf9908c3935dd905bcbc27b67769f223768f933b02326a738606.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109415699564759139/738",
+    "wm-target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-27T16:08:13Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109415699564759139/738",
+  "target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+  "private": false
+}
