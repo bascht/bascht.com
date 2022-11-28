@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://ruby.social/@kronn/109417621405145579",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569360,
+    "author": {
+      "url": "https://ruby.social/@kronn",
+      "name": "Matthias V",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/fbf5c68f063f872b37cd1bfd741b84acf571e33aa976daa356d46bbc0defc3d5.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> and the answer will be \"unanticipated consequences\" or maybe \"unintended consequences\". I think it would be the latter...</p>",
+      "text": "@bascht and the answer will be \"unanticipated consequences\" or maybe \"unintended consequences\". I think it would be the latter..."
+    },
+    "published": "2022-11-27T20:20:04",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109415699564759139/109417621455269037",
+    "wm-target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-27T21:05:28Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109415699564759139/109417621455269037",
+  "target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+  "private": false
+}
