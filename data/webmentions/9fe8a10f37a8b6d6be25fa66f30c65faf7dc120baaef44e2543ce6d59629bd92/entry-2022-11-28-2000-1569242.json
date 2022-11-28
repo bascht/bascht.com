@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109415699564759139#reblogged-by-109366263159630446",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569242,
+    "author": {
+      "url": "https://sueden.social/@el_pink",
+      "name": "El Pink",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/2726120aabca5a17f1c42a28c6a9a3dd6769ba6636056cc1169d963d5d6fd6ea.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109415699564759139/109366263159630446",
+    "wm-target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-27T19:36:58Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109415699564759139/109366263159630446",
+  "target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+  "private": false
+}
