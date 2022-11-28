@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109415699564759139#favorited-by-109409230656294872",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569361,
+    "author": {
+      "url": "https://tooting.ch/@hupf",
+      "name": "Mathis Hofer",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/46bcf66ae6921d5472fa5c0976ef973a0f9d198ad7e483d3a83bc6ba1d967d4f.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109415699564759139/109409230656294872",
+    "wm-target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-27T21:05:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109415699564759139/109409230656294872",
+  "target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+  "private": false
+}
