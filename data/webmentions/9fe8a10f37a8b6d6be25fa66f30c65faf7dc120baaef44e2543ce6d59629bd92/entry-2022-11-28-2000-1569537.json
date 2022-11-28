@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109415699564759139#reblogged-by-48479",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569537,
+    "author": {
+      "url": "https://mastodon.sdf.org/@ratamacue",
+      "name": "David",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/39a65c71a6e0696476c0ff8c4662d7e78eaa1100e5e0a9ca02baf164905a32fb.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109415699564759139/48479",
+    "wm-target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-11-28T00:57:54Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/mastodon/@bascht@social.yakshed.org/109415699564759139/48479",
+  "target": "https://bascht.com/posts/2022/11/27/some-day-we-will-tear-down-old-software/",
+  "private": false
+}
