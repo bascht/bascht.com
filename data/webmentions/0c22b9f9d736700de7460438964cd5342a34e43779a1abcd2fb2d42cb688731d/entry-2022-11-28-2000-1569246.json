@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://infosec.exchange/@dhpts/109417084942906371",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569246,
+    "author": {
+      "url": "https://infosec.exchange/@dhpts",
+      "name": "Dustin",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/7ed854ad126752264ec80836118572b7657414260b4941b860070ec2938198de.png"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.yakshed.org/@bascht\" class=\"u-url\">@<span>bascht</span></a></span> what are you working on?</p>",
+      "text": "@bascht what are you working on?"
+    },
+    "published": "2022-11-27T18:03:38",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109416151692173605/109417084980447619",
+    "wm-target": "https://bascht.com/posts/2022/11/27/nov-27-2022-1406/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/27/nov-27-2022-1406/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-27T19:37:30Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109416151692173605/109417084980447619",
+  "target": "https://bascht.com/posts/2022/11/27/nov-27-2022-1406/",
+  "private": false
+}
