@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109417116213276714",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569247,
+    "author": {
+      "url": "https://social.yakshed.org/@bascht",
+      "name": "Bascht",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/a7ed8ec6cc3411670199174a1f35fe8f6a94ee48bdce6219abfdd2c9f95c3375.jpg"
+    },
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://infosec.exchange/@dhpts\" class=\"u-url\">@<span>dhpts</span></a></span> nothing much, just a small Schwibbogenbänkchen 😁 The new window sills are too low</p>",
+      "text": "@dhpts nothing much, just a small Schwibbogenbänkchen 😁 The new window sills are too low"
+    },
+    "published": "2022-11-27T18:11:36",
+    "wm-source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109416151692173605/109417116213276714",
+    "wm-target": "https://bascht.com/posts/2022/11/27/nov-27-2022-1406/",
+    "wm-private": false,
+    "in-reply-to": "https://bascht.com/posts/2022/11/27/nov-27-2022-1406/",
+    "wm-property": "in-reply-to",
+    "wm-received": "2022-11-27T19:37:31Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/comment/mastodon/@bascht@social.yakshed.org/109416151692173605/109417116213276714",
+  "target": "https://bascht.com/posts/2022/11/27/nov-27-2022-1406/",
+  "private": false
+}
