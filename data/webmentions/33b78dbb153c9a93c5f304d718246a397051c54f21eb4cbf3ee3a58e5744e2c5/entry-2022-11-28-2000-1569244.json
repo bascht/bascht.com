@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://social.yakshed.org/@bascht/109416952875949909#favorited-by-109375241331688456",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1569244,
+    "author": {
+      "url": "https://blumenwie.se/@blaue_flecken",
+      "name": "blaue_flecken",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/social.yakshed.org/c9f2ace9d27123d6f6576bbb8bcf6c335fdf032d19086971d9959ed4a22f81f3.png"
+    },
+    "content": {
+      "html": null,
+      "text": null
+    },
+    "published": null,
+    "wm-source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109416952875949909/109375241331688456",
+    "wm-target": "https://bascht.com/posts/2022/11/27/sehr-kleine-essbare-nussfruchtxs-kastan/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "like-of",
+    "wm-received": "2022-11-27T19:37:27Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/like/mastodon/@bascht@social.yakshed.org/109416952875949909/109375241331688456",
+  "target": "https://bascht.com/posts/2022/11/27/sehr-kleine-essbare-nussfruchtxs-kastan/",
+  "private": false
+}
