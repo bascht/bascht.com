@@ -6,7 +6,7 @@
       <div class="post-content">
         {{ if .Params.media_url }}
           <div class="mastodon-toot">
-              <p lang="de" dir="ltr"><h3>{{ .Params.text | markdownify }}</h3></p>
+              <p lang="{{ .Params.lang | default "en" }}" class="post-content e-content" dir="ltr"><h3>{{ .Params.text | markdownify }}</h3></p>
               <div class="post-content e-content">
                 {{ if strings.HasSuffix .Params.media_url ".mp4" -}}
                 <video autoplay="autoplay" controls="controls" src="{{ .Params.media_url }}"></video>
@@ -17,7 +17,7 @@
           </div>
           {{ else }}
           <blockquote class="mastodon-toot">
-              <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
+              <p lang="{{ .Params.lang | default "en" }}"  dir="ltr">{{ .Params.text | markdownify }}</p>
           </blockquote>
           {{ end }}
       </div>
