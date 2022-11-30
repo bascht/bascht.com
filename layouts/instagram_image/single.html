@@ -6,6 +6,7 @@
             <h1 class="p-name"><a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a></h1>
             <div class="post-content e-content">
                 <a href="{{ .Params.media_url }}"><img src="{{ .Params.media_url }}"></a>
+                <br/>
                 Originally posted to <a class="u-syndication syn-link" rel="syndication" href="{{ .Params.original_url }}">{{ .Params.original_url }}</a>
             </div>
             <time class="hidden dt-published" datetime="{{ $.Date }}">{{ .Date.Format "02. January 2006" }}</time>
