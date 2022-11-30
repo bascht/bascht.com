@@ -68,8 +68,9 @@ article img {
 div.post-content blockquote.twitter-tweet, div.post-content blockquote.mastodon-toot {
     background-color: #fcfcfc;
     border: 2px solid #eaeaea;
-    padding: 1em;
+    padding: 0.8em;
     border-radius: 8px 8px;
+    font-size: 1.2em;
 }
 
 div.post-content blockquote.twitter-tweet, div.post-content blockquote.mastodon-toot a {
