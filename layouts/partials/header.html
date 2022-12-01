@@ -27,7 +27,8 @@
   <link rel="feed" type="text/html" title="My Foursquare Checkins" href="{{ .Site.BaseURL }}posts/foursquare/checkin/" />
   <link rel="feed" type="text/html" title="My Pinboard Pins" href="{{ .Site.BaseURL }}posts/pinboard/" />
 
-  {{ template "_meta_cards.html" . -}}
+  {{ template "_twitter_cards.html" . -}}
+  {{ template "_opengraph.html" . -}}
   <link rel="icon" href="/favicon.ico" />
   
   {{ range .AlternativeOutputFormats -}}
