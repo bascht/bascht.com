@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/baschtdotcom/status/1598278470676668419",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1572603,
+    "author": {
+      "url": "https://twitter.com/baschtdotcom",
+      "name": "bascht.com",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9394c89bf268b18fb0a80cf75bcc9b8b7306b45c87eb687eff23cf0844b3d93.png"
+    },
+    "content": {
+      "html": "Pixelfed image: Karzel-Zeit • <a href=\"https://bascht.com/posts/2022/12/01/karzel-zeit/\">bascht.com/posts/2022/12/…</a>",
+      "text": "Pixelfed image: Karzel-Zeit • bascht.com/posts/2022/12/…"
+    },
+    "published": "2022-12-01T11:30:56+00:00",
+    "wm-source": "https://brid.gy/post/twitter/bascht/1598278470676668419",
+    "wm-target": "https://bascht.com/posts/2022/12/01/karzel-zeit/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "mention-of",
+    "wm-received": "2022-12-01T18:32:11Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/post/twitter/bascht/1598278470676668419",
+  "target": "https://bascht.com/posts/2022/12/01/karzel-zeit/",
+  "private": false
+}
