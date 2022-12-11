@@ -1,0 +1,29 @@
+{
+  "post": {
+    "url": "https://twitter.com/andrenaleen/status/1601731351577001984",
+    "name": null,
+    "type": "entry",
+    "wm-id": 1578825,
+    "author": {
+      "url": "https://twitter.com/andrenaleen",
+      "name": "Andrei Taranchenko",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dada83db954692d761ddbf095a653152572d77f7866e63f27233b42909c44588.jpg"
+    },
+    "content": {
+      "html": null,
+      "text": "If @elonmusk wants to experience an »extremely hardcore« working environment with 80 hour weeks, he should try raising his kids."
+    },
+    "published": "2022-12-11T00:11:27+00:00",
+    "wm-source": "https://brid.gy/repost/twitter/bascht/1593716387020771330/1601731351577001984",
+    "wm-target": "https://bascht.com/posts/2022/11/18/if-elonmusk-wants-to-experience-an-ext/",
+    "wm-private": false,
+    "in-reply-to": null,
+    "wm-property": "repost-of",
+    "wm-received": "2022-12-11T04:21:38Z"
+  },
+  "secret": null,
+  "source": "https://brid.gy/repost/twitter/bascht/1593716387020771330/1601731351577001984",
+  "target": "https://bascht.com/posts/2022/11/18/if-elonmusk-wants-to-experience-an-ext/",
+  "private": false
+}
