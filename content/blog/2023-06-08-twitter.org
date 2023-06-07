@@ -1,0 +1,23 @@
+#+title: Twitter
+#+teaser:
+#+draft: false
+#+date: 2023-06-08 00:25:00+02:00
+#+tags[]: twitter delete social mastodon
+#+language: de
+
+#+Attr_HTML: :alt Twitter deletion :autoplay true :loop true :muted true :playsinline true
+[[file:https://img.bascht.com/2023-blog/06-twitter/twitter-ids.webm]]
+
+
+Während Python die letzten zu löschenden Twitter status ids vor sich hin loggt, bleiben noch ein paar Minuten für diesen Post. Nach [[https://bascht.com/blog/2020/11/13/instafedup/][Instagram]] nuke ich also nun Twitter.
+So richtig aktiv war ich dort nicht mehr, seit Mastodon vernünftig mehrsprachige Posts auszeichnen kann.
+
+Folgen könnt ihr mir weiterhin auf [[/posts/mastodon][Mastodon]] oder per [[/posts][RSS]].
+Und solange der Free API Tier noch für MAKE funktioniert, gibt es cross-posts auf [[https://twitter.com/baschtdotcom][@baschtdotcom]].
+
+Ca. 15 Jahre Twitter-Archiv konnte ich noch herunterladen - die Dinge landen dann bald auf [[/posts/twitter]].
+
+Auf einer Plattform die Tucker Carlson, Matt Walsh & co hofiert, muss ich nicht sein.
+
+Fuck Elon Musk.
+
