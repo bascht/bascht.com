@@ -1,5 +1,5 @@
 #+title: Twitter
-#+teaser:
+#+teaser: Ich habe meine Tweets gelöscht.
 #+draft: false
 #+date: 2023-06-08 00:25:00+02:00
 #+tags[]: twitter delete social mastodon
@@ -9,7 +9,7 @@
 [[file:https://img.bascht.com/2023-blog/06-twitter/twitter-ids.webm]]
 
 
-Während Python die letzten zu löschenden Twitter status ids vor sich hin loggt, bleiben noch ein paar Minuten für diesen Post. Nach [[https://bascht.com/blog/2020/11/13/instafedup/][Instagram]] nuke ich also nun Twitter.
+Während [[/tech/2023/06/08/delete-your-tweets/][Python]] die letzten zu löschenden Twitter status ids vor sich hin loggt, bleiben noch ein paar Minuten für diesen Post. Nach [[https://bascht.com/blog/2020/11/13/instafedup/][Instagram]] nuke ich also nun Twitter.
 So richtig aktiv war ich dort nicht mehr, seit Mastodon vernünftig mehrsprachige Posts auszeichnen kann.
 
 Folgen könnt ihr mir weiterhin auf [[/posts/mastodon][Mastodon]] oder per [[/posts][RSS]].
