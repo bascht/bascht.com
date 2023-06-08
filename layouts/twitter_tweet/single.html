@@ -15,6 +15,9 @@
           {{ else }}
           <blockquote class="twitter-tweet">
               <p lang="de" dir="ltr">{{ .Params.text | markdownify }}</p>
+              {{ if .Params.quote_url }}
+              ➦ <a href="{{ .Params.quote_url }}">{{ .Params.quote_url }}</a>
+              {{ end }}
           </blockquote>
           {{ end }}
       </div>

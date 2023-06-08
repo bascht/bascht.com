@@ -1,0 +1,54 @@
+#+title: Delete Your Tweets
+#+teaser:
+#+date: 2023-06-08T10:26:36+02:00
+#+tags[]: tech twitter tweets python
+#+language: en
+
+So here's how I [[blog/2023/06/08/twitter/][got rid of my Tweets]]: First step was to download my full Twitter archive, which gives you a list of all your Tweets in a condensed JavaScript file called =tweets.js=. To make it readable from our python script, remove the first line of JavaScript to turn the whole file into a JSON array:
+
+#+BEGIN_SRC javascript
+window.YTD.tweets.part0 = [
+  {
+    "tweet" : {
+      "edit_info" : {
+          …
+#+END_SRC
+
+turns into
+#+BEGIN_SRC json
+[
+  {
+    "tweet" : {
+      "edit_info" : {
+          …
+#+END_SRC
+
+Now we can get down to business and iterate over the file to get all the Tweet ids. Use the [[https://github.com/tweepy/tweepy][tweepy]] library to talk to the old Twitter v1 API and delete your Tweets in Batch:
+
+#+BEGIN_SRC python
+import tweepy
+import json
+
+# Generate those tokens at:
+# https://developer.twitter.com/en/portal/projects-and-apps
+consumer_key = "…"
+consumer_secret = "…"
+access_token = "…"
+access_token_secret = "…"
+
+auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret, access_token, access_token_secret)
+api = tweepy.API(auth)
+
+with open("<path-to-your-twitter-archive>/data/tweets.js", 'r') as file:
+  data = json.load(file)
+
+  for tweet in reversed(data):
+    if 'id' in tweet['tweet']:
+        print(tweet['tweet']['id'])
+        try:
+            api.destroy_status(tweet['tweet']['id'])
+        except tweepy.errors.NotFound:
+            print("Tweet no longer exists")
+#+END_SRC
+
+And that should be it. Fuck Twitter.
