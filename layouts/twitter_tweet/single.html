@@ -23,10 +23,20 @@
       </div>
       <div class="post-meta">
         <a rel="author" class="p-author hidden h-card" href="https://bascht.com">Bascht</a>
-        <a class="u-syndication" href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</a>&middot;
+
+        <details style="display:inline">
+<summary><span class="u-syndication" href="{{ default .Params.original_url .Params.src }}">{{partial "social_logo" . }}</span></summary>
+<p>
+  <div class="twitter-disclaimer"><strong>Hinweis:</strong> Dieser Tweet war ursprünglich unter {{ default .Params.original_url .Params.src }} erreichbar. Im Juni 2023 habe ich <a href="/blog/2023/06/08/twitter/">alle Tweets auf Twitter.com gelöscht</a> – die Links zurück zur Quelle führen daher auf eine 404 Seite.</div>
+</p>
+</details>
+
+
+        &middot;
         <a class="u-url" href="{{ .Permalink }}"><time class="dt-published" datetime="{{.Date.Format "2006-01-02" }}">{{.Date.Format "2006-01-02" }}</time></a>&middot;
         {{ partial "tags.html" . }}
         <div><a href="/posts/twitter/">/posts/twitter/</a></div>
+
       </div>
       {{ partial "webmentions.html" . }}
       {{ $related := .Site.RegularPages.Related . | first 5 }}
