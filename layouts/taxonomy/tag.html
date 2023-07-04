@@ -2,11 +2,25 @@
 <body>
     {{ partial "navbar.html" . }}
     <div class="main wrapper clearfix">
-        {{ range .Data.Pages }}
-        <li>
-            <a href="{{.RelPermalink}}">{{ .Type }}: {{ .Title }}</a>
-        </li>
+
+        <h1>Tag-Übersicht <code>{{.Title}}</code></h1>
+
+        <div class="h-feed">
+        <div class="stream">
+        {{ $paginator := .Paginate ( .Data.Pages.GroupByDate "2 Jan 2006")  90}}
+        <div class="h-feed">
+        {{ range $paginator.PageGroups }}
+        <h2>{{ .Key }}</h2>
+        <div class="stream">
+        {{ range .ByDate.Reverse }}
+        {{ .Render "stream-summary" }}
         {{ end }}
+        </div>
+        {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
+        </div>
+        </div>
     </div>
     {{ partial "footer.html" . }}
 </body>
