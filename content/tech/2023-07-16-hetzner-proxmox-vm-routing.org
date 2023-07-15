@@ -1,0 +1,31 @@
+#+title: Routing packets from a Proxmox VM back to itself
+#+teaser: Most Proxmox tutorials seem to skip this bit
+#+date: 2023-07-16T01:07:29+02:00
+#+tags[]: tech hetzner proxmox linux lxc routing
+#+language: en
+
+I recently set up a Hetzner bare metal host to share a few services with friends. The apps themself run in isolated LXC containers on a Proxmox host.
+
+Most [[https://community.hetzner.com/tutorials/install-and-configure-proxmox_ve][Tutorials]] will get you far enough to to run your apps in a VM and forward traffic (usually =tcp/80= and =tcp/443=) via =iptables=. If your public IPv4 address is =1.2.3.4= and your VM is =192.168.1.1= then you will have added a rule like:
+
+#+begin_src bash
+-t nat -A PREROUTING -i <your-interface>
+-p tcp -d '1.2.3.4/32'
+--dport 443 -j DNAT
+--to-destination 192.168.1.1:443
+#+end_src
+
+which will work fine … until you want to access a service running on one of the NAT'ed VMs, **from** the VM itself. :scream:
+
+In my case - I wanted to set up a [[https://statping-ng.github.io][Statping-ng instance]] (that's now public at http://ping.bascht.space by the way) - that monitors other services on adjacent VMs.
+
+Above prerouting rule will only apply to packets *entering* the machine on said interface. To route packages from the machine itself, you will need to add an **OUTPUT** rule almost identical to the existing ones. In my case:
+
+#+begin_src bash
+-t nat -A OUTPUT
+-p tcp --dst '1.2.3.4/32'
+--dport 443 -j DNAT
+--to-destination 192.168.1.1:443
+#+end_src
+
+And voila - packets flow. :tada:
